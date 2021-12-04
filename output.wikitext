@@ -1,0 +1,847 @@
+{| class="wikitable sortable"
+!제목
+!작사
+!작곡
+!편곡
+!MV
+|-
+|Tell Your World
+|kz
+|kz
+|kz
+|3DMV
+|-
+|ネクストネスト
+|사츠키 가 텐코모리
+|사츠키 가 텐코모리
+|
+|
+|-
+|メルト
+|ryo
+|ryo
+|ryo
+|
+|-
+|初音ミクの消失
+|cosMo@폭주P
+|cosMo@폭주P
+|
+|
+|-
+|Blessing
+|halyosy
+|halyosy
+|
+|원곡MV
+|-
+|alive
+|이치노세 루포
+|이치노세 루포
+|
+|
+|-
+|ロキ
+|미키토P
+|미키토P
+|미키토P
+|3DMV
+|-
+|テオ
+|Sakurai
+|Omoi
+|Omoi
+|3DMV
+|-
+|ヒバナ -Reloaded-
+|DECO*27
+|DECO*27
+|Rockwell
+|2DMV
+|-
+|ハッピーシンセサイザ
+|EasyPop
+|EasyPop
+|
+|3DMV 2DMV
+|-
+|Nostalogic
+|yuukiss
+|yuukiss
+|
+|2DMV
+|-
+|ツギハギスタッカート
+|토아
+|토아
+|토아
+|3DMV
+|-
+|劣等上等
+|Reol
+|Giga
+|Giga
+|3DMV
+|-
+|ドクター=ファンクビート
+|nyanyannya
+|nyanyannya
+|
+|
+|-
+|フラジール
+|누유리
+|누유리
+|누유리
+|3DMV 2DMV
+|-
+|ブリキノダンス
+|히나타 전공
+|히나타 전공
+|히나타 전공
+|3DMV
+|-
+|スイートマジック
+|Junky
+|Junky
+|
+|3DMV
+|-
+|ぼうけんのしょがきえました！
+|지저스
+|지저스
+| 원더풀☆오퍼튜니티!
+|원곡MV
+|-
+|シャルル
+|벌룬
+|벌룬
+|벌룬
+|3DMV
+|-
+|ハロ／ハワユ
+|나노우
+|나노우
+|
+|
+|-
+|自傷無色
+|사사노멀리
+|사사노멀리
+|
+|3DMV 2DMV
+|-
+|needLe
+|DECO*27
+|DECO*27
+|Rockwell
+|3DMV
+|-
+|アイドル新鋭隊
+|Mitchie M
+|Mitchie M
+|Mitchie M
+|3DMV
+|-
+|Ready Steady
+|q*Left
+|Giga
+|Giga
+|3DMV
+|-
+|セカイはまだ始まってすらいない
+|피노키오피
+|피노키오피
+|피노키오피
+|3DMV
+|-
+|悔やむと書いてミライ
+|마후마후
+|마후마후
+|마후마후
+|3DMV
+|-
+|セカイ
+|DECO*27
+|호리에 쇼타 (kemu)
+|Rockwell
+|3DMV
+|-
+|ワーワーワールド
+|Mitchie M
+|Giga & Mitchie M
+|Giga
+|3DMV
+|-
+|アスノヨゾラ哨戒班
+|Orangestar
+|Orangestar
+|Rockwell
+|원곡MV
+|-
+|ニア
+|나츠시로 타카아키
+|나츠시로 타카아키
+|와타나베 타쿠야
+|3DMV
+|-
+|Just Be Friends
+|Dixie Flatline
+|Dixie Flatline
+|
+|2DMV
+|-
+|脱法ロック
+|Neru
+|Neru
+|
+|원곡MV
+|-
+|命に嫌われている
+|칸자키 이오리
+|칸자키 이오리
+|칸자키 이오리
+|2DMV
+|-
+|ワールドイズマイン
+|ryo
+|ryo
+|ryo
+|
+|-
+|ダンスロボットダンス
+|나유탄 성인
+|나유탄 성인
+|나유탄 성인
+|3DMV
+|-
+|Hand in Hand
+|kz
+|kz
+|kz
+|원곡MV
+|-
+|夜咄ディセイブ
+|진
+|진
+|진
+|원곡MV
+|-
+|Gimme×Gimme
+|q*Left
+|하치오지P / Giga
+|하치오지P / Giga
+|
+|-
+|ビバハピ
+|Mitchie M
+|Mitchie M
+|Mitchie M
+|2DMV
+|-
+|ジャンキーナイトタウンオーケストラ
+|스리이
+|스리이
+|
+|
+|-
+|ミラクルペイント
+|OSTER project
+|OSTER project
+|OSTER project
+|원곡MV 2DMV
+|-
+|on the rocks
+|OSTER project
+|OSTER project
+|OSTER project
+|
+|-
+|携帯恋話
+|마후마후
+|마후마후
+|마후마후
+|2DMV
+|-
+|39みゅーじっく！
+|미키토P
+|미키토P
+|
+|원곡MV
+|-
+|青く駆けろ！
+|마라시
+|마라시
+|
+|
+|-
+|ステラ
+|진
+|진
+|
+|3DMV
+|-
+|Leia - Remind
+|유요윳페
+|유요윳페
+|유요윳페
+|
+|-
+|ジャックポットサッドガール
+|syudou
+|syudou
+|syudou
+|원곡MV 2DMV
+|-
+|メルティランドナイトメア
+|하루마키고항
+|하루마키고항
+|하루마키고항
+|3DMV
+|-
+|乙女解剖
+|DECO*27
+|DECO*27
+|emon(Tes.) & Rockwell
+|원곡MV
+|-
+|potatoになっていく
+|Neru
+|Neru
+|Neru
+|3DMV
+|-
+|ローリンガール
+|wowaka
+|wowaka
+|wowaka
+|
+|-
+|モア！ジャンプ！モア！
+|나유탄 성인
+|나유탄 성인
+|나유탄 성인
+|2DMV
+|-
+|裏表ラバーズ
+|wowaka
+|wowaka
+|wowaka
+|
+|-
+|アンノウン・マザーグース
+|wowaka
+|wowaka
+|wowaka
+|
+|-
+|愛されなくても君がいる
+|피노키오피
+|피노키오피
+|피노키오피
+|원곡MV
+|-
+|ウミユリ海底譚
+|n-buna
+|n-buna
+|n-buna
+|3DMV
+|-
+|Forward
+|R Sound Design
+|R Sound Design
+|R Sound Design
+|3DMV
+|-
+|独りんぼエンヴィー
+|koyori
+|koyori
+|koyori
+|3DMV
+|-
+|ニジイロストーリーズ
+|OSTER project
+|OSTER project
+|OSTER project
+|2DMV
+|-
+|ODDS＆ENDS
+|ryo
+|ryo
+|ryo
+|
+|-
+|ドラマツルギー
+|Eve
+|Eve
+|Numa
+|원곡MV
+|-
+|グリーンライツ・セレナーデ
+|Sakurai
+|Omoi
+|Omoi
+|원곡MV
+|-
+|恋愛裁判
+|40mP
+|40mP
+|40mP
+|원곡MV 2DMV
+|-
+|＊ハロー、プラネット。
+|sasakure.UK
+|sasakure.UK
+|sasakure.UK
+|원곡MV
+|-
+|千本桜
+|쿠로우사
+|쿠로우사
+|쿠로우사
+|
+|-
+|ECHO
+|Crusher P
+|Crusher P
+|
+|2DMV
+|-
+|チュルリラ・チュルリラ・ダッダッダ！
+|와다 타테아키 (쿠라게P)
+|와다 타테아키 (쿠라게P)
+|와다 타테아키 (쿠라게P)
+|3DMV
+|-
+|ブレス・ユア・ブレス
+|와다 타테아키
+|와다 타테아키
+|와다 타테아키
+|원곡MV
+|-
+|とても痛い痛がりたい
+|EZFG
+|EZFG
+|EZFG
+|
+|-
+|霽れを待つ
+|Orangestar
+|Orangestar
+|Orangestar
+|2DMV
+|-
+|ワールズエンド・ダンスホール
+|wowaka
+|wowaka
+|wowaka
+|
+|-
+|ヒビカセ
+|레오루
+|기가
+|기가
+|원곡MV
+|-
+|Color of Drops
+|40mP
+|40mP
+|40mP
+|3DMV
+|-
+|RAD DOGS
+|q*Left
+|하치오지P
+|하치오지P
+|2DMV
+|-
+|ミルククラウン・オン・ソーネチカ
+|유지
+|유지
+|유지
+|
+|-
+|タイムマシン
+|164
+|40mP
+|1640mP
+|3DMV 2DMV
+|-
+|drop pop candy
+|레오루
+|기가
+|기가
+|3DMV
+|-
+|ポジティブ☆ダンスタイム
+|키노시타
+|키노시타
+|키노시타
+|2DMV
+|-
+|Brand New Day
+|이루카아이스
+|이루카아이스
+|이루카아이스
+|
+|-
+|限りなく灰色へ
+|스리이
+|스리이
+|스리이
+|3DMV
+|-
+|ワンスアポンアドリーム
+|YASUHIRO(야스히로)
+|YASUHIRO(야스히로)
+|YASUHIRO(야스히로)
+|2DMV
+|-
+|ボッカデラベリタ
+|히이라기 키라이
+|히이라기 키라이
+|히이라기 키라이
+|2DMV
+|-
+|みくみくにしてあげる♪【してやんよ】
+|ika_mo
+|ika_mo
+|ika_mo
+|
+|-
+|威風堂々
+|우메토라
+|우메토라
+|우메토라
+|3DMV
+|-
+|from Y to Y
+|지미섬P
+|지미섬P
+|
+|
+|-
+|初音ミクの激唱
+|GAiA
+|cosMo@폭주P
+|cosMo@폭주P
+|
+|-
+|天使のクローバー
+|DIVELA
+|DIVELA
+|DIVELA
+|3DMV
+|-
+|お気に召すまま
+|Eve
+|Eve
+|Numa
+|3DMV
+|-
+|どりーみんチュチュ
+|emon(Tes.)
+|emon(Tes.)
+|emon(Tes.)
+|원곡MV
+|-
+|アイディスマイル
+|토아
+|토아
+|토아
+|3DMV
+|-
+|「１」
+|164
+|164
+|164
+|2DMV
+|-
+|花を唄う
+|시노
+|시노
+|시노
+|
+|-
+|夜に駆ける
+|Ayase
+|Ayase
+|Ayase
+|
+|-
+|幽霊東京
+|Ayase
+|Ayase
+|Ayase
+|
+|-
+|シネマ
+|Ayase
+|Ayase
+|Ayase
+|3DMV 2DMV
+|-
+|KING
+|Kanaria
+|Kanaria
+|
+|
+|-
+|アイノマテリアル
+|Junky
+|Junky
+|Junky
+|2DMV
+|-
+|いかないで
+|소타
+|소타
+|
+|3DMV
+|-
+|ロミオとシンデレラ
+|doriko
+|doriko
+|doriko
+|3DMV
+|-
+|泡沫未来
+|카가(네기샤워P)
+|카가(네기샤워P)
+|카가(네기샤워P)
+|
+|-
+|トンデモワンダーズ
+|sasakure.UK
+|sasakure.UK
+|sasakure.UK (Key 키시다 유우키 (UK램피지))
+|3DMV
+|-
+|カナデトモスソラ
+|Sasanomaly
+|Sasanomaly
+|Sasanomaly
+|2DMV
+|-
+|トラフィック・ジャム
+|니루 카지츠
+|니루 카지츠
+|니루 카지츠
+|원곡MV
+|-
+|フロムトーキョー
+|나츠시로 타카아키
+|나츠시로 타카아키・와타나베 타쿠야
+|와타나베 타쿠야
+|3DMV
+|-
+|Beat Eater
+|폴리스 피카딜리
+|폴리스 피카딜리
+|폴리스 피카딜리
+|2DMV
+|-
+|六兆年と一夜物語
+|kemu
+|kemu
+|kemu
+|2DMV
+|-
+|地球最後の告白を
+|kemu
+|kemu
+|kemu
+|2DMV
+|-
+|ビターチョコデコレーション
+|syudou
+|syudou
+|syudou
+|3DMV
+|-
+|そうだった！！
+|타케노코 소년
+|타케노코 소년
+|타케노코 소년
+|
+|-
+|カゲロウデイズ
+|진
+|진
+|진
+|
+|-
+|アイスドロップ
+|aqu3ra
+|aqu3ra
+|aqu3ra
+|3DMV
+|-
+|Glory Steady Go!
+|키노시타
+|키노시타
+|키노시타
+|2DMV
+|-
+|チルドレンレコード
+|진
+|진
+|진
+|3DMV
+|-
+|magic number
+|이토 켄토
+|이토 켄토
+|OSTER project
+|2DMV
+|-
+|流星のパルス
+|*Luna
+|*Luna
+|*Luna
+|2DMV
+|-
+|カトラリー
+|유기산
+|유기산
+|유기산
+|원곡MV
+|-
+|再生
+|Picon
+|Picon
+|Picon
+|3DMV
+|-
+|群青讃歌
+|Eve
+|Eve
+|Numa
+|3DMV
+|-
+|炉心融解
+|kuma(alfred)
+|iroha(sasaki)
+|
+|
+|-
+|ロストワンの号哭
+|Neru
+|Neru
+|
+|3DMV
+|-
+|マシンガンポエムドール
+|cosMo@폭주P
+|cosMo@폭주P
+|cosMo@폭주P
+|
+|-
+|ベノム
+|카이리키베어
+|카이리키베어
+|
+|
+|-
+|拝啓ドッペルゲンガー
+|kemu
+|kemu
+|kemu
+|
+|-
+|テレキャスタービーボーイ
+|스리이
+|스리이
+|스리이
+|원곡MV
+|-
+|トキヲ・ファンカ
+|takamatt
+|takamatt
+|takamatt
+|원곡MV
+|-
+|悪魔の踊り方
+|키타니 타츠야
+|키타니 타츠야
+|
+|3DMV
+|-
+|だれかの心臓になれたなら
+|유리이・카논
+|유리이・카논
+|유리이・카논
+|원곡MV
+|-
+|マシュマリー
+|MIMI
+|MIMI
+|MIMI
+|
+|-
+|右肩の蝶
+|미즈노 유라
+|노리피
+|노리피
+|
+|-
+|ray
+|후지와라 모토오
+|후지와라 모토오
+|
+|3DMV 2DMV
+|-
+|Hello,world!
+|후지와라 모토오
+|후지와라 모토오
+|
+|2DMV
+|-
+|しっくおぶはうす！
+|오존
+|오존
+|오존
+|
+|-
+|ショウタイム・ルーラー
+|카라스야사보오
+|카라스야사보오
+|카라스야사보오
+|3DMV
+|-
+|Happy Halloween
+|Junky
+|Junky
+|Junky
+|원곡MV
+|-
+|ロウワー
+|누유리
+|누유리
+|누유리
+|2DMV
+|-
+|初音天地開闢神話
+|cosMo@폭주P
+|cosMo@폭주P
+|cosMo@폭주P
+|원곡MV
+|-
+|オルターエゴ
+|Misumi
+|Misumi
+|Misumi
+|
+|-
+|STAGE OF SEKAI
+|하리하라 츠바사 (하리P)
+|하리하라 츠바사 (하리P)
+|타나하시 EDDY 테루아키
+|3DMV
+|-
+|からくりピエロ
+|40mP
+|40mP
+|40mP
+|3DMV
+|}
