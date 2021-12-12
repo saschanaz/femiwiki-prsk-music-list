@@ -46,7 +46,8 @@ function convertAsWikimediaTableRow(item) {
     `|${translateArtist(item.lyricist)}\n` + // 작사
     `|${translateArtist(item.composer)}\n` + // 작곡
     `|${item.arranger === "-" ? "" : translateArtist(item.arranger)}\n` + // 편곡
-    `|${stringifyCategories(item.categories)}\n`
+    `|${stringifyCategories(item.categories)}\n` +
+    `|${dateTimeFormat.format(item.publishedAt)}\n`
   );
 }
 
@@ -59,6 +60,8 @@ const artistTranslation = JSON.parse(
 );
 musics.sort(sorter);
 
+const dateTimeFormat = Intl.DateTimeFormat('ko-kr', { dateStyle: 'long' });
+
 await Deno.writeTextFile(
   "./output.wikitext",
   `{| class="wikitable sortable"
@@ -67,5 +70,6 @@ await Deno.writeTextFile(
 !작곡
 !편곡
 !MV
-${musics.map(convertAsWikimediaTableRow).join("")}|}`
+!추가일
+${musics.map(convertAsWikimediaTableRow).join("")}|}\n`
 );
