@@ -39,10 +39,15 @@ function stringifyCategories(categories) {
     .join(" ");
 }
 
+function mapEnglishTitle(assetbundleName) {
+  return musicsEn.find((music) => music.assetbundleName === assetbundleName)?.title || "";
+}
+
 function convertAsWikimediaTableRow(item) {
   return (
     `|-\n` +
     `|${item.title}\n` + // 원제
+    `|${mapEnglishTitle(item.assetbundleName)}\n` + // 영문제목
     `|${translateArtist(item.lyricist)}\n` + // 작사
     `|${translateArtist(item.composer)}\n` + // 작곡
     `|${item.arranger === "-" ? "" : translateArtist(item.arranger)}\n` + // 편곡
@@ -55,6 +60,10 @@ function convertAsWikimediaTableRow(item) {
 const musics = JSON.parse(
   await Deno.readTextFile("./sekai-master-db-diff/musics.json")
 );
+/** @type {*[]} */
+const musicsEn = JSON.parse(
+  await Deno.readTextFile("./sekai-master-db-en-diff/musics.json")
+);
 const artistTranslation = JSON.parse(
   await Deno.readTextFile("./artist-translation.json")
 );
@@ -66,6 +75,7 @@ await Deno.writeTextFile(
   "./output.wikitext",
   `{| class="wikitable sortable"
 !제목
+!영문제목
 !작사
 !작곡
 !편곡
