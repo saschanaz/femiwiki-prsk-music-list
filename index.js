@@ -1,3 +1,7 @@
+import musics from "./sekai-master-db-diff/musics.json" assert { type: "json" };
+import musicsEn from "./sekai-master-db-en-diff/musics.json" assert { type: "json" };
+import artistTranslation from "./artist-translation.json" assert { type: "json" };
+
 function sorter(a, b) {
   const byPublishedAt = a.publishedAt - b.publishedAt;
   if (byPublishedAt !== 0) {
@@ -56,17 +60,6 @@ function convertAsWikimediaTableRow(item) {
   );
 }
 
-/** @type {*[]} */
-const musics = JSON.parse(
-  await Deno.readTextFile("./sekai-master-db-diff/musics.json")
-);
-/** @type {*[]} */
-const musicsEn = JSON.parse(
-  await Deno.readTextFile("./sekai-master-db-en-diff/musics.json")
-);
-const artistTranslation = JSON.parse(
-  await Deno.readTextFile("./artist-translation.json")
-);
 musics.sort(sorter);
 
 const dateTimeFormat = Intl.DateTimeFormat('ko-kr', { dateStyle: 'long' });
