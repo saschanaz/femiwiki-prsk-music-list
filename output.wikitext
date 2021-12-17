@@ -344,7 +344,7 @@
 |2020년 10월 14일
 |-
 |携帯恋話
-|
+|Cellphone Love Story
 |마후마후
 |마후마후
 |마후마후
@@ -352,7 +352,7 @@
 |2020년 10월 15일
 |-
 |39みゅーじっく！
-|
+|39Music!
 |미키토P
 |미키토P
 |
@@ -360,7 +360,7 @@
 |2020년 10월 16일
 |-
 |青く駆けろ！
-|
+|Aoku Kakero!
 |마라시
 |마라시
 |
@@ -376,7 +376,7 @@
 |2020년 10월 18일
 |-
 |Leia - Remind
-|
+|Leia - Remind
 |유요윳페
 |유요윳페
 |유요윳페
@@ -400,7 +400,7 @@
 |2020년 10월 25일
 |-
 |乙女解剖
-|
+|Otome Dissection
 |DECO*27
 |DECO*27
 |emon(Tes.) & Rockwell
@@ -408,7 +408,7 @@
 |2020년 11월 1일
 |-
 |potatoになっていく
-|
+|Becoming Potatoes
 |Neru
 |Neru
 |Neru
@@ -416,7 +416,7 @@
 |2020년 11월 7일
 |-
 |ローリンガール
-|
+|Rollin Girl
 |wowaka
 |wowaka
 |wowaka
@@ -456,7 +456,7 @@
 |2020년 11월 30일
 |-
 |ウミユリ海底譚
-|
+|Tale of the Deep-sea Lily
 |n-buna
 |n-buna
 |n-buna
@@ -464,7 +464,7 @@
 |2020년 12월 1일
 |-
 |Forward
-|
+|Forward
 |R Sound Design
 |R Sound Design
 |R Sound Design
@@ -472,7 +472,7 @@
 |2020년 12월 8일
 |-
 |独りんぼエンヴィー
-|
+|Hitorinbo Envy
 |koyori
 |koyori
 |koyori
@@ -488,7 +488,7 @@
 |2020년 12월 20일
 |-
 |ODDS＆ENDS
-|
+|ODDS&ENDS
 |ryo
 |ryo
 |ryo
@@ -496,7 +496,7 @@
 |2020년 12월 24일
 |-
 |ドラマツルギー
-|
+|Dramaturgy
 |Eve
 |Eve
 |Numa
@@ -504,7 +504,7 @@
 |2020년 12월 28일
 |-
 |グリーンライツ・セレナーデ
-|
+|Greenlights Serenade
 |Sakurai
 |Omoi
 |Omoi
@@ -512,7 +512,7 @@
 |2020년 12월 29일
 |-
 |恋愛裁判
-|
+|Love Trial
 |40mP
 |40mP
 |40mP
@@ -520,7 +520,7 @@
 |2020년 12월 30일
 |-
 |＊ハロー、プラネット。
-|
+|*Hello, Planet
 |sasakure.UK
 |sasakure.UK
 |sasakure.UK
@@ -528,7 +528,7 @@
 |2020년 12월 31일
 |-
 |千本桜
-|
+|Senbonzakura
 |쿠로우사
 |쿠로우사
 |쿠로우사
@@ -536,7 +536,7 @@
 |2021년 1월 1일
 |-
 |ECHO
-|
+|ECHO
 |Crusher P
 |Crusher P
 |
@@ -544,7 +544,7 @@
 |2021년 1월 2일
 |-
 |チュルリラ・チュルリラ・ダッダッダ！
-|
+|Chururira Chururira Daddadda!
 |와다 타테아키 (쿠라게P)
 |와다 타테아키 (쿠라게P)
 |와다 타테아키 (쿠라게P)
@@ -552,7 +552,7 @@
 |2021년 1월 3일
 |-
 |ブレス・ユア・ブレス
-|
+|Bless Your Breath
 |와다 타테아키
 |와다 타테아키
 |와다 타테아키
@@ -560,7 +560,7 @@
 |2021년 1월 4일
 |-
 |とても痛い痛がりたい
-|
+|Totemoitai Itagaritai
 |EZFG
 |EZFG
 |EZFG
@@ -584,7 +584,7 @@
 |2021년 1월 14일
 |-
 |ヒビカセ
-|
+|Hibikase
 |레오루
 |기가
 |기가
@@ -696,7 +696,7 @@
 |2021년 3월 22일
 |-
 |初音ミクの激唱
-|
+|The Intense Voice of Hatsune Miku
 |GAiA
 |cosMo@폭주P
 |cosMo@폭주P
