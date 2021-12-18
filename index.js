@@ -1,6 +1,7 @@
 import musics from "./sekai-master-db-diff/musics.json" assert { type: "json" };
 import musicsEn from "./sekai-master-db-en-diff/musics.json" assert { type: "json" };
 import artistTranslation from "./artist-translation.json" assert { type: "json" };
+import manualMetadata from "./manual-metadata.json" assert { type: "json" };
 
 function sorter(a, b) {
   const byPublishedAt = a.publishedAt - b.publishedAt;
@@ -43,6 +44,17 @@ function stringifyCategories(categories) {
     .join(" ");
 }
 
+function translateTitle(title) {
+  if (title.match(/^[\x20-\x7F]*$/)) {
+    return title;
+  }
+  const translated = manualMetadata[title]?.titleKo;
+  if (!translated) {
+    throw new Error(`No translation for title "${title}"`);
+  }
+  return translated;
+}
+
 function mapEnglishTitle(assetbundleName) {
   return musicsEn.find((music) => music.assetbundleName === assetbundleName)?.title || "";
 }
@@ -50,6 +62,7 @@ function mapEnglishTitle(assetbundleName) {
 function convertAsWikimediaTableRow(item) {
   return (
     `|-\n` +
+    `|${translateTitle(item.title)}\n` + // 제목
     `|${item.title}\n` + // 원제
     `|${mapEnglishTitle(item.assetbundleName)}\n` + // 영문제목
     `|${translateArtist(item.lyricist)}\n` + // 작사
@@ -68,6 +81,7 @@ await Deno.writeTextFile(
   "./output.wikitext",
   `{| class="wikitable sortable"
 !제목
+!원제
 !영문제목
 !작사
 !작곡

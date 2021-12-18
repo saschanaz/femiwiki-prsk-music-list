@@ -10,4 +10,5 @@ await client.login("사샤나즈", config.lgname, config.lgpassword);
 await client.edit({
   pageid: PAGE_ID,
   text: await Deno.readTextFile("./output.wikitext"),
+  bot: true,
 });
