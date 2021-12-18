@@ -73,9 +73,7 @@ function maybeTranslateTitle(title) {
 }
 
 function maybeMapEnglishTitle(music) {
-  const mapped = musicsEn.find(
-    (en) => en.id === music.id
-  )?.title;
+  const mapped = musicsEn.find((en) => en.id === music.id)?.title;
   const manual = manualMetadata[music.title]?.titleEn;
   if (mapped) {
     if (manual) {
