@@ -1,146 +1,147 @@
 {
   "Tell Your World": {
     "announcement": "https://twitter.com/pj_sekai/status/1236982237159022595",
-    "releaseDateOverride": "사전공개 2020년 3월 9일"
+    "releaseDateOverride": "2020년 3월 9일 (사전공개)"
   },
   "ネクストネスト": {
     "titleKo": "넥스트 네스트",
     "announcement": "https://twitter.com/pj_sekai/status/1245290941012836360",
-    "releaseDateOverride": "사전공개 2020년 4월 1일"
+    "releaseDateOverride": "2020년 4월 1일 (사전공개)"
   },
   "メルト": {
     "titleKo": "멜트",
     "announcement": "https://twitter.com/pj_sekai/status/1285901004819456000",
-    "releaseDateOverride": "사전공개 2020년 6월 22일"
+    "releaseDateOverride": "2020년 6월 22일 (사전공개)"
   },
   "初音ミクの消失": {
     "titleKo": "하츠네 미쿠의 소실",
     "announcement": "https://twitter.com/pj_sekai/status/1274900221021917185",
-    "releaseDateOverride": "사전공개 2020년 6월 22일"
+    "releaseDateOverride": "2020년 6월 22일 (사전공개)"
   },
   "Blessing": {
     "titleKo": "Blessing",
     "announcement": "https://twitter.com/pj_sekai/status/1236982237159022595",
-    "releaseDateOverride": "사전공개 2020년 3월 9일"
+    "releaseDateOverride": "2020년 3월 9일 (사전공개)"
   },
   "alive": {
     "titleKo": "alive",
     "announcement": "https://twitter.com/pj_sekai/status/1271770690295697408",
-    "releaseDateOverride": "사전공개 2020년 6월 13일"
+    "releaseDateOverride": "2020년 6월 13일 (사전공개)"
   },
   "ロキ": {
     "titleKo": "로키",
     "announcement": "https://twitter.com/pj_sekai/status/1186968196626014208",
-    "releaseDateOverride": "사전공개 2019년 10월 23일"
+    "releaseDateOverride": "2019년 10월 23일 (사전공개)"
   },
   "テオ": {
     "titleKo": "테오",
     "announcement": "https://twitter.com/pj_sekai/status/1240205105200164865",
-    "releaseDateOverride": "사전공개 2020년 3월 18일"
+    "releaseDateOverride": "2020년 3월 18일 (사전공개)"
   },
   "ヒバナ -Reloaded-": {
     "titleKo": "불꽃 -Reloaded-",
     "announcement": "https://twitter.com/pj_sekai/status/1247829575612035074",
-    "releaseDateOverride": "사전공개 2020년 4월 8일"
+    "releaseDateOverride": "2020년 4월 8일 (사전공개)",
+    "mv2d": "https://youtu.be/i16qWEUjd4o"
   },
   "ハッピーシンセサイザ": {
     "titleKo": "해피 신시사이저",
     "announcement": "https://twitter.com/pj_sekai/status/1236982237159022595",
-    "releaseDateOverride": "사전공개 2020년 3월 9일",
+    "releaseDateOverride": "2020년 3월 9일 (사전공개)",
     "mv2d": "https://youtu.be/xD3amnjfxac"
   },
   "Nostalogic": {
     "titleKo": "Nostalogic",
     "announcement": "https://twitter.com/pj_sekai/status/1277799402652852224",
-    "releaseDateOverride": "사전공개 2020년 6월 30일"
+    "releaseDateOverride": "2020년 6월 30일 (사전공개)"
   },
   "ツギハギスタッカート": {
     "titleKo": "누덕누덕 스타카토",
     "announcement": "https://twitter.com/pj_sekai/status/1242753762155876353",
-    "releaseDateOverride": "사전공개 2020년 3월 25일"
+    "releaseDateOverride": "2020년 3월 25일 (사전공개)"
   },
   "劣等上等": {
     "titleKo": "열등상등",
     "announcement": "https://twitter.com/pj_sekai/status/1186968196626014208",
-    "releaseDateOverride": "사전공개 2019년 10월 23일"
+    "releaseDateOverride": "2019년 10월 23일 (사전공개)"
   },
   "ドクター=ファンクビート": {
     "titleKo": "닥터=펑크비트",
     "announcement": "https://twitter.com/pj_sekai/status/1236982237159022595",
-    "releaseDateOverride": "사전공개 2020년 3월 9일"
+    "releaseDateOverride": "2020년 3월 9일 (사전공개)"
   },
   "フラジール": {
     "titleKo": "프래질",
     "announcement": "https://twitter.com/pj_sekai/status/1276116804973150209",
-    "releaseDateOverride": "사전공개 2020년 6월 25일",
+    "releaseDateOverride": "2020년 6월 25일 (사전공개)",
     "mv2d": "https://youtu.be/9kZ6MPqj9Tg",
     "mv3d": "https://youtu.be/WDWgBLrw-Jg"
   },
   "ブリキノダンス": {
     "titleKo": "양철의 댄스",
     "announcement": "https://twitter.com/pj_sekai/status/1272725763146407938",
-    "releaseDateOverride": "사전공개 2020년 6월 16일"
+    "releaseDateOverride": "2020년 6월 16일 (사전공개)"
   },
   "スイートマジック": {
     "titleKo": "스위트 매직",
     "announcement": "https://twitter.com/pj_sekai/status/1186968196626014208",
-    "releaseDateOverride": "사전공개 2019년 10월 23일"
+    "releaseDateOverride": "2019년 10월 23일 (사전공개)"
   },
   "ぼうけんのしょがきえました！": {
     "titleKo": "모험의 서가 사라졌습니다!",
     "announcement": "https://twitter.com/pj_sekai/status/1285900755635859456",
-    "releaseDateOverride": "사전공개 2020년 6월 22일"
+    "releaseDateOverride": "2020년 6월 22일 (사전공개)"
   },
   "シャルル": {
     "titleKo": "샤를",
     "announcement": "https://twitter.com/pj_sekai/status/1285900393776427012",
-    "releaseDateOverride": "사전공개 2020년 6월 22일"
+    "releaseDateOverride": "2020년 6월 22일 (사전공개)"
   },
   "ハロ／ハワユ": {
     "titleKo": "헬로/하와유",
     "announcement": "https://twitter.com/pj_sekai/status/1250363365026758656",
-    "releaseDateOverride": "사전공개 2020년 4월 15일"
+    "releaseDateOverride": "2020년 4월 15일 (사전공개)"
   },
   "自傷無色": {
     "titleKo": "자상무색",
     "announcement": "https://twitter.com/pj_sekai/status/1236982237159022595",
-    "releaseDateOverride": "사전공개 2020년 3월 9일",
+    "releaseDateOverride": "2020년 3월 9일 (사전공개)",
     "mv2d": "https://youtu.be/n7ZmBBf5-7g"
   },
   "needLe": {
     "titleKo": "needLe",
     "announcement": "https://twitter.com/pj_sekai/status/1294201795737092097",
-    "releaseDateOverride": "사전공개 2020년 8월 14일"
+    "releaseDateOverride": "2020년 8월 14일 (사전공개)"
   },
   "アイドル新鋭隊": {
     "titleKo": "아이돌신예대",
     "announcement": "https://twitter.com/pj_sekai/status/1303619491499094016",
-    "releaseDateOverride": "리허설 2020년 9월 9일"
+    "releaseDateOverride": "2020년 9월 9일 (리허설)"
   },
   "Ready Steady": {
     "titleKo": "Ready Steady",
     "announcement": "https://twitter.com/pj_sekai/status/1308694117958918145",
-    "releaseDateOverride": "사전공개 2020년 9월 23일"
+    "releaseDateOverride": "2020년 9월 23일 (사전공개)"
   },
   "セカイはまだ始まってすらいない": {
     "titleKo": "세계는 아직 시작조차 하지 않았어",
     "announcement": "https://twitter.com/pj_sekai/status/1251089432574169088",
-    "releaseDateOverride": "사전공개 2020년 4월 17일"
+    "releaseDateOverride": "2020년 4월 17일 (사전공개)"
   },
   "悔やむと書いてミライ": {
     "titleKo": "후회한다 쓰고 미래",
     "announcement": "https://twitter.com/pj_sekai/status/1252893774419652609",
-    "releaseDateOverride": "사전공개 2020년 4월 22일"
+    "releaseDateOverride": "2020년 4월 22일 (사전공개)"
   },
   "セカイ": {
     "titleKo": "세카이",
     "announcement": "https://twitter.com/pj_sekai/status/1289141373589839872",
-    "releaseDateOverride": "사전공개 2020년 7월 31일"
+    "releaseDateOverride": "2020년 7월 31일 (사전공개)"
   },
   "ワーワーワールド": {
     "titleKo": "워-워-월드",
     "announcement": "https://twitter.com/pj_sekai/status/1290951301698707456",
-    "releaseDateOverride": "사전공개 2020년 8월 5일"
+    "releaseDateOverride": "2020년 8월 5일 (사전공개)"
   },
   "アスノヨゾラ哨戒班": {
     "titleKo": "내일의 밤하늘 초계반",
