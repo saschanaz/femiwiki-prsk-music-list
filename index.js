@@ -55,8 +55,18 @@ function translateTitle(title) {
   return translated;
 }
 
-function mapEnglishTitle(assetbundleName) {
-  return musicsEn.find((music) => music.assetbundleName === assetbundleName)?.title || "";
+function mapEnglishTitle(music) {
+  const mapped = musicsEn.find(
+    (en) => en.assetbundleName === music.assetbundleName
+  )?.title;
+  const manual = manualMetadata[music.title]?.titleEn;
+  if (mapped) {
+    if (manual) {
+      console.warn(`titleEn is ignored for "${music.title}"`);
+    }
+    return mapped;
+  }
+  return manual || "";
 }
 
 function convertAsWikimediaTableRow(item) {
@@ -64,7 +74,7 @@ function convertAsWikimediaTableRow(item) {
     `|-\n` +
     `|${translateTitle(item.title)}\n` + // 제목
     `|${item.title}\n` + // 원제
-    `|${mapEnglishTitle(item.assetbundleName)}\n` + // 영문제목
+    `|${mapEnglishTitle(item)}\n` + // 영문제목
     `|${translateArtist(item.lyricist)}\n` + // 작사
     `|${translateArtist(item.composer)}\n` + // 작곡
     `|${item.arranger === "-" ? "" : translateArtist(item.arranger)}\n` + // 편곡
@@ -75,7 +85,7 @@ function convertAsWikimediaTableRow(item) {
 
 musics.sort(sorter);
 
-const dateTimeFormat = Intl.DateTimeFormat('ko-kr', { dateStyle: 'long' });
+const dateTimeFormat = Intl.DateTimeFormat("ko-kr", { dateStyle: "long" });
 
 await Deno.writeTextFile(
   "./output.wikitext",
