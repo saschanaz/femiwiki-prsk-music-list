@@ -15,15 +15,18 @@ function sorter(a, b) {
  * @param {string} name
  * @returns {string}
  */
-function translateArtist(name) {
+function translateArtistOrAsIs(name) {
+  if (name === "-") {
+    return "";
+  }
   if (name.match(/^[\x20-\x7F]*$/)) {
     return name;
   }
   const translated = artistTranslation[name];
   if (!translated) {
-    throw new Error(`No translation for artist "${name}"`);
+    console.warn(`No translation for artist "${name}"`);
   }
-  return translated;
+  return translated || name;
 }
 
 function stringifyCategories(categories) {
@@ -44,18 +47,18 @@ function stringifyCategories(categories) {
     .join(" ");
 }
 
-function translateTitle(title) {
+function maybeTranslateTitle(title) {
   if (title.match(/^[\x20-\x7F]*$/)) {
     return title;
   }
   const translated = manualMetadata[title]?.titleKo;
   if (!translated) {
-    throw new Error(`No translation for title "${title}"`);
+    console.warn(`No translation for title "${title}"`);
   }
-  return translated;
+  return translated || "";
 }
 
-function mapEnglishTitle(music) {
+function maybeMapEnglishTitle(music) {
   const mapped = musicsEn.find(
     (en) => en.assetbundleName === music.assetbundleName
   )?.title;
@@ -78,12 +81,12 @@ function mapEnglishTitle(music) {
 function convertAsWikimediaTableRow(item) {
   return (
     `|-\n` +
-    `|${translateTitle(item.title)}\n` + // 제목
-    `|${mapEnglishTitle(item)}\n` + // 영문제목
-    `|${translateArtist(item.lyricist)}\n` + // 작사
-    `|${translateArtist(item.composer)}\n` + // 작곡
-    `|${item.arranger === "-" ? "" : translateArtist(item.arranger)}\n` + // 편곡
+    `|${maybeTranslateTitle(item.title)}\n` + // 제목
     `|lang=ja|${item.title}\n` + // 원제
+    `|${maybeMapEnglishTitle(item)}\n` + // 영문제목
+    `|${translateArtistOrAsIs(item.lyricist)}\n` + // 작사
+    `|${translateArtistOrAsIs(item.composer)}\n` + // 작곡
+    `|${translateArtistOrAsIs(item.arranger)}\n` + // 편곡
     `|${stringifyCategories(item.categories)}\n` +
     `|${dateTimeFormat.format(item.publishedAt)}\n`
   );
