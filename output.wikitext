@@ -667,7 +667,7 @@
 |-
 |Color of Drops
 |Color of Drops
-|
+|Color of Drops
 |40mP
 |40mP
 |40mP
@@ -676,7 +676,7 @@
 |-
 |RAD DOGS
 |RAD DOGS
-|
+|RAD DOGS
 |q*Left
 |하치오지P
 |하치오지P
@@ -703,7 +703,7 @@
 |-
 |drop pop candy
 |drop pop candy
-|
+|drop pop candy
 |레오루
 |기가
 |기가
@@ -721,7 +721,7 @@
 |-
 |Brand New Day
 |Brand New Day
-|
+|Brand New Day
 |이루카아이스
 |이루카아이스
 |이루카아이스
@@ -775,7 +775,7 @@
 |-
 |from Y to Y
 |from Y to Y
-|
+|from Y to Y
 |지미섬P
 |지미섬P
 |
@@ -874,7 +874,7 @@
 |-
 |KING
 |KING
-|
+|KING
 |Kanaria
 |Kanaria
 |
@@ -955,7 +955,7 @@
 |-
 |Beat Eater
 |Beat Eater
-|
+|Beat Eater
 |폴리스 피카딜리
 |폴리스 피카딜리
 |폴리스 피카딜리
@@ -1018,7 +1018,7 @@
 |-
 |Glory Steady Go!
 |Glory Steady Go!
-|
+|Glory Steady Go!
 |키노시타
 |키노시타
 |키노시타
@@ -1036,7 +1036,7 @@
 |-
 |magic number
 |magic number
-|
+|magic number
 |이토 켄토
 |이토 켄토
 |OSTER project
@@ -1180,7 +1180,7 @@
 |-
 |ray
 |ray
-|
+|ray
 |후지와라 모토오
 |후지와라 모토오
 |
@@ -1189,7 +1189,7 @@
 |-
 |Hello,world!
 |Hello,world!
-|
+|Hello,world!
 |후지와라 모토오
 |후지와라 모토오
 |
@@ -1216,7 +1216,7 @@
 |-
 |Happy Halloween
 |Happy Halloween
-|
+|Happy Halloween
 |Junky
 |Junky
 |Junky
@@ -1252,7 +1252,7 @@
 |-
 |STAGE OF SEKAI
 |STAGE OF SEKAI
-|
+|STAGE OF SEKAI
 |하리하라 츠바사 (하리P)
 |하리하라 츠바사 (하리P)
 |타나하시 EDDY 테루아키
