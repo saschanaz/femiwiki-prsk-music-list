@@ -3,6 +3,8 @@ import musicsEn from "./sekai-master-db-en-diff/musics.json" assert { type: "jso
 import artistTranslation from "./artist-translation.json" assert { type: "json" };
 import manualMetadata from "./manual-metadata.json" assert { type: "json" };
 
+const KOR_DATE_FORMAT = Intl.DateTimeFormat("ko-kr", { dateStyle: "long" });
+
 function sorter(a, b) {
   const byPublishedAt = a.publishedAt - b.publishedAt;
   if (byPublishedAt !== 0) {
@@ -40,12 +42,17 @@ function stringifyCategories(item) {
         case "mv_2d": {
           const mv2d = manualMetadata[item.title]?.mv2d;
           if (mv2d) {
-            return `[${mv2d} 2DMV]`
+            return `[${mv2d} 2DMV]`;
           }
           return "2DMV";
         }
-        case "mv":
+        case "mv": {
+          const mv3d = manualMetadata[item.title]?.mv3d;
+          if (mv3d) {
+            return `[${mv3d} 3DMV]`;
+          }
           return "3DMV";
+        }
       }
     })
     .filter((i) => i)
@@ -88,13 +95,14 @@ function linkYouTube(url) {
 }
 
 function formatReleaseDate(item) {
-  const { announcement, releaseDateOverride } = manualMetadata[item.title] || {};
+  const { announcement, releaseDateOverride } =
+    manualMetadata[item.title] || {};
   if (manualMetadata[item.title]?.releaseDateOverride) {
-    return `[${announcement} ${releaseDateOverride}]`
+    return `[${announcement} ${releaseDateOverride}]`;
   }
-  const formatted = dateTimeFormat.format(item.publishedAt);
+  const formatted = KOR_DATE_FORMAT.format(item.publishedAt);
   if (announcement) {
-    return `[${announcement} ${formatted}]`
+    return `[${announcement} ${formatted}]`;
   }
   return formatted;
 }
@@ -118,11 +126,11 @@ function convertAsWikimediaTableRow(item) {
 
 musics.sort(sorter);
 
-const dateTimeFormat = Intl.DateTimeFormat("ko-kr", { dateStyle: "long" });
-
 await Deno.writeTextFile(
   "./output.wikitext",
-  `아래 표는 프로세카봇이 자동 생성하였습니다. 수동 편집할 경우 곧 덮어씌워지게 되므로 편집이 필요할 경우 [[사용자:사샤나즈]] 또는 [https://github.com/saschanaz/femiwiki-prsk-music-list/issues 코드 저장소]에 문의해 주세요.
+  `아래 표는 프로세카봇이 자동 생성하였습니다. 수동 편집할 경우 곧 덮어씌워지게 되므로
+편집이 필요할 경우 [[틀토론:프로세카 악곡 목록]] 또는
+[https://github.com/saschanaz/femiwiki-prsk-music-list/issues 코드 저장소]에 문의해 주세요.
 
 <onlyinclude>{| class="wikitable sortable"
 !제목
