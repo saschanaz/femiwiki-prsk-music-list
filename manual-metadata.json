@@ -362,10 +362,13 @@
   },
   "再生": {
     "titleKo": "재생",
-    "titleEn": "Reborn"
+    "titleEn": "Reborn",
+    "vocaloidOnly": "https://youtu.be/purlnb5K_jM"
   },
   "群青讃歌": {
-    "titleKo": "군청찬가"
+    "titleKo": "군청찬가",
+    "titleEn": "Gunjo Sanka",
+    "vocaloidOnly": "https://youtu.be/sgZjbk9eH6g"
   },
   "炉心融解": {
     "titleKo": "노심융해"
@@ -375,7 +378,8 @@
   },
   "マシンガンポエムドール": {
     "titleKo": "머신건 포엠 돌",
-    "titleEn": "Machine Gun Poem Doll"
+    "titleEn": "Machine Gun Poem Doll",
+    "vocaloidOnly": "https://youtu.be/UgZFpO_Y6qo"
   },
   "ベノム": {
     "titleKo": "베놈",
