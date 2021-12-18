@@ -79,11 +79,11 @@ function convertAsWikimediaTableRow(item) {
   return (
     `|-\n` +
     `|${translateTitle(item.title)}\n` + // 제목
-    `|${item.title}\n` + // 원제
     `|${mapEnglishTitle(item)}\n` + // 영문제목
     `|${translateArtist(item.lyricist)}\n` + // 작사
     `|${translateArtist(item.composer)}\n` + // 작곡
     `|${item.arranger === "-" ? "" : translateArtist(item.arranger)}\n` + // 편곡
+    `|lang=ja|${item.title}\n` + // 원제
     `|${stringifyCategories(item.categories)}\n` +
     `|${dateTimeFormat.format(item.publishedAt)}\n`
   );
