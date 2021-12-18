@@ -110,7 +110,9 @@ const dateTimeFormat = Intl.DateTimeFormat("ko-kr", { dateStyle: "long" });
 
 await Deno.writeTextFile(
   "./output.wikitext",
-  `{| class="wikitable sortable"
+  `아래 표는 프로세카봇이 자동 생성하였습니다. 수동 편집할 경우 곧 덮어씌워지게 되므로 편집이 필요할 경우 [[사용자:사샤나즈]] 또는 [https://github.com/saschanaz/femiwiki-prsk-music-list/issues 코드 저장소]에 문의해 주세요.
+
+<onlyinclude>{| class="wikitable sortable"
 !제목
 !원제
 !영문제목
@@ -122,5 +124,5 @@ await Deno.writeTextFile(
 !보컬로이드 버전
 !MV
 !추가일
-${musics.map(convertAsWikimediaTableRow).join("")}|}\n`
+${musics.map(convertAsWikimediaTableRow).join("")}|}</onlyinclude>\n`
 );
