@@ -1,6 +1,8 @@
 import musics from "./sekai-master-db-diff/musics.json" assert { type: "json" };
 import musicsEn from "./sekai-master-db-en-diff/musics.json" assert { type: "json" };
-import artistTranslation from "./artist-translation.json" assert { type: "json" };
+import artistTranslation from "./name-translations/artists.json" assert { type: "json" };
+import illustTranslation from "./name-translations/illustrators.json" assert { type: "json" };
+import movieTranslation from "./name-translations/video-editors.json" assert { type: "json" };
 import manualMetadata from "./manual-metadata.json" assert { type: "json" };
 
 const KOR_DATE_FORMAT = Intl.DateTimeFormat("ko-kr", { dateStyle: "long" });
@@ -17,14 +19,14 @@ function sorter(a, b) {
  * @param {string} name
  * @returns {string}
  */
-function translateArtistOrAsIs(name) {
+function translateArtistOrAsIs(name, from) {
   if (name === "-") {
     return "";
   }
   if (name.match(/^[\x20-\x7F]*$/)) {
     return name;
   }
-  const translated = artistTranslation[name];
+  const translated = from[name];
   if (!translated) {
     console.warn(`No translation for artist "${name}"`);
   }
@@ -113,11 +115,17 @@ function convertAsWikimediaTableRow(item) {
     `|${maybeTranslateTitle(item.title)}\n` + // 제목
     `|lang=ja|${item.title}\n` + // 원제
     `|${maybeMapEnglishTitle(item)}\n` + // 영문제목
-    `|${translateArtistOrAsIs(item.lyricist)}\n` + // 작사
-    `|${translateArtistOrAsIs(item.composer)}\n` + // 작곡
-    `|${translateArtistOrAsIs(item.arranger)}\n` + // 편곡
-    `|${manualMetadata[item.title]?.illust || ""}\n` + // 일러스트
-    `|${manualMetadata[item.title]?.movie || ""}\n` + // 영상
+    `|${translateArtistOrAsIs(item.lyricist, artistTranslation)}\n` + // 작사
+    `|${translateArtistOrAsIs(item.composer, artistTranslation)}\n` + // 작곡
+    `|${translateArtistOrAsIs(item.arranger, artistTranslation)}\n` + // 편곡
+    `|${translateArtistOrAsIs(
+      manualMetadata[item.title]?.illust || "",
+      illustTranslation
+    )}\n` + // 일러스트
+    `|${translateArtistOrAsIs(
+      manualMetadata[item.title]?.movie || "",
+      movieTranslation
+    )}\n` + // 영상
     `|${linkYouTube(manualMetadata[item.title]?.vocaloidOnly)}\n` + // 보컬로이드 버전
     `|${stringifyCategories(item)}\n` +
     `|${formatReleaseDate(item)}\n`

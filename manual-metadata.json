@@ -42,7 +42,8 @@
     "titleKo": "불꽃 -Reloaded-",
     "announcement": "https://twitter.com/pj_sekai/status/1247829575612035074",
     "releaseDateOverride": "2020년 4월 8일 (사전공개)",
-    "mv2d": "https://youtu.be/i16qWEUjd4o"
+    "mv2d": "https://youtu.be/i16qWEUjd4o",
+    "illust": "八三"
   },
   "ハッピーシンセサイザ": {
     "titleKo": "해피 신시사이저",
@@ -53,7 +54,9 @@
   "Nostalogic": {
     "titleKo": "Nostalogic",
     "announcement": "https://twitter.com/pj_sekai/status/1277799402652852224",
-    "releaseDateOverride": "2020년 6월 30일 (사전공개)"
+    "releaseDateOverride": "2020년 6월 30일 (사전공개)",
+    "illust": "anko",
+    "movie": "omu"
   },
   "ツギハギスタッカート": {
     "titleKo": "누덕누덕 스타카토",
@@ -154,7 +157,9 @@
   "Just Be Friends": {
     "titleKo": "Just Be Friends",
     "announcement": "https://twitter.com/pj_sekai/status/1312273069457596417",
-    "mv2d": "https://youtu.be/esaV1kjzg_Q"
+    "mv2d": "https://youtu.be/esaV1kjzg_Q",
+    "illust": "Rella",
+    "movie": "omu"
   },
   "脱法ロック": {
     "titleKo": "탈법 록",
@@ -163,7 +168,9 @@
   "命に嫌われている": {
     "titleKo": "생명에게 미움받고 있어",
     "announcement": "https://twitter.com/pj_sekai/status/1312997418368081921",
-    "mv2d": "https://youtu.be/F7iqxHOth58"
+    "mv2d": "https://youtu.be/F7iqxHOth58",
+    "illust": "三目YYB",
+    "movie": "omu"
   },
   "ワールドイズマイン": {
     "titleKo": "월드 이즈 마인",
@@ -188,7 +195,9 @@
   "ビバハピ": {
     "titleKo": "비바 해피",
     "announcement": "https://twitter.com/pj_sekai/status/1315171303549140992",
-    "mv2d": "https://youtu.be/zAkqd6iw-lo"
+    "mv2d": "https://youtu.be/zAkqd6iw-lo",
+    "illust": "apapico",
+    "movie": "omu"
   },
   "ジャンキーナイトタウンオーケストラ": {
     "titleKo": "정키 나이트 타운 오케스트라",
@@ -206,7 +215,9 @@
   "携帯恋話": {
     "titleKo": "휴대연화",
     "announcement": "https://twitter.com/pj_sekai/status/1316621387545501698",
-    "mv2d": "https://youtu.be/kNLyqES4fC8"
+    "mv2d": "https://youtu.be/kNLyqES4fC8",
+    "illust": "森倉円",
+    "movie": "omu"
   },
   "39みゅーじっく！": {
     "titleKo": "39뮤직!",
@@ -248,7 +259,9 @@
   "モア！ジャンプ！モア！": {
     "titleKo": "모어! 점프! 모어!",
     "announcement": "https://twitter.com/pj_sekai/status/1329306995367690249",
-    "mv2d": "https://youtu.be/SKbutknpQ_I"
+    "mv2d": "https://youtu.be/SKbutknpQ_I",
+    "illust": "BUZZ",
+    "movie": "omu"
   },
   "裏表ラバーズ": {
     "titleKo": "겉과 속의 러버즈",
@@ -277,7 +290,9 @@
   "ニジイロストーリーズ": {
     "titleKo": "무지개색 스토리즈",
     "announcement": "https://twitter.com/pj_sekai/status/1340541015371915264",
-    "mv2d": "https://youtu.be/EIUO-fPrkSo"
+    "mv2d": "https://youtu.be/EIUO-fPrkSo",
+    "illust": "たま",
+    "movie": "omu"
   },
   "ODDS＆ENDS": {
     "titleKo": "ODDS&ENDS",
@@ -306,7 +321,9 @@
   },
   "ECHO": {
     "announcement": "https://twitter.com/pj_sekai/status/1345249458552934400",
-    "mv2d": "https://youtu.be/4z9Mg8sbFeU"
+    "mv2d": "https://youtu.be/4z9Mg8sbFeU",
+    "illust": "しきみ",
+    "movie": "omu"
   },
   "チュルリラ・チュルリラ・ダッダッダ！": {
     "titleKo": "츄루리라 츄루리라 닷닷다!",
@@ -323,7 +340,9 @@
   "霽れを待つ": {
     "titleKo": "날이 개길 기다려",
     "announcement": "https://twitter.com/pj_sekai/status/1348150344803524612",
-    "mv2d": "https://youtu.be/70ZLvDTonqI"
+    "mv2d": "https://youtu.be/70ZLvDTonqI",
+    "illust": "飴村",
+    "movie": "omu"
   },
   "ワールズエンド・ダンスホール": {
     "titleKo": "월즈 엔드 댄스홀",
@@ -598,8 +617,8 @@
     "announcement": "https://twitter.com/pj_sekai/status/1447444410866692096"
   },
   "ray": {
-    "illust": "사키노지.",
-    "movie": "이쿠미",
+    "illust": "咲の字。",
+    "movie": "イクミ",
     "announcement": "https://twitter.com/pj_sekai/status/1447805282373890051",
     "mv2d": "https://youtu.be/YkP0JMByjRM"
   },
