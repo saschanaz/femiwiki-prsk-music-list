@@ -87,6 +87,18 @@ function linkYouTube(url) {
   return url ? `[${url} 유튜브]` : "";
 }
 
+function formatReleaseDate(item) {
+  const { announcement, releaseDateOverride } = manualMetadata[item.title] || {};
+  if (manualMetadata[item.title]?.releaseDateOverride) {
+    return `[${announcement} ${releaseDateOverride}]`
+  }
+  const formatted = dateTimeFormat.format(item.publishedAt);
+  if (announcement) {
+    return `[${announcement} ${formatted}]`
+  }
+  return formatted;
+}
+
 function convertAsWikimediaTableRow(item) {
   return (
     `|-\n` +
@@ -100,7 +112,7 @@ function convertAsWikimediaTableRow(item) {
     `|${manualMetadata[item.title]?.movie || ""}\n` + // 영상
     `|${linkYouTube(manualMetadata[item.title]?.vocaloidOnly)}\n` + // 보컬로이드 버전
     `|${stringifyCategories(item)}\n` +
-    `|${dateTimeFormat.format(item.publishedAt)}\n`
+    `|${formatReleaseDate(item)}\n`
   );
 }
 
