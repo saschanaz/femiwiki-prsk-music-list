@@ -56,9 +56,6 @@ function translateTitle(title) {
 }
 
 function mapEnglishTitle(music) {
-  if (music.title.match(/^[\x20-\x7F]*$/)) {
-    return music.title;
-  }
   const mapped = musicsEn.find(
     (en) => en.assetbundleName === music.assetbundleName
   )?.title;
@@ -69,7 +66,13 @@ function mapEnglishTitle(music) {
     }
     return mapped;
   }
-  return manual || "";
+  if (manual) {
+    return manual;
+  }
+  if (music.title.match(/^[\x20-\x7F]*$/)) {
+    return music.title;
+  }
+  return "";
 }
 
 function convertAsWikimediaTableRow(item) {

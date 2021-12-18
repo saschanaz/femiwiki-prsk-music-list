@@ -270,7 +270,8 @@
     "titleKo": "드리밍 츄츄"
   },
   "アイディスマイル": {
-    "titleKo": "아이디스마일"
+    "titleKo": "아이디스마일",
+    "titleEn": "IDSMILE"
   },
   "「１」": {
     "titleKo": "「1」"
@@ -285,7 +286,8 @@
     "titleKo": "유령도쿄"
   },
   "シネマ": {
-    "titleKo": "시네마"
+    "titleKo": "시네마",
+    "titleEn": "Cinema"
   },
   "KING": {
     "titleKo": "KING"
@@ -309,10 +311,12 @@
     "titleKo": "연주하여 밝히는 하늘"
   },
   "トラフィック・ジャム": {
-    "titleKo": "트래픽 잼"
+    "titleKo": "트래픽 잼",
+    "titleEn": "Traffic Jam"
   },
   "フロムトーキョー": {
-    "titleKo": "프롬 도쿄"
+    "titleKo": "프롬 도쿄",
+    "titleEn": "From Tokyo"
   },
   "Beat Eater": {
     "titleKo": "Beat Eater"
@@ -324,7 +328,8 @@
     "titleKo": "지구 최후의 고백을"
   },
   "ビターチョコデコレーション": {
-    "titleKo": "비터 초코 데코레이션"
+    "titleKo": "비터 초코 데코레이션",
+    "titleEn": "Bitter Choco Decoration"
   },
   "そうだった！！": {
     "titleKo": "그랬어!!"
@@ -339,19 +344,23 @@
     "titleKo": "Glory Steady Go!"
   },
   "チルドレンレコード": {
-    "titleKo": "칠드런 레코드"
+    "titleKo": "칠드런 레코드",
+    "titleEn": "Children Record"
   },
   "magic number": {
     "titleKo": "magic number"
   },
   "流星のパルス": {
-    "titleKo": "유성의 펄스"
+    "titleKo": "유성의 펄스",
+    "titleEn": "Pulse of The Meteor"
   },
   "カトラリー": {
-    "titleKo": "커틀러리"
+    "titleKo": "커틀러리",
+    "titleEn": "Cutlery"
   },
   "再生": {
-    "titleKo": "재생"
+    "titleKo": "재생",
+    "titleEn": "Reborn"
   },
   "群青讃歌": {
     "titleKo": "군청찬가"
@@ -363,19 +372,23 @@
     "titleKo": "로스트원의 호곡"
   },
   "マシンガンポエムドール": {
-    "titleKo": "머신건 포엠 돌"
+    "titleKo": "머신건 포엠 돌",
+    "titleEn": "Machine Gun Poem Doll"
   },
   "ベノム": {
-    "titleKo": "베놈"
+    "titleKo": "베놈",
+    "titleEn": "Venom"
   },
   "拝啓ドッペルゲンガー": {
     "titleKo": "친애하는 도플갱어"
   },
   "テレキャスタービーボーイ": {
-    "titleKo": "텔레캐스터 비보이"
+    "titleKo": "텔레캐스터 비보이",
+    "titleEn": "Telecaster B-Boy"
   },
   "トキヲ・ファンカ": {
-    "titleKo": "토키오 펀카"
+    "titleKo": "토키오 펀카",
+    "titleEn": "TOKIO FUNKA"
   },
   "悪魔の踊り方": {
     "titleKo": "악마가 춤추는 법"
@@ -396,22 +409,26 @@
     "titleKo": "Hello, world!"
   },
   "しっくおぶはうす！": {
-    "titleKo": "식 오브 하우스!"
+    "titleKo": "식 오브 하우스!",
+    "titleEn": "Sick of House!"
   },
   "ショウタイム・ルーラー": {
-    "titleKo": "쇼타임 룰러"
+    "titleKo": "쇼타임 룰러",
+    "titleEn": "Showtime Ruler"
   },
   "Happy Halloween": {
     "titleKo": "Happy Halloween"
   },
   "ロウワー": {
-    "titleKo": "로워"
+    "titleKo": "로워",
+    "titleEn": "Lower"
   },
   "初音天地開闢神話": {
     "titleKo": "하츠네천지개벽신화"
   },
   "オルターエゴ": {
-    "titleKo": "얼터 에고"
+    "titleKo": "얼터 에고",
+    "titleEn": "Alter ego"
   },
   "STAGE OF SEKAI": {
     "titleKo": "STAGE OF SEKAI"
