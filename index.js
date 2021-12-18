@@ -127,7 +127,7 @@ await Deno.writeTextFile(
 <onlyinclude>{| class="wikitable sortable"
 !제목
 !원제
-!영문제목
+!영문 제목
 !작사
 !작곡
 !편곡
