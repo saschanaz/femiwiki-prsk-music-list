@@ -29,16 +29,21 @@ function translateArtistOrAsIs(name) {
   return translated || name;
 }
 
-function stringifyCategories(categories) {
-  return categories
+function stringifyCategories(item) {
+  return item.categories
     .map((category) => {
       switch (category) {
         case "image":
           return; // (MV없음)
         case "original":
           return "원곡MV";
-        case "mv_2d":
+        case "mv_2d": {
+          const mv2d = manualMetadata[item.title]?.mv2d;
+          if (mv2d) {
+            return `[${mv2d} 2DMV]`
+          }
           return "2DMV";
+        }
         case "mv":
           return "3DMV";
       }
@@ -78,6 +83,10 @@ function maybeMapEnglishTitle(music) {
   return "";
 }
 
+function linkYouTube(url) {
+  return url ? `[${url} 유튜브]` : "";
+}
+
 function convertAsWikimediaTableRow(item) {
   return (
     `|-\n` +
@@ -87,7 +96,10 @@ function convertAsWikimediaTableRow(item) {
     `|${translateArtistOrAsIs(item.lyricist)}\n` + // 작사
     `|${translateArtistOrAsIs(item.composer)}\n` + // 작곡
     `|${translateArtistOrAsIs(item.arranger)}\n` + // 편곡
-    `|${stringifyCategories(item.categories)}\n` +
+    `|${manualMetadata[item.title]?.illust || ""}\n` + // 일러스트
+    `|${manualMetadata[item.title]?.movie || ""}\n` + // 영상
+    `|${linkYouTube(manualMetadata[item.title]?.vocaloidOnly)}\n` + // 보컬로이드 버전
+    `|${stringifyCategories(item)}\n` +
     `|${dateTimeFormat.format(item.publishedAt)}\n`
   );
 }
@@ -105,6 +117,9 @@ await Deno.writeTextFile(
 !작사
 !작곡
 !편곡
+!일러스트
+!영상
+!보컬로이드 버전
 !MV
 !추가일
 ${musics.map(convertAsWikimediaTableRow).join("")}|}\n`

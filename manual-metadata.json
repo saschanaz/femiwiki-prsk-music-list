@@ -352,11 +352,13 @@
   },
   "流星のパルス": {
     "titleKo": "유성의 펄스",
-    "titleEn": "Pulse of The Meteor"
+    "titleEn": "Pulse of The Meteor",
+    "vocaloidOnly": "https://youtu.be/8Zds1FvEtKw"
   },
   "カトラリー": {
     "titleKo": "커틀러리",
-    "titleEn": "Cutlery"
+    "titleEn": "Cutlery",
+    "vocaloidOnly": "https://youtu.be/8Zds1FvEtKw"
   },
   "再生": {
     "titleKo": "재생",
@@ -403,7 +405,9 @@
     "titleKo": "오른어깨의 나비"
   },
   "ray": {
-    "titleKo": "ray"
+    "illust": "사키노지.",
+    "movie": "이쿠미",
+    "mv2d": "https://youtu.be/YkP0JMByjRM"
   },
   "Hello, world!": {
     "titleKo": "Hello, world!"
@@ -438,7 +442,11 @@
   },
   "ワールドワイドワンダー": {
     "titleKo": "월드와이드 완더",
-    "titleEn": "Worldwide Wander"
+    "titleEn": "Worldwide Wander",
+    "vocaloidOnly": "https://youtu.be/6NdOqVypgCM",
+    "illust": "Rella",
+    "movie": "omu",
+    "mv2d": "https://youtu.be/aO_ZCaoojh4"
   },
   "悪ノ娘": {
     "titleKo": "악의 딸"
