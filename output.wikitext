@@ -6,6 +6,7 @@
 !제목
 !원제
 !영문 제목
+!분류
 !오리지널
 !작사
 !작곡
@@ -19,6 +20,7 @@
 |Tell Your World
 |lang=ja|Tell Your World
 |Tell Your World
+|보컬로이드
 |
 |kz
 |kz
@@ -32,6 +34,7 @@
 |넥스트 네스트
 |lang=ja|ネクストネスト
 |NEXT NEST
+|보컬로이드
 |
 |사츠키 가 텐코모리
 |사츠키 가 텐코모리
@@ -45,6 +48,7 @@
 |멜트
 |lang=ja|メルト
 |Melt
+|보컬로이드
 |
 |ryo
 |ryo
@@ -58,6 +62,7 @@
 |하츠네 미쿠의 소실
 |lang=ja|初音ミクの消失
 |THE END OF HATSUNE MIKU
+|보컬로이드
 |
 |cosMo@폭주P
 |cosMo@폭주P
@@ -71,6 +76,7 @@
 |Blessing
 |lang=ja|Blessing
 |Blessing
+|보컬로이드
 |
 |halyosy
 |halyosy
@@ -84,6 +90,7 @@
 |alive
 |lang=ja|alive
 |alive
+|보컬로이드
 |
 |이치노세 루포
 |이치노세 루포
@@ -97,6 +104,7 @@
 |로키
 |lang=ja|ロキ
 |ROKI
+|보컬로이드 레오니
 |
 |미키토P
 |미키토P
@@ -110,6 +118,7 @@
 |테오
 |lang=ja|テオ
 |Teo
+|보컬로이드 레오니
 |
 |Sakurai
 |Omoi
@@ -123,6 +132,7 @@
 |불꽃 -Reloaded-
 |lang=ja|ヒバナ -Reloaded-
 |HIBANA -Reloaded-
+|보컬로이드 레오니
 |
 |DECO*27
 |DECO*27
@@ -136,6 +146,7 @@
 |해피 신시사이저
 |lang=ja|ハッピーシンセサイザ
 |Happy Synthesizer
+|보컬로이드 모모점
 |
 |EasyPop
 |EasyPop
@@ -149,6 +160,7 @@
 |Nostalogic
 |lang=ja|Nostalogic
 |Nostalogic
+|보컬로이드 모모점
 |
 |yuukiss
 |yuukiss
@@ -162,6 +174,7 @@
 |누덕누덕 스타카토
 |lang=ja|ツギハギスタッカート
 |Patchwork Staccato
+|보컬로이드 모모점
 |
 |토아
 |토아
@@ -175,6 +188,7 @@
 |열등상등
 |lang=ja|劣等上等
 |BRING IT ON
+|보컬로이드 비비배스
 |
 |Reol
 |Giga
@@ -188,6 +202,7 @@
 |닥터=펑크비트
 |lang=ja|ドクター=ファンクビート
 |Doctor=Funk Beat
+|보컬로이드 비비배스
 |
 |nyanyannya
 |nyanyannya
@@ -201,6 +216,7 @@
 |프래질
 |lang=ja|フラジール
 |Fragile
+|보컬로이드 비비배스
 |
 |누유리
 |누유리
@@ -214,6 +230,7 @@
 |양철의 댄스
 |lang=ja|ブリキノダンス
 |BURIKI NO DANCE
+|보컬로이드 원더쇼
 |
 |히나타 전공
 |히나타 전공
@@ -227,6 +244,7 @@
 |스위트 매직
 |lang=ja|スイートマジック
 |Sweet Magic
+|원더쇼 보컬로이드
 |
 |Junky
 |Junky
@@ -240,6 +258,7 @@
 |모험의 서가 사라졌습니다!
 |lang=ja|ぼうけんのしょがきえました！
 |Your Adventure Log Has Vanished!
+|보컬로이드 원더쇼
 |
 |지저스
 |지저스
@@ -253,6 +272,7 @@
 |샤를
 |lang=ja|シャルル
 |Charles
+|보컬로이드 니고
 |
 |벌룬
 |벌룬
@@ -266,6 +286,7 @@
 |헬로/하와유
 |lang=ja|ハロ／ハワユ
 |Hello/How Are You?
+|보컬로이드 니고
 |
 |나노우
 |나노우
@@ -279,6 +300,7 @@
 |자상무색
 |lang=ja|自傷無色
 |Jishoumushoku
+|보컬로이드 니고
 |
 |사사노멀리
 |사사노멀리
@@ -292,6 +314,7 @@
 |needLe
 |lang=ja|needLe
 |needLe
+|보컬로이드 레오니
 |✔️
 |DECO*27
 |DECO*27
@@ -305,6 +328,7 @@
 |아이돌신예대
 |lang=ja|アイドル新鋭隊
 |Newly Edgy Idols
+|보컬로이드 모모점
 |✔️
 |Mitchie M
 |Mitchie M
@@ -318,6 +342,7 @@
 |Ready Steady
 |lang=ja|Ready Steady
 |Ready Steady
+|보컬로이드 비비배스
 |✔️
 |q*Left
 |Giga
@@ -331,6 +356,7 @@
 |세계는 아직 시작조차 하지 않았어
 |lang=ja|セカイはまだ始まってすらいない
 |The World Hasn't Even Started Yet
+|보컬로이드 원더쇼
 |✔️
 |피노키오피
 |피노키오피
@@ -344,6 +370,7 @@
 |후회한다 쓰고 미래
 |lang=ja|悔やむと書いてミライ
 |Composing the Future
+|니고
 |✔️
 |마후마후
 |마후마후
@@ -357,6 +384,7 @@
 |세카이
 |lang=ja|セカイ
 |SEKAI
+|보컬로이드
 |✔️
 |DECO*27
 |호리에 쇼타 (kemu)
@@ -370,6 +398,7 @@
 |워-워-월드
 |lang=ja|ワーワーワールド
 |Wah Wah World
+|보컬로이드
 |✔️
 |Mitchie M
 |Giga & Mitchie M
@@ -383,6 +412,7 @@
 |내일의 밤하늘 초계반
 |lang=ja|アスノヨゾラ哨戒班
 |Night Sky Patrol of Tomorrow
+|레오니
 |
 |Orangestar
 |Orangestar
@@ -396,6 +426,7 @@
 |니어
 |lang=ja|ニア
 |Near
+|보컬로이드 모모점
 |
 |나츠시로 타카아키
 |나츠시로 타카아키
@@ -409,6 +440,7 @@
 |Just Be Friends
 |lang=ja|Just Be Friends
 |Just Be Friends
+|보컬로이드 비비배스
 |
 |Dixie Flatline
 |Dixie Flatline
@@ -422,6 +454,7 @@
 |탈법 록
 |lang=ja|脱法ロック
 |Law-evading Rock
+|보컬로이드 원더쇼
 |
 |Neru
 |Neru
@@ -435,6 +468,7 @@
 |생명에게 미움받고 있어
 |lang=ja|命に嫌われている
 |Hated by Life
+|보컬로이드 니고
 |
 |칸자키 이오리
 |칸자키 이오리
@@ -448,6 +482,7 @@
 |월드 이즈 마인
 |lang=ja|ワールドイズマイン
 |The World is Mine
+|보컬로이드
 |
 |ryo
 |ryo
@@ -461,6 +496,7 @@
 |댄스 로봇 댄스
 |lang=ja|ダンスロボットダンス
 |Dance Robot Dance
+|보컬로이드 원더쇼
 |
 |나유탄 성인
 |나유탄 성인
@@ -474,6 +510,7 @@
 |Hand in Hand
 |lang=ja|Hand in Hand
 |Hand in Hand
+|보컬로이드
 |
 |kz
 |kz
@@ -487,6 +524,7 @@
 |야화 디세이브
 |lang=ja|夜咄ディセイブ
 |Yobanashi Deceive
+|보컬로이드 비비배스
 |
 |진
 |진
@@ -500,6 +538,7 @@
 |Gimme×Gimme
 |lang=ja|Gimme×Gimme
 |Gimme×Gimme
+|보컬로이드
 |
 |q*Left
 |하치오지P / Giga
@@ -513,6 +552,7 @@
 |비바 해피
 |lang=ja|ビバハピ
 |Viva Happy
+|보컬로이드 모모점
 |
 |Mitchie M
 |Mitchie M
@@ -526,6 +566,7 @@
 |정키 나이트 타운 오케스트라
 |lang=ja|ジャンキーナイトタウンオーケストラ
 |junky nighttown orchestra
+|보컬로이드
 |
 |스리이
 |스리이
@@ -539,6 +580,7 @@
 |미라클 페인트
 |lang=ja|ミラクルペイント
 |Miracle Paint
+|보컬로이드 원더쇼
 |
 |OSTER project
 |OSTER project
@@ -552,6 +594,7 @@
 |on the rocks
 |lang=ja|on the rocks
 |on the rocks
+|보컬로이드
 |
 |OSTER project
 |OSTER project
@@ -565,6 +608,7 @@
 |휴대연화
 |lang=ja|携帯恋話
 |Cellphone Love Story
+|니고
 |✔️
 |마후마후
 |마후마후
@@ -578,6 +622,7 @@
 |39뮤직!
 |lang=ja|39みゅーじっく！
 |39Music!
+|보컬로이드
 |
 |미키토P
 |미키토P
@@ -591,6 +636,7 @@
 |푸르게 달려라!
 |lang=ja|青く駆けろ！
 |Aoku Kakero!
+|레오니
 |
 |마라시
 |마라시
@@ -604,6 +650,7 @@
 |스텔라
 |lang=ja|ステラ
 |Stella
+|레오니
 |✔️
 |진
 |진
@@ -617,6 +664,7 @@
 |Leia - Remind
 |lang=ja|Leia - Remind
 |Leia - Remind
+|보컬로이드
 |
 |유요윳페
 |유요윳페
@@ -630,6 +678,7 @@
 |잭팟 새드 걸
 |lang=ja|ジャックポットサッドガール
 |Jack Pot Sad Girl
+|보컬로이드 니고
 |✔️
 |syudou
 |syudou
@@ -643,6 +692,7 @@
 |멜티 랜드 나이트메어
 |lang=ja|メルティランドナイトメア
 |Melty Land Nightmare
+|보컬로이드 모모점
 |
 |하루마키고항
 |하루마키고항
@@ -656,6 +706,7 @@
 |소녀해부
 |lang=ja|乙女解剖
 |Otome Dissection
+|니고 보컬로이드
 |
 |DECO*27
 |DECO*27
@@ -669,6 +720,7 @@
 |potato가 되어가
 |lang=ja|potatoになっていく
 |Becoming Potatoes
+|보컬로이드 원더쇼
 |✔️
 |Neru
 |Neru
@@ -682,6 +734,7 @@
 |롤링 걸
 |lang=ja|ローリンガール
 |Rollin Girl
+|보컬로이드
 |
 |wowaka
 |wowaka
@@ -695,6 +748,7 @@
 |모어! 점프! 모어!
 |lang=ja|モア！ジャンプ！モア！
 |
+|모모점
 |✔️
 |나유탄 성인
 |나유탄 성인
@@ -708,6 +762,7 @@
 |겉과 속의 러버즈
 |lang=ja|裏表ラバーズ
 |
+|보컬로이드
 |
 |wowaka
 |wowaka
@@ -721,6 +776,7 @@
 |언노운 마더 구스
 |lang=ja|アンノウン・マザーグース
 |
+|보컬로이드
 |
 |wowaka
 |wowaka
@@ -734,6 +790,7 @@
 |사랑받지 않아도 네가 있어
 |lang=ja|愛されなくても君がいる
 |
+|보컬로이드
 |
 |피노키오피
 |피노키오피
@@ -747,6 +804,7 @@
 |갯나리 해저담
 |lang=ja|ウミユリ海底譚
 |Tale of the Deep-sea Lily
+|보컬로이드 레오니
 |
 |n-buna
 |n-buna
@@ -760,6 +818,7 @@
 |Forward
 |lang=ja|Forward
 |Forward
+|보컬로이드 비비배스
 |✔️
 |R Sound Design
 |R Sound Design
@@ -773,6 +832,7 @@
 |혼자 놀기 엔비
 |lang=ja|独りんぼエンヴィー
 |Hitorinbo Envy
+|보컬로이드 니고
 |
 |koyori
 |koyori
@@ -786,6 +846,7 @@
 |무지개색 스토리즈
 |lang=ja|ニジイロストーリーズ
 |
+|보컬로이드 원더쇼
 |✔️
 |OSTER project
 |OSTER project
@@ -799,6 +860,7 @@
 |ODDS&ENDS
 |lang=ja|ODDS＆ENDS
 |ODDS&ENDS
+|보컬로이드
 |
 |ryo
 |ryo
@@ -812,6 +874,7 @@
 |드라마투르기
 |lang=ja|ドラマツルギー
 |Dramaturgy
+|보컬로이드 레오니
 |
 |Eve
 |Eve
@@ -825,6 +888,7 @@
 |그린라이츠 세레나데
 |lang=ja|グリーンライツ・セレナーデ
 |Greenlights Serenade
+|보컬로이드
 |
 |Sakurai
 |Omoi
@@ -838,6 +902,7 @@
 |연애재판
 |lang=ja|恋愛裁判
 |Love Trial
+|보컬로이드 모모점
 |
 |40mP
 |40mP
@@ -851,6 +916,7 @@
 |*헬로, 플래닛.
 |lang=ja|＊ハロー、プラネット。
 |*Hello, Planet
+|보컬로이드
 |
 |sasakure.UK
 |sasakure.UK
@@ -864,6 +930,7 @@
 |천본앵
 |lang=ja|千本桜
 |Senbonzakura
+|보컬로이드
 |
 |쿠로우사
 |쿠로우사
@@ -877,6 +944,7 @@
 |ECHO
 |lang=ja|ECHO
 |ECHO
+|보컬로이드 비비배스
 |
 |Crusher P
 |Crusher P
@@ -890,6 +958,7 @@
 |츄루리라 츄루리라 닷닷다!
 |lang=ja|チュルリラ・チュルリラ・ダッダッダ！
 |Chururira Chururira Daddadda!
+|원더쇼
 |
 |와다 타테아키 (쿠라게P)
 |와다 타테아키 (쿠라게P)
@@ -903,6 +972,7 @@
 |블레스 유어 브레스
 |lang=ja|ブレス・ユア・ブレス
 |Bless Your Breath
+|보컬로이드
 |
 |와다 타테아키
 |와다 타테아키
@@ -916,6 +986,7 @@
 |너무 아파 아프고 싶어
 |lang=ja|とても痛い痛がりたい
 |Totemoitai Itagaritai
+|보컬로이드 니고
 |
 |EZFG
 |EZFG
@@ -929,6 +1000,7 @@
 |날이 개길 기다려
 |lang=ja|霽れを待つ
 |
+|보컬로이드 레오니
 |✔️
 |Orangestar
 |Orangestar
@@ -942,6 +1014,7 @@
 |월즈 엔드 댄스홀
 |lang=ja|ワールズエンド・ダンスホール
 |
+|보컬로이드
 |
 |wowaka
 |wowaka
@@ -955,6 +1028,7 @@
 |울려퍼져라
 |lang=ja|ヒビカセ
 |Hibikase
+|보컬로이드
 |
 |레오루
 |기가
@@ -968,6 +1042,7 @@
 |Color of Drops
 |lang=ja|Color of Drops
 |Color of Drops
+|보컬로이드 모모점
 |✔️
 |40mP
 |40mP
@@ -981,6 +1056,7 @@
 |RAD DOGS
 |lang=ja|RAD DOGS
 |RAD DOGS
+|비비배스
 |✔️
 |q*Left
 |하치오지P
@@ -994,6 +1070,7 @@
 |밀크크라운 온 소네치카
 |lang=ja|ミルククラウン・オン・ソーネチカ
 |
+|보컬로이드 모모점
 |
 |유지
 |유지
@@ -1007,6 +1084,7 @@
 |타임머신
 |lang=ja|タイムマシン
 |
+|보컬로이드 레오니
 |
 |164
 |40mP
@@ -1020,6 +1098,7 @@
 |drop pop candy
 |lang=ja|drop pop candy
 |drop pop candy
+|보컬로이드 비비배스
 |
 |레오루
 |기가
@@ -1033,6 +1112,7 @@
 |포지티브☆댄스타임
 |lang=ja|ポジティブ☆ダンスタイム
 |
+|보컬로이드 원더쇼
 |
 |키노시타
 |키노시타
@@ -1046,6 +1126,7 @@
 |Brand New Day
 |lang=ja|Brand New Day
 |Brand New Day
+|보컬로이드
 |
 |이루카아이스
 |이루카아이스
@@ -1059,6 +1140,7 @@
 |끝없이 잿빛으로
 |lang=ja|限りなく灰色へ
 |
+|보컬로이드 니고
 |✔️
 |스리이
 |스리이
@@ -1072,6 +1154,7 @@
 |원스 어폰 어 드림
 |lang=ja|ワンスアポンアドリーム
 |
+|보컬로이드 원더쇼
 |✔️
 |YASUHIRO(야스히로)
 |YASUHIRO(야스히로)
@@ -1085,6 +1168,7 @@
 |보카델라베리타
 |lang=ja|ボッカデラベリタ
 |
+|보컬로이드 니고
 |
 |히이라기 키라이
 |히이라기 키라이
@@ -1098,6 +1182,7 @@
 |미쿠미쿠하게 해줄게♪ (해줄거야)
 |lang=ja|みくみくにしてあげる♪【してやんよ】
 |
+|보컬로이드
 |
 |ika_mo
 |ika_mo
@@ -1111,6 +1196,7 @@
 |위풍당당
 |lang=ja|威風堂々
 |
+|보컬로이드 비비배스
 |
 |우메토라
 |우메토라
@@ -1124,6 +1210,7 @@
 |from Y to Y
 |lang=ja|from Y to Y
 |from Y to Y
+|보컬로이드 레오니
 |
 |지미섬P
 |지미섬P
@@ -1137,6 +1224,7 @@
 |하츠네미쿠의 격창
 |lang=ja|初音ミクの激唱
 |The Intense Voice of Hatsune Miku
+|보컬로이드
 |
 |GAiA
 |cosMo@폭주P
@@ -1150,6 +1238,7 @@
 |천사의 클로버
 |lang=ja|天使のクローバー
 |
+|보컬로이드 모모점
 |✔️
 |DIVELA
 |DIVELA
@@ -1163,6 +1252,7 @@
 |마음에 드시는 대로
 |lang=ja|お気に召すまま
 |
+|보컬로이드 원더쇼
 |
 |Eve
 |Eve
@@ -1176,6 +1266,7 @@
 |드리밍 츄츄
 |lang=ja|どりーみんチュチュ
 |
+|보컬로이드 모모점
 |
 |emon(Tes.)
 |emon(Tes.)
@@ -1189,6 +1280,7 @@
 |아이디스마일
 |lang=ja|アイディスマイル
 |IDSMILE
+|니고 보컬로이드
 |✔️
 |토아
 |토아
@@ -1202,6 +1294,7 @@
 |「1」
 |lang=ja|「１」
 |
+|보컬로이드 레오니
 |✔️
 |164
 |164
@@ -1215,6 +1308,7 @@
 |꽃을 노래하다
 |lang=ja|花を唄う
 |
+|보컬로이드
 |
 |시노
 |시노
@@ -1228,6 +1322,7 @@
 |밤을 달리다
 |lang=ja|夜に駆ける
 |
+|보컬로이드 레오니 모모점 비비배스 원더쇼 니고
 |
 |Ayase
 |Ayase
@@ -1241,6 +1336,7 @@
 |유령도쿄
 |lang=ja|幽霊東京
 |
+|보컬로이드 비비배스
 |
 |Ayase
 |Ayase
@@ -1254,6 +1350,7 @@
 |시네마
 |lang=ja|シネマ
 |Cinema
+|비비배스 보컬로이드
 |✔️
 |Ayase
 |Ayase
@@ -1267,6 +1364,7 @@
 |KING
 |lang=ja|KING
 |KING
+|보컬로이드 원더쇼
 |
 |Kanaria
 |Kanaria
@@ -1280,6 +1378,7 @@
 |사랑의 마테리얼
 |lang=ja|アイノマテリアル
 |
+|보컬로이드 모모점
 |✔️
 |Junky
 |Junky
@@ -1293,6 +1392,7 @@
 |가지 마
 |lang=ja|いかないで
 |
+|보컬로이드 레오니
 |
 |소타
 |소타
@@ -1306,6 +1406,7 @@
 |로미오와 신데렐라
 |lang=ja|ロミオとシンデレラ
 |
+|보컬로이드 모모점
 |
 |doriko
 |doriko
@@ -1319,6 +1420,7 @@
 |거품미래
 |lang=ja|泡沫未来
 |
+|보컬로이드
 |
 |카가(네기샤워P)
 |카가(네기샤워P)
@@ -1332,6 +1434,7 @@
 |터무니원더즈
 |lang=ja|トンデモワンダーズ
 |
+|보컬로이드 원더쇼
 |✔️
 |sasakure.UK
 |sasakure.UK
@@ -1345,6 +1448,7 @@
 |연주하여 밝히는 하늘
 |lang=ja|カナデトモスソラ
 |
+|니고
 |✔️
 |Sasanomaly
 |Sasanomaly
@@ -1358,6 +1462,7 @@
 |트래픽 잼
 |lang=ja|トラフィック・ジャム
 |Traffic Jam
+|보컬로이드 비비배스
 |
 |니루 카지츠
 |니루 카지츠
@@ -1371,6 +1476,7 @@
 |프롬 도쿄
 |lang=ja|フロムトーキョー
 |From Tokyo
+|보컬로이드 레오니
 |✔️
 |나츠시로 타카아키
 |나츠시로 타카아키・와타나베 타쿠야
@@ -1384,6 +1490,7 @@
 |Beat Eater
 |lang=ja|Beat Eater
 |Beat Eater
+|보컬로이드 비비배스
 |✔️
 |폴리스 피카딜리
 |폴리스 피카딜리
@@ -1397,6 +1504,7 @@
 |육조년과 하룻밤 이야기
 |lang=ja|六兆年と一夜物語
 |
+|보컬로이드 레오니
 |
 |kemu
 |kemu
@@ -1410,6 +1518,7 @@
 |지구 최후의 고백을
 |lang=ja|地球最後の告白を
 |
+|보컬로이드 모모점
 |
 |kemu
 |kemu
@@ -1423,6 +1532,7 @@
 |비터 초코 데코레이션
 |lang=ja|ビターチョコデコレーション
 |Bitter Choco Decoration
+|보컬로이드 니고
 |
 |syudou
 |syudou
@@ -1436,6 +1546,7 @@
 |그랬어!!
 |lang=ja|そうだった！！
 |
+|보컬로이드
 |
 |타케노코 소년
 |타케노코 소년
@@ -1449,6 +1560,7 @@
 |아지랑이 데이즈
 |lang=ja|カゲロウデイズ
 |
+|보컬로이드 레오니
 |
 |진
 |진
@@ -1462,6 +1574,7 @@
 |아이스 드롭
 |lang=ja|アイスドロップ
 |
+|보컬로이드 모모점
 |✔️
 |aqu3ra
 |aqu3ra
@@ -1475,6 +1588,7 @@
 |Glory Steady Go!
 |lang=ja|Glory Steady Go!
 |Glory Steady Go!
+|보컬로이드 원더쇼
 |✔️
 |키노시타
 |키노시타
@@ -1488,6 +1602,7 @@
 |칠드런 레코드
 |lang=ja|チルドレンレコード
 |Children Record
+|보컬로이드 비비배스
 |
 |진
 |진
@@ -1501,6 +1616,7 @@
 |magic number
 |lang=ja|magic number
 |magic number
+|보컬로이드
 |✔️
 |이토 켄토
 |이토 켄토
@@ -1514,6 +1630,7 @@
 |유성의 펄스
 |lang=ja|流星のパルス
 |Pulse of The Meteor
+|보컬로이드 레오니
 |✔️
 |*Luna
 |*Luna
@@ -1527,6 +1644,7 @@
 |커틀러리
 |lang=ja|カトラリー
 |Cutlery
+|보컬로이드 니고
 |
 |유기산
 |유기산
@@ -1540,6 +1658,7 @@
 |재생
 |lang=ja|再生
 |Reborn
+|보컬로이드 니고
 |✔️
 |Picon
 |Picon
@@ -1553,6 +1672,7 @@
 |군청찬가
 |lang=ja|群青讃歌
 |Gunjo Sanka
+|보컬로이드 레오니 모모점 비비배스 원더쇼 니고
 |✔️
 |Eve
 |Eve
@@ -1566,6 +1686,7 @@
 |노심융해
 |lang=ja|炉心融解
 |
+|보컬로이드
 |
 |kuma(alfred)
 |iroha(sasaki)
@@ -1579,6 +1700,7 @@
 |로스트원의 호곡
 |lang=ja|ロストワンの号哭
 |
+|보컬로이드 레오니
 |
 |Neru
 |Neru
@@ -1592,6 +1714,7 @@
 |머신건 포엠 돌
 |lang=ja|マシンガンポエムドール
 |Machine Gun Poem Doll
+|보컬로이드
 |✔️
 |cosMo@폭주P
 |cosMo@폭주P
@@ -1605,6 +1728,7 @@
 |베놈
 |lang=ja|ベノム
 |Venom
+|보컬로이드 니고
 |
 |카이리키베어
 |카이리키베어
@@ -1618,6 +1742,7 @@
 |친애하는 도플갱어
 |lang=ja|拝啓ドッペルゲンガー
 |
+|보컬로이드
 |
 |kemu
 |kemu
@@ -1631,6 +1756,7 @@
 |텔레캐스터 비보이
 |lang=ja|テレキャスタービーボーイ
 |Telecaster B-Boy
+|보컬로이드 원더쇼
 |
 |스리이
 |스리이
@@ -1644,6 +1770,7 @@
 |토키오 펀카
 |lang=ja|トキヲ・ファンカ
 |TOKIO FUNKA
+|보컬로이드
 |
 |takamatt
 |takamatt
@@ -1657,6 +1784,7 @@
 |악마가 춤추는 법
 |lang=ja|悪魔の踊り方
 |
+|보컬로이드 비비배스
 |
 |키타니 타츠야
 |키타니 타츠야
@@ -1670,6 +1798,7 @@
 |누군가의 심장이 될 수 있다면
 |lang=ja|だれかの心臓になれたなら
 |
+|보컬로이드
 |
 |유리이・카논
 |유리이・카논
@@ -1683,6 +1812,7 @@
 |마슈마리
 |lang=ja|マシュマリー
 |
+|보컬로이드 모모점
 |
 |MIMI
 |MIMI
@@ -1696,6 +1826,7 @@
 |오른어깨의 나비
 |lang=ja|右肩の蝶
 |
+|보컬로이드
 |
 |미즈노 유라
 |노리피
@@ -1709,6 +1840,7 @@
 |ray
 |lang=ja|ray
 |ray
+|보컬로이드 레오니
 |
 |후지와라 모토오
 |후지와라 모토오
@@ -1722,6 +1854,7 @@
 |Hello,world!
 |lang=ja|Hello,world!
 |Hello,world!
+|보컬로이드 레오니
 |
 |후지와라 모토오
 |후지와라 모토오
@@ -1735,6 +1868,7 @@
 |식 오브 하우스!
 |lang=ja|しっくおぶはうす！
 |Sick of House!
+|보컬로이드
 |
 |오존
 |오존
@@ -1748,6 +1882,7 @@
 |쇼타임 룰러
 |lang=ja|ショウタイム・ルーラー
 |Showtime Ruler
+|보컬로이드 원더쇼
 |✔️
 |카라스야사보오
 |카라스야사보오
@@ -1761,6 +1896,7 @@
 |Happy Halloween
 |lang=ja|Happy Halloween
 |Happy Halloween
+|보컬로이드 모모점
 |
 |Junky
 |Junky
@@ -1774,6 +1910,7 @@
 |로워
 |lang=ja|ロウワー
 |Lower
+|보컬로이드 니고
 |✔️
 |누유리
 |누유리
@@ -1787,6 +1924,7 @@
 |하츠네천지개벽신화
 |lang=ja|初音天地開闢神話
 |
+|보컬로이드
 |
 |cosMo@폭주P
 |cosMo@폭주P
@@ -1800,6 +1938,7 @@
 |얼터 에고
 |lang=ja|オルターエゴ
 |Alter ego
+|보컬로이드 비비배스
 |
 |Misumi
 |Misumi
@@ -1813,6 +1952,7 @@
 |STAGE OF SEKAI
 |lang=ja|STAGE OF SEKAI
 |STAGE OF SEKAI
+|레오니
 |✔️
 |하리하라 츠바사 (하리P)
 |하리하라 츠바사 (하리P)
@@ -1826,6 +1966,7 @@
 |꼭두각시 피에로
 |lang=ja|からくりピエロ
 |
+|보컬로이드 모모점
 |
 |40mP
 |40mP
@@ -1839,6 +1980,7 @@
 |월드와이드 완더
 |lang=ja|ワールドワイドワンダー
 |Worldwide Wander
+|모모점
 |✔️
 |TOKOTOKO
 |TOKOTOKO
@@ -1852,6 +1994,7 @@
 |악의 딸
 |lang=ja|悪ノ娘
 |
+|보컬로이드
 |
 |mothy
 |mothy
@@ -1865,6 +2008,7 @@
 |악의 하인
 |lang=ja|悪ノ召使
 |
+|보컬로이드
 |
 |mothy
 |mothy
@@ -1878,6 +2022,7 @@
 |떠나는 이들의 왈츠
 |lang=ja|去り人達のワルツ
 |
+|보컬로이드
 |✔️
 |mothy
 |mothy

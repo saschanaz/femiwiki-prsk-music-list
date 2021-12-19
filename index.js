@@ -1,4 +1,5 @@
 import musics from "./sekai-master-db-diff/musics.json" assert { type: "json" };
+import musicTags from "./sekai-master-db-diff/musicTags.json" assert { type: "json" };
 import musicsEn from "./sekai-master-db-en-diff/musics.json" assert { type: "json" };
 import artistTranslation from "./name-translations/artists.json" assert { type: "json" };
 import manualMetadata from "./manual-metadata.json" assert { type: "json" };
@@ -105,19 +106,45 @@ function formatReleaseDate(item) {
   return formatted;
 }
 
+function mapUnitName(unitName) {
+  // TODO: emit templates for them
+  switch (unitName) {
+    case "light_music_club": return "레오니";
+    case "idol": return "모모점";
+    case "street": return "비비배스";
+    case "theme_park": return "원더쇼";
+    case "school_refusal": return "니고";
+    case "vocaloid": return "보컬로이드";
+  }
+}
+
+function getMusicTag(item) {
+  return musicTags
+    .filter((tag) => tag.musicId === item.id)
+    .map((tag) => tag.musicTag)
+    .filter((tag) => !["all", "other"].includes(tag))
+    .map(mapUnitName)
+    .join(" ");
+}
+
 function convertAsWikimediaTableRow(item) {
   return (
     `|-\n` +
     `|${maybeTranslateTitle(item.title)}\n` + // 제목
     `|lang=ja|${item.title}\n` + // 원제
     `|${maybeMapEnglishTitle(item)}\n` + // 영문제목
-    `|${item.seq >= 2000000 ? "✔️" : "" }\n` + // 오리지널
+    `|${getMusicTag(item)}\n` + // 분류
+    `|${item.seq >= 2000000 ? "✔️" : ""}\n` + // 오리지널
     `|${translateArtistOrAsIs(item.lyricist)}\n` + // 작사
     `|${translateArtistOrAsIs(item.composer)}\n` + // 작곡
     `|${translateArtistOrAsIs(item.arranger)}\n` + // 편곡
     `|${stringifyCategories(item)}\n` +
-    `|${translateArtistOrAsIs(manualMetadata[item.title]?.mv2d?.illust || "")}\n` + // 일러스트
-    `|${translateArtistOrAsIs(manualMetadata[item.title]?.mv2d?.movie || "")}\n` + // 영상
+    `|${translateArtistOrAsIs(
+      manualMetadata[item.title]?.mv2d?.illust || ""
+    )}\n` + // 일러스트
+    `|${translateArtistOrAsIs(
+      manualMetadata[item.title]?.mv2d?.movie || ""
+    )}\n` + // 영상
     `|${linkYouTube(manualMetadata[item.title]?.mvExternal)}\n` + // 게임 외 버전
     `|${formatReleaseDate(item)}\n`
   );
@@ -135,6 +162,7 @@ await Deno.writeTextFile(
 !제목
 !원제
 !영문 제목
+!분류
 !오리지널
 !작사
 !작곡
