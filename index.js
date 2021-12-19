@@ -40,9 +40,9 @@ function stringifyCategories(item) {
         case "original":
           return "원곡MV";
         case "mv_2d": {
-          const mv2d = manualMetadata[item.title]?.mv2d;
-          if (mv2d) {
-            return `[${mv2d} 2DMV]`;
+          const url = manualMetadata[item.title]?.mv2d?.url;
+          if (url) {
+            return `[${url} 2DMV]`;
           }
           return "2DMV";
         }
@@ -114,8 +114,8 @@ function convertAsWikimediaTableRow(item) {
     `|${translateArtistOrAsIs(item.lyricist)}\n` + // 작사
     `|${translateArtistOrAsIs(item.composer)}\n` + // 작곡
     `|${translateArtistOrAsIs(item.arranger)}\n` + // 편곡
-    `|${translateArtistOrAsIs(manualMetadata[item.title]?.illust || "")}\n` + // 일러스트
-    `|${translateArtistOrAsIs(manualMetadata[item.title]?.movie || "")}\n` + // 영상
+    `|${translateArtistOrAsIs(manualMetadata[item.title]?.mv2d?.illust || "")}\n` + // 일러스트
+    `|${translateArtistOrAsIs(manualMetadata[item.title]?.mv2d?.movie || "")}\n` + // 영상
     `|${linkYouTube(manualMetadata[item.title]?.mvExternal)}\n` + // 게임 외 버전
     `|${stringifyCategories(item)}\n` +
     `|${formatReleaseDate(item)}\n`

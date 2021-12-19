@@ -42,22 +42,28 @@
     "titleKo": "불꽃 -Reloaded-",
     "announcement": "https://twitter.com/pj_sekai/status/1247829575612035074",
     "releaseDateOverride": "2020년 4월 8일 (사전공개)",
-    "mv2d": "https://youtu.be/i16qWEUjd4o",
-    "illust": "八三"
+    "mv2d": {
+      "url": "https://youtu.be/i16qWEUjd4o",
+      "illust": "八三"
+    }
   },
   "ハッピーシンセサイザ": {
     "titleKo": "해피 신시사이저",
     "announcement": "https://twitter.com/pj_sekai/status/1236982237159022595",
     "releaseDateOverride": "2020년 3월 9일 (사전공개)",
-    "mv2d": "https://youtu.be/xD3amnjfxac",
-    "illust": "モゲラッタ"
+    "mv2d": {
+      "url": "https://youtu.be/xD3amnjfxac",
+      "illust": "モゲラッタ"
+    }
   },
   "Nostalogic": {
     "titleKo": "Nostalogic",
     "announcement": "https://twitter.com/pj_sekai/status/1277799402652852224",
     "releaseDateOverride": "2020년 6월 30일 (사전공개)",
-    "illust": "anko",
-    "movie": "omu"
+    "mv2d": {
+      "illust": "anko",
+      "movie": "omu"
+    }
   },
   "ツギハギスタッカート": {
     "titleKo": "누덕누덕 스타카토",
@@ -78,9 +84,11 @@
     "titleKo": "프래질",
     "announcement": "https://twitter.com/pj_sekai/status/1276116804973150209",
     "releaseDateOverride": "2020년 6월 25일 (사전공개)",
-    "mv2d": "https://youtu.be/9kZ6MPqj9Tg",
-    "mv3d": "https://youtu.be/WDWgBLrw-Jg",
-    "illust": "れおえん"
+    "mv2d": {
+      "url": "https://youtu.be/9kZ6MPqj9Tg",
+      "illust": "れおえん"
+    },
+    "mv3d": "https://youtu.be/WDWgBLrw-Jg"
   },
   "ブリキノダンス": {
     "titleKo": "양철의 댄스",
@@ -111,9 +119,11 @@
     "titleKo": "자상무색",
     "announcement": "https://twitter.com/pj_sekai/status/1236982237159022595",
     "releaseDateOverride": "2020년 3월 9일 (사전공개)",
-    "mv2d": "https://youtu.be/n7ZmBBf5-7g",
-    "illust": "スオウ",
-    "movie": "omu"
+    "mv2d": {
+      "url": "https://youtu.be/n7ZmBBf5-7g",
+      "illust": "スオウ",
+      "movie": "omu"
+    }
   },
   "needLe": {
     "announcement": "https://twitter.com/pj_sekai/status/1294201795737092097",
@@ -180,9 +190,11 @@
   "Just Be Friends": {
     "titleKo": "Just Be Friends",
     "announcement": "https://twitter.com/pj_sekai/status/1312273069457596417",
-    "mv2d": "https://youtu.be/esaV1kjzg_Q",
-    "illust": "Rella",
-    "movie": "omu"
+    "mv2d": {
+      "url": "https://youtu.be/esaV1kjzg_Q",
+      "illust": "Rella",
+      "movie": "omu"
+    }
   },
   "脱法ロック": {
     "titleKo": "탈법 록",
@@ -191,9 +203,11 @@
   "命に嫌われている": {
     "titleKo": "생명에게 미움받고 있어",
     "announcement": "https://twitter.com/pj_sekai/status/1312997418368081921",
-    "mv2d": "https://youtu.be/F7iqxHOth58",
-    "illust": "三目YYB",
-    "movie": "omu"
+    "mv2d": {
+      "url": "https://youtu.be/F7iqxHOth58",
+      "illust": "三目YYB",
+      "movie": "omu"
+    }
   },
   "ワールドイズマイン": {
     "titleKo": "월드 이즈 마인",
@@ -218,9 +232,11 @@
   "ビバハピ": {
     "titleKo": "비바 해피",
     "announcement": "https://twitter.com/pj_sekai/status/1315171303549140992",
-    "mv2d": "https://youtu.be/zAkqd6iw-lo",
-    "illust": "apapico",
-    "movie": "omu"
+    "mv2d": {
+      "url": "https://youtu.be/zAkqd6iw-lo",
+      "illust": "apapico",
+      "movie": "omu"
+    }
   },
   "ジャンキーナイトタウンオーケストラ": {
     "titleKo": "정키 나이트 타운 오케스트라",
@@ -229,9 +245,11 @@
   "ミラクルペイント": {
     "titleKo": "미라클 페인트",
     "announcement": "https://twitter.com/pj_sekai/status/1315896894132944896",
-    "mv2d": "https://youtu.be/kU4Rth300FM",
-    "illust": "BUZZ",
-    "movie": "omu"
+    "mv2d": {
+      "url": "https://youtu.be/kU4Rth300FM",
+      "illust": "BUZZ",
+      "movie": "omu"
+    }
   },
   "on the rocks": {
     "titleKo": "on the rocks",
@@ -240,9 +258,11 @@
   "携帯恋話": {
     "titleKo": "휴대연화",
     "announcement": "https://twitter.com/pj_sekai/status/1316621387545501698",
-    "mv2d": "https://youtu.be/kNLyqES4fC8",
-    "illust": "森倉円",
-    "movie": "omu",
+    "mv2d": {
+      "url": "https://youtu.be/kNLyqES4fC8",
+      "illust": "森倉円",
+      "movie": "omu"
+    },
     "mvExternal": {
       "type": "셀프 커버",
       "url": "https://nico.ms/sm36903498"
@@ -271,9 +291,11 @@
   "ジャックポットサッドガール": {
     "titleKo": "잭팟 새드 걸",
     "announcement": "https://twitter.com/pj_sekai/status/1318433933600595969",
-    "mv2d": "https://youtu.be/J9kD9rYR088",
-    "illust": "ろづ希",
-    "movie": "Lye",
+    "mv2d": {
+      "url": "https://youtu.be/J9kD9rYR088",
+      "illust": "ろづ希",
+      "movie": "Lye"
+    },
     "mvExternal": {
       "type": "보컬로이드",
       "url": "https://youtu.be/B2llCEKbxwA"
@@ -298,9 +320,11 @@
   "モア！ジャンプ！モア！": {
     "titleKo": "모어! 점프! 모어!",
     "announcement": "https://twitter.com/pj_sekai/status/1329306995367690249",
-    "mv2d": "https://youtu.be/SKbutknpQ_I",
-    "illust": "BUZZ",
-    "movie": "omu"
+    "mv2d": {
+      "url": "https://youtu.be/SKbutknpQ_I",
+      "illust": "BUZZ",
+      "movie": "omu"
+    }
   },
   "裏表ラバーズ": {
     "titleKo": "겉과 속의 러버즈",
@@ -333,9 +357,11 @@
   "ニジイロストーリーズ": {
     "titleKo": "무지개색 스토리즈",
     "announcement": "https://twitter.com/pj_sekai/status/1340541015371915264",
-    "mv2d": "https://youtu.be/EIUO-fPrkSo",
-    "illust": "たま",
-    "movie": "omu",
+    "mv2d": {
+      "url": "https://youtu.be/EIUO-fPrkSo",
+      "illust": "たま",
+      "movie": "omu"
+    },
     "mvExternal": {
       "type": "보컬로이드",
       "url": "https://youtu.be/WztzykQSkgM"
@@ -356,8 +382,10 @@
   "恋愛裁判": {
     "titleKo": "연애재판",
     "announcement": "https://twitter.com/pj_sekai/status/1344162616667561984",
-    "mv2d": "https://youtu.be/mqrp4SfMJwk",
-    "illust": "たま"
+    "mv2d": {
+      "url": "https://youtu.be/mqrp4SfMJwk",
+      "illust": "たま"
+    }
   },
   "＊ハロー、プラネット。": {
     "titleKo": "*헬로, 플래닛.",
@@ -369,9 +397,11 @@
   },
   "ECHO": {
     "announcement": "https://twitter.com/pj_sekai/status/1345249458552934400",
-    "mv2d": "https://youtu.be/4z9Mg8sbFeU",
-    "illust": "しきみ",
-    "movie": "omu"
+    "mv2d": {
+      "url": "https://youtu.be/4z9Mg8sbFeU",
+      "illust": "しきみ",
+      "movie": "omu"
+    }
   },
   "チュルリラ・チュルリラ・ダッダッダ！": {
     "titleKo": "츄루리라 츄루리라 닷닷다!",
@@ -388,9 +418,11 @@
   "霽れを待つ": {
     "titleKo": "날이 개길 기다려",
     "announcement": "https://twitter.com/pj_sekai/status/1348150344803524612",
-    "mv2d": "https://youtu.be/70ZLvDTonqI",
-    "illust": "飴村",
-    "movie": "omu",
+    "mv2d": {
+      "url": "https://youtu.be/70ZLvDTonqI",
+      "illust": "飴村",
+      "movie": "omu"
+    },
     "mvExternal": {
       "type": "보컬로이드",
       "url": "https://youtu.be/wvlUWjqGQSA"
@@ -415,10 +447,12 @@
   "RAD DOGS": {
     "titleKo": "RAD DOGS",
     "announcement": "https://twitter.com/pj_sekai/status/1355760937903419394",
-    "mv2d": "https://youtu.be/ZMbWDpC1N7s",
-    "illust": "Rella",
-    "animation": "2P",
-    "movie": "omu"
+    "mv2d": {
+      "url": "https://youtu.be/ZMbWDpC1N7s",
+      "illust": "Rella",
+      "movie": "omu",
+      "animation": "2P"
+    }
   },
   "ミルククラウン・オン・ソーネチカ": {
     "titleKo": "밀크크라운 온 소네치카",
@@ -427,9 +461,11 @@
   "タイムマシン": {
     "titleKo": "타임머신",
     "announcement": "https://twitter.com/pj_sekai/status/1359382755977568256",
-    "mv2d": "https://youtu.be/s1yW2jPJiVE",
-    "illust": "たま",
-    "movie": "みず希"
+    "mv2d": {
+      "url": "https://youtu.be/s1yW2jPJiVE",
+      "illust": "たま",
+      "movie": "みず希"
+    }
   },
   "drop pop candy": {
     "titleKo": "drop pop candy",
@@ -438,8 +474,10 @@
   "ポジティブ☆ダンスタイム": {
     "titleKo": "포지티브☆댄스타임",
     "announcement": "https://twitter.com/pj_sekai/status/1362644038659104768",
-    "mv2d": "https://youtu.be/BdTf_uKTqos",
-    "illust": "キノシタ"
+    "mv2d": {
+      "url": "https://youtu.be/BdTf_uKTqos",
+      "illust": "キノシタ"
+    }
   },
   "Brand New Day": {
     "titleKo": "Brand New Day",
@@ -456,9 +494,11 @@
   "ワンスアポンアドリーム": {
     "titleKo": "원스 어폰 어 드림",
     "announcement": "https://twitter.com/pj_sekai/status/1365906661789982721",
-    "mv2d": "https://youtu.be/1RoDmN9n8xE",
-    "illust": "村上ゆいち",
-    "movie": "omu",
+    "mv2d": {
+      "url": "https://youtu.be/1RoDmN9n8xE",
+      "illust": "村上ゆいち",
+      "movie": "omu"
+    },
     "mvExternal": {
       "type": "보컬로이드",
       "url": "https://youtu.be/S84mvlha5Fc"
@@ -467,8 +507,10 @@
   "ボッカデラベリタ": {
     "titleKo": "보카델라베리타",
     "announcement": "https://twitter.com/pj_sekai/status/1368080761136373761",
-    "mv2d": "https://youtu.be/ZjNUJUgyoOw",
-    "illust": "ORIHARA"
+    "mv2d": {
+      "url": "https://youtu.be/ZjNUJUgyoOw",
+      "illust": "ORIHARA"
+    }
   },
   "みくみくにしてあげる♪【してやんよ】": {
     "titleKo": "미쿠미쿠하게 해줄게♪ (해줄거야)",
@@ -514,8 +556,10 @@
   "「１」": {
     "titleKo": "「1」",
     "announcement": "https://twitter.com/pj_sekai/status/1384751726742278147",
-    "mv2d": "https://youtu.be/_GdIO1AANg4",
-    "illust": "三門",
+    "mv2d": {
+      "url": "https://youtu.be/_GdIO1AANg4",
+      "illust": "三門"
+    },
     "mvExternal": {
       "type": "보컬로이드",
       "url": "https://youtu.be/fobQOAOAdoE"
@@ -537,9 +581,11 @@
     "titleKo": "시네마",
     "titleEn": "Cinema",
     "announcement": "https://twitter.com/pj_sekai/status/1391017885493981186",
-    "mv2d": "https://youtu.be/8m1cUgLepmY",
-    "illust": "しづ",
-    "movie": "みず希",
+    "mv2d": {
+      "url": "https://youtu.be/8m1cUgLepmY",
+      "illust": "しづ",
+      "movie": "みず希"
+    },
     "mvExternal": {
       "type": "보컬로이드",
       "url": "https://youtu.be/EEbWRjavSVw"
@@ -552,9 +598,11 @@
   "アイノマテリアル": {
     "titleKo": "사랑의 마테리얼",
     "announcement": "https://twitter.com/pj_sekai/status/1395631273725423616",
-    "mv2d": "https://youtu.be/miLfbcfdqus",
-    "illust": "ajimita",
-    "movie": "omu",
+    "mv2d": {
+      "url": "https://youtu.be/miLfbcfdqus",
+      "illust": "ajimita",
+      "movie": "omu"
+    },
     "mvExternal": {
       "type": "보컬로이드",
       "url": "https://youtu.be/YsVmtXmpGEI"
@@ -584,10 +632,12 @@
   "カナデトモスソラ": {
     "titleKo": "연주하여 밝히는 하늘",
     "announcement": "https://twitter.com/pj_sekai/status/1406856694869610496",
-    "mv2d": "https://youtu.be/GTlQhMRHXIg",
-    "illust": "Rella",
-    "animation": "2P",
-    "movie": "omu"
+    "mv2d": {
+      "url": "https://youtu.be/GTlQhMRHXIg",
+      "illust": "Rella",
+      "movie": "omu",
+      "animation": "2P"
+    }
   },
   "トラフィック・ジャム": {
     "titleKo": "트래픽 잼",
@@ -606,10 +656,12 @@
   "Beat Eater": {
     "titleKo": "Beat Eater",
     "announcement": "https://twitter.com/pj_sekai/status/1413406491600584704",
-    "mv2d": "https://youtu.be/DaWbq6KeJq4",
-    "illust": "おぐち",
-    "movie": "omu",
-    "graffiti": "ズカ",
+    "mv2d": {
+      "url": "https://youtu.be/DaWbq6KeJq4",
+      "illust": "おぐち",
+      "movie": "omu",
+      "graffiti": "ズカ"
+    },
     "mvExternal": {
       "type": "보컬로이드",
       "url": "https://youtu.be/Rcc_BreWEMI"
@@ -618,14 +670,18 @@
   "六兆年と一夜物語": {
     "titleKo": "육조년과 하룻밤 이야기",
     "announcement": "https://twitter.com/pj_sekai/status/1414465609354551296",
-    "mv2d": "https://youtu.be/uDgikBUvIlQ",
-    "illust": "Ajimita"
+    "mv2d": {
+      "url": "https://youtu.be/uDgikBUvIlQ",
+      "illust": "Ajimita"
+    }
   },
   "地球最後の告白を": {
     "titleKo": "지구 최후의 고백을",
     "announcement": "https://twitter.com/pj_sekai/status/1417002552948781066",
-    "mv2d": "https://youtu.be/jSwRwYVjRg8",
-    "illust": "Aちき"
+    "mv2d": {
+      "url": "https://youtu.be/jSwRwYVjRg8",
+      "illust": "Aちき"
+    }
   },
   "ビターチョコデコレーション": {
     "titleKo": "비터 초코 데코레이션",
@@ -652,9 +708,11 @@
   "Glory Steady Go!": {
     "titleKo": "Glory Steady Go!",
     "announcement": "https://twitter.com/pj_sekai/status/1428599739755368456",
-    "mv2d": "https://youtu.be/JoM4JGqQyCU",
-    "illust": "宇崎うそ",
-    "movie": "野良いぬ",
+    "mv2d": {
+      "url": "https://youtu.be/JoM4JGqQyCU",
+      "illust": "宇崎うそ",
+      "movie": "野良いぬ"
+    },
     "mvExternal": {
       "type": "보컬로이드",
       "url": "https://youtu.be/Y-QhzXC9NbI"
@@ -668,17 +726,21 @@
   "magic number": {
     "titleKo": "magic number",
     "announcement": "https://twitter.com/pj_sekai/status/1432947581034766338",
-    "mv2d": "https://youtu.be/fzRWpcvPJYo",
-    "illust": "賀茂川",
-    "movie": "イクミ"
+    "mv2d": {
+      "url": "https://youtu.be/fzRWpcvPJYo",
+      "illust": "賀茂川",
+      "movie": "イクミ"
+    }
   },
   "流星のパルス": {
     "titleKo": "유성의 펄스",
     "titleEn": "Pulse of The Meteor",
     "announcement": "https://twitter.com/pj_sekai/status/1436209626438012957",
-    "mv2d": "https://youtu.be/hZgbqUQI64E",
-    "illust": "富岡二郎",
-    "movie": "omu",
+    "mv2d": {
+      "url": "https://youtu.be/hZgbqUQI64E",
+      "illust": "富岡二郎",
+      "movie": "omu"
+    },
     "mvExternal": {
       "type": "보컬로이드",
       "url": "https://youtu.be/8Zds1FvEtKw"
@@ -760,16 +822,20 @@
     "announcement": "https://twitter.com/pj_sekai/status/1447444410866692096"
   },
   "ray": {
-    "illust": "咲の字。",
-    "movie": "イクミ",
     "announcement": "https://twitter.com/pj_sekai/status/1447805282373890051",
-    "mv2d": "https://youtu.be/YkP0JMByjRM"
+    "mv2d": {
+      "url": "https://youtu.be/YkP0JMByjRM",
+      "illust": "咲の字。",
+      "movie": "イクミ"
+    }
   },
   "Hello,world!": {
     "announcement": "https://twitter.com/pj_sekai/status/1448167715122802688",
-    "mv2d": "https://youtu.be/B1nUc7LfZYA",
-    "illust": "LAM",
-    "movie": "omu"
+    "mv2d": {
+      "url": "https://youtu.be/B1nUc7LfZYA",
+      "illust": "LAM",
+      "movie": "omu"
+    }
   },
   "しっくおぶはうす！": {
     "titleKo": "식 오브 하우스!",
@@ -793,9 +859,11 @@
     "titleKo": "로워",
     "titleEn": "Lower",
     "announcement": "https://twitter.com/pj_sekai/status/1454691421919735811",
-    "mv2d": "https://youtu.be/16M9oC-a5bY",
-    "illust": "へちま",
-    "movie": "omu",
+    "mv2d": {
+      "url": "https://youtu.be/16M9oC-a5bY",
+      "illust": "へちま",
+      "movie": "omu"
+    },
     "mvExternal": {
       "type": "보컬로이드",
       "url": "https://youtu.be/3sEptl-psU0"
@@ -822,9 +890,11 @@
     "titleKo": "월드와이드 완더",
     "titleEn": "Worldwide Wander",
     "announcement": "https://twitter.com/pj_sekai/status/1469186806180900865",
-    "mv2d": "https://youtu.be/aO_ZCaoojh4",
-    "illust": "Rella",
-    "movie": "omu",
+    "mv2d": {
+      "url": "https://youtu.be/aO_ZCaoojh4",
+      "illust": "Rella",
+      "movie": "omu"
+    },
     "mvExternal": {
       "type": "보컬로이드",
       "url": "https://youtu.be/6NdOqVypgCM"
