@@ -114,10 +114,10 @@ function convertAsWikimediaTableRow(item) {
     `|${translateArtistOrAsIs(item.lyricist)}\n` + // 작사
     `|${translateArtistOrAsIs(item.composer)}\n` + // 작곡
     `|${translateArtistOrAsIs(item.arranger)}\n` + // 편곡
+    `|${stringifyCategories(item)}\n` +
     `|${translateArtistOrAsIs(manualMetadata[item.title]?.mv2d?.illust || "")}\n` + // 일러스트
     `|${translateArtistOrAsIs(manualMetadata[item.title]?.mv2d?.movie || "")}\n` + // 영상
     `|${linkYouTube(manualMetadata[item.title]?.mvExternal)}\n` + // 게임 외 버전
-    `|${stringifyCategories(item)}\n` +
     `|${formatReleaseDate(item)}\n`
   );
 }
@@ -137,10 +137,10 @@ await Deno.writeTextFile(
 !작사
 !작곡
 !편곡
-!일러스트
-!영상
-!게임 외 MV
 !MV
+!2DMV 일러스트
+!2DMV 영상
+!게임 외 MV
 !추가일
 ${musics.map(convertAsWikimediaTableRow).join("")}|}</onlyinclude>\n`
 );

@@ -9,10 +9,10 @@
 !작사
 !작곡
 !편곡
-!일러스트
-!영상
-!게임 외 MV
 !MV
+!2DMV 일러스트
+!2DMV 영상
+!게임 외 MV
 !추가일
 |-
 |Tell Your World
@@ -21,10 +21,10 @@
 |kz
 |kz
 |kz
-|
-|
-|
 |3DMV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1236982237159022595 2020년 3월 9일 (사전공개)]
 |-
 |넥스트 네스트
@@ -69,10 +69,10 @@
 |halyosy
 |halyosy
 |
-|
-|
-|
 |원곡MV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1236982237159022595 2020년 3월 9일 (사전공개)]
 |-
 |alive
@@ -93,10 +93,10 @@
 |미키토P
 |미키토P
 |미키토P
-|
-|
-|
 |3DMV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1186968196626014208 2019년 10월 23일 (사전공개)]
 |-
 |테오
@@ -105,10 +105,10 @@
 |Sakurai
 |Omoi
 |Omoi
-|
-|
-|
 |3DMV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1240205105200164865 2020년 3월 18일 (사전공개)]
 |-
 |불꽃 -Reloaded-
@@ -117,10 +117,10 @@
 |DECO*27
 |DECO*27
 |Rockwell
+|[https://youtu.be/i16qWEUjd4o 2DMV]
 |하치산
 |
 |
-|[https://youtu.be/i16qWEUjd4o 2DMV]
 |[https://twitter.com/pj_sekai/status/1247829575612035074 2020년 4월 8일 (사전공개)]
 |-
 |해피 신시사이저
@@ -129,10 +129,10 @@
 |EasyPop
 |EasyPop
 |
+|3DMV [https://youtu.be/xD3amnjfxac 2DMV]
 |모게랏타
 |
 |
-|3DMV [https://youtu.be/xD3amnjfxac 2DMV]
 |[https://twitter.com/pj_sekai/status/1236982237159022595 2020년 3월 9일 (사전공개)]
 |-
 |Nostalogic
@@ -141,10 +141,10 @@
 |yuukiss
 |yuukiss
 |
+|2DMV
 |anko
 |omu
 |
-|2DMV
 |[https://twitter.com/pj_sekai/status/1277799402652852224 2020년 6월 30일 (사전공개)]
 |-
 |누덕누덕 스타카토
@@ -153,10 +153,10 @@
 |토아
 |토아
 |토아
-|
-|
-|
 |3DMV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1242753762155876353 2020년 3월 25일 (사전공개)]
 |-
 |열등상등
@@ -165,10 +165,10 @@
 |Reol
 |Giga
 |Giga
-|
-|
-|
 |3DMV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1186968196626014208 2019년 10월 23일 (사전공개)]
 |-
 |닥터=펑크비트
@@ -189,10 +189,10 @@
 |누유리
 |누유리
 |누유리
+|[https://youtu.be/WDWgBLrw-Jg 3DMV] [https://youtu.be/9kZ6MPqj9Tg 2DMV]
 |레오엔
 |
 |
-|[https://youtu.be/WDWgBLrw-Jg 3DMV] [https://youtu.be/9kZ6MPqj9Tg 2DMV]
 |[https://twitter.com/pj_sekai/status/1276116804973150209 2020년 6월 25일 (사전공개)]
 |-
 |양철의 댄스
@@ -201,10 +201,10 @@
 |히나타 전공
 |히나타 전공
 |히나타 전공
-|
-|
-|
 |3DMV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1272725763146407938 2020년 6월 16일 (사전공개)]
 |-
 |스위트 매직
@@ -213,10 +213,10 @@
 |Junky
 |Junky
 |
-|
-|
-|
 |3DMV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1186968196626014208 2019년 10월 23일 (사전공개)]
 |-
 |모험의 서가 사라졌습니다!
@@ -225,10 +225,10 @@
 |지저스
 |지저스
 |원더풀☆오퍼튜니티!
-|
-|
-|
 |원곡MV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1285900755635859456 2020년 6월 22일 (사전공개)]
 |-
 |샤를
@@ -237,10 +237,10 @@
 |벌룬
 |벌룬
 |벌룬
-|
-|
-|
 |3DMV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1285900393776427012 2020년 6월 22일 (사전공개)]
 |-
 |헬로/하와유
@@ -261,10 +261,10 @@
 |사사노멀리
 |사사노멀리
 |
+|3DMV [https://youtu.be/n7ZmBBf5-7g 2DMV]
 |스오우
 |omu
 |
-|3DMV [https://youtu.be/n7ZmBBf5-7g 2DMV]
 |[https://twitter.com/pj_sekai/status/1236982237159022595 2020년 3월 9일 (사전공개)]
 |-
 |needLe
@@ -273,10 +273,10 @@
 |DECO*27
 |DECO*27
 |Rockwell
+|3DMV
 |
 |
 |[https://youtu.be/buoYwfZG4vQ 보컬로이드]
-|3DMV
 |[https://twitter.com/pj_sekai/status/1294201795737092097 2020년 8월 14일 (사전공개)]
 |-
 |아이돌신예대
@@ -285,10 +285,10 @@
 |Mitchie M
 |Mitchie M
 |Mitchie M
+|3DMV
 |
 |
 |[https://youtu.be/4QL9tLfVFJg 보컬로이드]
-|3DMV
 |[https://twitter.com/pj_sekai/status/1303619491499094016 2020년 9월 9일 (리허설)]
 |-
 |Ready Steady
@@ -297,10 +297,10 @@
 |q*Left
 |Giga
 |Giga
+|3DMV
 |
 |
 |[https://youtu.be/XAg1jDDG49Y 보컬로이드]
-|3DMV
 |[https://twitter.com/pj_sekai/status/1308694117958918145 2020년 9월 23일 (사전공개)]
 |-
 |세계는 아직 시작조차 하지 않았어
@@ -309,10 +309,10 @@
 |피노키오피
 |피노키오피
 |피노키오피
+|3DMV
 |
 |
 |[https://youtu.be/1s8NNPgdl5g 보컬로이드]
-|3DMV
 |[https://twitter.com/pj_sekai/status/1251089432574169088 2020년 4월 17일 (사전공개)]
 |-
 |후회한다 쓰고 미래
@@ -321,10 +321,10 @@
 |마후마후
 |마후마후
 |마후마후
+|3DMV
 |
 |
 |[https://nico.ms/sm36723146 셀프 커버]
-|3DMV
 |[https://twitter.com/pj_sekai/status/1252893774419652609 2020년 4월 22일 (사전공개)]
 |-
 |세카이
@@ -333,10 +333,10 @@
 |DECO*27
 |호리에 쇼타 (kemu)
 |Rockwell
-|
-|
-|
 |3DMV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1289141373589839872 2020년 7월 31일 (사전공개)]
 |-
 |워-워-월드
@@ -345,10 +345,10 @@
 |Mitchie M
 |Giga & Mitchie M
 |Giga
-|
-|
-|
 |3DMV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1290951301698707456 2020년 8월 5일 (사전공개)]
 |-
 |내일의 밤하늘 초계반
@@ -357,10 +357,10 @@
 |Orangestar
 |Orangestar
 |Rockwell
-|
-|
-|
 |원곡MV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1311550437581938693 2020년 10월 1일]
 |-
 |니어
@@ -369,10 +369,10 @@
 |나츠시로 타카아키
 |나츠시로 타카아키
 |와타나베 타쿠야
-|
-|
-|
 |3DMV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1311911158970896385 2020년 10월 2일]
 |-
 |Just Be Friends
@@ -381,10 +381,10 @@
 |Dixie Flatline
 |Dixie Flatline
 |
+|[https://youtu.be/esaV1kjzg_Q 2DMV]
 |Rella
 |omu
 |
-|[https://youtu.be/esaV1kjzg_Q 2DMV]
 |[https://twitter.com/pj_sekai/status/1312273069457596417 2020년 10월 3일]
 |-
 |탈법 록
@@ -393,10 +393,10 @@
 |Neru
 |Neru
 |
-|
-|
-|
 |원곡MV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1312634519774654464 2020년 10월 4일]
 |-
 |생명에게 미움받고 있어
@@ -405,10 +405,10 @@
 |칸자키 이오리
 |칸자키 이오리
 |칸자키 이오리
+|[https://youtu.be/F7iqxHOth58 2DMV]
 |산무YYB
 |omu
 |
-|[https://youtu.be/F7iqxHOth58 2DMV]
 |[https://twitter.com/pj_sekai/status/1312997418368081921 2020년 10월 5일]
 |-
 |월드 이즈 마인
@@ -429,10 +429,10 @@
 |나유탄 성인
 |나유탄 성인
 |나유탄 성인
-|
-|
-|
 |3DMV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1313721985961082882 2020년 10월 7일]
 |-
 |Hand in Hand
@@ -441,10 +441,10 @@
 |kz
 |kz
 |kz
-|
-|
-|
 |원곡MV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1314084951550128128 2020년 10월 8일]
 |-
 |야화 디세이브
@@ -453,10 +453,10 @@
 |진
 |진
 |진
-|
-|
-|
 |원곡MV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1314448842645880832 2020년 10월 9일]
 |-
 |Gimme×Gimme
@@ -477,10 +477,10 @@
 |Mitchie M
 |Mitchie M
 |Mitchie M
+|[https://youtu.be/zAkqd6iw-lo 2DMV]
 |apapico
 |omu
 |
-|[https://youtu.be/zAkqd6iw-lo 2DMV]
 |[https://twitter.com/pj_sekai/status/1315171303549140992 2020년 10월 11일]
 |-
 |정키 나이트 타운 오케스트라
@@ -501,10 +501,10 @@
 |OSTER project
 |OSTER project
 |OSTER project
+|원곡MV [https://youtu.be/kU4Rth300FM 2DMV]
 |BUZZ
 |omu
 |
-|원곡MV [https://youtu.be/kU4Rth300FM 2DMV]
 |[https://twitter.com/pj_sekai/status/1315896894132944896 2020년 10월 13일]
 |-
 |on the rocks
@@ -525,10 +525,10 @@
 |마후마후
 |마후마후
 |마후마후
+|[https://youtu.be/kNLyqES4fC8 2DMV]
 |모리쿠라 엔
 |omu
 |[https://nico.ms/sm36903498 셀프 커버]
-|[https://youtu.be/kNLyqES4fC8 2DMV]
 |[https://twitter.com/pj_sekai/status/1316621387545501698 2020년 10월 15일]
 |-
 |39뮤직!
@@ -537,10 +537,10 @@
 |미키토P
 |미키토P
 |
-|
-|
-|
 |원곡MV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1316983511446933505 2020년 10월 16일]
 |-
 |푸르게 달려라!
@@ -561,10 +561,10 @@
 |진
 |진
 |
+|3DMV
 |
 |
 |[https://nico.ms/sm37828296 보컬로이드]
-|3DMV
 |[https://twitter.com/pj_sekai/status/1317815863987240962 2020년 10월 18일]
 |-
 |Leia - Remind
@@ -585,10 +585,10 @@
 |syudou
 |syudou
 |syudou
+|원곡MV [https://youtu.be/J9kD9rYR088 2DMV]
 |루즈키
 |Lye
 |[https://youtu.be/B2llCEKbxwA 보컬로이드]
-|원곡MV [https://youtu.be/J9kD9rYR088 2DMV]
 |[https://twitter.com/pj_sekai/status/1318433933600595969 2020년 10월 20일]
 |-
 |멜티 랜드 나이트메어
@@ -597,10 +597,10 @@
 |하루마키고항
 |하루마키고항
 |하루마키고항
-|
-|
-|
 |3DMV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1320245172874039298 2020년 10월 25일]
 |-
 |소녀해부
@@ -609,10 +609,10 @@
 |DECO*27
 |DECO*27
 |emon(Tes.) & Rockwell
-|
-|
-|
 |원곡MV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1322781758509645825 2020년 11월 1일]
 |-
 |potato가 되어가
@@ -621,10 +621,10 @@
 |Neru
 |Neru
 |Neru
-|
-|
-|
 |3DMV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1325062968090849284 2020년 11월 7일]
 |-
 |롤링 걸
@@ -645,10 +645,10 @@
 |나유탄 성인
 |나유탄 성인
 |나유탄 성인
+|[https://youtu.be/SKbutknpQ_I 2DMV]
 |BUZZ
 |omu
 |
-|[https://youtu.be/SKbutknpQ_I 2DMV]
 |[https://twitter.com/pj_sekai/status/1329306995367690249 2020년 11월 19일]
 |-
 |겉과 속의 러버즈
@@ -681,10 +681,10 @@
 |피노키오피
 |피노키오피
 |피노키오피
-|
-|
-|
 |원곡MV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1333297267344777216 2020년 11월 30일]
 |-
 |갯나리 해저담
@@ -693,10 +693,10 @@
 |n-buna
 |n-buna
 |n-buna
-|
-|
-|
 |3DMV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1333653315620519938 2020년 12월 1일]
 |-
 |Forward
@@ -705,10 +705,10 @@
 |R Sound Design
 |R Sound Design
 |R Sound Design
+|3DMV
 |
 |
 |[https://youtu.be/crCS77wqxTI 보컬로이드]
-|3DMV
 |[https://twitter.com/pj_sekai/status/1336296722062983168 2020년 12월 8일]
 |-
 |혼자 놀기 엔비
@@ -717,10 +717,10 @@
 |koyori
 |koyori
 |koyori
-|
-|
-|
 |3DMV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1338364369793503233 2020년 12월 14일]
 |-
 |무지개색 스토리즈
@@ -729,10 +729,10 @@
 |OSTER project
 |OSTER project
 |OSTER project
+|[https://youtu.be/EIUO-fPrkSo 2DMV]
 |타마
 |omu
 |[https://youtu.be/WztzykQSkgM 보컬로이드]
-|[https://youtu.be/EIUO-fPrkSo 2DMV]
 |[https://twitter.com/pj_sekai/status/1340541015371915264 2020년 12월 20일]
 |-
 |ODDS&ENDS
@@ -753,10 +753,10 @@
 |Eve
 |Eve
 |Numa
-|
-|
-|
 |원곡MV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1343437491223707653 2020년 12월 28일]
 |-
 |그린라이츠 세레나데
@@ -765,10 +765,10 @@
 |Sakurai
 |Omoi
 |Omoi
-|
-|
-|
 |원곡MV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1343799842477240320 2020년 12월 29일]
 |-
 |연애재판
@@ -777,10 +777,10 @@
 |40mP
 |40mP
 |40mP
+|원곡MV [https://youtu.be/mqrp4SfMJwk 2DMV]
 |타마
 |
 |
-|원곡MV [https://youtu.be/mqrp4SfMJwk 2DMV]
 |[https://twitter.com/pj_sekai/status/1344162616667561984 2020년 12월 30일]
 |-
 |*헬로, 플래닛.
@@ -789,10 +789,10 @@
 |sasakure.UK
 |sasakure.UK
 |sasakure.UK
-|
-|
-|
 |원곡MV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1344526859451527169 2020년 12월 31일]
 |-
 |천본앵
@@ -813,10 +813,10 @@
 |Crusher P
 |Crusher P
 |
+|[https://youtu.be/4z9Mg8sbFeU 2DMV]
 |시키미
 |omu
 |
-|[https://youtu.be/4z9Mg8sbFeU 2DMV]
 |[https://twitter.com/pj_sekai/status/1345249458552934400 2021년 1월 2일]
 |-
 |츄루리라 츄루리라 닷닷다!
@@ -825,10 +825,10 @@
 |와다 타테아키 (쿠라게P)
 |와다 타테아키 (쿠라게P)
 |와다 타테아키 (쿠라게P)
-|
-|
-|
 |3DMV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1345612126707015681 2021년 1월 3일]
 |-
 |블레스 유어 브레스
@@ -837,10 +837,10 @@
 |와다 타테아키
 |와다 타테아키
 |와다 타테아키
-|
-|
-|
 |원곡MV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1345974908732329984 2021년 1월 4일]
 |-
 |너무 아파 아프고 싶어
@@ -861,10 +861,10 @@
 |Orangestar
 |Orangestar
 |Orangestar
+|[https://youtu.be/70ZLvDTonqI 2DMV]
 |아메무라
 |omu
 |[https://youtu.be/wvlUWjqGQSA 보컬로이드]
-|[https://youtu.be/70ZLvDTonqI 2DMV]
 |[https://twitter.com/pj_sekai/status/1348150344803524612 2021년 1월 10일]
 |-
 |월즈 엔드 댄스홀
@@ -885,10 +885,10 @@
 |레오루
 |기가
 |기가
-|
-|
-|
 |원곡MV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1351047656710221825 2021년 1월 18일]
 |-
 |Color of Drops
@@ -897,10 +897,10 @@
 |40mP
 |40mP
 |40mP
+|3DMV
 |
 |
 |[https://youtu.be/i5rl-NGSYoo 보컬로이드]
-|3DMV
 |[https://twitter.com/pj_sekai/status/1355141142182944778 2021년 1월 29일]
 |-
 |RAD DOGS
@@ -909,10 +909,10 @@
 |q*Left
 |하치오지P
 |하치오지P
+|[https://youtu.be/ZMbWDpC1N7s 2DMV]
 |Rella
 |omu
 |
-|[https://youtu.be/ZMbWDpC1N7s 2DMV]
 |[https://twitter.com/pj_sekai/status/1355760937903419394 2021년 1월 31일]
 |-
 |밀크크라운 온 소네치카
@@ -933,10 +933,10 @@
 |164
 |40mP
 |1640mP
+|3DMV [https://youtu.be/s1yW2jPJiVE 2DMV]
 |타마
 |미즈키
 |
-|3DMV [https://youtu.be/s1yW2jPJiVE 2DMV]
 |[https://twitter.com/pj_sekai/status/1359382755977568256 2021년 2월 10일]
 |-
 |drop pop candy
@@ -945,10 +945,10 @@
 |레오루
 |기가
 |기가
-|
-|
-|
 |3DMV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1361195682556637184 2021년 2월 15일]
 |-
 |포지티브☆댄스타임
@@ -957,10 +957,10 @@
 |키노시타
 |키노시타
 |키노시타
+|[https://youtu.be/BdTf_uKTqos 2DMV]
 |키노시타
 |
 |
-|[https://youtu.be/BdTf_uKTqos 2DMV]
 |[https://twitter.com/pj_sekai/status/1362644038659104768 2021년 2월 19일]
 |-
 |Brand New Day
@@ -981,10 +981,10 @@
 |스리이
 |스리이
 |스리이
+|3DMV
 |
 |
 |[https://youtu.be/cwLlHFMlBNQ 보컬로이드]
-|3DMV
 |[https://twitter.com/pj_sekai/status/1365289725448179713 2021년 2월 26일]
 |-
 |원스 어폰 어 드림
@@ -993,10 +993,10 @@
 |YASUHIRO(야스히로)
 |YASUHIRO(야스히로)
 |YASUHIRO(야스히로)
+|[https://youtu.be/1RoDmN9n8xE 2DMV]
 |무라카미 유이치
 |omu
 |[https://youtu.be/S84mvlha5Fc 보컬로이드]
-|[https://youtu.be/1RoDmN9n8xE 2DMV]
 |[https://twitter.com/pj_sekai/status/1365906661789982721 2021년 2월 28일]
 |-
 |보카델라베리타
@@ -1005,10 +1005,10 @@
 |히이라기 키라이
 |히이라기 키라이
 |히이라기 키라이
+|[https://youtu.be/ZjNUJUgyoOw 2DMV]
 |ORIHARA
 |
 |
-|[https://youtu.be/ZjNUJUgyoOw 2DMV]
 |[https://twitter.com/pj_sekai/status/1368080761136373761 2021년 3월 6일]
 |-
 |미쿠미쿠하게 해줄게♪ (해줄거야)
@@ -1029,10 +1029,10 @@
 |우메토라
 |우메토라
 |우메토라
-|
-|
-|
 |3DMV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1371342236823089155 2021년 3월 15일]
 |-
 |from Y to Y
@@ -1065,10 +1065,10 @@
 |DIVELA
 |DIVELA
 |DIVELA
+|3DMV
 |
 |
 |[https://youtu.be/lFJA9muTUDM 보컬로이드]
-|3DMV
 |[https://twitter.com/pj_sekai/status/1376887469233217539 2021년 3월 30일]
 |-
 |마음에 드시는 대로
@@ -1077,10 +1077,10 @@
 |Eve
 |Eve
 |Numa
-|
-|
-|
 |3DMV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1378952424887525377 2021년 4월 5일]
 |-
 |드리밍 츄츄
@@ -1089,10 +1089,10 @@
 |emon(Tes.)
 |emon(Tes.)
 |emon(Tes.)
-|
-|
-|
 |원곡MV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1381488998904864770 2021년 4월 12일]
 |-
 |아이디스마일
@@ -1101,10 +1101,10 @@
 |토아
 |토아
 |토아
+|3DMV
 |
 |
 |[https://youtu.be/X_6EPkvIAGg 보컬로이드]
-|3DMV
 |[https://twitter.com/pj_sekai/status/1384134595549941764 2021년 4월 19일]
 |-
 |「1」
@@ -1113,10 +1113,10 @@
 |164
 |164
 |164
+|[https://youtu.be/_GdIO1AANg4 2DMV]
 |산먼
 |
 |[https://youtu.be/fobQOAOAdoE 보컬로이드]
-|[https://youtu.be/_GdIO1AANg4 2DMV]
 |[https://twitter.com/pj_sekai/status/1384751726742278147 2021년 4월 21일]
 |-
 |꽃을 노래하다
@@ -1161,10 +1161,10 @@
 |Ayase
 |Ayase
 |Ayase
+|3DMV [https://youtu.be/8m1cUgLepmY 2DMV]
 |시즈
 |미즈키
 |[https://youtu.be/EEbWRjavSVw 보컬로이드]
-|3DMV [https://youtu.be/8m1cUgLepmY 2DMV]
 |[https://twitter.com/pj_sekai/status/1391017885493981186 2021년 5월 8일]
 |-
 |KING
@@ -1185,10 +1185,10 @@
 |Junky
 |Junky
 |Junky
+|[https://youtu.be/miLfbcfdqus 2DMV]
 |ajimita
 |omu
 |[https://youtu.be/YsVmtXmpGEI 보컬로이드]
-|[https://youtu.be/miLfbcfdqus 2DMV]
 |[https://twitter.com/pj_sekai/status/1395631273725423616 2021년 5월 21일]
 |-
 |가지 마
@@ -1197,10 +1197,10 @@
 |소타
 |소타
 |
-|
-|
-|
 |3DMV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1398158881491091458 2021년 5월 28일]
 |-
 |로미오와 신데렐라
@@ -1209,10 +1209,10 @@
 |doriko
 |doriko
 |doriko
-|
-|
-|
 |3DMV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1401782424975986690 2021년 6월 7일]
 |-
 |거품미래
@@ -1233,10 +1233,10 @@
 |sasakure.UK
 |sasakure.UK
 |sasakure.UK (Key 키시다 유우키 (UK램피지))
+|[https://youtu.be/vI5xihka9hw 3DMV]
 |
 |
 |[https://youtu.be/dBQg24mx45Y 보컬로이드]
-|[https://youtu.be/vI5xihka9hw 3DMV]
 |[https://twitter.com/pj_sekai/status/1406241355366428676 2021년 6월 19일]
 |-
 |연주하여 밝히는 하늘
@@ -1245,10 +1245,10 @@
 |Sasanomaly
 |Sasanomaly
 |Sasanomaly
+|[https://youtu.be/GTlQhMRHXIg 2DMV]
 |Rella
 |omu
 |
-|[https://youtu.be/GTlQhMRHXIg 2DMV]
 |[https://twitter.com/pj_sekai/status/1406856694869610496 2021년 6월 21일]
 |-
 |트래픽 잼
@@ -1257,10 +1257,10 @@
 |니루 카지츠
 |니루 카지츠
 |니루 카지츠
-|
-|
-|
 |원곡MV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1410117727377772545 2021년 6월 30일]
 |-
 |프롬 도쿄
@@ -1269,10 +1269,10 @@
 |나츠시로 타카아키
 |나츠시로 타카아키・와타나베 타쿠야
 |와타나베 타쿠야
+|3DMV
 |
 |
 |[https://youtu.be/mMiLWxuffdQ 보컬로이드]
-|3DMV
 |[https://twitter.com/pj_sekai/status/1412761181954007042 2021년 7월 7일]
 |-
 |Beat Eater
@@ -1281,10 +1281,10 @@
 |폴리스 피카딜리
 |폴리스 피카딜리
 |폴리스 피카딜리
+|[https://youtu.be/DaWbq6KeJq4 2DMV]
 |오구치
 |omu
 |[https://youtu.be/Rcc_BreWEMI 보컬로이드]
-|[https://youtu.be/DaWbq6KeJq4 2DMV]
 |[https://twitter.com/pj_sekai/status/1413406491600584704 2021년 7월 9일]
 |-
 |육조년과 하룻밤 이야기
@@ -1293,10 +1293,10 @@
 |kemu
 |kemu
 |kemu
+|[https://youtu.be/uDgikBUvIlQ 2DMV]
 |Ajimita
 |
 |
-|[https://youtu.be/uDgikBUvIlQ 2DMV]
 |[https://twitter.com/pj_sekai/status/1414465609354551296 2021년 7월 12일]
 |-
 |지구 최후의 고백을
@@ -1305,10 +1305,10 @@
 |kemu
 |kemu
 |kemu
+|[https://youtu.be/jSwRwYVjRg8 2DMV]
 |A치키
 |
 |
-|[https://youtu.be/jSwRwYVjRg8 2DMV]
 |[https://twitter.com/pj_sekai/status/1417002552948781066 2021년 7월 19일]
 |-
 |비터 초코 데코레이션
@@ -1317,10 +1317,10 @@
 |syudou
 |syudou
 |syudou
-|
-|
-|
 |[https://youtu.be/vnTW9sS-9P4 3DMV]
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1420264708133642242 2021년 7월 28일]
 |-
 |그랬어!!
@@ -1353,10 +1353,10 @@
 |aqu3ra
 |aqu3ra
 |aqu3ra
+|3DMV
 |
 |
 |[https://youtu.be/WXvm5XfkXrk 보컬로이드]
-|3DMV
 |[https://twitter.com/pj_sekai/status/1427981917354303495 2021년 8월 18일]
 |-
 |Glory Steady Go!
@@ -1365,10 +1365,10 @@
 |키노시타
 |키노시타
 |키노시타
+|[https://youtu.be/JoM4JGqQyCU 2DMV]
 |우자키 우소
 |노라이누
 |[https://youtu.be/Y-QhzXC9NbI 보컬로이드]
-|[https://youtu.be/JoM4JGqQyCU 2DMV]
 |[https://twitter.com/pj_sekai/status/1428599739755368456 2021년 8월 20일]
 |-
 |칠드런 레코드
@@ -1377,10 +1377,10 @@
 |진
 |진
 |진
-|
-|
-|
 |3DMV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1429688575629561858 2021년 8월 23일]
 |-
 |magic number
@@ -1389,10 +1389,10 @@
 |이토 켄토
 |이토 켄토
 |OSTER project
+|[https://youtu.be/fzRWpcvPJYo 2DMV]
 |카모가와
 |이쿠미
 |
-|[https://youtu.be/fzRWpcvPJYo 2DMV]
 |[https://twitter.com/pj_sekai/status/1432947581034766338 2021년 9월 1일]
 |-
 |유성의 펄스
@@ -1401,10 +1401,10 @@
 |*Luna
 |*Luna
 |*Luna
+|[https://youtu.be/hZgbqUQI64E 2DMV]
 |토미오카 지로
 |omu
 |[https://youtu.be/8Zds1FvEtKw 보컬로이드]
-|[https://youtu.be/hZgbqUQI64E 2DMV]
 |[https://twitter.com/pj_sekai/status/1436209626438012957 2021년 9월 10일]
 |-
 |커틀러리
@@ -1413,10 +1413,10 @@
 |유기산
 |유기산
 |유기산
-|
-|
-|
 |원곡MV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1440197473725603843 2021년 9월 21일]
 |-
 |재생
@@ -1425,10 +1425,10 @@
 |Picon
 |Picon
 |Picon
+|3DMV
 |
 |
 |[https://youtu.be/purlnb5K_jM 보컬로이드]
-|3DMV
 |[https://twitter.com/pj_sekai/status/1443201940301570056 2021년 9월 29일]
 |-
 |군청찬가
@@ -1437,10 +1437,10 @@
 |Eve
 |Eve
 |Numa
+|3DMV
 |
 |
 |[https://nico.ms/sm39411572 보컬로이드]
-|3DMV
 |[https://twitter.com/pj_sekai/status/1443234679524495361 2021년 9월 29일]
 |-
 |노심융해
@@ -1461,10 +1461,10 @@
 |Neru
 |Neru
 |
-|
-|
-|
 |3DMV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1444181545565052934 2021년 10월 2일]
 |-
 |머신건 포엠 돌
@@ -1475,8 +1475,8 @@
 |cosMo@폭주P
 |
 |
-|[https://youtu.be/UgZFpO_Y6qo 보컬로이드]
 |
+|[https://youtu.be/UgZFpO_Y6qo 보컬로이드]
 |[https://twitter.com/pj_sekai/status/1444544427452604418 2021년 10월 3일]
 |-
 |베놈
@@ -1509,10 +1509,10 @@
 |스리이
 |스리이
 |스리이
-|
-|
-|
 |원곡MV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1445632027538063366 2021년 10월 6일]
 |-
 |토키오 펀카
@@ -1521,10 +1521,10 @@
 |takamatt
 |takamatt
 |takamatt
-|
-|
-|
 |원곡MV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1445993621052821504 2021년 10월 7일]
 |-
 |악마가 춤추는 법
@@ -1533,10 +1533,10 @@
 |키타니 타츠야
 |키타니 타츠야
 |
-|
-|
-|
 |3DMV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1446355759973888002 2021년 10월 8일]
 |-
 |누군가의 심장이 될 수 있다면
@@ -1545,10 +1545,10 @@
 |유리이・카논
 |유리이・카논
 |유리이・카논
-|
-|
-|
 |원곡MV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1446717985750609923 2021년 10월 9일]
 |-
 |마슈마리
@@ -1581,10 +1581,10 @@
 |후지와라 모토오
 |후지와라 모토오
 |
+|3DMV [https://youtu.be/YkP0JMByjRM 2DMV]
 |사키노지.
 |이쿠미
 |
-|3DMV [https://youtu.be/YkP0JMByjRM 2DMV]
 |[https://twitter.com/pj_sekai/status/1447805282373890051 2021년 10월 12일]
 |-
 |Hello,world!
@@ -1593,10 +1593,10 @@
 |후지와라 모토오
 |후지와라 모토오
 |
+|[https://youtu.be/B1nUc7LfZYA 2DMV]
 |LAM
 |omu
 |
-|[https://youtu.be/B1nUc7LfZYA 2DMV]
 |[https://twitter.com/pj_sekai/status/1448167715122802688 2021년 10월 13일]
 |-
 |식 오브 하우스!
@@ -1617,10 +1617,10 @@
 |카라스야사보오
 |카라스야사보오
 |카라스야사보오
+|3DMV
 |
 |
 |[https://youtu.be/uDBVetc5JKo 보컬로이드]
-|3DMV
 |[https://twitter.com/pj_sekai/status/1454073998946365450 2021년 10월 29일]
 |-
 |Happy Halloween
@@ -1629,10 +1629,10 @@
 |Junky
 |Junky
 |Junky
-|
-|
-|
 |원곡MV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1454328223471341572 2021년 10월 30일]
 |-
 |로워
@@ -1641,10 +1641,10 @@
 |누유리
 |누유리
 |누유리
+|[https://youtu.be/16M9oC-a5bY 2DMV]
 |헤치마
 |omu
 |[https://youtu.be/3sEptl-psU0 보컬로이드]
-|[https://youtu.be/16M9oC-a5bY 2DMV]
 |[https://twitter.com/pj_sekai/status/1454691421919735811 2021년 10월 31일]
 |-
 |하츠네천지개벽신화
@@ -1653,10 +1653,10 @@
 |cosMo@폭주P
 |cosMo@폭주P
 |cosMo@폭주P
-|
-|
-|
 |원곡MV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1456502932413706242 2021년 11월 5일]
 |-
 |얼터 에고
@@ -1677,10 +1677,10 @@
 |하리하라 츠바사 (하리P)
 |하리하라 츠바사 (하리P)
 |타나하시 EDDY 테루아키
-|
-|
-|
 |3DMV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1461320919839051776 2021년 11월 18일]
 |-
 |꼭두각시 피에로
@@ -1689,10 +1689,10 @@
 |40mP
 |40mP
 |40mP
-|
-|
-|
 |3DMV
+|
+|
+|
 |[https://twitter.com/pj_sekai/status/1465200666373427200 2021년 11월 29일]
 |-
 |월드와이드 완더
@@ -1701,10 +1701,10 @@
 |TOKOTOKO
 |TOKOTOKO
 |TOKOTOKO
+|[https://youtu.be/aO_ZCaoojh4 2DMV]
 |Rella
 |omu
 |[https://youtu.be/6NdOqVypgCM 보컬로이드]
-|[https://youtu.be/aO_ZCaoojh4 2DMV]
 |[https://twitter.com/pj_sekai/status/1469186806180900865 2021년 12월 10일]
 |-
 |악의 딸
