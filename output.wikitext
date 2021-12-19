@@ -6,6 +6,7 @@
 !제목
 !원제
 !영문 제목
+!오리지널
 !작사
 !작곡
 !편곡
@@ -18,6 +19,7 @@
 |Tell Your World
 |lang=ja|Tell Your World
 |Tell Your World
+|
 |kz
 |kz
 |kz
@@ -30,6 +32,7 @@
 |넥스트 네스트
 |lang=ja|ネクストネスト
 |NEXT NEST
+|
 |사츠키 가 텐코모리
 |사츠키 가 텐코모리
 |
@@ -42,6 +45,7 @@
 |멜트
 |lang=ja|メルト
 |Melt
+|
 |ryo
 |ryo
 |ryo
@@ -54,6 +58,7 @@
 |하츠네 미쿠의 소실
 |lang=ja|初音ミクの消失
 |THE END OF HATSUNE MIKU
+|
 |cosMo@폭주P
 |cosMo@폭주P
 |
@@ -66,6 +71,7 @@
 |Blessing
 |lang=ja|Blessing
 |Blessing
+|
 |halyosy
 |halyosy
 |
@@ -78,6 +84,7 @@
 |alive
 |lang=ja|alive
 |alive
+|
 |이치노세 루포
 |이치노세 루포
 |
@@ -90,6 +97,7 @@
 |로키
 |lang=ja|ロキ
 |ROKI
+|
 |미키토P
 |미키토P
 |미키토P
@@ -102,6 +110,7 @@
 |테오
 |lang=ja|テオ
 |Teo
+|
 |Sakurai
 |Omoi
 |Omoi
@@ -114,6 +123,7 @@
 |불꽃 -Reloaded-
 |lang=ja|ヒバナ -Reloaded-
 |HIBANA -Reloaded-
+|
 |DECO*27
 |DECO*27
 |Rockwell
@@ -126,6 +136,7 @@
 |해피 신시사이저
 |lang=ja|ハッピーシンセサイザ
 |Happy Synthesizer
+|
 |EasyPop
 |EasyPop
 |
@@ -138,6 +149,7 @@
 |Nostalogic
 |lang=ja|Nostalogic
 |Nostalogic
+|
 |yuukiss
 |yuukiss
 |
@@ -150,6 +162,7 @@
 |누덕누덕 스타카토
 |lang=ja|ツギハギスタッカート
 |Patchwork Staccato
+|
 |토아
 |토아
 |토아
@@ -162,6 +175,7 @@
 |열등상등
 |lang=ja|劣等上等
 |BRING IT ON
+|
 |Reol
 |Giga
 |Giga
@@ -174,6 +188,7 @@
 |닥터=펑크비트
 |lang=ja|ドクター=ファンクビート
 |Doctor=Funk Beat
+|
 |nyanyannya
 |nyanyannya
 |
@@ -186,6 +201,7 @@
 |프래질
 |lang=ja|フラジール
 |Fragile
+|
 |누유리
 |누유리
 |누유리
@@ -198,6 +214,7 @@
 |양철의 댄스
 |lang=ja|ブリキノダンス
 |BURIKI NO DANCE
+|
 |히나타 전공
 |히나타 전공
 |히나타 전공
@@ -210,6 +227,7 @@
 |스위트 매직
 |lang=ja|スイートマジック
 |Sweet Magic
+|
 |Junky
 |Junky
 |
@@ -222,6 +240,7 @@
 |모험의 서가 사라졌습니다!
 |lang=ja|ぼうけんのしょがきえました！
 |Your Adventure Log Has Vanished!
+|
 |지저스
 |지저스
 |원더풀☆오퍼튜니티!
@@ -234,6 +253,7 @@
 |샤를
 |lang=ja|シャルル
 |Charles
+|
 |벌룬
 |벌룬
 |벌룬
@@ -246,6 +266,7 @@
 |헬로/하와유
 |lang=ja|ハロ／ハワユ
 |Hello/How Are You?
+|
 |나노우
 |나노우
 |
@@ -258,6 +279,7 @@
 |자상무색
 |lang=ja|自傷無色
 |Jishoumushoku
+|
 |사사노멀리
 |사사노멀리
 |
@@ -270,6 +292,7 @@
 |needLe
 |lang=ja|needLe
 |needLe
+|✔️
 |DECO*27
 |DECO*27
 |Rockwell
@@ -282,6 +305,7 @@
 |아이돌신예대
 |lang=ja|アイドル新鋭隊
 |Newly Edgy Idols
+|✔️
 |Mitchie M
 |Mitchie M
 |Mitchie M
@@ -294,6 +318,7 @@
 |Ready Steady
 |lang=ja|Ready Steady
 |Ready Steady
+|✔️
 |q*Left
 |Giga
 |Giga
@@ -306,6 +331,7 @@
 |세계는 아직 시작조차 하지 않았어
 |lang=ja|セカイはまだ始まってすらいない
 |The World Hasn't Even Started Yet
+|✔️
 |피노키오피
 |피노키오피
 |피노키오피
@@ -318,6 +344,7 @@
 |후회한다 쓰고 미래
 |lang=ja|悔やむと書いてミライ
 |Composing the Future
+|✔️
 |마후마후
 |마후마후
 |마후마후
@@ -330,6 +357,7 @@
 |세카이
 |lang=ja|セカイ
 |SEKAI
+|✔️
 |DECO*27
 |호리에 쇼타 (kemu)
 |Rockwell
@@ -342,6 +370,7 @@
 |워-워-월드
 |lang=ja|ワーワーワールド
 |Wah Wah World
+|✔️
 |Mitchie M
 |Giga & Mitchie M
 |Giga
@@ -354,6 +383,7 @@
 |내일의 밤하늘 초계반
 |lang=ja|アスノヨゾラ哨戒班
 |Night Sky Patrol of Tomorrow
+|
 |Orangestar
 |Orangestar
 |Rockwell
@@ -366,6 +396,7 @@
 |니어
 |lang=ja|ニア
 |Near
+|
 |나츠시로 타카아키
 |나츠시로 타카아키
 |와타나베 타쿠야
@@ -378,6 +409,7 @@
 |Just Be Friends
 |lang=ja|Just Be Friends
 |Just Be Friends
+|
 |Dixie Flatline
 |Dixie Flatline
 |
@@ -390,6 +422,7 @@
 |탈법 록
 |lang=ja|脱法ロック
 |Law-evading Rock
+|
 |Neru
 |Neru
 |
@@ -402,6 +435,7 @@
 |생명에게 미움받고 있어
 |lang=ja|命に嫌われている
 |Hated by Life
+|
 |칸자키 이오리
 |칸자키 이오리
 |칸자키 이오리
@@ -414,6 +448,7 @@
 |월드 이즈 마인
 |lang=ja|ワールドイズマイン
 |The World is Mine
+|
 |ryo
 |ryo
 |ryo
@@ -426,6 +461,7 @@
 |댄스 로봇 댄스
 |lang=ja|ダンスロボットダンス
 |Dance Robot Dance
+|
 |나유탄 성인
 |나유탄 성인
 |나유탄 성인
@@ -438,6 +474,7 @@
 |Hand in Hand
 |lang=ja|Hand in Hand
 |Hand in Hand
+|
 |kz
 |kz
 |kz
@@ -450,6 +487,7 @@
 |야화 디세이브
 |lang=ja|夜咄ディセイブ
 |Yobanashi Deceive
+|
 |진
 |진
 |진
@@ -462,6 +500,7 @@
 |Gimme×Gimme
 |lang=ja|Gimme×Gimme
 |Gimme×Gimme
+|
 |q*Left
 |하치오지P / Giga
 |하치오지P / Giga
@@ -474,6 +513,7 @@
 |비바 해피
 |lang=ja|ビバハピ
 |Viva Happy
+|
 |Mitchie M
 |Mitchie M
 |Mitchie M
@@ -486,6 +526,7 @@
 |정키 나이트 타운 오케스트라
 |lang=ja|ジャンキーナイトタウンオーケストラ
 |junky nighttown orchestra
+|
 |스리이
 |스리이
 |
@@ -498,6 +539,7 @@
 |미라클 페인트
 |lang=ja|ミラクルペイント
 |Miracle Paint
+|
 |OSTER project
 |OSTER project
 |OSTER project
@@ -510,6 +552,7 @@
 |on the rocks
 |lang=ja|on the rocks
 |on the rocks
+|
 |OSTER project
 |OSTER project
 |OSTER project
@@ -522,6 +565,7 @@
 |휴대연화
 |lang=ja|携帯恋話
 |Cellphone Love Story
+|✔️
 |마후마후
 |마후마후
 |마후마후
@@ -534,6 +578,7 @@
 |39뮤직!
 |lang=ja|39みゅーじっく！
 |39Music!
+|
 |미키토P
 |미키토P
 |
@@ -546,6 +591,7 @@
 |푸르게 달려라!
 |lang=ja|青く駆けろ！
 |Aoku Kakero!
+|
 |마라시
 |마라시
 |
@@ -558,6 +604,7 @@
 |스텔라
 |lang=ja|ステラ
 |Stella
+|✔️
 |진
 |진
 |
@@ -570,6 +617,7 @@
 |Leia - Remind
 |lang=ja|Leia - Remind
 |Leia - Remind
+|
 |유요윳페
 |유요윳페
 |유요윳페
@@ -582,6 +630,7 @@
 |잭팟 새드 걸
 |lang=ja|ジャックポットサッドガール
 |Jack Pot Sad Girl
+|✔️
 |syudou
 |syudou
 |syudou
@@ -594,6 +643,7 @@
 |멜티 랜드 나이트메어
 |lang=ja|メルティランドナイトメア
 |Melty Land Nightmare
+|
 |하루마키고항
 |하루마키고항
 |하루마키고항
@@ -606,6 +656,7 @@
 |소녀해부
 |lang=ja|乙女解剖
 |Otome Dissection
+|
 |DECO*27
 |DECO*27
 |emon(Tes.) & Rockwell
@@ -618,6 +669,7 @@
 |potato가 되어가
 |lang=ja|potatoになっていく
 |Becoming Potatoes
+|✔️
 |Neru
 |Neru
 |Neru
@@ -630,6 +682,7 @@
 |롤링 걸
 |lang=ja|ローリンガール
 |Rollin Girl
+|
 |wowaka
 |wowaka
 |wowaka
@@ -642,6 +695,7 @@
 |모어! 점프! 모어!
 |lang=ja|モア！ジャンプ！モア！
 |
+|✔️
 |나유탄 성인
 |나유탄 성인
 |나유탄 성인
@@ -653,6 +707,7 @@
 |-
 |겉과 속의 러버즈
 |lang=ja|裏表ラバーズ
+|
 |
 |wowaka
 |wowaka
@@ -666,6 +721,7 @@
 |언노운 마더 구스
 |lang=ja|アンノウン・マザーグース
 |
+|
 |wowaka
 |wowaka
 |wowaka
@@ -677,6 +733,7 @@
 |-
 |사랑받지 않아도 네가 있어
 |lang=ja|愛されなくても君がいる
+|
 |
 |피노키오피
 |피노키오피
@@ -690,6 +747,7 @@
 |갯나리 해저담
 |lang=ja|ウミユリ海底譚
 |Tale of the Deep-sea Lily
+|
 |n-buna
 |n-buna
 |n-buna
@@ -702,6 +760,7 @@
 |Forward
 |lang=ja|Forward
 |Forward
+|✔️
 |R Sound Design
 |R Sound Design
 |R Sound Design
@@ -714,6 +773,7 @@
 |혼자 놀기 엔비
 |lang=ja|独りんぼエンヴィー
 |Hitorinbo Envy
+|
 |koyori
 |koyori
 |koyori
@@ -726,6 +786,7 @@
 |무지개색 스토리즈
 |lang=ja|ニジイロストーリーズ
 |
+|✔️
 |OSTER project
 |OSTER project
 |OSTER project
@@ -738,6 +799,7 @@
 |ODDS&ENDS
 |lang=ja|ODDS＆ENDS
 |ODDS&ENDS
+|
 |ryo
 |ryo
 |ryo
@@ -750,6 +812,7 @@
 |드라마투르기
 |lang=ja|ドラマツルギー
 |Dramaturgy
+|
 |Eve
 |Eve
 |Numa
@@ -762,6 +825,7 @@
 |그린라이츠 세레나데
 |lang=ja|グリーンライツ・セレナーデ
 |Greenlights Serenade
+|
 |Sakurai
 |Omoi
 |Omoi
@@ -774,6 +838,7 @@
 |연애재판
 |lang=ja|恋愛裁判
 |Love Trial
+|
 |40mP
 |40mP
 |40mP
@@ -786,6 +851,7 @@
 |*헬로, 플래닛.
 |lang=ja|＊ハロー、プラネット。
 |*Hello, Planet
+|
 |sasakure.UK
 |sasakure.UK
 |sasakure.UK
@@ -798,6 +864,7 @@
 |천본앵
 |lang=ja|千本桜
 |Senbonzakura
+|
 |쿠로우사
 |쿠로우사
 |쿠로우사
@@ -810,6 +877,7 @@
 |ECHO
 |lang=ja|ECHO
 |ECHO
+|
 |Crusher P
 |Crusher P
 |
@@ -822,6 +890,7 @@
 |츄루리라 츄루리라 닷닷다!
 |lang=ja|チュルリラ・チュルリラ・ダッダッダ！
 |Chururira Chururira Daddadda!
+|
 |와다 타테아키 (쿠라게P)
 |와다 타테아키 (쿠라게P)
 |와다 타테아키 (쿠라게P)
@@ -834,6 +903,7 @@
 |블레스 유어 브레스
 |lang=ja|ブレス・ユア・ブレス
 |Bless Your Breath
+|
 |와다 타테아키
 |와다 타테아키
 |와다 타테아키
@@ -846,6 +916,7 @@
 |너무 아파 아프고 싶어
 |lang=ja|とても痛い痛がりたい
 |Totemoitai Itagaritai
+|
 |EZFG
 |EZFG
 |EZFG
@@ -858,6 +929,7 @@
 |날이 개길 기다려
 |lang=ja|霽れを待つ
 |
+|✔️
 |Orangestar
 |Orangestar
 |Orangestar
@@ -869,6 +941,7 @@
 |-
 |월즈 엔드 댄스홀
 |lang=ja|ワールズエンド・ダンスホール
+|
 |
 |wowaka
 |wowaka
@@ -882,6 +955,7 @@
 |울려퍼져라
 |lang=ja|ヒビカセ
 |Hibikase
+|
 |레오루
 |기가
 |기가
@@ -894,6 +968,7 @@
 |Color of Drops
 |lang=ja|Color of Drops
 |Color of Drops
+|✔️
 |40mP
 |40mP
 |40mP
@@ -906,6 +981,7 @@
 |RAD DOGS
 |lang=ja|RAD DOGS
 |RAD DOGS
+|✔️
 |q*Left
 |하치오지P
 |하치오지P
@@ -917,6 +993,7 @@
 |-
 |밀크크라운 온 소네치카
 |lang=ja|ミルククラウン・オン・ソーネチカ
+|
 |
 |유지
 |유지
@@ -930,6 +1007,7 @@
 |타임머신
 |lang=ja|タイムマシン
 |
+|
 |164
 |40mP
 |1640mP
@@ -942,6 +1020,7 @@
 |drop pop candy
 |lang=ja|drop pop candy
 |drop pop candy
+|
 |레오루
 |기가
 |기가
@@ -953,6 +1032,7 @@
 |-
 |포지티브☆댄스타임
 |lang=ja|ポジティブ☆ダンスタイム
+|
 |
 |키노시타
 |키노시타
@@ -966,6 +1046,7 @@
 |Brand New Day
 |lang=ja|Brand New Day
 |Brand New Day
+|
 |이루카아이스
 |이루카아이스
 |이루카아이스
@@ -978,6 +1059,7 @@
 |끝없이 잿빛으로
 |lang=ja|限りなく灰色へ
 |
+|✔️
 |스리이
 |스리이
 |스리이
@@ -990,6 +1072,7 @@
 |원스 어폰 어 드림
 |lang=ja|ワンスアポンアドリーム
 |
+|✔️
 |YASUHIRO(야스히로)
 |YASUHIRO(야스히로)
 |YASUHIRO(야스히로)
@@ -1001,6 +1084,7 @@
 |-
 |보카델라베리타
 |lang=ja|ボッカデラベリタ
+|
 |
 |히이라기 키라이
 |히이라기 키라이
@@ -1014,6 +1098,7 @@
 |미쿠미쿠하게 해줄게♪ (해줄거야)
 |lang=ja|みくみくにしてあげる♪【してやんよ】
 |
+|
 |ika_mo
 |ika_mo
 |ika_mo
@@ -1025,6 +1110,7 @@
 |-
 |위풍당당
 |lang=ja|威風堂々
+|
 |
 |우메토라
 |우메토라
@@ -1038,6 +1124,7 @@
 |from Y to Y
 |lang=ja|from Y to Y
 |from Y to Y
+|
 |지미섬P
 |지미섬P
 |
@@ -1050,6 +1137,7 @@
 |하츠네미쿠의 격창
 |lang=ja|初音ミクの激唱
 |The Intense Voice of Hatsune Miku
+|
 |GAiA
 |cosMo@폭주P
 |cosMo@폭주P
@@ -1062,6 +1150,7 @@
 |천사의 클로버
 |lang=ja|天使のクローバー
 |
+|✔️
 |DIVELA
 |DIVELA
 |DIVELA
@@ -1073,6 +1162,7 @@
 |-
 |마음에 드시는 대로
 |lang=ja|お気に召すまま
+|
 |
 |Eve
 |Eve
@@ -1086,6 +1176,7 @@
 |드리밍 츄츄
 |lang=ja|どりーみんチュチュ
 |
+|
 |emon(Tes.)
 |emon(Tes.)
 |emon(Tes.)
@@ -1098,6 +1189,7 @@
 |아이디스마일
 |lang=ja|アイディスマイル
 |IDSMILE
+|✔️
 |토아
 |토아
 |토아
@@ -1110,6 +1202,7 @@
 |「1」
 |lang=ja|「１」
 |
+|✔️
 |164
 |164
 |164
@@ -1121,6 +1214,7 @@
 |-
 |꽃을 노래하다
 |lang=ja|花を唄う
+|
 |
 |시노
 |시노
@@ -1134,6 +1228,7 @@
 |밤을 달리다
 |lang=ja|夜に駆ける
 |
+|
 |Ayase
 |Ayase
 |Ayase
@@ -1145,6 +1240,7 @@
 |-
 |유령도쿄
 |lang=ja|幽霊東京
+|
 |
 |Ayase
 |Ayase
@@ -1158,6 +1254,7 @@
 |시네마
 |lang=ja|シネマ
 |Cinema
+|✔️
 |Ayase
 |Ayase
 |Ayase
@@ -1170,6 +1267,7 @@
 |KING
 |lang=ja|KING
 |KING
+|
 |Kanaria
 |Kanaria
 |
@@ -1182,6 +1280,7 @@
 |사랑의 마테리얼
 |lang=ja|アイノマテリアル
 |
+|✔️
 |Junky
 |Junky
 |Junky
@@ -1193,6 +1292,7 @@
 |-
 |가지 마
 |lang=ja|いかないで
+|
 |
 |소타
 |소타
@@ -1206,6 +1306,7 @@
 |로미오와 신데렐라
 |lang=ja|ロミオとシンデレラ
 |
+|
 |doriko
 |doriko
 |doriko
@@ -1217,6 +1318,7 @@
 |-
 |거품미래
 |lang=ja|泡沫未来
+|
 |
 |카가(네기샤워P)
 |카가(네기샤워P)
@@ -1230,6 +1332,7 @@
 |터무니원더즈
 |lang=ja|トンデモワンダーズ
 |
+|✔️
 |sasakure.UK
 |sasakure.UK
 |sasakure.UK (Key 키시다 유우키 (UK램피지))
@@ -1242,6 +1345,7 @@
 |연주하여 밝히는 하늘
 |lang=ja|カナデトモスソラ
 |
+|✔️
 |Sasanomaly
 |Sasanomaly
 |Sasanomaly
@@ -1254,6 +1358,7 @@
 |트래픽 잼
 |lang=ja|トラフィック・ジャム
 |Traffic Jam
+|
 |니루 카지츠
 |니루 카지츠
 |니루 카지츠
@@ -1266,6 +1371,7 @@
 |프롬 도쿄
 |lang=ja|フロムトーキョー
 |From Tokyo
+|✔️
 |나츠시로 타카아키
 |나츠시로 타카아키・와타나베 타쿠야
 |와타나베 타쿠야
@@ -1278,6 +1384,7 @@
 |Beat Eater
 |lang=ja|Beat Eater
 |Beat Eater
+|✔️
 |폴리스 피카딜리
 |폴리스 피카딜리
 |폴리스 피카딜리
@@ -1289,6 +1396,7 @@
 |-
 |육조년과 하룻밤 이야기
 |lang=ja|六兆年と一夜物語
+|
 |
 |kemu
 |kemu
@@ -1302,6 +1410,7 @@
 |지구 최후의 고백을
 |lang=ja|地球最後の告白を
 |
+|
 |kemu
 |kemu
 |kemu
@@ -1314,6 +1423,7 @@
 |비터 초코 데코레이션
 |lang=ja|ビターチョコデコレーション
 |Bitter Choco Decoration
+|
 |syudou
 |syudou
 |syudou
@@ -1325,6 +1435,7 @@
 |-
 |그랬어!!
 |lang=ja|そうだった！！
+|
 |
 |타케노코 소년
 |타케노코 소년
@@ -1338,6 +1449,7 @@
 |아지랑이 데이즈
 |lang=ja|カゲロウデイズ
 |
+|
 |진
 |진
 |진
@@ -1350,6 +1462,7 @@
 |아이스 드롭
 |lang=ja|アイスドロップ
 |
+|✔️
 |aqu3ra
 |aqu3ra
 |aqu3ra
@@ -1362,6 +1475,7 @@
 |Glory Steady Go!
 |lang=ja|Glory Steady Go!
 |Glory Steady Go!
+|✔️
 |키노시타
 |키노시타
 |키노시타
@@ -1374,6 +1488,7 @@
 |칠드런 레코드
 |lang=ja|チルドレンレコード
 |Children Record
+|
 |진
 |진
 |진
@@ -1386,6 +1501,7 @@
 |magic number
 |lang=ja|magic number
 |magic number
+|✔️
 |이토 켄토
 |이토 켄토
 |OSTER project
@@ -1398,6 +1514,7 @@
 |유성의 펄스
 |lang=ja|流星のパルス
 |Pulse of The Meteor
+|✔️
 |*Luna
 |*Luna
 |*Luna
@@ -1410,6 +1527,7 @@
 |커틀러리
 |lang=ja|カトラリー
 |Cutlery
+|
 |유기산
 |유기산
 |유기산
@@ -1422,6 +1540,7 @@
 |재생
 |lang=ja|再生
 |Reborn
+|✔️
 |Picon
 |Picon
 |Picon
@@ -1434,6 +1553,7 @@
 |군청찬가
 |lang=ja|群青讃歌
 |Gunjo Sanka
+|✔️
 |Eve
 |Eve
 |Numa
@@ -1445,6 +1565,7 @@
 |-
 |노심융해
 |lang=ja|炉心融解
+|
 |
 |kuma(alfred)
 |iroha(sasaki)
@@ -1458,6 +1579,7 @@
 |로스트원의 호곡
 |lang=ja|ロストワンの号哭
 |
+|
 |Neru
 |Neru
 |
@@ -1470,6 +1592,7 @@
 |머신건 포엠 돌
 |lang=ja|マシンガンポエムドール
 |Machine Gun Poem Doll
+|✔️
 |cosMo@폭주P
 |cosMo@폭주P
 |cosMo@폭주P
@@ -1482,6 +1605,7 @@
 |베놈
 |lang=ja|ベノム
 |Venom
+|
 |카이리키베어
 |카이리키베어
 |
@@ -1493,6 +1617,7 @@
 |-
 |친애하는 도플갱어
 |lang=ja|拝啓ドッペルゲンガー
+|
 |
 |kemu
 |kemu
@@ -1506,6 +1631,7 @@
 |텔레캐스터 비보이
 |lang=ja|テレキャスタービーボーイ
 |Telecaster B-Boy
+|
 |스리이
 |스리이
 |스리이
@@ -1518,6 +1644,7 @@
 |토키오 펀카
 |lang=ja|トキヲ・ファンカ
 |TOKIO FUNKA
+|
 |takamatt
 |takamatt
 |takamatt
@@ -1529,6 +1656,7 @@
 |-
 |악마가 춤추는 법
 |lang=ja|悪魔の踊り方
+|
 |
 |키타니 타츠야
 |키타니 타츠야
@@ -1542,6 +1670,7 @@
 |누군가의 심장이 될 수 있다면
 |lang=ja|だれかの心臓になれたなら
 |
+|
 |유리이・카논
 |유리이・카논
 |유리이・카논
@@ -1553,6 +1682,7 @@
 |-
 |마슈마리
 |lang=ja|マシュマリー
+|
 |
 |MIMI
 |MIMI
@@ -1566,6 +1696,7 @@
 |오른어깨의 나비
 |lang=ja|右肩の蝶
 |
+|
 |미즈노 유라
 |노리피
 |노리피
@@ -1578,6 +1709,7 @@
 |ray
 |lang=ja|ray
 |ray
+|
 |후지와라 모토오
 |후지와라 모토오
 |
@@ -1590,6 +1722,7 @@
 |Hello,world!
 |lang=ja|Hello,world!
 |Hello,world!
+|
 |후지와라 모토오
 |후지와라 모토오
 |
@@ -1602,6 +1735,7 @@
 |식 오브 하우스!
 |lang=ja|しっくおぶはうす！
 |Sick of House!
+|
 |오존
 |오존
 |오존
@@ -1614,6 +1748,7 @@
 |쇼타임 룰러
 |lang=ja|ショウタイム・ルーラー
 |Showtime Ruler
+|✔️
 |카라스야사보오
 |카라스야사보오
 |카라스야사보오
@@ -1626,6 +1761,7 @@
 |Happy Halloween
 |lang=ja|Happy Halloween
 |Happy Halloween
+|
 |Junky
 |Junky
 |Junky
@@ -1638,6 +1774,7 @@
 |로워
 |lang=ja|ロウワー
 |Lower
+|✔️
 |누유리
 |누유리
 |누유리
@@ -1649,6 +1786,7 @@
 |-
 |하츠네천지개벽신화
 |lang=ja|初音天地開闢神話
+|
 |
 |cosMo@폭주P
 |cosMo@폭주P
@@ -1662,6 +1800,7 @@
 |얼터 에고
 |lang=ja|オルターエゴ
 |Alter ego
+|
 |Misumi
 |Misumi
 |Misumi
@@ -1674,6 +1813,7 @@
 |STAGE OF SEKAI
 |lang=ja|STAGE OF SEKAI
 |STAGE OF SEKAI
+|✔️
 |하리하라 츠바사 (하리P)
 |하리하라 츠바사 (하리P)
 |타나하시 EDDY 테루아키
@@ -1685,6 +1825,7 @@
 |-
 |꼭두각시 피에로
 |lang=ja|からくりピエロ
+|
 |
 |40mP
 |40mP
@@ -1698,6 +1839,7 @@
 |월드와이드 완더
 |lang=ja|ワールドワイドワンダー
 |Worldwide Wander
+|✔️
 |TOKOTOKO
 |TOKOTOKO
 |TOKOTOKO
@@ -1709,6 +1851,7 @@
 |-
 |악의 딸
 |lang=ja|悪ノ娘
+|
 |
 |mothy
 |mothy
@@ -1722,6 +1865,7 @@
 |악의 하인
 |lang=ja|悪ノ召使
 |
+|
 |mothy
 |mothy
 |mothy
@@ -1734,6 +1878,7 @@
 |떠나는 이들의 왈츠
 |lang=ja|去り人達のワルツ
 |
+|✔️
 |mothy
 |mothy
 |mothy

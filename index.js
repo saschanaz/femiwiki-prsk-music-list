@@ -111,6 +111,7 @@ function convertAsWikimediaTableRow(item) {
     `|${maybeTranslateTitle(item.title)}\n` + // 제목
     `|lang=ja|${item.title}\n` + // 원제
     `|${maybeMapEnglishTitle(item)}\n` + // 영문제목
+    `|${item.seq >= 2000000 ? "✔️" : "" }\n` + // 오리지널
     `|${translateArtistOrAsIs(item.lyricist)}\n` + // 작사
     `|${translateArtistOrAsIs(item.composer)}\n` + // 작곡
     `|${translateArtistOrAsIs(item.arranger)}\n` + // 편곡
@@ -134,6 +135,7 @@ await Deno.writeTextFile(
 !제목
 !원제
 !영문 제목
+!오리지널
 !작사
 !작곡
 !편곡
