@@ -49,7 +49,8 @@
     "titleKo": "해피 신시사이저",
     "announcement": "https://twitter.com/pj_sekai/status/1236982237159022595",
     "releaseDateOverride": "2020년 3월 9일 (사전공개)",
-    "mv2d": "https://youtu.be/xD3amnjfxac"
+    "mv2d": "https://youtu.be/xD3amnjfxac",
+    "illust": "モゲラッタ"
   },
   "Nostalogic": {
     "titleKo": "Nostalogic",
@@ -78,7 +79,8 @@
     "announcement": "https://twitter.com/pj_sekai/status/1276116804973150209",
     "releaseDateOverride": "2020년 6월 25일 (사전공개)",
     "mv2d": "https://youtu.be/9kZ6MPqj9Tg",
-    "mv3d": "https://youtu.be/WDWgBLrw-Jg"
+    "mv3d": "https://youtu.be/WDWgBLrw-Jg",
+    "illust": "れおえん"
   },
   "ブリキノダンス": {
     "titleKo": "양철의 댄스",
@@ -109,7 +111,9 @@
     "titleKo": "자상무색",
     "announcement": "https://twitter.com/pj_sekai/status/1236982237159022595",
     "releaseDateOverride": "2020년 3월 9일 (사전공개)",
-    "mv2d": "https://youtu.be/n7ZmBBf5-7g"
+    "mv2d": "https://youtu.be/n7ZmBBf5-7g",
+    "illust": "スオウ",
+    "movie": "omu"
   },
   "needLe": {
     "titleKo": "needLe",
@@ -206,7 +210,9 @@
   "ミラクルペイント": {
     "titleKo": "미라클 페인트",
     "announcement": "https://twitter.com/pj_sekai/status/1315896894132944896",
-    "mv2d": "https://youtu.be/kU4Rth300FM"
+    "mv2d": "https://youtu.be/kU4Rth300FM",
+    "illust": "BUZZ",
+    "movie": "omu"
   },
   "on the rocks": {
     "titleKo": "on the rocks",
@@ -238,7 +244,9 @@
   "ジャックポットサッドガール": {
     "titleKo": "잭팟 새드 걸",
     "announcement": "https://twitter.com/pj_sekai/status/1318433933600595969",
-    "mv2d": "https://youtu.be/J9kD9rYR088"
+    "mv2d": "https://youtu.be/J9kD9rYR088",
+    "illust": "ろづ希",
+    "movie": "Lye"
   },
   "メルティランドナイトメア": {
     "titleKo": "멜티 랜드 나이트메어",
@@ -309,7 +317,8 @@
   "恋愛裁判": {
     "titleKo": "연애재판",
     "announcement": "https://twitter.com/pj_sekai/status/1344162616667561984",
-    "mv2d": "https://youtu.be/mqrp4SfMJwk"
+    "mv2d": "https://youtu.be/mqrp4SfMJwk",
+    "illust": "たま"
   },
   "＊ハロー、プラネット。": {
     "titleKo": "*헬로, 플래닛.",
@@ -359,7 +368,10 @@
   "RAD DOGS": {
     "titleKo": "RAD DOGS",
     "announcement": "https://twitter.com/pj_sekai/status/1355760937903419394",
-    "mv2d": "https://youtu.be/ZMbWDpC1N7s"
+    "mv2d": "https://youtu.be/ZMbWDpC1N7s",
+    "illust": "Rella",
+    "animation": "2P",
+    "movie": "omu"
   },
   "ミルククラウン・オン・ソーネチカ": {
     "titleKo": "밀크크라운 온 소네치카",
@@ -368,7 +380,9 @@
   "タイムマシン": {
     "titleKo": "타임머신",
     "announcement": "https://twitter.com/pj_sekai/status/1359382755977568256",
-    "mv2d": "https://youtu.be/s1yW2jPJiVE"
+    "mv2d": "https://youtu.be/s1yW2jPJiVE",
+    "illust": "たま",
+    "movie": "みず希"
   },
   "drop pop candy": {
     "titleKo": "drop pop candy",
@@ -377,7 +391,8 @@
   "ポジティブ☆ダンスタイム": {
     "titleKo": "포지티브☆댄스타임",
     "announcement": "https://twitter.com/pj_sekai/status/1362644038659104768",
-    "mv2d": "https://youtu.be/BdTf_uKTqos"
+    "mv2d": "https://youtu.be/BdTf_uKTqos",
+    "illust": "キノシタ"
   },
   "Brand New Day": {
     "titleKo": "Brand New Day",
@@ -390,12 +405,15 @@
   "ワンスアポンアドリーム": {
     "titleKo": "원스 어폰 어 드림",
     "announcement": "https://twitter.com/pj_sekai/status/1365906661789982721",
-    "mv2d": "https://youtu.be/1RoDmN9n8xE"
+    "mv2d": "https://youtu.be/1RoDmN9n8xE",
+    "illust": "村上ゆいち",
+    "movie": "omu"
   },
   "ボッカデラベリタ": {
     "titleKo": "보카델라베리타",
     "announcement": "https://twitter.com/pj_sekai/status/1368080761136373761",
-    "mv2d": "https://youtu.be/ZjNUJUgyoOw"
+    "mv2d": "https://youtu.be/ZjNUJUgyoOw",
+    "illust": "ORIHARA"
   },
   "みくみくにしてあげる♪【してやんよ】": {
     "titleKo": "미쿠미쿠하게 해줄게♪ (해줄거야)",
@@ -433,7 +451,8 @@
   "「１」": {
     "titleKo": "「1」",
     "announcement": "https://twitter.com/pj_sekai/status/1384751726742278147",
-    "mv2d": "https://youtu.be/_GdIO1AANg4"
+    "mv2d": "https://youtu.be/_GdIO1AANg4",
+    "illust": "三門"
   },
   "花を唄う": {
     "titleKo": "꽃을 노래하다",
@@ -451,7 +470,9 @@
     "titleKo": "시네마",
     "titleEn": "Cinema",
     "announcement": "https://twitter.com/pj_sekai/status/1391017885493981186",
-    "mv2d": "https://youtu.be/8m1cUgLepmY"
+    "mv2d": "https://youtu.be/8m1cUgLepmY",
+    "illust": "しづ",
+    "movie": "みず希"
   },
   "KING": {
     "titleKo": "KING",
@@ -460,7 +481,9 @@
   "アイノマテリアル": {
     "titleKo": "사랑의 마테리얼",
     "announcement": "https://twitter.com/pj_sekai/status/1395631273725423616",
-    "mv2d": "https://youtu.be/miLfbcfdqus"
+    "mv2d": "https://youtu.be/miLfbcfdqus",
+    "illust": "ajimita",
+    "movie": "omu"
   },
   "いかないで": {
     "titleKo": "가지 마",
@@ -482,7 +505,10 @@
   "カナデトモスソラ": {
     "titleKo": "연주하여 밝히는 하늘",
     "announcement": "https://twitter.com/pj_sekai/status/1406856694869610496",
-    "mv2d": "https://youtu.be/GTlQhMRHXIg"
+    "mv2d": "https://youtu.be/GTlQhMRHXIg",
+    "illust": "Rella",
+    "animation": "2P",
+    "movie": "omu"
   },
   "トラフィック・ジャム": {
     "titleKo": "트래픽 잼",
@@ -497,17 +523,22 @@
   "Beat Eater": {
     "titleKo": "Beat Eater",
     "announcement": "https://twitter.com/pj_sekai/status/1413406491600584704",
-    "mv2d": "https://youtu.be/DaWbq6KeJq4"
+    "mv2d": "https://youtu.be/DaWbq6KeJq4",
+    "illust": "おぐち",
+    "movie": "omu",
+    "graffiti": "ズカ"
   },
   "六兆年と一夜物語": {
     "titleKo": "육조년과 하룻밤 이야기",
     "announcement": "https://twitter.com/pj_sekai/status/1414465609354551296",
-    "mv2d": "https://youtu.be/uDgikBUvIlQ"
+    "mv2d": "https://youtu.be/uDgikBUvIlQ",
+    "illust": "Ajimita"
   },
   "地球最後の告白を": {
     "titleKo": "지구 최후의 고백을",
     "announcement": "https://twitter.com/pj_sekai/status/1417002552948781066",
-    "mv2d": "https://youtu.be/jSwRwYVjRg8"
+    "mv2d": "https://youtu.be/jSwRwYVjRg8",
+    "illust": "Aちき"
   },
   "ビターチョコデコレーション": {
     "titleKo": "비터 초코 데코레이션",
@@ -530,7 +561,9 @@
   "Glory Steady Go!": {
     "titleKo": "Glory Steady Go!",
     "announcement": "https://twitter.com/pj_sekai/status/1428599739755368456",
-    "mv2d": "https://youtu.be/JoM4JGqQyCU"
+    "mv2d": "https://youtu.be/JoM4JGqQyCU",
+    "illust": "宇崎うそ",
+    "movie": "野良いぬ"
   },
   "チルドレンレコード": {
     "titleKo": "칠드런 레코드",
@@ -540,14 +573,18 @@
   "magic number": {
     "titleKo": "magic number",
     "announcement": "https://twitter.com/pj_sekai/status/1432947581034766338",
-    "mv2d": "https://youtu.be/fzRWpcvPJYo"
+    "mv2d": "https://youtu.be/fzRWpcvPJYo",
+    "illust": "賀茂川",
+    "movie": "イクミ"
   },
   "流星のパルス": {
     "titleKo": "유성의 펄스",
     "titleEn": "Pulse of The Meteor",
     "announcement": "https://twitter.com/pj_sekai/status/1436209626438012957",
     "vocaloidOnly": "https://youtu.be/8Zds1FvEtKw",
-    "mv2d": "https://youtu.be/hZgbqUQI64E"
+    "mv2d": "https://youtu.be/hZgbqUQI64E",
+    "illust": "富岡二郎",
+    "movie": "omu"
   },
   "カトラリー": {
     "titleKo": "커틀러리",
@@ -624,7 +661,9 @@
   },
   "Hello,world!": {
     "announcement": "https://twitter.com/pj_sekai/status/1448167715122802688",
-    "mv2d": "https://youtu.be/B1nUc7LfZYA"
+    "mv2d": "https://youtu.be/B1nUc7LfZYA",
+    "illust": "LAM",
+    "movie": "omu"
   },
   "しっくおぶはうす！": {
     "titleKo": "식 오브 하우스!",
@@ -644,7 +683,9 @@
     "titleKo": "로워",
     "titleEn": "Lower",
     "announcement": "https://twitter.com/pj_sekai/status/1454691421919735811",
-    "mv2d": "https://youtu.be/16M9oC-a5bY"
+    "mv2d": "https://youtu.be/16M9oC-a5bY",
+    "illust": "へちま",
+    "movie": "omu"
   },
   "初音天地開闢神話": {
     "titleKo": "하츠네천지개벽신화",

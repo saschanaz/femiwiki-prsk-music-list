@@ -129,7 +129,7 @@
 |EasyPop
 |EasyPop
 |
-|
+|모게랏타
 |
 |
 |3DMV [https://youtu.be/xD3amnjfxac 2DMV]
@@ -189,7 +189,7 @@
 |누유리
 |누유리
 |누유리
-|
+|레오엔
 |
 |
 |[https://youtu.be/WDWgBLrw-Jg 3DMV] [https://youtu.be/9kZ6MPqj9Tg 2DMV]
@@ -261,8 +261,8 @@
 |사사노멀리
 |사사노멀리
 |
-|
-|
+|스오우
+|omu
 |
 |3DMV [https://youtu.be/n7ZmBBf5-7g 2DMV]
 |[https://twitter.com/pj_sekai/status/1236982237159022595 2020년 3월 9일 (사전공개)]
@@ -501,8 +501,8 @@
 |OSTER project
 |OSTER project
 |OSTER project
-|
-|
+|BUZZ
+|omu
 |
 |원곡MV [https://youtu.be/kU4Rth300FM 2DMV]
 |[https://twitter.com/pj_sekai/status/1315896894132944896 2020년 10월 13일]
@@ -585,8 +585,8 @@
 |syudou
 |syudou
 |syudou
-|
-|
+|루즈키
+|Lye
 |
 |원곡MV [https://youtu.be/J9kD9rYR088 2DMV]
 |[https://twitter.com/pj_sekai/status/1318433933600595969 2020년 10월 20일]
@@ -777,7 +777,7 @@
 |40mP
 |40mP
 |40mP
-|
+|타마
 |
 |
 |원곡MV [https://youtu.be/mqrp4SfMJwk 2DMV]
@@ -909,8 +909,8 @@
 |q*Left
 |하치오지P
 |하치오지P
-|
-|
+|Rella
+|omu
 |
 |[https://youtu.be/ZMbWDpC1N7s 2DMV]
 |[https://twitter.com/pj_sekai/status/1355760937903419394 2021년 1월 31일]
@@ -933,8 +933,8 @@
 |164
 |40mP
 |1640mP
-|
-|
+|타마
+|미즈키
 |
 |3DMV [https://youtu.be/s1yW2jPJiVE 2DMV]
 |[https://twitter.com/pj_sekai/status/1359382755977568256 2021년 2월 10일]
@@ -957,7 +957,7 @@
 |키노시타
 |키노시타
 |키노시타
-|
+|키노시타
 |
 |
 |[https://youtu.be/BdTf_uKTqos 2DMV]
@@ -993,8 +993,8 @@
 |YASUHIRO(야스히로)
 |YASUHIRO(야스히로)
 |YASUHIRO(야스히로)
-|
-|
+|무라카미 유이치
+|omu
 |
 |[https://youtu.be/1RoDmN9n8xE 2DMV]
 |[https://twitter.com/pj_sekai/status/1365906661789982721 2021년 2월 28일]
@@ -1005,7 +1005,7 @@
 |히이라기 키라이
 |히이라기 키라이
 |히이라기 키라이
-|
+|ORIHARA
 |
 |
 |[https://youtu.be/ZjNUJUgyoOw 2DMV]
@@ -1113,7 +1113,7 @@
 |164
 |164
 |164
-|
+|산먼
 |
 |
 |[https://youtu.be/_GdIO1AANg4 2DMV]
@@ -1161,8 +1161,8 @@
 |Ayase
 |Ayase
 |Ayase
-|
-|
+|시즈
+|미즈키
 |
 |3DMV [https://youtu.be/8m1cUgLepmY 2DMV]
 |[https://twitter.com/pj_sekai/status/1391017885493981186 2021년 5월 8일]
@@ -1185,8 +1185,8 @@
 |Junky
 |Junky
 |Junky
-|
-|
+|ajimita
+|omu
 |
 |[https://youtu.be/miLfbcfdqus 2DMV]
 |[https://twitter.com/pj_sekai/status/1395631273725423616 2021년 5월 21일]
@@ -1245,8 +1245,8 @@
 |Sasanomaly
 |Sasanomaly
 |Sasanomaly
-|
-|
+|Rella
+|omu
 |
 |[https://youtu.be/GTlQhMRHXIg 2DMV]
 |[https://twitter.com/pj_sekai/status/1406856694869610496 2021년 6월 21일]
@@ -1281,8 +1281,8 @@
 |폴리스 피카딜리
 |폴리스 피카딜리
 |폴리스 피카딜리
-|
-|
+|오구치
+|omu
 |
 |[https://youtu.be/DaWbq6KeJq4 2DMV]
 |[https://twitter.com/pj_sekai/status/1413406491600584704 2021년 7월 9일]
@@ -1293,7 +1293,7 @@
 |kemu
 |kemu
 |kemu
-|
+|Ajimita
 |
 |
 |[https://youtu.be/uDgikBUvIlQ 2DMV]
@@ -1305,7 +1305,7 @@
 |kemu
 |kemu
 |kemu
-|
+|A치키
 |
 |
 |[https://youtu.be/jSwRwYVjRg8 2DMV]
@@ -1365,8 +1365,8 @@
 |키노시타
 |키노시타
 |키노시타
-|
-|
+|우자키 우소
+|노라이누
 |
 |[https://youtu.be/JoM4JGqQyCU 2DMV]
 |[https://twitter.com/pj_sekai/status/1428599739755368456 2021년 8월 20일]
@@ -1389,8 +1389,8 @@
 |이토 켄토
 |이토 켄토
 |OSTER project
-|
-|
+|카모가와
+|이쿠미
 |
 |[https://youtu.be/fzRWpcvPJYo 2DMV]
 |[https://twitter.com/pj_sekai/status/1432947581034766338 2021년 9월 1일]
@@ -1401,8 +1401,8 @@
 |*Luna
 |*Luna
 |*Luna
-|
-|
+|토미오카 지로
+|omu
 |[https://youtu.be/8Zds1FvEtKw 유튜브]
 |[https://youtu.be/hZgbqUQI64E 2DMV]
 |[https://twitter.com/pj_sekai/status/1436209626438012957 2021년 9월 10일]
@@ -1593,8 +1593,8 @@
 |후지와라 모토오
 |후지와라 모토오
 |
-|
-|
+|LAM
+|omu
 |
 |[https://youtu.be/B1nUc7LfZYA 2DMV]
 |[https://twitter.com/pj_sekai/status/1448167715122802688 2021년 10월 13일]
@@ -1641,8 +1641,8 @@
 |누유리
 |누유리
 |누유리
-|
-|
+|헤치마
+|omu
 |
 |[https://youtu.be/16M9oC-a5bY 2DMV]
 |[https://twitter.com/pj_sekai/status/1454691421919735811 2021년 10월 31일]
