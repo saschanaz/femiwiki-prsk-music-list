@@ -311,7 +311,11 @@
   },
   "potatoになっていく": {
     "titleKo": "potato가 되어가",
-    "announcement": "https://twitter.com/pj_sekai/status/1325062968090849284"
+    "announcement": "https://twitter.com/pj_sekai/status/1325062968090849284",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtue.be/Dun11cIEo9s"
+    }
   },
   "ローリンガール": {
     "titleKo": "롤링 걸",
