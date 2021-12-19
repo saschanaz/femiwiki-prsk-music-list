@@ -88,8 +88,8 @@ function maybeMapEnglishTitle(music) {
   return "";
 }
 
-function linkYouTube(url) {
-  return url ? `[${url} 유튜브]` : "";
+function linkYouTube({ type, url } = {}) {
+  return url ? `[${url} ${type}]` : "";
 }
 
 function formatReleaseDate(item) {
@@ -116,7 +116,7 @@ function convertAsWikimediaTableRow(item) {
     `|${translateArtistOrAsIs(item.arranger)}\n` + // 편곡
     `|${translateArtistOrAsIs(manualMetadata[item.title]?.illust || "")}\n` + // 일러스트
     `|${translateArtistOrAsIs(manualMetadata[item.title]?.movie || "")}\n` + // 영상
-    `|${linkYouTube(manualMetadata[item.title]?.vocaloidOnly)}\n` + // 보컬로이드 버전
+    `|${linkYouTube(manualMetadata[item.title]?.mvExternal)}\n` + // 게임 외 버전
     `|${stringifyCategories(item)}\n` +
     `|${formatReleaseDate(item)}\n`
   );
@@ -139,7 +139,7 @@ await Deno.writeTextFile(
 !편곡
 !일러스트
 !영상
-!보컬로이드 버전
+!게임 외 MV
 !MV
 !추가일
 ${musics.map(convertAsWikimediaTableRow).join("")}|}</onlyinclude>\n`

@@ -581,7 +581,10 @@
     "titleKo": "유성의 펄스",
     "titleEn": "Pulse of The Meteor",
     "announcement": "https://twitter.com/pj_sekai/status/1436209626438012957",
-    "vocaloidOnly": "https://youtu.be/8Zds1FvEtKw",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtu.be/8Zds1FvEtKw"
+    },
     "mv2d": "https://youtu.be/hZgbqUQI64E",
     "illust": "富岡二郎",
     "movie": "omu"
@@ -589,19 +592,24 @@
   "カトラリー": {
     "titleKo": "커틀러리",
     "titleEn": "Cutlery",
-    "vocaloidOnly": "https://youtu.be/8Zds1FvEtKw",
     "announcement": "https://twitter.com/pj_sekai/status/1440197473725603843"
   },
   "再生": {
     "titleKo": "재생",
     "titleEn": "Reborn",
-    "vocaloidOnly": "https://youtu.be/purlnb5K_jM",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtu.be/purlnb5K_jM"
+    },
     "announcement": "https://twitter.com/pj_sekai/status/1443201940301570056"
   },
   "群青讃歌": {
     "titleKo": "군청찬가",
     "titleEn": "Gunjo Sanka",
-    "vocaloidOnly": "https://youtu.be/sgZjbk9eH6g",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://www.nicovideo.jp/watch/sm39411572"
+    },
     "announcement": "https://twitter.com/pj_sekai/status/1443234679524495361"
   },
   "炉心融解": {
@@ -615,7 +623,10 @@
   "マシンガンポエムドール": {
     "titleKo": "머신건 포엠 돌",
     "titleEn": "Machine Gun Poem Doll",
-    "vocaloidOnly": "https://youtu.be/UgZFpO_Y6qo",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtu.be/UgZFpO_Y6qo"
+    },
     "announcement": "https://twitter.com/pj_sekai/status/1444544427452604418"
   },
   "ベノム": {
@@ -707,7 +718,10 @@
   "ワールドワイドワンダー": {
     "titleKo": "월드와이드 완더",
     "titleEn": "Worldwide Wander",
-    "vocaloidOnly": "https://youtu.be/6NdOqVypgCM",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtu.be/6NdOqVypgCM"
+    },
     "illust": "Rella",
     "movie": "omu",
     "mv2d": "https://youtu.be/aO_ZCaoojh4",
