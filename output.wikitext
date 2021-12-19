@@ -11,7 +11,7 @@
 !편곡
 !일러스트
 !영상
-!보컬로이드 버전
+!게임 외 MV
 !MV
 !추가일
 |-
@@ -275,7 +275,7 @@
 |Rockwell
 |
 |
-|
+|[https://youtu.be/buoYwfZG4vQ 보컬로이드]
 |3DMV
 |[https://twitter.com/pj_sekai/status/1294201795737092097 2020년 8월 14일 (사전공개)]
 |-
@@ -287,7 +287,7 @@
 |Mitchie M
 |
 |
-|
+|[https://youtu.be/4QL9tLfVFJg 보컬로이드]
 |3DMV
 |[https://twitter.com/pj_sekai/status/1303619491499094016 2020년 9월 9일 (리허설)]
 |-
@@ -299,7 +299,7 @@
 |Giga
 |
 |
-|
+|[https://youtu.be/XAg1jDDG49Y 보컬로이드]
 |3DMV
 |[https://twitter.com/pj_sekai/status/1308694117958918145 2020년 9월 23일 (사전공개)]
 |-
@@ -311,7 +311,7 @@
 |피노키오피
 |
 |
-|
+|[https://youtu.be/1s8NNPgdl5g 보컬로이드]
 |3DMV
 |[https://twitter.com/pj_sekai/status/1251089432574169088 2020년 4월 17일 (사전공개)]
 |-
@@ -323,7 +323,7 @@
 |마후마후
 |
 |
-|
+|[https://nico.ms/sm36723146 셀프 커버]
 |3DMV
 |[https://twitter.com/pj_sekai/status/1252893774419652609 2020년 4월 22일 (사전공개)]
 |-
@@ -527,7 +527,7 @@
 |마후마후
 |모리쿠라 엔
 |omu
-|
+|[https://nico.ms/sm36903498 셀프 커버]
 |[https://youtu.be/kNLyqES4fC8 2DMV]
 |[https://twitter.com/pj_sekai/status/1316621387545501698 2020년 10월 15일]
 |-
@@ -563,7 +563,7 @@
 |
 |
 |
-|
+|[https://nico.ms/sm37828296 보컬로이드]
 |3DMV
 |[https://twitter.com/pj_sekai/status/1317815863987240962 2020년 10월 18일]
 |-
@@ -587,7 +587,7 @@
 |syudou
 |루즈키
 |Lye
-|
+|[https://youtu.be/B2llCEKbxwA 보컬로이드]
 |원곡MV [https://youtu.be/J9kD9rYR088 2DMV]
 |[https://twitter.com/pj_sekai/status/1318433933600595969 2020년 10월 20일]
 |-
@@ -707,7 +707,7 @@
 |R Sound Design
 |
 |
-|
+|[https://youtu.be/crCS77wqxTI 보컬로이드]
 |3DMV
 |[https://twitter.com/pj_sekai/status/1336296722062983168 2020년 12월 8일]
 |-
@@ -731,7 +731,7 @@
 |OSTER project
 |타마
 |omu
-|
+|[https://youtu.be/WztzykQSkgM 보컬로이드]
 |[https://youtu.be/EIUO-fPrkSo 2DMV]
 |[https://twitter.com/pj_sekai/status/1340541015371915264 2020년 12월 20일]
 |-
@@ -863,7 +863,7 @@
 |Orangestar
 |아메무라
 |omu
-|
+|[https://youtu.be/wvlUWjqGQSA 보컬로이드]
 |[https://youtu.be/70ZLvDTonqI 2DMV]
 |[https://twitter.com/pj_sekai/status/1348150344803524612 2021년 1월 10일]
 |-
@@ -899,7 +899,7 @@
 |40mP
 |
 |
-|
+|[https://youtu.be/i5rl-NGSYoo 보컬로이드]
 |3DMV
 |[https://twitter.com/pj_sekai/status/1355141142182944778 2021년 1월 29일]
 |-
@@ -983,7 +983,7 @@
 |스리이
 |
 |
-|
+|[https://youtu.be/cwLlHFMlBNQ 보컬로이드]
 |3DMV
 |[https://twitter.com/pj_sekai/status/1365289725448179713 2021년 2월 26일]
 |-
@@ -995,7 +995,7 @@
 |YASUHIRO(야스히로)
 |무라카미 유이치
 |omu
-|
+|[https://youtu.be/S84mvlha5Fc 보컬로이드]
 |[https://youtu.be/1RoDmN9n8xE 2DMV]
 |[https://twitter.com/pj_sekai/status/1365906661789982721 2021년 2월 28일]
 |-
@@ -1067,7 +1067,7 @@
 |DIVELA
 |
 |
-|
+|[https://youtu.be/lFJA9muTUDM 보컬로이드]
 |3DMV
 |[https://twitter.com/pj_sekai/status/1376887469233217539 2021년 3월 30일]
 |-
@@ -1103,7 +1103,7 @@
 |토아
 |
 |
-|
+|[https://youtu.be/X_6EPkvIAGg 보컬로이드]
 |3DMV
 |[https://twitter.com/pj_sekai/status/1384134595549941764 2021년 4월 19일]
 |-
@@ -1115,7 +1115,7 @@
 |164
 |산먼
 |
-|
+|[https://youtu.be/fobQOAOAdoE 보컬로이드]
 |[https://youtu.be/_GdIO1AANg4 2DMV]
 |[https://twitter.com/pj_sekai/status/1384751726742278147 2021년 4월 21일]
 |-
@@ -1163,7 +1163,7 @@
 |Ayase
 |시즈
 |미즈키
-|
+|[https://youtu.be/EEbWRjavSVw 보컬로이드]
 |3DMV [https://youtu.be/8m1cUgLepmY 2DMV]
 |[https://twitter.com/pj_sekai/status/1391017885493981186 2021년 5월 8일]
 |-
@@ -1187,7 +1187,7 @@
 |Junky
 |ajimita
 |omu
-|
+|[https://youtu.be/YsVmtXmpGEI 보컬로이드]
 |[https://youtu.be/miLfbcfdqus 2DMV]
 |[https://twitter.com/pj_sekai/status/1395631273725423616 2021년 5월 21일]
 |-
@@ -1235,7 +1235,7 @@
 |sasakure.UK (Key 키시다 유우키 (UK램피지))
 |
 |
-|
+|[https://youtu.be/dBQg24mx45Y 보컬로이드]
 |[https://youtu.be/vI5xihka9hw 3DMV]
 |[https://twitter.com/pj_sekai/status/1406241355366428676 2021년 6월 19일]
 |-
@@ -1271,7 +1271,7 @@
 |와타나베 타쿠야
 |
 |
-|
+|[https://youtu.be/mMiLWxuffdQ 보컬로이드]
 |3DMV
 |[https://twitter.com/pj_sekai/status/1412761181954007042 2021년 7월 7일]
 |-
@@ -1283,7 +1283,7 @@
 |폴리스 피카딜리
 |오구치
 |omu
-|
+|[https://youtu.be/Rcc_BreWEMI 보컬로이드]
 |[https://youtu.be/DaWbq6KeJq4 2DMV]
 |[https://twitter.com/pj_sekai/status/1413406491600584704 2021년 7월 9일]
 |-
@@ -1355,7 +1355,7 @@
 |aqu3ra
 |
 |
-|
+|[https://youtu.be/WXvm5XfkXrk 보컬로이드]
 |3DMV
 |[https://twitter.com/pj_sekai/status/1427981917354303495 2021년 8월 18일]
 |-
@@ -1367,7 +1367,7 @@
 |키노시타
 |우자키 우소
 |노라이누
-|
+|[https://youtu.be/Y-QhzXC9NbI 보컬로이드]
 |[https://youtu.be/JoM4JGqQyCU 2DMV]
 |[https://twitter.com/pj_sekai/status/1428599739755368456 2021년 8월 20일]
 |-
@@ -1439,7 +1439,7 @@
 |Numa
 |
 |
-|[https://www.nicovideo.jp/watch/sm39411572 보컬로이드]
+|[https://nico.ms/sm39411572 보컬로이드]
 |3DMV
 |[https://twitter.com/pj_sekai/status/1443234679524495361 2021년 9월 29일]
 |-
@@ -1619,7 +1619,7 @@
 |카라스야사보오
 |
 |
-|
+|[https://youtu.be/uDBVetc5JKo 보컬로이드]
 |3DMV
 |[https://twitter.com/pj_sekai/status/1454073998946365450 2021년 10월 29일]
 |-
@@ -1643,7 +1643,7 @@
 |누유리
 |헤치마
 |omu
-|
+|[https://youtu.be/3sEptl-psU0 보컬로이드]
 |[https://youtu.be/16M9oC-a5bY 2DMV]
 |[https://twitter.com/pj_sekai/status/1454691421919735811 2021년 10월 31일]
 |-

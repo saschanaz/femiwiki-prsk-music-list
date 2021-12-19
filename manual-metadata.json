@@ -116,29 +116,48 @@
     "movie": "omu"
   },
   "needLe": {
-    "titleKo": "needLe",
     "announcement": "https://twitter.com/pj_sekai/status/1294201795737092097",
-    "releaseDateOverride": "2020년 8월 14일 (사전공개)"
+    "releaseDateOverride": "2020년 8월 14일 (사전공개)",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtu.be/buoYwfZG4vQ"
+    }
   },
   "アイドル新鋭隊": {
     "titleKo": "아이돌신예대",
     "announcement": "https://twitter.com/pj_sekai/status/1303619491499094016",
-    "releaseDateOverride": "2020년 9월 9일 (리허설)"
+    "releaseDateOverride": "2020년 9월 9일 (리허설)",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtu.be/4QL9tLfVFJg"
+    }
   },
   "Ready Steady": {
     "titleKo": "Ready Steady",
     "announcement": "https://twitter.com/pj_sekai/status/1308694117958918145",
-    "releaseDateOverride": "2020년 9월 23일 (사전공개)"
+    "releaseDateOverride": "2020년 9월 23일 (사전공개)",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtu.be/XAg1jDDG49Y"
+    }
   },
   "セカイはまだ始まってすらいない": {
     "titleKo": "세계는 아직 시작조차 하지 않았어",
     "announcement": "https://twitter.com/pj_sekai/status/1251089432574169088",
-    "releaseDateOverride": "2020년 4월 17일 (사전공개)"
+    "releaseDateOverride": "2020년 4월 17일 (사전공개)",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtu.be/1s8NNPgdl5g"
+    }
   },
   "悔やむと書いてミライ": {
     "titleKo": "후회한다 쓰고 미래",
     "announcement": "https://twitter.com/pj_sekai/status/1252893774419652609",
-    "releaseDateOverride": "2020년 4월 22일 (사전공개)"
+    "releaseDateOverride": "2020년 4월 22일 (사전공개)",
+    "mvExternal": {
+      "type": "셀프 커버",
+      "url": "https://nico.ms/sm36723146"
+    }
   },
   "セカイ": {
     "titleKo": "세카이",
@@ -223,7 +242,11 @@
     "announcement": "https://twitter.com/pj_sekai/status/1316621387545501698",
     "mv2d": "https://youtu.be/kNLyqES4fC8",
     "illust": "森倉円",
-    "movie": "omu"
+    "movie": "omu",
+    "mvExternal": {
+      "type": "셀프 커버",
+      "url": "https://nico.ms/sm36903498"
+    }
   },
   "39みゅーじっく！": {
     "titleKo": "39뮤직!",
@@ -235,7 +258,11 @@
   },
   "ステラ": {
     "titleKo": "스텔라",
-    "announcement": "https://twitter.com/pj_sekai/status/1317815863987240962"
+    "announcement": "https://twitter.com/pj_sekai/status/1317815863987240962",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://nico.ms/sm37828296"
+    }
   },
   "Leia - Remind": {
     "titleKo": "Leia - Remind",
@@ -246,7 +273,11 @@
     "announcement": "https://twitter.com/pj_sekai/status/1318433933600595969",
     "mv2d": "https://youtu.be/J9kD9rYR088",
     "illust": "ろづ希",
-    "movie": "Lye"
+    "movie": "Lye",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtu.be/B2llCEKbxwA"
+    }
   },
   "メルティランドナイトメア": {
     "titleKo": "멜티 랜드 나이트메어",
@@ -289,7 +320,11 @@
   },
   "Forward": {
     "titleKo": "Forward",
-    "announcement": "https://twitter.com/pj_sekai/status/1336296722062983168"
+    "announcement": "https://twitter.com/pj_sekai/status/1336296722062983168",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtu.be/crCS77wqxTI"
+    }
   },
   "独りんぼエンヴィー": {
     "titleKo": "혼자 놀기 엔비",
@@ -300,7 +335,11 @@
     "announcement": "https://twitter.com/pj_sekai/status/1340541015371915264",
     "mv2d": "https://youtu.be/EIUO-fPrkSo",
     "illust": "たま",
-    "movie": "omu"
+    "movie": "omu",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtu.be/WztzykQSkgM"
+    }
   },
   "ODDS＆ENDS": {
     "titleKo": "ODDS&ENDS",
@@ -351,7 +390,11 @@
     "announcement": "https://twitter.com/pj_sekai/status/1348150344803524612",
     "mv2d": "https://youtu.be/70ZLvDTonqI",
     "illust": "飴村",
-    "movie": "omu"
+    "movie": "omu",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtu.be/wvlUWjqGQSA"
+    }
   },
   "ワールズエンド・ダンスホール": {
     "titleKo": "월즈 엔드 댄스홀",
@@ -363,7 +406,11 @@
   },
   "Color of Drops": {
     "titleKo": "Color of Drops",
-    "announcement": "https://twitter.com/pj_sekai/status/1355141142182944778"
+    "announcement": "https://twitter.com/pj_sekai/status/1355141142182944778",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtu.be/i5rl-NGSYoo"
+    }
   },
   "RAD DOGS": {
     "titleKo": "RAD DOGS",
@@ -400,14 +447,22 @@
   },
   "限りなく灰色へ": {
     "titleKo": "끝없이 잿빛으로",
-    "announcement": "https://twitter.com/pj_sekai/status/1365289725448179713"
+    "announcement": "https://twitter.com/pj_sekai/status/1365289725448179713",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtu.be/cwLlHFMlBNQ"
+    }
   },
   "ワンスアポンアドリーム": {
     "titleKo": "원스 어폰 어 드림",
     "announcement": "https://twitter.com/pj_sekai/status/1365906661789982721",
     "mv2d": "https://youtu.be/1RoDmN9n8xE",
     "illust": "村上ゆいち",
-    "movie": "omu"
+    "movie": "omu",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtu.be/S84mvlha5Fc"
+    }
   },
   "ボッカデラベリタ": {
     "titleKo": "보카델라베리타",
@@ -433,7 +488,11 @@
   },
   "天使のクローバー": {
     "titleKo": "천사의 클로버",
-    "announcement": "https://twitter.com/pj_sekai/status/1376887469233217539"
+    "announcement": "https://twitter.com/pj_sekai/status/1376887469233217539",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtu.be/lFJA9muTUDM"
+    }
   },
   "お気に召すまま": {
     "titleKo": "마음에 드시는 대로",
@@ -446,13 +505,21 @@
   "アイディスマイル": {
     "titleKo": "아이디스마일",
     "titleEn": "IDSMILE",
-    "announcement": "https://twitter.com/pj_sekai/status/1384134595549941764"
+    "announcement": "https://twitter.com/pj_sekai/status/1384134595549941764",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtu.be/X_6EPkvIAGg"
+    }
   },
   "「１」": {
     "titleKo": "「1」",
     "announcement": "https://twitter.com/pj_sekai/status/1384751726742278147",
     "mv2d": "https://youtu.be/_GdIO1AANg4",
-    "illust": "三門"
+    "illust": "三門",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtu.be/fobQOAOAdoE"
+    }
   },
   "花を唄う": {
     "titleKo": "꽃을 노래하다",
@@ -472,7 +539,11 @@
     "announcement": "https://twitter.com/pj_sekai/status/1391017885493981186",
     "mv2d": "https://youtu.be/8m1cUgLepmY",
     "illust": "しづ",
-    "movie": "みず希"
+    "movie": "みず希",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtu.be/EEbWRjavSVw"
+    }
   },
   "KING": {
     "titleKo": "KING",
@@ -483,7 +554,11 @@
     "announcement": "https://twitter.com/pj_sekai/status/1395631273725423616",
     "mv2d": "https://youtu.be/miLfbcfdqus",
     "illust": "ajimita",
-    "movie": "omu"
+    "movie": "omu",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtu.be/YsVmtXmpGEI"
+    }
   },
   "いかないで": {
     "titleKo": "가지 마",
@@ -500,7 +575,11 @@
   "トンデモワンダーズ": {
     "titleKo": "터무니원더즈",
     "announcement": "https://twitter.com/pj_sekai/status/1406241355366428676",
-    "mv3d": "https://youtu.be/vI5xihka9hw"
+    "mv3d": "https://youtu.be/vI5xihka9hw",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtu.be/dBQg24mx45Y"
+    }
   },
   "カナデトモスソラ": {
     "titleKo": "연주하여 밝히는 하늘",
@@ -518,7 +597,11 @@
   "フロムトーキョー": {
     "titleKo": "프롬 도쿄",
     "titleEn": "From Tokyo",
-    "announcement": "https://twitter.com/pj_sekai/status/1412761181954007042"
+    "announcement": "https://twitter.com/pj_sekai/status/1412761181954007042",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtu.be/mMiLWxuffdQ"
+    }
   },
   "Beat Eater": {
     "titleKo": "Beat Eater",
@@ -526,7 +609,11 @@
     "mv2d": "https://youtu.be/DaWbq6KeJq4",
     "illust": "おぐち",
     "movie": "omu",
-    "graffiti": "ズカ"
+    "graffiti": "ズカ",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtu.be/Rcc_BreWEMI"
+    }
   },
   "六兆年と一夜物語": {
     "titleKo": "육조년과 하룻밤 이야기",
@@ -556,14 +643,22 @@
   },
   "アイスドロップ": {
     "titleKo": "아이스 드롭",
-    "announcement": "https://twitter.com/pj_sekai/status/1427981917354303495"
+    "announcement": "https://twitter.com/pj_sekai/status/1427981917354303495",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtu.be/WXvm5XfkXrk"
+    }
   },
   "Glory Steady Go!": {
     "titleKo": "Glory Steady Go!",
     "announcement": "https://twitter.com/pj_sekai/status/1428599739755368456",
     "mv2d": "https://youtu.be/JoM4JGqQyCU",
     "illust": "宇崎うそ",
-    "movie": "野良いぬ"
+    "movie": "野良いぬ",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtu.be/Y-QhzXC9NbI"
+    }
   },
   "チルドレンレコード": {
     "titleKo": "칠드런 레코드",
@@ -581,13 +676,13 @@
     "titleKo": "유성의 펄스",
     "titleEn": "Pulse of The Meteor",
     "announcement": "https://twitter.com/pj_sekai/status/1436209626438012957",
+    "mv2d": "https://youtu.be/hZgbqUQI64E",
+    "illust": "富岡二郎",
+    "movie": "omu",
     "mvExternal": {
       "type": "보컬로이드",
       "url": "https://youtu.be/8Zds1FvEtKw"
-    },
-    "mv2d": "https://youtu.be/hZgbqUQI64E",
-    "illust": "富岡二郎",
-    "movie": "omu"
+    }
   },
   "カトラリー": {
     "titleKo": "커틀러리",
@@ -597,20 +692,20 @@
   "再生": {
     "titleKo": "재생",
     "titleEn": "Reborn",
+    "announcement": "https://twitter.com/pj_sekai/status/1443201940301570056",
     "mvExternal": {
       "type": "보컬로이드",
       "url": "https://youtu.be/purlnb5K_jM"
-    },
-    "announcement": "https://twitter.com/pj_sekai/status/1443201940301570056"
+    }
   },
   "群青讃歌": {
     "titleKo": "군청찬가",
     "titleEn": "Gunjo Sanka",
+    "announcement": "https://twitter.com/pj_sekai/status/1443234679524495361",
     "mvExternal": {
       "type": "보컬로이드",
-      "url": "https://www.nicovideo.jp/watch/sm39411572"
-    },
-    "announcement": "https://twitter.com/pj_sekai/status/1443234679524495361"
+      "url": "https://nico.ms/sm39411572"
+    }
   },
   "炉心融解": {
     "titleKo": "노심융해",
@@ -684,7 +779,11 @@
   "ショウタイム・ルーラー": {
     "titleKo": "쇼타임 룰러",
     "titleEn": "Showtime Ruler",
-    "announcement": "https://twitter.com/pj_sekai/status/1454073998946365450"
+    "announcement": "https://twitter.com/pj_sekai/status/1454073998946365450",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtu.be/uDBVetc5JKo"
+    }
   },
   "Happy Halloween": {
     "titleKo": "Happy Halloween",
@@ -696,7 +795,11 @@
     "announcement": "https://twitter.com/pj_sekai/status/1454691421919735811",
     "mv2d": "https://youtu.be/16M9oC-a5bY",
     "illust": "へちま",
-    "movie": "omu"
+    "movie": "omu",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtu.be/3sEptl-psU0"
+    }
   },
   "初音天地開闢神話": {
     "titleKo": "하츠네천지개벽신화",
@@ -718,14 +821,14 @@
   "ワールドワイドワンダー": {
     "titleKo": "월드와이드 완더",
     "titleEn": "Worldwide Wander",
+    "announcement": "https://twitter.com/pj_sekai/status/1469186806180900865",
+    "mv2d": "https://youtu.be/aO_ZCaoojh4",
+    "illust": "Rella",
+    "movie": "omu",
     "mvExternal": {
       "type": "보컬로이드",
       "url": "https://youtu.be/6NdOqVypgCM"
-    },
-    "illust": "Rella",
-    "movie": "omu",
-    "mv2d": "https://youtu.be/aO_ZCaoojh4",
-    "announcement": "https://twitter.com/pj_sekai/status/1469186806180900865"
+    }
   },
   "悪ノ娘": {
     "titleKo": "악의 딸",
