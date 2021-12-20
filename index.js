@@ -41,11 +41,11 @@ function stringifyCategories(item) {
         case "original":
           return "원곡MV";
         case "mv_2d": {
-          const url = manualMetadata[item.title]?.mv2d?.url;
+          const { url, illust } = manualMetadata[item.title]?.mv2d || {};
           if (url) {
-            return `[${url} 2DMV]`;
+            return `[${url} 2DMV(${translateArtistOrAsIs(illust)})]`;
           }
-          return "2DMV";
+          return `2DMV(${illust})`;
         }
         case "mv": {
           const mv3d = manualMetadata[item.title]?.mv3d;
@@ -90,7 +90,7 @@ function maybeMapEnglishTitle(music) {
 }
 
 function linkYouTube({ type, url } = {}) {
-  return url ? `[${url} ${type}]` : "";
+  return url ? `[${url} ${type} 버전]` : "";
 }
 
 function formatReleaseDate(item) {
@@ -99,7 +99,7 @@ function formatReleaseDate(item) {
   if (manualMetadata[item.title]?.releaseDateOverride) {
     return `[${announcement} ${releaseDateOverride}]`;
   }
-  const formatted = KOR_DATE_FORMAT.format(item.publishedAt);
+  const formatted = `${KOR_DATE_FORMAT.format(item.publishedAt)} 추가`;
   if (announcement) {
     return `[${announcement} ${formatted}]`;
   }
@@ -109,12 +109,18 @@ function formatReleaseDate(item) {
 function mapUnitName(unitName) {
   // TODO: emit templates for them
   switch (unitName) {
-    case "light_music_club": return "레오니";
-    case "idol": return "모모점";
-    case "street": return "비비배스";
-    case "theme_park": return "원더쇼";
-    case "school_refusal": return "니고";
-    case "vocaloid": return "보컬로이드";
+    case "light_music_club":
+      return "레오니";
+    case "idol":
+      return "모모점";
+    case "street":
+      return "비비배스";
+    case "theme_park":
+      return "원더쇼";
+    case "school_refusal":
+      return "니고";
+    case "vocaloid":
+      return "보컬로이드";
   }
 }
 
@@ -127,14 +133,32 @@ function getMusicTag(item) {
     .join(" ");
 }
 
+function hideIfAlreadyEnglish(title) {
+  if (title.match(/^[\x20-\x7F]*$/)) {
+    return ' style="visibility:hidden"';
+  }
+  return "";
+}
+
+function isKakioroshi(item) {
+  return item.seq >= 2000000;
+}
+
+function dataKakiroshi(item) {
+  if (isKakioroshi(item)) {
+    return "data-kakioroshi";
+  }
+  return "";
+}
+
 function convertAsWikimediaTableRow(item) {
   return (
     `|-\n` +
-    `|${maybeTranslateTitle(item.title)}\n` + // 제목
-    `|lang=ja|${item.title}\n` + // 원제
-    `|${maybeMapEnglishTitle(item)}\n` + // 영문제목
+    `|${dataKakiroshi(item)}|${maybeTranslateTitle(item.title)}\n` + // 제목
+    `|lang=ja${hideIfAlreadyEnglish(item.title)}|${item.title}\n` + // 원제
+    `|${hideIfAlreadyEnglish(item.title)}|${maybeMapEnglishTitle(item)}\n` + // 영문제목
     `|${getMusicTag(item)}\n` + // 분류
-    `|${item.seq >= 2000000 ? "✔️" : ""}\n` + // 오리지널
+    `|${isKakioroshi(item) ? "✔️" : ""}\n` + // 오리지널
     `|${translateArtistOrAsIs(item.lyricist)}\n` + // 작사
     `|${translateArtistOrAsIs(item.composer)}\n` + // 작곡
     `|${translateArtistOrAsIs(item.arranger)}\n` + // 편곡
@@ -142,9 +166,6 @@ function convertAsWikimediaTableRow(item) {
     `|${translateArtistOrAsIs(
       manualMetadata[item.title]?.mv2d?.illust || ""
     )}\n` + // 일러스트
-    `|${translateArtistOrAsIs(
-      manualMetadata[item.title]?.mv2d?.movie || ""
-    )}\n` + // 영상
     `|${linkYouTube(manualMetadata[item.title]?.mvExternal)}\n` + // 게임 외 버전
     `|${formatReleaseDate(item)}\n`
   );
@@ -158,7 +179,8 @@ await Deno.writeTextFile(
 편집이 필요할 경우 [[틀토론:프로세카 악곡 목록]] 또는
 [https://github.com/saschanaz/femiwiki-prsk-music-list/issues 코드 저장소]에 문의해 주세요.
 
-<onlyinclude>{| class="wikitable sortable"
+<onlyinclude><templatestyles src="프로세카 악곡 목록/styles.css" />
+{| class="prsk-music-table sortable"
 !제목
 !원제
 !영문 제목
@@ -169,7 +191,6 @@ await Deno.writeTextFile(
 !편곡
 !MV
 !2DMV 일러스트
-!2DMV 영상
 !게임 외 MV
 !추가일
 ${musics.map(convertAsWikimediaTableRow).join("")}|}</onlyinclude>\n`
