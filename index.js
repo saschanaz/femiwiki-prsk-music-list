@@ -42,10 +42,11 @@ function stringifyCategories(item) {
           return "원곡MV";
         case "mv_2d": {
           const { url, illust } = manualMetadata[item.title]?.mv2d || {};
+          const translated = illust ? `(${translateArtistOrAsIs(illust)})` : "";
           if (url) {
-            return `[${url} 2DMV(${translateArtistOrAsIs(illust)})]`;
+            return `[${url} 2DMV${translated}]`;
           }
-          return `2DMV(${illust})`;
+          return `2DMV${translated}`;
         }
         case "mv": {
           const mv3d = manualMetadata[item.title]?.mv3d;

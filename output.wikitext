@@ -1774,7 +1774,7 @@
 |-
 |data-kakioroshi|로워
 |lang=ja|ロウワー
-||Lower
+||Lower one's eyes
 |[[파일:버싱로고.png|24x24픽셀]] [[파일:니고로고.png|24x24픽셀]]
 |✔️
 |누유리
@@ -1888,4 +1888,43 @@
 |
 |
 |[https://twitter.com/pj_sekai/status/1470997989212958722 2021년 12월 15일 추가]
+|-
+||라스트 스코어
+|lang=ja|ラストスコア
+||Last Score
+|[[파일:버싱로고.png|24x24픽셀]]
+|
+|세키고미고항
+|세키고미고항
+|세키고미고항
+|
+|
+|
+|[https://twitter.com/pj_sekai/status/1472811029365399552 2021년 12월 20일 추가]
+|-
+||픽서
+|lang=ja|フィクサー
+||fixer
+|[[파일:버싱로고.png|24x24픽셀]] [[파일:원더쇼로고.png|24x24픽셀]]
+|
+|누유리
+|누유리
+|누유리
+|
+|
+|
+|[https://twitter.com/pj_sekai/status/1472811029365399552 2021년 12월 28일 추가]
+|-
+|data-kakioroshi|미래
+|lang=ja|ミライ
+||Future
+|[[파일:비배스로고.png|24x24픽셀]]
+|✔️
+|유기산
+|유기산
+|유기산
+|3DMV 2DMV
+|
+|
+|2021년 12월 29일 추가
 |}</onlyinclude>

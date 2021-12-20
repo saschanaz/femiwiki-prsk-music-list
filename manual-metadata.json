@@ -863,7 +863,7 @@
   },
   "ロウワー": {
     "titleKo": "로워",
-    "titleEn": "Lower",
+    "titleEn": "Lower one's eyes",
     "announcement": "https://twitter.com/pj_sekai/status/1454691421919735811",
     "mv2d": {
       "url": "https://youtu.be/16M9oC-a5bY",
@@ -917,5 +917,19 @@
   "去り人達のワルツ": {
     "titleKo": "떠나는 이들의 왈츠",
     "announcement": "https://twitter.com/pj_sekai/status/1470997989212958722"
+  },
+  "ラストスコア": {
+    "titleKo": "라스트 스코어",
+    "titleEn": "Last Score",
+    "announcement": "https://twitter.com/pj_sekai/status/1472811029365399552"
+  },
+  "フィクサー": {
+    "titleKo": "픽서",
+    "titleEn": "fixer",
+    "announcement": "https://twitter.com/pj_sekai/status/1472811029365399552"
+  },
+  "ミライ": {
+    "titleKo": "미래",
+    "titleEn": "Future"
   }
 }
