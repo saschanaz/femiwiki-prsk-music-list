@@ -110,17 +110,17 @@ function mapUnitName(unitName) {
   // TODO: emit templates for them
   switch (unitName) {
     case "light_music_club":
-      return "레오니";
+      return "[[파일:레오니로고.png|24x24픽셀]]";
     case "idol":
-      return "모모점";
+      return "[[파일:모모점로고.png|24x24픽셀]]";
     case "street":
-      return "비비배스";
+      return "[[파일:비배스로고.png|24x24픽셀]]";
     case "theme_park":
-      return "원더쇼";
+      return "[[파일:원더쇼로고.png|24x24픽셀]]";
     case "school_refusal":
-      return "니고";
+      return "[[파일:니고로고.png|24x24픽셀]]";
     case "vocaloid":
-      return "보컬로이드";
+      return "[[파일:버싱로고.png|24x24픽셀]]";
   }
 }
 
