@@ -131,7 +131,7 @@ function getMusicTag(item) {
     .map((tag) => tag.musicTag)
     .filter((tag) => !["all", "other"].includes(tag))
     .map(mapUnitName)
-    .join(" ");
+    .join("");
 }
 
 function hideIfAlreadyEnglish(title) {
