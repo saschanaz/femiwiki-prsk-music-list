@@ -335,7 +335,8 @@
     "announcement": "https://twitter.com/pj_sekai/status/1330029702002696195"
   },
   "アンノウン・マザーグース": {
-    "titleKo": "언노운 마더 구스",
+    "titleKo": "언노운 마더구스",
+    "titleEn": "Unknown Mother Goose",
     "announcement": "https://twitter.com/pj_sekai/status/1330753942288883712"
   },
   "愛されなくても君がいる": {
@@ -449,7 +450,6 @@
     }
   },
   "RAD DOGS": {
-    "titleKo": "RAD DOGS",
     "announcement": "https://twitter.com/pj_sekai/status/1355760937903419394",
     "mv2d": {
       "url": "https://youtu.be/ZMbWDpC1N7s",
@@ -474,7 +474,6 @@
     }
   },
   "drop pop candy": {
-    "titleKo": "drop pop candy",
     "announcement": "https://twitter.com/pj_sekai/status/1361195682556637184"
   },
   "ポジティブ☆ダンスタイム": {
@@ -499,6 +498,7 @@
   },
   "ワンスアポンアドリーム": {
     "titleKo": "원스 어폰 어 드림",
+    "titleEn": "Once Upon A Dream",
     "announcement": "https://twitter.com/pj_sekai/status/1365906661789982721",
     "mv2d": {
       "url": "https://youtu.be/1RoDmN9n8xE",
@@ -512,6 +512,7 @@
   },
   "ボッカデラベリタ": {
     "titleKo": "보카델라베리타",
+    "titleEn": "Bocca della Verità",
     "announcement": "https://twitter.com/pj_sekai/status/1368080761136373761",
     "mv2d": {
       "url": "https://youtu.be/ZjNUJUgyoOw",
@@ -527,7 +528,6 @@
     "announcement": "https://twitter.com/pj_sekai/status/1371342236823089155"
   },
   "from Y to Y": {
-    "titleKo": "from Y to Y",
     "announcement": "https://twitter.com/pj_sekai/status/1373879019272171524"
   },
   "初音ミクの激唱": {
