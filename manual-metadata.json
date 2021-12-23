@@ -886,7 +886,11 @@
   },
   "STAGE OF SEKAI": {
     "titleKo": "STAGE OF SEKAI",
-    "announcement": "https://twitter.com/pj_sekai/status/1461320919839051776"
+    "announcement": "https://twitter.com/pj_sekai/status/1461320919839051776",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtu.be/YVD1RLI7klc"
+    }
   },
   "からくりピエロ": {
     "titleKo": "꼭두각시 피에로",
