@@ -19,10 +19,10 @@ jobs:
       - name: Update submodules
         run: |
           cd sekai-master-db-diff
-          git pull --ff-only
+          git pull --rebase
           cd ..
           cd sekai-master-db-en-diff
-          git pull --ff-only
+          git pull --rebase
       - name: Rewrite wikitext
         run: deno run --allow-write --allow-read index.js
       - name: Commit files
