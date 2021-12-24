@@ -1,0 +1,32 @@
+name: Update smdd
+
+on:
+  workflow_dispatch:
+  schedule:
+    # https://crontab.guru/#0_0_*_*_*
+    - cron: "0 0 * * *"
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/install-deno@1
+
+      - name: Update submodules
+        run: |
+          cd sekai-master-db-diff
+          git pull
+          cd ..
+          cd sekai-master-db-en-diff
+          git pull
+      - name: Rewrite wikitext
+        run: deno run --allow-write --allow-read index.js
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "Update smdd"
+          git push
