@@ -7,13 +7,13 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
-  submit:
+  update:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v2
         with:
-          submodule: true
+          submodules: true
       - uses: maximousblk/setup-deno@v1
 
       - name: Update submodules
