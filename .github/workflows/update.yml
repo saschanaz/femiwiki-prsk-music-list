@@ -12,12 +12,13 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-        with:
-          submodules: true
+        # with:
+        #   submodules: true # This forces --depth=1 which conflicts with pull
       - uses: maximousblk/setup-deno@v1
 
       - name: Update submodules
         run: |
+          git submodule update --recursive
           cd sekai-master-db-diff
           git log
           git pull --rebase
