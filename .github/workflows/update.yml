@@ -12,6 +12,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+        with:
+          submodule: true
       - uses: maximousblk/setup-deno@v1
 
       - name: Update submodules
