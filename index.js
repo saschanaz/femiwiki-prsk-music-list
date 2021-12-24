@@ -174,11 +174,15 @@ function convertAsWikimediaTableRow(item) {
 
 musics.sort(sorter);
 
+const ids = musics.map((item) => item.id);
+
 await Deno.writeTextFile(
   "./output.wikitext",
   `아래 표는 프로세카봇이 자동 생성하였습니다. 수동 편집할 경우 곧 덮어씌워지게 되므로
 편집이 필요할 경우 [[틀토론:프로세카 악곡 목록]] 또는
 [https://github.com/saschanaz/femiwiki-prsk-music-list/issues 코드 저장소]에 문의해 주세요.
+
+[[프로세카/악곡]] 문서에서 일부 추가 정보를 볼 수 있습니다.
 
 <onlyinclude><templatestyles src="프로세카 악곡 목록/styles.css" />
 {| class="prsk-music-table sortable"
@@ -194,5 +198,26 @@ await Deno.writeTextFile(
 !2DMV 일러스트
 !게임 외 MV
 !추가일
-${musics.map(convertAsWikimediaTableRow).join("")}|}</onlyinclude>\n`
+${musics.map(convertAsWikimediaTableRow).join("")}|}
+
+=== 영문 버전 전용 악곡 ===
+<templatestyles src="프로세카 악곡 목록/styles.css" />
+{| class="prsk-music-table sortable"
+!제목
+!원제
+!영문 제목
+!분류
+!오리지널
+!작사
+!작곡
+!편곡
+!MV
+!2DMV 일러스트
+!게임 외 MV
+!추가일
+${musicsEn
+  .filter((en) => !ids.includes(en.id))
+  .map(convertAsWikimediaTableRow)
+  .join("")}|}</onlyinclude>
+`
 );

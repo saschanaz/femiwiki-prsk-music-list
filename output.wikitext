@@ -2,6 +2,8 @@
 편집이 필요할 경우 [[틀토론:프로세카 악곡 목록]] 또는
 [https://github.com/saschanaz/femiwiki-prsk-music-list/issues 코드 저장소]에 문의해 주세요.
 
+[[프로세카/악곡]] 문서에서 일부 추가 정보를 볼 수 있습니다.
+
 <onlyinclude><templatestyles src="프로세카 악곡 목록/styles.css" />
 {| class="prsk-music-table sortable"
 !제목
@@ -1927,4 +1929,35 @@
 |
 |
 |2021년 12월 29일 추가
+|}
+
+=== 영문 버전 전용 악곡 ===
+
+<templatestyles src="프로세카 악곡 목록/styles.css" />
+{| class="prsk-music-table sortable"
+!제목
+!원제
+!영문 제목
+!분류
+!오리지널
+!작사
+!작곡
+!편곡
+!MV
+!2DMV 일러스트
+!게임 외 MV
+!추가일
+|-
+||Miku
+|lang=ja style="visibility:hidden"|Miku
+| style="visibility:hidden"|Miku
+|
+|
+|Peter B, Ary W, Josh K, David M, & Stella M
+|Anamanaguchi
+|Anamanaguchi
+|3DMV
+|
+|
+|2021년 12월 25일 추가
 |}</onlyinclude>
