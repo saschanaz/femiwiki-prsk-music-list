@@ -20,7 +20,6 @@ jobs:
         run: |
           git submodule update --init --recursive
           cd sekai-master-db-diff
-          git log
           git pull --rebase origin main
           cd ..
           cd sekai-master-db-en-diff
