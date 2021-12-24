@@ -21,10 +21,10 @@ jobs:
           git submodule update --init --recursive
           cd sekai-master-db-diff
           git log
-          git pull --rebase
+          git pull --rebase origin main
           cd ..
           cd sekai-master-db-en-diff
-          git pull --rebase
+          git pull --rebase origin main
       - name: Rewrite wikitext
         run: deno run --allow-write --allow-read index.js
       - name: Commit files
