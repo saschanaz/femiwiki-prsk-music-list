@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: maximousblk/install-deno@1
+      - uses: maximousblk/setup-deno@v1
 
       - name: Update submodules
         run: |
