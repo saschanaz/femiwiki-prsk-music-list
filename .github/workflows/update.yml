@@ -19,6 +19,7 @@ jobs:
       - name: Update submodules
         run: |
           cd sekai-master-db-diff
+          git log
           git pull --rebase
           cd ..
           cd sekai-master-db-en-diff
