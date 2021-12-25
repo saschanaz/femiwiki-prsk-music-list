@@ -1564,7 +1564,7 @@
 |3DMV
 |
 |[https://nico.ms/sm39411572 보컬로이드 버전]
-|[https://twitter.com/pj_sekai/status/1443234679524495361 2021년 9월 29일 추가]
+|[https://twitter.com/pj_sekai/status/1443234679524495361 2021년 9월 30일 추가]
 |-
 ||노심융해
 |lang=ja|炉心融解
@@ -1958,5 +1958,5 @@
 |3DMV
 |
 |
-|2021년 12월 24일 추가
+|2021년 12월 25일 추가
 |}</onlyinclude>

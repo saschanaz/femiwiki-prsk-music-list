@@ -4,7 +4,10 @@ import musicsEn from "./sekai-master-db-en-diff/musics.json" assert { type: "jso
 import artistTranslation from "./name-translations/artists.json" assert { type: "json" };
 import manualMetadata from "./manual-metadata.json" assert { type: "json" };
 
-const KOR_DATE_FORMAT = Intl.DateTimeFormat("ko-kr", { dateStyle: "long" });
+const KOR_DATE_FORMAT = Intl.DateTimeFormat("ko-kr", {
+  dateStyle: "long",
+  timeZone: "Asia/Seoul",
+});
 
 function sorter(a, b) {
   const byPublishedAt = a.publishedAt - b.publishedAt;
