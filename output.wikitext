@@ -1932,7 +1932,6 @@
 |}
 
 === 영문 버전 전용 악곡 ===
-
 <templatestyles src="프로세카 악곡 목록/styles.css" />
 {| class="prsk-music-table sortable"
 !제목
@@ -1959,5 +1958,5 @@
 |3DMV
 |
 |
-|2021년 12월 25일 추가
+|2021년 12월 24일 추가
 |}</onlyinclude>
