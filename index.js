@@ -111,7 +111,6 @@ function formatReleaseDate(item) {
 }
 
 function mapUnitName(unitName) {
-  // TODO: emit templates for them
   switch (unitName) {
     case "light_music_club":
       return "[[파일:레오니로고.png|24x24픽셀]]";
