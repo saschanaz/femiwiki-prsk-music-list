@@ -121,9 +121,19 @@ function hasTrailingConsonant(hangul) {
  * @param {string} character2
  */
 function translateDescription(text, character1, character2) {
+  /**
+   * @param {string} name
+   */
+  function linkToDocument(name) {
+    if (CHARACTERS[name].unit === "VOCALOID") {
+      return `[[${name}(프로젝트 세카이)|${name}]]`;
+    }
+    return `[[${name}]]`;
+  }
+
   const match = text.match(/\S+と\S+のキズナランクを([0-9]+)まで上げよう。/);
   const and = hasTrailingConsonant(character1) ? "과" : "와";
-  return `[[${character1}]]${and} [[${character2}]]의 인연 랭크를 ${match[1]}까지 올리자.`;
+  return `${linkToDocument(character1)}${and} ${linkToDocument(character2)}의 인연 랭크를 ${match[1]}까지 올리자.`;
 }
 
 const dataRows = bondsHonerWords.map((word) => {
