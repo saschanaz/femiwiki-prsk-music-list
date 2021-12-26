@@ -163,7 +163,7 @@ function rowToWikitext(row) {
 
 await Deno.writeTextFile(
   "./bondHonorWords.wikitext",
-  `{| class="wiktable sortable"
+  `{| class="wikitable sortable"
 !캐릭터 1
 !캐릭터 2
 !칭호명
