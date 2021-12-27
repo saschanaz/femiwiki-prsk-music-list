@@ -37,4 +37,4 @@ jobs:
         env:
           MW_LGNAME: ${{ secrets.MW_LGNAME }}
           MW_LGPASSWORD: ${{ secrets.MW_LGPASSWORD }}
-        run: deno run --allow-read --allow-net wiki.js
+        run: deno run --allow-read --allow-net --allow-env wiki.js
