@@ -33,3 +33,8 @@ jobs:
           git add -A
           git diff-index --quiet HEAD || git commit -m "Update smdd"
           git push
+      - name: Submit wikitext
+        env:
+          MW_LGNAME: ${{ secrets.MW_LGNAME }}
+          MW_LGPASSWORD: ${{ secrets.MW_LGPASSWORD }}
+        run: deno run --allow-read --allow-net wiki.js
