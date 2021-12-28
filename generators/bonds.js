@@ -162,7 +162,7 @@ function rowToWikitext(row) {
 }
 
 await Deno.writeTextFile(
-  "./bondHonorWords.wikitext",
+  new URL("../output/bondHonorWords.wikitext", import.meta.url),
   `{| class="wikitable sortable"
 !캐릭터 1
 !캐릭터 2

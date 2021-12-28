@@ -1,10 +1,10 @@
-import musics from "./sekai-master-db-diff/musics.json" assert { type: "json" };
-import musicTags from "./sekai-master-db-diff/musicTags.json" assert { type: "json" };
-import musicsEn from "./sekai-master-db-en-diff/musics.json" assert { type: "json" };
-import artistTranslation from "./name-translations/artists.json" assert { type: "json" };
-import manualMetadata from "./manual-metadata.json" assert { type: "json" };
+import musics from "../sekai-master-db-diff/musics.json" assert { type: "json" };
+import musicTags from "../sekai-master-db-diff/musicTags.json" assert { type: "json" };
+import musicsEn from "../sekai-master-db-en-diff/musics.json" assert { type: "json" };
+import artistTranslation from "../name-translations/artists.json" assert { type: "json" };
+import manualMetadata from "../manual-metadata.json" assert { type: "json" };
 
-import { KOR_DATE_FORMAT, mapUnitName, isAsciiOnly } from "./lib/utilities.js";
+import { KOR_DATE_FORMAT, mapUnitName, isAsciiOnly } from "../lib/utilities.js";
 
 function sorter(a, b) {
   const byPublishedAt = a.publishedAt - b.publishedAt;
@@ -159,7 +159,7 @@ musics.sort(sorter);
 const ids = musics.map((item) => item.id);
 
 await Deno.writeTextFile(
-  "./output.wikitext",
+  new URL("../output/musics.wikitext", import.meta.url),
   `아래 표는 프로세카봇이 자동 생성하였습니다. 수동 편집할 경우 곧 덮어씌워지게 되므로
 편집이 필요할 경우 [[틀토론:프로세카 악곡 목록]] 또는
 [https://github.com/saschanaz/femiwiki-prsk-music-list/issues 코드 저장소]에 문의해 주세요.
