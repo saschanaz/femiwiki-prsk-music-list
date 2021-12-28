@@ -4,7 +4,7 @@ import musicsEn from "./sekai-master-db-en-diff/musics.json" assert { type: "jso
 import artistTranslation from "./name-translations/artists.json" assert { type: "json" };
 import manualMetadata from "./manual-metadata.json" assert { type: "json" };
 
-import { KOR_DATE_FORMAT, mapUnitName } from "./lib/utilities.js";
+import { KOR_DATE_FORMAT, mapUnitName, isAsciiOnly } from "./lib/utilities.js";
 
 function sorter(a, b) {
   const byPublishedAt = a.publishedAt - b.publishedAt;
@@ -22,7 +22,7 @@ function translateArtistOrAsIs(name) {
   if (name === "-") {
     return "";
   }
-  if (name.match(/^[\x20-\x7F]*$/)) {
+  if (isAsciiOnly(name)) {
     return name;
   }
   const translated = artistTranslation[name];
@@ -62,7 +62,7 @@ function stringifyCategories(item) {
 }
 
 function maybeTranslateTitle(title) {
-  if (title.match(/^[\x20-\x7F]*$/)) {
+  if (isAsciiOnly(title)) {
     return title;
   }
   const translated = manualMetadata[title]?.titleKo;
@@ -84,7 +84,7 @@ function maybeMapEnglishTitle(music) {
   if (manual) {
     return manual;
   }
-  if (music.title.match(/^[\x20-\x7F]*$/)) {
+  if (isAsciiOnly(music.title)) {
     return music.title;
   }
   return "";
@@ -117,7 +117,7 @@ function getMusicTag(item) {
 }
 
 function hideIfAlreadyEnglish(title) {
-  if (title.match(/^[\x20-\x7F]*$/)) {
+  if (isAsciiOnly(title)) {
     return ' style="visibility:hidden"';
   }
   return "";
