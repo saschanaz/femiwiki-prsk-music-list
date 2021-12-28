@@ -4,7 +4,7 @@ import musicsEn from "./sekai-master-db-en-diff/musics.json" assert { type: "jso
 import artistTranslation from "./name-translations/artists.json" assert { type: "json" };
 import manualMetadata from "./manual-metadata.json" assert { type: "json" };
 
-import { KOR_DATE_FORMAT } from "./lib/utilities.js";
+import { KOR_DATE_FORMAT, mapUnitName } from "./lib/utilities.js";
 
 function sorter(a, b) {
   const byPublishedAt = a.publishedAt - b.publishedAt;
@@ -105,23 +105,6 @@ function formatReleaseDate(item) {
     return `[${announcement} ${formatted}]`;
   }
   return formatted;
-}
-
-function mapUnitName(unitName) {
-  switch (unitName) {
-    case "light_music_club":
-      return "[[파일:레오니로고.png|24x24픽셀]]";
-    case "idol":
-      return "[[파일:모모점로고.png|24x24픽셀]]";
-    case "street":
-      return "[[파일:비배스로고.png|24x24픽셀]]";
-    case "theme_park":
-      return "[[파일:원더쇼로고.png|24x24픽셀]]";
-    case "school_refusal":
-      return "[[파일:니고로고.png|24x24픽셀]]";
-    case "vocaloid":
-      return "[[파일:버싱로고.png|24x24픽셀]]";
-  }
 }
 
 function getMusicTag(item) {
