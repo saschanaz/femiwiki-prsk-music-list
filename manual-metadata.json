@@ -1,7 +1,8 @@
 {
   "Tell Your World": {
     "announcement": "https://twitter.com/pj_sekai/status/1236982237159022595",
-    "releaseDateOverride": "2020년 3월 9일 (사전공개)"
+    "releaseDateOverride": "2020년 3월 9일 (사전공개)",
+    "mv3d": "https://youtu.be/UUaVUWCPv_Y"
   },
   "ネクストネスト": {
     "titleKo": "넥스트 네스트",
@@ -31,12 +32,14 @@
   "ロキ": {
     "titleKo": "로키",
     "announcement": "https://twitter.com/pj_sekai/status/1186968196626014208",
-    "releaseDateOverride": "2019년 10월 23일 (사전공개)"
+    "releaseDateOverride": "2019년 10월 23일 (사전공개)",
+    "mv3d": "https://youtu.be/PD8PHqWuSUI"
   },
   "テオ": {
     "titleKo": "테오",
     "announcement": "https://twitter.com/pj_sekai/status/1240205105200164865",
-    "releaseDateOverride": "2020년 3월 18일 (사전공개)"
+    "releaseDateOverride": "2020년 3월 18일 (사전공개)",
+    "mv3d": "https://youtu.be/RCULeLioEnc"
   },
   "ヒバナ -Reloaded-": {
     "titleKo": "불꽃 -Reloaded-",
@@ -54,7 +57,8 @@
     "mv2d": {
       "url": "https://youtu.be/xD3amnjfxac",
       "illust": "モゲラッタ"
-    }
+    },
+    "mv3d": "https://youtu.be/4x2oA5vy2_U"
   },
   "Nostalogic": {
     "titleKo": "Nostalogic",
@@ -68,12 +72,14 @@
   "ツギハギスタッカート": {
     "titleKo": "누덕누덕 스타카토",
     "announcement": "https://twitter.com/pj_sekai/status/1242753762155876353",
-    "releaseDateOverride": "2020년 3월 25일 (사전공개)"
+    "releaseDateOverride": "2020년 3월 25일 (사전공개)",
+    "mv3d": "https://youtu.be/6iwD9hM9ND4"
   },
   "劣等上等": {
     "titleKo": "열등상등",
     "announcement": "https://twitter.com/pj_sekai/status/1186968196626014208",
-    "releaseDateOverride": "2019년 10월 23일 (사전공개)"
+    "releaseDateOverride": "2019년 10월 23일 (사전공개)",
+    "mv3d": "https://youtu.be/mjbDHb4B5NY"
   },
   "ドクター=ファンクビート": {
     "titleKo": "닥터=펑크비트",
@@ -93,12 +99,14 @@
   "ブリキノダンス": {
     "titleKo": "양철의 댄스",
     "announcement": "https://twitter.com/pj_sekai/status/1272725763146407938",
-    "releaseDateOverride": "2020년 6월 16일 (사전공개)"
+    "releaseDateOverride": "2020년 6월 16일 (사전공개)",
+    "mv3d": "https://youtu.be/msnpPsYN2oM"
   },
   "スイートマジック": {
     "titleKo": "스위트 매직",
     "announcement": "https://twitter.com/pj_sekai/status/1186968196626014208",
-    "releaseDateOverride": "2019년 10월 23일 (사전공개)"
+    "releaseDateOverride": "2019년 10월 23일 (사전공개)",
+    "mv3d": "https://youtu.be/gPimbh-jxCo"
   },
   "ぼうけんのしょがきえました！": {
     "titleKo": "모험의 서가 사라졌습니다!",
@@ -108,7 +116,8 @@
   "シャルル": {
     "titleKo": "샤를",
     "announcement": "https://twitter.com/pj_sekai/status/1285900393776427012",
-    "releaseDateOverride": "2020년 6월 22일 (사전공개)"
+    "releaseDateOverride": "2020년 6월 22일 (사전공개)",
+    "mv3d": "https://youtu.be/diTjDNKgjLE"
   },
   "ハロ／ハワユ": {
     "titleKo": "헬로/하와유",
@@ -123,11 +132,13 @@
       "url": "https://youtu.be/n7ZmBBf5-7g",
       "illust": "スオウ",
       "movie": "omu"
-    }
+    },
+    "mv3d": "https://youtu.be/LEEyYKrEvvk"
   },
   "needLe": {
     "announcement": "https://twitter.com/pj_sekai/status/1294201795737092097",
     "releaseDateOverride": "2020년 8월 14일 (사전공개)",
+    "mv3d": "https://youtu.be/kXGtXnq1iF8",
     "mvExternal": {
       "type": "보컬로이드",
       "url": "https://youtu.be/buoYwfZG4vQ"
@@ -137,6 +148,7 @@
     "titleKo": "아이돌신예대",
     "announcement": "https://twitter.com/pj_sekai/status/1303619491499094016",
     "releaseDateOverride": "2020년 9월 9일 (리허설)",
+    "mv3d": "https://youtu.be/3yQWZcYXcgg",
     "mvExternal": {
       "type": "보컬로이드",
       "url": "https://youtu.be/4QL9tLfVFJg"
@@ -146,6 +158,7 @@
     "titleKo": "Ready Steady",
     "announcement": "https://twitter.com/pj_sekai/status/1308694117958918145",
     "releaseDateOverride": "2020년 9월 23일 (사전공개)",
+    "mv3d": "https://youtu.be/cj3y6DBjyvs",
     "mvExternal": {
       "type": "보컬로이드",
       "url": "https://youtu.be/XAg1jDDG49Y"
@@ -155,6 +168,7 @@
     "titleKo": "세계는 아직 시작조차 하지 않았어",
     "announcement": "https://twitter.com/pj_sekai/status/1251089432574169088",
     "releaseDateOverride": "2020년 4월 17일 (사전공개)",
+    "mv3d": "https://youtu.be/cFExVIRuGso",
     "mvExternal": {
       "type": "보컬로이드",
       "url": "https://youtu.be/1s8NNPgdl5g"
@@ -164,6 +178,7 @@
     "titleKo": "후회한다 쓰고 미래",
     "announcement": "https://twitter.com/pj_sekai/status/1252893774419652609",
     "releaseDateOverride": "2020년 4월 22일 (사전공개)",
+    "mv3d": "https://youtu.be/an_gDTrVdHo",
     "mvExternal": {
       "type": "셀프 커버",
       "url": "https://nico.ms/sm36723146"
@@ -172,12 +187,14 @@
   "セカイ": {
     "titleKo": "세카이",
     "announcement": "https://twitter.com/pj_sekai/status/1289141373589839872",
-    "releaseDateOverride": "2020년 7월 31일 (사전공개)"
+    "releaseDateOverride": "2020년 7월 31일 (사전공개)",
+    "mv3d": "https://youtu.be/jxP2_vihhpM"
   },
   "ワーワーワールド": {
     "titleKo": "워-워-월드",
     "announcement": "https://twitter.com/pj_sekai/status/1290951301698707456",
-    "releaseDateOverride": "2020년 8월 5일 (사전공개)"
+    "releaseDateOverride": "2020년 8월 5일 (사전공개)",
+    "mv3d": "https://youtu.be/GJbEn1srk3Y"
   },
   "アスノヨゾラ哨戒班": {
     "titleKo": "내일의 밤하늘 초계반",
@@ -185,7 +202,8 @@
   },
   "ニア": {
     "titleKo": "니어",
-    "announcement": "https://twitter.com/pj_sekai/status/1311911158970896385"
+    "announcement": "https://twitter.com/pj_sekai/status/1311911158970896385",
+    "mv3d": "https://youtu.be/mzZOoZqDly4"
   },
   "Just Be Friends": {
     "titleKo": "Just Be Friends",
@@ -279,6 +297,7 @@
   "ステラ": {
     "titleKo": "스텔라",
     "announcement": "https://twitter.com/pj_sekai/status/1317815863987240962",
+    "mv3d": "https://youtu.be/oo2s6w-l1jQ",
     "mvExternal": {
       "type": "보컬로이드",
       "url": "https://nico.ms/sm37828296"
@@ -303,7 +322,8 @@
   },
   "メルティランドナイトメア": {
     "titleKo": "멜티 랜드 나이트메어",
-    "announcement": "https://twitter.com/pj_sekai/status/1320245172874039298"
+    "announcement": "https://twitter.com/pj_sekai/status/1320245172874039298",
+    "mv3d": "https://youtu.be/ZKbnmy82DZE"
   },
   "乙女解剖": {
     "titleKo": "소녀해부",
@@ -312,6 +332,7 @@
   "potatoになっていく": {
     "titleKo": "potato가 되어가",
     "announcement": "https://twitter.com/pj_sekai/status/1325062968090849284",
+    "mv3d": "https://youtu.be/h_h1uJcLsAE",
     "mvExternal": {
       "type": "보컬로이드",
       "url": "https://youtu.be/Dun11cIEo9s"
