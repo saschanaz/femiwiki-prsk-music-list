@@ -934,7 +934,13 @@
   },
   "ミライ": {
     "titleKo": "미래",
-    "titleEn": "Future"
+    "titleEn": "Future",
+    "announcement": "https://twitter.com/pj_sekai/status/1476178014174326785",
+    "mv2d": {
+      "url": "https://youtu.be/X_u5UtcgrKw",
+      "illust": "BUZZ",
+      "movie": "omu"
+    }
   },
   "Miku": {
     "announcement": "https://twitter.com/ColorfulStageEN/status/1474500170973085698",
