@@ -33,7 +33,7 @@ function eventToWikitext(event) {
     `|${key.map(mapUnitName).join("")}\n` +
     `|${sub.map(mapUnitName).join("")}\n` +
     `|${KOR_DATE_FORMAT.format(event.startAt)}\n` +
-    `|${KOR_DATE_FORMAT.format(event.closedAt)}\n`
+    `|${KOR_DATE_FORMAT.format(event.aggregateAt)}\n`
   );
 }
 
