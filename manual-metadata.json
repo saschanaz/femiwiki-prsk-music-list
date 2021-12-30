@@ -996,5 +996,24 @@
   "Miku": {
     "announcement": "https://twitter.com/ColorfulStageEN/status/1474500170973085698",
     "mv3d": "https://youtu.be/51Y8UZr_Xf0"
+  },
+  "ゴーストルール": {
+    "titleKo": "고스트 룰",
+    "titleEn": "Ghost Rule",
+    "announcement": "https://twitter.com/pj_sekai/status/1476434829873152001"
+  },
+  "ヴィラン": {
+    "titleKo": "빌런",
+    "titleEn": "Villain"
+  },
+  "サンドリヨン 10th Anniversary": {
+    "titleKo": "상드리용 10th Anniversary",
+    "titleEn": "Cendrillon 10th Anniversary"
+  },
+  "少女レイ": {
+    "titleKo": "소녀 레이"
+  },
+  "ガランド": {
+    "titleKo": "갈란드"
   }
 }

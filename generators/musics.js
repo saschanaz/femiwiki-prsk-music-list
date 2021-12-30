@@ -68,8 +68,9 @@ function maybeTranslateTitle(title) {
   const translated = manualMetadata[title]?.titleKo;
   if (!translated) {
     console.warn(`No translation for title "${title}"`);
+    return title;
   }
-  return translated || "";
+  return translated;
 }
 
 function maybeMapEnglishTitle(music) {
