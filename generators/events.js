@@ -25,13 +25,14 @@ function eventToWikitext(event) {
   const sub = units
     .filter((e) => e.eventStoryUnitRelation === "sub")
     .map((e) => e.unit);
+  const started = Date.now() > event.startAt;
 
   return (
     `|-\n` +
     `|${translateTitleOrAsIs(event.name)}\n` +
     `|lang=ja|${event.name}\n` +
-    `|${key.map(mapUnitName).join("")}\n` +
-    `|${sub.map(mapUnitName).join("")}\n` +
+    `|${started ? key.map(mapUnitName).join("") : ""}\n` +
+    `|${started ? sub.map(mapUnitName).join("") : ""}\n` +
     `|${KOR_DATE_FORMAT.format(event.startAt)}\n` +
     `|${KOR_DATE_FORMAT.format(event.aggregateAt)}\n`
   );
