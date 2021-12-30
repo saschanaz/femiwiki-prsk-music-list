@@ -25,7 +25,9 @@ jobs:
           cd sekai-master-db-en-diff
           git pull --rebase origin main
       - name: Rewrite wikitext
-        run: deno run --allow-write --allow-read generators/musics.js
+        run: |
+          deno run --allow-write --allow-read generators/musics.js
+          deno run --allow-write --allow-read generators/events.js
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
