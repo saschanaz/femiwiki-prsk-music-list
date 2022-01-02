@@ -178,7 +178,7 @@
 ||열등상등
 |lang=ja|劣等上等
 ||BRING IT ON
-|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비배스]]
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |
 |Reol
 |Giga
@@ -191,7 +191,7 @@
 ||닥터=펑크비트
 |lang=ja|ドクター=ファンクビート
 ||Doctor=Funk Beat
-|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비배스]]
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |
 |nyanyannya
 |nyanyannya
@@ -204,7 +204,7 @@
 ||프래질
 |lang=ja|フラジール
 ||Fragile
-|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비배스]]
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |
 |누유리
 |누유리
@@ -321,7 +321,7 @@
 |data-kakioroshi|Ready Steady
 |lang=ja style="visibility:hidden"|Ready Steady
 | style="visibility:hidden"|Ready Steady
-|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비배스]]
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |✔️
 |q*Left
 |Giga
@@ -412,7 +412,7 @@
 ||Just Be Friends
 |lang=ja style="visibility:hidden"|Just Be Friends
 | style="visibility:hidden"|Just Be Friends
-|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비배스]]
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |
 |Dixie Flatline
 |Dixie Flatline
@@ -490,7 +490,7 @@
 ||야화 디세이브
 |lang=ja|夜咄ディセイブ
 ||Yobanashi Deceive
-|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비배스]]
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |
 |진
 |진
@@ -763,7 +763,7 @@
 |data-kakioroshi|Forward
 |lang=ja style="visibility:hidden"|Forward
 | style="visibility:hidden"|Forward
-|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비배스]]
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |✔️
 |R Sound Design
 |R Sound Design
@@ -880,7 +880,7 @@
 ||ECHO
 |lang=ja style="visibility:hidden"|ECHO
 | style="visibility:hidden"|ECHO
-|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비배스]]
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |
 |Crusher P
 |Crusher P
@@ -984,7 +984,7 @@
 |data-kakioroshi|RAD DOGS
 |lang=ja style="visibility:hidden"|RAD DOGS
 | style="visibility:hidden"|RAD DOGS
-|[[파일:비배스로고.png|24x24픽셀|alt=비배스]]
+|[[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |✔️
 |q*Left
 |하치오지P
@@ -1023,7 +1023,7 @@
 ||drop pop candy
 |lang=ja style="visibility:hidden"|drop pop candy
 | style="visibility:hidden"|drop pop candy
-|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비배스]]
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |
 |레오루
 |기가
@@ -1114,7 +1114,7 @@
 ||위풍당당
 |lang=ja|威風堂々
 ||
-|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비배스]]
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |
 |우메토라
 |우메토라
@@ -1231,7 +1231,7 @@
 ||밤을 달리다
 |lang=ja|夜に駆ける
 ||
-|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:레오니로고.png|24x24픽셀|alt=레오니]][[파일:모모점로고.png|24x24픽셀|alt=모모점]][[파일:비배스로고.png|24x24픽셀|alt=비배스]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]][[파일:니고로고.png|24x24픽셀|alt=니고]]
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:레오니로고.png|24x24픽셀|alt=레오니]][[파일:모모점로고.png|24x24픽셀|alt=모모점]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]][[파일:니고로고.png|24x24픽셀|alt=니고]]
 |
 |Ayase
 |Ayase
@@ -1244,7 +1244,7 @@
 ||유령도쿄
 |lang=ja|幽霊東京
 ||
-|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비배스]]
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |
 |Ayase
 |Ayase
@@ -1257,7 +1257,7 @@
 |data-kakioroshi|시네마
 |lang=ja|シネマ
 ||Cinema
-|[[파일:비배스로고.png|24x24픽셀|alt=비배스]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
+|[[파일:비배스로고.png|24x24픽셀|alt=비비배스]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |✔️
 |Ayase
 |Ayase
@@ -1361,7 +1361,7 @@
 ||트래픽 잼
 |lang=ja|トラフィック・ジャム
 ||Traffic Jam
-|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비배스]]
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |
 |니루 카지츠
 |니루 카지츠
@@ -1387,7 +1387,7 @@
 |data-kakioroshi|Beat Eater
 |lang=ja style="visibility:hidden"|Beat Eater
 | style="visibility:hidden"|Beat Eater
-|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비배스]]
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |✔️
 |폴리스 피카딜리
 |폴리스 피카딜리
@@ -1491,7 +1491,7 @@
 ||칠드런 레코드
 |lang=ja|チルドレンレコード
 ||Children Record
-|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비배스]]
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |
 |진
 |진
@@ -1556,7 +1556,7 @@
 |data-kakioroshi|군청찬가
 |lang=ja|群青讃歌
 ||Gunjo Sanka
-|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:레오니로고.png|24x24픽셀|alt=레오니]][[파일:모모점로고.png|24x24픽셀|alt=모모점]][[파일:비배스로고.png|24x24픽셀|alt=비배스]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]][[파일:니고로고.png|24x24픽셀|alt=니고]]
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:레오니로고.png|24x24픽셀|alt=레오니]][[파일:모모점로고.png|24x24픽셀|alt=모모점]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]][[파일:니고로고.png|24x24픽셀|alt=니고]]
 |✔️
 |Eve
 |Eve
@@ -1660,7 +1660,7 @@
 ||악마가 춤추는 법
 |lang=ja|悪魔の踊り方
 ||
-|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비배스]]
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |
 |키타니 타츠야
 |키타니 타츠야
@@ -1803,7 +1803,7 @@
 ||얼터 에고
 |lang=ja|オルターエゴ
 ||Alter ego
-|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비배스]]
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |
 |Misumi
 |Misumi
@@ -1920,7 +1920,7 @@
 |data-kakioroshi|미래
 |lang=ja|ミライ
 ||Future
-|[[파일:비배스로고.png|24x24픽셀|alt=비배스]]
+|[[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |✔️
 |유기산
 |유기산
@@ -1985,7 +1985,7 @@
 ||깡통
 |lang=ja|ガランド
 ||Airhead
-|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비배스]]
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |
 |피콘
 |피콘
