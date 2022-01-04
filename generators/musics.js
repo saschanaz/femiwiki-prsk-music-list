@@ -61,16 +61,20 @@ function stringifyCategories(item) {
     .join(" ");
 }
 
-function maybeTranslateTitle(title) {
+function linkToMusicPage(title) {
+  return `[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/${title}|${title}]]`;
+}
+
+function maybeLinkToTranslatedTitle(title) {
   if (isAsciiOnly(title)) {
-    return title;
+    return linkToMusicPage(title);
   }
   const translated = manualMetadata[title]?.titleKo;
-  if (!translated) {
-    console.warn(`No translation for title "${title}"`);
-    return title;
+  if (translated) {
+    return linkToMusicPage(translated);
   }
-  return translated;
+  console.warn(`No translation for title "${title}"`);
+  return title;
 }
 
 function maybeMapEnglishTitle(music) {
@@ -138,7 +142,7 @@ function dataKakiroshi(item) {
 function convertAsWikimediaTableRow(item) {
   return (
     `|-\n` +
-    `|${dataKakiroshi(item)}|${maybeTranslateTitle(item.title)}\n` + // 제목
+    `|${dataKakiroshi(item)}|${maybeLinkToTranslatedTitle(item.title)}\n` + // 제목
     `|lang=ja${hideIfAlreadyEnglish(item.title)}|${item.title}\n` + // 원제
     `|${hideIfAlreadyEnglish(item.title)}|${maybeMapEnglishTitle(item)}\n` + // 영문제목
     `|${getMusicTag(item)}\n` + // 분류
