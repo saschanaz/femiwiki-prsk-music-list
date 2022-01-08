@@ -129,7 +129,7 @@ function hideIfAlreadyEnglish(title) {
 }
 
 function isKakioroshi(item) {
-  return item.seq >= 2000000;
+  return item.seq >= 2000000 && item.seq < 3000000;
 }
 
 function dataKakiroshi(item) {

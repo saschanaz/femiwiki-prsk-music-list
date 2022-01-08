@@ -1995,11 +1995,11 @@
 |
 |[https://twitter.com/pj_sekai/status/1477882419277664256 2022년 1월 3일 추가]
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/엔드 마크에 희망과 눈물을 담아서|엔드 마크에 희망과 눈물을 담아서]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/엔드 마크에 희망과 눈물을 담아서|엔드 마크에 희망과 눈물을 담아서]]
 |lang=ja|エンドマークに希望と涙を添えて
 ||
 |
-|✔️
+|
 |
 |cosMo@폭주P
 |cosMo@폭주P
@@ -2008,11 +2008,11 @@
 |
 |[https://twitter.com/pj_sekai/status/1479694355363414016 2022년 1월 8일 추가]
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/the EmpErroR|the EmpErroR]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/the EmpErroR|the EmpErroR]]
 |lang=ja style="visibility:hidden"|the EmpErroR
 | style="visibility:hidden"|the EmpErroR
 |
-|✔️
+|
 |
 |sasakure.UK
 |sasakure.UK
@@ -2021,11 +2021,11 @@
 |
 |2022년 1월 9일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Don't Fight The Music|Don't Fight The Music]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Don't Fight The Music|Don't Fight The Music]]
 |lang=ja style="visibility:hidden"|Don't Fight The Music
 | style="visibility:hidden"|Don't Fight The Music
 |
-|✔️
+|
 |
 |쿠로마
 |쿠로마
