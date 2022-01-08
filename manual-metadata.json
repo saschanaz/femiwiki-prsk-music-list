@@ -1012,14 +1012,22 @@
   },
   "サンドリヨン 10th Anniversary": {
     "titleKo": "상드리용 10th Anniversary",
-    "titleEn": "Cendrillon 10th Anniversary"
+    "titleEn": "Cendrillon 10th Anniversary",
+    "announcement": "https://twitter.com/pj_sekai/status/1477157641394794498"
   },
   "少女レイ": {
     "titleKo": "소녀 레이",
-    "titleEn": "Ghost Girl"
+    "titleEn": "Ghost Girl",
+    "announcement": "https://twitter.com/pj_sekai/status/1477203392812691460",
+    "mv3d": "https://www.youtube.com/watch?v=NpOR2QwvjPk"
   },
   "ガランド": {
     "titleKo": "깡통",
-    "titleEn": "Airhead"
+    "titleEn": "Airhead",
+    "announcement": "https://twitter.com/pj_sekai/status/1477882419277664256"
+  },
+  "エンドマークに希望と涙を添えて": {
+    "titleKo": "엔드 마크에 희망과 눈물을 담아서",
+    "announcement": "https://twitter.com/pj_sekai/status/1479694355363414016"
   }
 }
