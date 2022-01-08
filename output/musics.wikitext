@@ -1994,6 +1994,45 @@
 |
 |
 |2022년 1월 3일 추가
+|-
+|data-kakioroshi|エンドマークに希望と涙を添えて
+|lang=ja|エンドマークに希望と涙を添えて
+||
+|
+|✔️
+|
+|cosMo@폭주P
+|cosMo@폭주P
+|원곡MV
+|
+|
+|2022년 1월 8일 추가
+|-
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/the EmpErroR|the EmpErroR]]
+|lang=ja style="visibility:hidden"|the EmpErroR
+| style="visibility:hidden"|the EmpErroR
+|
+|✔️
+|
+|sasakure.UK
+|sasakure.UK
+|원곡MV
+|
+|
+|2022년 1월 9일 추가
+|-
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Don't Fight The Music|Don't Fight The Music]]
+|lang=ja style="visibility:hidden"|Don't Fight The Music
+| style="visibility:hidden"|Don't Fight The Music
+|
+|✔️
+|
+|黒魔
+|黒魔
+|
+|
+|
+|2022년 1월 10일 추가
 |}
 
 === 영문 버전 전용 악곡 ===
