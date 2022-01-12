@@ -185,7 +185,10 @@ await Deno.writeTextFile(
 !2DMV 일러스트
 !게임 외 MV
 !추가일
-${musics.map(convertAsWikimediaTableRow).join("")}|}
+${musics
+  .filter((music) => music.publishedAt < Date.now())
+  .map(convertAsWikimediaTableRow)
+  .join("")}|}
 
 === 영문 버전 전용 악곡 ===
 <templatestyles src="프로세카 악곡 목록/styles.css" />
@@ -203,7 +206,8 @@ ${musics.map(convertAsWikimediaTableRow).join("")}|}
 !게임 외 MV
 !추가일
 ${musicsEn
-  .filter((en) => !ids.includes(en.id))
+  .filter((music) => !ids.includes(music.id))
+  .filter((music) => music.publishedAt < Date.now())
   .map(convertAsWikimediaTableRow)
   .join("")}|}</onlyinclude>
 `
