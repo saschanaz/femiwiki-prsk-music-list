@@ -358,7 +358,6 @@
   },
   "アンノウン・マザーグース": {
     "titleKo": "언노운 마더구스",
-    "titleEn": "Unknown Mother Goose",
     "announcement": "https://twitter.com/pj_sekai/status/1330753942288883712"
   },
   "愛されなくても君がいる": {
@@ -492,7 +491,6 @@
   },
   "タイムマシン": {
     "titleKo": "타임머신",
-    "titleEn": "Time machine",
     "announcement": "https://twitter.com/pj_sekai/status/1359382755977568256",
     "mv2d": {
       "url": "https://youtu.be/s1yW2jPJiVE",
@@ -1019,7 +1017,7 @@
     "titleKo": "소녀 레이",
     "titleEn": "Ghost Girl",
     "announcement": "https://twitter.com/pj_sekai/status/1477203392812691460",
-    "mv3d": "https://www.youtube.com/watch?v=NpOR2QwvjPk"
+    "mv3d": "https://youtu.be/NpOR2QwvjPk"
   },
   "ガランド": {
     "titleKo": "깡통",
@@ -1035,5 +1033,18 @@
   },
   "Don't Fight The Music": {
     "announcement": "https://twitter.com/pj_sekai/status/1480419132009074688"
+  },
+  "にっこり^^調査隊のテーマ": {
+    "titleKo": "방긋^^탐색대의 테마",
+    "announcement": "https://twitter.com/pj_sekai/status/1483789300340645890",
+    "mv3d": "https://youtu.be/v7SYWS2jarw",
+    "mvExternal": {
+      "type": "보컬로이드",
+      "url": "https://youtu.be/C_Fc1x_aeFQ"
+    }
+  },
+  "トリコロージュ": {
+    "announcement": "https://twitter.com/pj_sekai/status/1480419132009074688",
+    "mv2d": "https://youtu.be/M_ijFuoASt0"
   }
 }

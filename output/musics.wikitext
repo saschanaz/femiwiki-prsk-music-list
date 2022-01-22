@@ -1977,7 +1977,7 @@
 |미키토P
 |미키토P
 |
-|[https://www.youtube.com/watch?v=NpOR2QwvjPk 3DMV]
+|[https://youtu.be/NpOR2QwvjPk 3DMV]
 |
 |
 |[https://twitter.com/pj_sekai/status/1477203392812691460 2022년 1월 2일 추가]
@@ -2034,7 +2034,7 @@
 |
 |[https://twitter.com/pj_sekai/status/1480419132009074688 2022년 1월 10일 추가]
 |-
-|data-kakioroshi|にっこり^^調査隊のテーマ
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/방긋^^탐색대의 테마|방긋^^탐색대의 테마]]
 |lang=ja|にっこり^^調査隊のテーマ
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
@@ -2042,10 +2042,10 @@
 |지저스
 |지저스
 |원더풀☆오퍼튜니티!
-|3DMV
+|[https://youtu.be/v7SYWS2jarw 3DMV]
 |
-|
-|2022년 1월 19일 추가
+|[https://youtu.be/C_Fc1x_aeFQ 보컬로이드 버전]
+|[https://twitter.com/pj_sekai/status/1483789300340645890 2022년 1월 19일 추가]
 |-
 |data-kakioroshi|トリコロージュ
 |lang=ja|トリコロージュ
@@ -2058,7 +2058,7 @@
 |2DMV
 |
 |
-|2022년 1월 21일 추가
+|[https://twitter.com/pj_sekai/status/1480419132009074688 2022년 1월 21일 추가]
 |}
 
 === 영문 버전 전용 악곡 ===
