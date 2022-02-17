@@ -2124,6 +2124,19 @@
 |
 |
 |2022년 2월 7일 추가
+|-
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Flyer!|Flyer!]]
+|lang=ja style="visibility:hidden"|Flyer!
+| style="visibility:hidden"|Flyer!
+|[[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
+|✔️
+|Chinozo
+|Chinozo
+|Chinozo
+|3DMV
+|
+|
+|2022년 2월 16일 추가
 |}
 
 === 영문 버전 전용 악곡 ===
