@@ -898,7 +898,7 @@
 |와다 타테아키 (쿠라게P)
 |와다 타테아키 (쿠라게P)
 |와다 타테아키 (쿠라게P)
-|[https://youtu.be/QOU2jkl30Vs 3DMV]
+|[https://youtu.be/QOU2jkl30Vs 3DMV] 2DMV
 |
 |
 |[https://twitter.com/pj_sekai/status/1345612126707015681 2021년 1월 3일 추가]
@@ -1348,7 +1348,7 @@
 |data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/연주하여 밝히는 하늘|연주하여 밝히는 하늘]]
 |lang=ja|カナデトモスソラ
 ||
-|[[파일:니고로고.png|24x24픽셀|alt=니고]]
+|[[파일:니고로고.png|24x24픽셀|alt=니고]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |✔️
 |Sasanomaly
 |Sasanomaly
@@ -2137,6 +2137,19 @@
 |
 |
 |2022년 2월 16일 추가
+|-
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Peaky Peaky|Peaky Peaky]]
+|lang=ja style="visibility:hidden"|Peaky Peaky
+| style="visibility:hidden"|Peaky Peaky
+|[[파일:레오니로고.png|24x24픽셀|alt=레오니]]
+|✔️
+|미키토P
+|미키토P
+|미키토P
+|2DMV
+|
+|
+|2022년 2월 18일 추가
 |}
 
 === 영문 버전 전용 악곡 ===
