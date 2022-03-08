@@ -463,7 +463,7 @@
     "announcement": "https://twitter.com/pj_sekai/status/1349599073150533634"
   },
   "ヒビカセ": {
-    "titleKo": "울려퍼져라",
+    "titleKo": "히비카세(울려퍼져라)",
     "announcement": "https://twitter.com/pj_sekai/status/1351047656710221825"
   },
   "Color of Drops": {
@@ -486,7 +486,6 @@
   },
   "ミルククラウン・オン・ソーネチカ": {
     "titleKo": "밀크크라운 온 소네치카",
-    "titleEn": "Milk Crown on Sonnetica",
     "announcement": "https://twitter.com/pj_sekai/status/1357934000510095362"
   },
   "タイムマシン": {
@@ -540,7 +539,6 @@
   },
   "ボッカデラベリタ": {
     "titleKo": "보카델라베리타",
-    "titleEn": "Bocca della Verità",
     "announcement": "https://twitter.com/pj_sekai/status/1368080761136373761",
     "mv2d": {
       "url": "https://youtu.be/ZjNUJUgyoOw",
@@ -1044,7 +1042,44 @@
     }
   },
   "トリコロージュ": {
+    "titleKo": "토리코로주",
     "announcement": "https://twitter.com/pj_sekai/status/1480419132009074688",
     "mv2d": "https://youtu.be/M_ijFuoASt0"
+  },
+  "心拍数♯0822": {
+    "titleKo": "심박수♯0822",
+    "announcement": "https://twitter.com/pj_sekai/status/1485493876496678915"
+  },
+  "うっせぇわ": {
+    "titleKo": "웃세와(시끄러워)",
+    "announcement": "https://twitter.com/pj_sekai/status/1488030766067896324"
+  },
+  "踊": {
+    "titleKo": "춤",
+    "announcement": "https://twitter.com/pj_sekai/status/1489480333196406787"
+  },
+  "君色マリンスノウ": {
+    "titleKo": "너의 색깔 마린 스노우",
+    "announcement": "https://twitter.com/pj_sekai/status/1489841466780307459"
+  },
+  "愛して愛して愛して": {
+    "titleKo": "사랑해줘 사랑해줘 사랑해줘",
+    "announcement": "https://twitter.com/pj_sekai/status/1490567185835589632"
+  },
+  "ジウダス": {
+    "titleKo": "주다스",
+    "announcement": "https://twitter.com/pj_sekai/status/1495640814328094725"
+  },
+  "ナンセンス文学": {
+    "titleKo": "넌센스 문학",
+    "announcement": "https://twitter.com/pj_sekai/status/1496727975945175042"
+  },
+  "心予報": {
+    "titleKo": "마음 예보",
+    "announcement": "https://twitter.com/pj_sekai/status/1498584396685004801"
+  },
+  "僕らまだアンダーグラウンド": {
+    "titleKo": "우리들 아직 언더그라운드",
+    "announcement": "https://twitter.com/pj_sekai/status/1499627323879936001"
   }
 }
