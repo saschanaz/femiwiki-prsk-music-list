@@ -2219,17 +2219,4 @@
 !2DMV 일러스트
 !게임 외 MV
 !추가일
-|-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Miku|Miku]]
-|lang=ja style="visibility:hidden"|Miku
-| style="visibility:hidden"|Miku
-|
-|
-|Peter B, Ary W, Josh K, David M, & Stella M
-|Anamanaguchi
-|Anamanaguchi
-|[https://youtu.be/51Y8UZr_Xf0 3DMV]
-|
-|
-|[https://twitter.com/ColorfulStageEN/status/1474500170973085698 2021년 12월 25일 추가]
 |}</onlyinclude>
