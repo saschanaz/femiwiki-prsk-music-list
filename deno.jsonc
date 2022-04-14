@@ -1,0 +1,7 @@
+{
+  "tasks": {
+    "musics": "deno run --allow-read --allow-write generators/musics.js",
+    "events": "deno run --allow-read --allow-write generators/events.js",
+    "wiki": "deno run --allow-read --allow-net wiki.js"
+  }
+}
