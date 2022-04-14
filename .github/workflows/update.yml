@@ -28,7 +28,12 @@ jobs:
         run: |
           deno run --allow-write --allow-read generators/musics.js
           deno run --allow-write --allow-read generators/events.js
+      - id: git-diff
+        name: Check diff on output/
+        run: git diff --quiet HEAD output
+        continue-on-error: true
       - name: Commit files
+        if: ${{ steps.git-diff.outcome == 'failure' }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
@@ -36,6 +41,7 @@ jobs:
           git diff-index --quiet HEAD || git commit -m "Update smdd"
           git push
       - name: Submit wikitext
+        if: ${{ steps.git-diff.outcome == 'failure' }}
         env:
           MW_LGNAME: ${{ secrets.MW_LGNAME }}
           MW_LGPASSWORD: ${{ secrets.MW_LGPASSWORD }}
