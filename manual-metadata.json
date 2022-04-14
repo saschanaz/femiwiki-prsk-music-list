@@ -525,7 +525,6 @@
   },
   "ワンスアポンアドリーム": {
     "titleKo": "원스 어폰 어 드림",
-    "titleEn": "Once Upon A Dream",
     "announcement": "https://twitter.com/pj_sekai/status/1365906661789982721",
     "mv2d": {
       "url": "https://youtu.be/1RoDmN9n8xE",
@@ -1081,5 +1080,38 @@
   "僕らまだアンダーグラウンド": {
     "titleKo": "우리들 아직 언더그라운드",
     "announcement": "https://twitter.com/pj_sekai/status/1499627323879936001"
+  },
+  "メタモリボン": {
+    "titleKo": "메타모리본"
+  },
+  "いーあるふぁんくらぶ": {
+    "titleKo": "이얼 팬클럽"
+  },
+  "雨とペトラ": {
+    "titleKo": "비와 페트라"
+  },
+  "ノマド": {
+    "titleKo": "노마드"
+  },
+  "マトリョシカ": {
+    "titleKo": "마트료시카"
+  },
+  "ドーナツホール": {
+    "titleKo": "도넛 홀"
+  },
+  "砂の惑星": {
+    "titleKo": "모래의 행성"
+  },
+  "ルカルカ★ナイトフィーバー": {
+    "titleKo": "루카루카★나이트 피버"
+  },
+  "ピアノ×フォルテ×スキャンダル": {
+    "titleKo": "피아노×포르테×스캔들"
+  },
+  "千年の独奏歌": {
+    "titleKo": "천년의 독주가"
+  },
+  "88☆彡": {
+    "titleKo": "88☆미"
   }
 }
