@@ -1,8 +1,8 @@
 import musics from "../sekai-master-db-diff/musics.json" assert { type: "json" };
 import musicTags from "../sekai-master-db-diff/musicTags.json" assert { type: "json" };
 import musicsEn from "../sekai-master-db-en-diff/musics.json" assert { type: "json" };
-import artistTranslation from "../name-translations/artists.json" assert { type: "json" };
-import manualMetadata from "../manual-metadata.json" assert { type: "json" };
+import artistTranslation from "../manual/artist-transliteration.json" assert { type: "json" };
+import manualMetadata from "../manual/musics.json" assert { type: "json" };
 
 import { KOR_DATE_FORMAT, mapUnitName, isAsciiOnly } from "../lib/utilities.js";
 

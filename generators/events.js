@@ -1,6 +1,6 @@
 import events from "../sekai-master-db-diff/events.json" assert { type: "json" };
 import eventStoryUnits from "../sekai-master-db-diff/eventStoryUnits.json" assert { type: "json" };
-import eventTranslation from "./events-translation.json" assert { type: "json" };
+import eventTranslation from "../manual/events-translation.json" assert { type: "json" };
 
 import { KOR_DATE_FORMAT, mapUnitName, isAsciiOnly } from "../lib/utilities.js";
 
