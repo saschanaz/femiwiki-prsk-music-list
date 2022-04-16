@@ -4,7 +4,12 @@ import musicsEn from "../sekai-master-db-en-diff/musics.json" assert { type: "js
 import artistTranslation from "../manual/artist-transliteration.json" assert { type: "json" };
 import manualMetadata from "../manual/musics.json" assert { type: "json" };
 
-import { KOR_DATE_FORMAT, mapUnitName, isAsciiOnly } from "../lib/utilities.js";
+import {
+  KOR_DATE_FORMAT,
+  mapUnitName,
+  matchesKoreanConvention,
+  tryMatchingKoreanConvention,
+} from "../lib/utilities.js";
 
 function sorter(a, b) {
   const byPublishedAt = a.publishedAt - b.publishedAt;
@@ -19,11 +24,12 @@ function sorter(a, b) {
  * @returns {string}
  */
 function translateArtistOrAsIs(name) {
-  if (name === "-") {
+  if (!name || name === "-") {
     return "";
   }
-  if (isAsciiOnly(name)) {
-    return name;
+  const replaced = tryMatchingKoreanConvention(name);
+  if (replaced) {
+    return replaced;
   }
   const translated = artistTranslation[name];
   if (!translated) {
@@ -66,8 +72,9 @@ function linkToMusicPage(title) {
 }
 
 function maybeLinkToTranslatedTitle(title) {
-  if (isAsciiOnly(title)) {
-    return linkToMusicPage(title);
+  const replaced = tryMatchingKoreanConvention(title);
+  if (replaced) {
+    return linkToMusicPage(replaced);
   }
   const translated = manualMetadata[title]?.titleKo;
   if (translated) {
@@ -89,7 +96,7 @@ function maybeMapEnglishTitle(music) {
   if (manual) {
     return manual;
   }
-  if (isAsciiOnly(music.title)) {
+  if (matchesKoreanConvention(music.title)) {
     return music.title;
   }
   return "";
@@ -122,7 +129,7 @@ function getMusicTag(item) {
 }
 
 function hideIfAlreadyEnglish(title) {
-  if (isAsciiOnly(title)) {
+  if (matchesKoreanConvention(title)) {
     return ' style="visibility:hidden"';
   }
   return "";

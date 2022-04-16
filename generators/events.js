@@ -2,12 +2,13 @@ import events from "../sekai-master-db-diff/events.json" assert { type: "json" }
 import eventStoryUnits from "../sekai-master-db-diff/eventStoryUnits.json" assert { type: "json" };
 import eventTranslation from "../manual/events-translation.json" assert { type: "json" };
 
-import { KOR_DATE_FORMAT, mapUnitName, isAsciiOnly } from "../lib/utilities.js";
+import { KOR_DATE_FORMAT, mapUnitName, tryMatchingKoreanConvention } from "../lib/utilities.js";
 
 /** @param {string} title */
 function translateTitleOrAsIs(title) {
-  if (isAsciiOnly(title)) {
-    return title;
+  const replaced = tryMatchingKoreanConvention(title);
+  if (replaced) {
+    return replaced;
   }
   const translated = eventTranslation[title];
   if (!translated) {
