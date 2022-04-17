@@ -1,14 +1,12 @@
 import musics from "../sekai-master-db-diff/musics.json" assert { type: "json" };
-import musicTags from "../sekai-master-db-diff/musicTags.json" assert { type: "json" };
 import musicsEn from "../sekai-master-db-en-diff/musics.json" assert { type: "json" };
-import artistTranslation from "../manual/artist-transliteration.json" assert { type: "json" };
 import manualMetadata from "../manual/musics.json" assert { type: "json" };
+import { translateArtistOrAsIs, getWikiableMusicData } from "../lib/musics.js";
 
 import {
   KOR_DATE_FORMAT,
   mapUnitName,
   matchesKoreanConvention,
-  tryMatchingKoreanConvention,
 } from "../lib/utilities.js";
 
 function sorter(a, b) {
@@ -17,25 +15,6 @@ function sorter(a, b) {
     return byPublishedAt;
   }
   return a.seq - b.seq;
-}
-
-/**
- * @param {string} name
- * @returns {string}
- */
-function translateArtistOrAsIs(name) {
-  if (!name || name === "-") {
-    return "";
-  }
-  const replaced = tryMatchingKoreanConvention(name);
-  if (replaced) {
-    return replaced;
-  }
-  const translated = artistTranslation[name];
-  if (!translated) {
-    console.warn(`No translation for artist "${name}"`);
-  }
-  return translated || name;
 }
 
 function stringifyCategories(item) {
@@ -71,35 +50,11 @@ function linkToMusicPage(title) {
   return `[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/${title}|${title}]]`;
 }
 
-function maybeLinkToTranslatedTitle(title) {
-  const replaced = tryMatchingKoreanConvention(title);
-  if (replaced) {
-    return linkToMusicPage(replaced);
-  }
-  const translated = manualMetadata[title]?.titleKo;
+function maybeLinkToTranslatedTitle(translated, original) {
   if (translated) {
     return linkToMusicPage(translated);
   }
-  console.warn(`No translation for title "${title}"`);
-  return title;
-}
-
-function maybeMapEnglishTitle(music) {
-  const mapped = musicsEn.find((en) => en.id === music.id)?.title;
-  const manual = manualMetadata[music.title]?.titleEn;
-  if (mapped) {
-    if (manual) {
-      console.warn(`titleEn is ignored for "${music.title}"`);
-    }
-    return mapped;
-  }
-  if (manual) {
-    return manual;
-  }
-  if (matchesKoreanConvention(music.title)) {
-    return music.title;
-  }
-  return "";
+  return original;
 }
 
 function linkYouTube({ type, url } = {}) {
@@ -119,10 +74,8 @@ function formatReleaseDate(item) {
   return formatted;
 }
 
-function getMusicTag(item) {
-  return musicTags
-    .filter((tag) => tag.musicId === item.id)
-    .map((tag) => tag.musicTag)
+function getMusicTag(tags) {
+  return tags
     .filter((tag) => !["all", "other"].includes(tag))
     .map(mapUnitName)
     .join("");
@@ -135,28 +88,26 @@ function hideIfAlreadyEnglish(title) {
   return "";
 }
 
-function isKakioroshi(item) {
-  return item.seq >= 2000000 && item.seq < 3000000;
-}
-
-function dataKakiroshi(item) {
-  if (isKakioroshi(item)) {
-    return "data-kakioroshi";
-  }
-  return "";
+/** @param {boolean} isKakioroshi */
+function dataKakiroshi(isKakioroshi) {
+  return isKakioroshi ? "data-kakioroshi" : "";
 }
 
 function convertAsWikimediaTableRow(item) {
+  const wikiable = getWikiableMusicData(item);
   return (
     `|-\n` +
-    `|${dataKakiroshi(item)}|${maybeLinkToTranslatedTitle(item.title)}\n` + // 제목
+    `|${dataKakiroshi(wikiable.kakioroshi)}|${maybeLinkToTranslatedTitle(
+      wikiable.titleKo,
+      item.title
+    )}\n` + // 제목
     `|lang=ja${hideIfAlreadyEnglish(item.title)}|${item.title}\n` + // 원제
-    `|${hideIfAlreadyEnglish(item.title)}|${maybeMapEnglishTitle(item)}\n` + // 영문제목
-    `|${getMusicTag(item)}\n` + // 분류
-    `|${isKakioroshi(item) ? "✔️" : ""}\n` + // 오리지널
-    `|${translateArtistOrAsIs(item.lyricist)}\n` + // 작사
-    `|${translateArtistOrAsIs(item.composer)}\n` + // 작곡
-    `|${translateArtistOrAsIs(item.arranger)}\n` + // 편곡
+    `|${hideIfAlreadyEnglish(item.title)}|${wikiable.titleEn || ""}\n` + // 영문제목
+    `|${getMusicTag(wikiable.tags)}\n` + // 분류
+    `|${wikiable.kakioroshi ? "✔️" : ""}\n` + // 오리지널
+    `|${wikiable.lyricist}\n` + // 작사
+    `|${wikiable.composer}\n` + // 작곡
+    `|${wikiable.arranger}\n` + // 편곡
     `|${stringifyCategories(item)}\n` +
     `|${translateArtistOrAsIs(
       manualMetadata[item.title]?.mv2d?.illust || ""
