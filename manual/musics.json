@@ -20,12 +20,10 @@
     "releaseDateOverride": "2020년 6월 22일 (사전공개)"
   },
   "Blessing": {
-    "titleKo": "Blessing",
     "announcement": "https://twitter.com/pj_sekai/status/1236982237159022595",
     "releaseDateOverride": "2020년 3월 9일 (사전공개)"
   },
   "alive": {
-    "titleKo": "alive",
     "announcement": "https://twitter.com/pj_sekai/status/1271770690295697408",
     "releaseDateOverride": "2020년 6월 13일 (사전공개)"
   },
@@ -61,7 +59,6 @@
     "mv3d": "https://youtu.be/4x2oA5vy2_U"
   },
   "Nostalogic": {
-    "titleKo": "Nostalogic",
     "announcement": "https://twitter.com/pj_sekai/status/1277799402652852224",
     "releaseDateOverride": "2020년 6월 30일 (사전공개)",
     "mv2d": {
@@ -155,7 +152,6 @@
     }
   },
   "Ready Steady": {
-    "titleKo": "Ready Steady",
     "announcement": "https://twitter.com/pj_sekai/status/1308694117958918145",
     "releaseDateOverride": "2020년 9월 23일 (사전공개)",
     "mv3d": "https://youtu.be/cj3y6DBjyvs",
@@ -206,7 +202,6 @@
     "mv3d": "https://youtu.be/mzZOoZqDly4"
   },
   "Just Be Friends": {
-    "titleKo": "Just Be Friends",
     "announcement": "https://twitter.com/pj_sekai/status/1312273069457596417",
     "mv2d": {
       "url": "https://youtu.be/esaV1kjzg_Q",
@@ -237,7 +232,6 @@
     "mv3d": "https://youtu.be/rLt45Ylw5Ks"
   },
   "Hand in Hand": {
-    "titleKo": "Hand in Hand",
     "announcement": "https://twitter.com/pj_sekai/status/1314084951550128128"
   },
   "夜咄ディセイブ": {
@@ -245,7 +239,6 @@
     "announcement": "https://twitter.com/pj_sekai/status/1314448842645880832"
   },
   "Gimme×Gimme": {
-    "titleKo": "Gimme×Gimme",
     "announcement": "https://twitter.com/pj_sekai/status/1314809311080529920"
   },
   "ビバハピ": {
@@ -271,7 +264,6 @@
     }
   },
   "on the rocks": {
-    "titleKo": "on the rocks",
     "announcement": "https://twitter.com/pj_sekai/status/1316258678614319105"
   },
   "携帯恋話": {
@@ -305,7 +297,6 @@
     }
   },
   "Leia - Remind": {
-    "titleKo": "Leia - Remind",
     "announcement": "https://twitter.com/pj_sekai/status/1318071669299109888"
   },
   "ジャックポットサッドガール": {
@@ -370,7 +361,6 @@
     "mv3d": "https://youtu.be/7y8ufRaaZC4"
   },
   "Forward": {
-    "titleKo": "Forward",
     "announcement": "https://twitter.com/pj_sekai/status/1336296722062983168",
     "mv3d": "https://youtu.be/t7hnsVAsWCo",
     "mvExternal": {
@@ -467,7 +457,6 @@
     "announcement": "https://twitter.com/pj_sekai/status/1351047656710221825"
   },
   "Color of Drops": {
-    "titleKo": "Color of Drops",
     "announcement": "https://twitter.com/pj_sekai/status/1355141142182944778",
     "mv3d": "https://youtu.be/vU-tfn7yyrQ",
     "mvExternal": {
@@ -511,7 +500,6 @@
     }
   },
   "Brand New Day": {
-    "titleKo": "Brand New Day",
     "announcement": "https://twitter.com/pj_sekai/status/1363731413036503042"
   },
   "限りなく灰色へ": {
@@ -628,7 +616,6 @@
     }
   },
   "KING": {
-    "titleKo": "KING",
     "announcement": "https://twitter.com/pj_sekai/status/1394170857304428545"
   },
   "アイノマテリアル": {
@@ -693,7 +680,6 @@
     }
   },
   "Beat Eater": {
-    "titleKo": "Beat Eater",
     "announcement": "https://twitter.com/pj_sekai/status/1413406491600584704",
     "mv2d": {
       "url": "https://youtu.be/DaWbq6KeJq4",
@@ -746,7 +732,6 @@
     }
   },
   "Glory Steady Go!": {
-    "titleKo": "Glory Steady Go!",
     "announcement": "https://twitter.com/pj_sekai/status/1428599739755368456",
     "mv2d": {
       "url": "https://youtu.be/JoM4JGqQyCU",
@@ -765,7 +750,6 @@
     "mv3d": "https://youtu.be/jzecTyD0ljs"
   },
   "magic number": {
-    "titleKo": "magic number",
     "announcement": "https://twitter.com/pj_sekai/status/1432947581034766338",
     "mv2d": {
       "url": "https://youtu.be/fzRWpcvPJYo",
@@ -899,7 +883,6 @@
     }
   },
   "Happy Halloween": {
-    "titleKo": "Happy Halloween",
     "announcement": "https://twitter.com/pj_sekai/status/1454328223471341572"
   },
   "ロウワー": {
@@ -926,7 +909,6 @@
     "announcement": "https://twitter.com/pj_sekai/status/1458315104244539392"
   },
   "STAGE OF SEKAI": {
-    "titleKo": "STAGE OF SEKAI",
     "announcement": "https://twitter.com/pj_sekai/status/1461320919839051776",
     "mv3d": "https://youtu.be/BNdJWYHa_xg",
     "mvExternal": {

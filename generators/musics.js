@@ -3,11 +3,7 @@ import musicsEn from "../sekai-master-db-en-diff/musics.json" assert { type: "js
 import manualMetadata from "../manual/musics.json" assert { type: "json" };
 import { translateArtistOrAsIs, getWikiableMusicData } from "../lib/musics.js";
 
-import {
-  KOR_DATE_FORMAT,
-  mapUnitName,
-  matchesKoreanConvention,
-} from "../lib/utilities.js";
+import { KOR_DATE_FORMAT, mapUnitName } from "../lib/utilities.js";
 
 function sorter(a, b) {
   const byPublishedAt = a.publishedAt - b.publishedAt;
@@ -81,8 +77,8 @@ function getMusicTag(tags) {
     .join("");
 }
 
-function hideIfAlreadyEnglish(title) {
-  if (matchesKoreanConvention(title)) {
+function hideIfAlreadyEnglish(matchesEnglishConvention) {
+  if (matchesEnglishConvention) {
     return ' style="visibility:hidden"';
   }
   return "";
@@ -95,14 +91,19 @@ function dataKakiroshi(isKakioroshi) {
 
 function convertAsWikimediaTableRow(item) {
   const wikiable = getWikiableMusicData(item);
+  const titleMatchesEnglishConvention = item.title === wikiable.titleEn;
   return (
     `|-\n` +
     `|${dataKakiroshi(wikiable.kakioroshi)}|${maybeLinkToTranslatedTitle(
       wikiable.titleKo,
       item.title
     )}\n` + // 제목
-    `|lang=ja${hideIfAlreadyEnglish(item.title)}|${item.title}\n` + // 원제
-    `|${hideIfAlreadyEnglish(item.title)}|${wikiable.titleEn || ""}\n` + // 영문제목
+    `|lang=ja${hideIfAlreadyEnglish(titleMatchesEnglishConvention)}|${
+      item.title
+    }\n` + // 원제
+    `|${hideIfAlreadyEnglish(titleMatchesEnglishConvention)}|${
+      wikiable.titleEn || ""
+    }\n` + // 영문제목
     `|${getMusicTag(wikiable.tags)}\n` + // 분류
     `|${wikiable.kakioroshi ? "✔️" : ""}\n` + // 오리지널
     `|${wikiable.lyricist}\n` + // 작사
