@@ -53,6 +53,11 @@ function maybeLinkToTranslatedTitle(translated, original) {
   return original;
 }
 
+/**
+ * @param {object} params
+ * @param {string} [params.type]
+ * @param {string} [params.url]
+ */
 function linkYouTube({ type, url } = {}) {
   return url ? `[${url} ${type} 버전]` : "";
 }
