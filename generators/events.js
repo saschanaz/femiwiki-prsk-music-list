@@ -2,7 +2,11 @@ import events from "../sekai-master-db-diff/events.json" assert { type: "json" }
 import eventStoryUnits from "../sekai-master-db-diff/eventStoryUnits.json" assert { type: "json" };
 import eventTranslation from "../manual/events-translation.json" assert { type: "json" };
 
-import { KOR_DATE_FORMAT, mapUnitName, tryMatchingKoreanConvention } from "../lib/utilities.js";
+import {
+  KOR_DATE_FORMAT,
+  mapUnitName,
+  tryMatchingKoreanConvention,
+} from "../lib/utilities.js";
 
 /** @param {string} title */
 function translateTitleOrAsIs(title) {
@@ -17,15 +21,39 @@ function translateTitleOrAsIs(title) {
   return translated || title;
 }
 
+/**
+ * @typedef {import("../lib/types.d.ts").EventStoryUnit} EventStoryUnit
+ * @param {EventStoryUnit[]} units */
+function computeRelatedUnits(units) {
+  /** @type {Record<string, EventStoryUnit>} */
+  const record = {};
+  for (const info of units) {
+    if (!record[info.unit] || record[info.unit].seq < info.seq) {
+      record[info.unit] = info;
+    }
+  }
+  /** @type {string[]} */
+  const key = [];
+  /** @type {string[]} */
+  const sub = [];
+  for (const info of Object.values(record)) {
+    if (info.eventStoryUnitRelation === "main") {
+      key.push(info.unit);
+    } else if (info.eventStoryUnitRelation === "sub") {
+      sub.push(info.unit);
+    } else {
+      throw new Error(
+        `Unexpected story unit relation: ${info.eventStoryUnitRelation}`
+      );
+    }
+  }
+  return { key, sub };
+}
+
 /** @param {typeof events[number]} event */
 function eventToWikitext(event) {
   const units = eventStoryUnits.filter((e) => e.eventStoryId === event.id);
-  const key = units
-    .filter((e) => e.eventStoryUnitRelation === "main")
-    .map((e) => e.unit);
-  const sub = units
-    .filter((e) => e.eventStoryUnitRelation === "sub")
-    .map((e) => e.unit);
+  const { key, sub } = computeRelatedUnits(units);
   const started = Date.now() > event.startAt;
 
   return (

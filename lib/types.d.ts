@@ -1,5 +1,6 @@
 import musics from "../sekai-master-db-diff/musics.json" assert { type: "json" };
 import musicDifficulties from "../sekai-master-db-diff/musicDifficulties.json" assert { type: "json" };
+import eventStoryUnits from "../sekai-master-db-diff/eventStoryUnits.json" assert { type: "json" };
 
 type ArrayInnerType<X> = X extends Array<infer I> ? I : never;
 
@@ -10,3 +11,5 @@ type MusicTag = "vocaloid" | "light_music_club" | "idol" | "street" | "theme_par
 type Difficulty = "easy" | "normal" | "hard" | "expert" | "master";
 type MusicPlayInfo = ArrayInnerType<typeof musicDifficulties>;
 type MusicPlayRecord = Record<Difficulty, MusicPlayInfo>;
+
+type EventStoryUnit = ArrayInnerType<typeof eventStoryUnits>;
