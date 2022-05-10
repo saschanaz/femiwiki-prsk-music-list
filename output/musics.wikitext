@@ -2141,7 +2141,7 @@
 |data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Peaky Peaky|Peaky Peaky]]
 |lang=ja style="visibility:hidden"|Peaky Peaky
 | style="visibility:hidden"|Peaky Peaky
-|[[파일:레오니로고.png|24x24픽셀|alt=레오니]]
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:레오니로고.png|24x24픽셀|alt=레오니]]
 |✔️
 |미키토P
 |미키토P
@@ -2349,7 +2349,7 @@
 |data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/88☆彡|88☆彡]]
 |lang=ja style="visibility:hidden"|88☆彡
 | style="visibility:hidden"|88☆彡
-|[[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
+|[[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
 |✔️
 |마라시
 |마라시, 호리에 쇼타(kemu)
@@ -2401,7 +2401,7 @@
 |data-kakioroshi|オーダーメイド
 |lang=ja|オーダーメイド
 ||
-|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:레오니로고.png|24x24픽셀|alt=레오니]]
+|[[파일:레오니로고.png|24x24픽셀|alt=레오니]]
 |✔️
 |傘村トータ（LIVE LAB.）
 |傘村トータ（LIVE LAB.）
@@ -2453,7 +2453,7 @@
 ||徳川カップヌードル禁止令
 |lang=ja|徳川カップヌードル禁止令
 ||
-|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
+|[[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
 |
 |Mitchie M
 |Mitchie M
@@ -2488,6 +2488,19 @@
 |
 |
 |2022년 5월 8일 추가
+|-
+||ブラック★ロックシューター
+|lang=ja|ブラック★ロックシューター
+||
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
+|
+|ryo
+|ryo
+|ryo
+|원곡MV
+|
+|
+|2022년 5월 10일 추가
 |}
 
 === 영문 버전 전용 악곡 ===
