@@ -123,6 +123,36 @@ function convertAsWikimediaTableRow(item) {
   );
 }
 
+/**
+ * @param {number[]} jaIds
+ */
+function optionalEnglishOnlyMusics(jaIds) {
+  const globalOnlyMusics = musicsEn
+    .filter((music) => !jaIds.includes(music.id))
+    .filter((music) => music.publishedAt < Date.now());
+  if (!globalOnlyMusics.length) {
+    return "";
+  }
+  return `
+
+=== 영문 버전 전용 악곡 ===
+<templatestyles src="프로세카 악곡 목록/styles.css" />
+{| class="prsk-music-table sortable"
+!제목
+!원제
+!영문 제목
+!분류
+!오리지널
+!작사
+!작곡
+!편곡
+!MV
+!2DMV 일러스트
+!게임 외 MV
+!추가일
+${globalOnlyMusics}|}`;
+}
+
 musics.sort(sorter);
 
 const ids = musics.map((item) => item.id);
@@ -152,27 +182,6 @@ await Deno.writeTextFile(
 ${musics
   .filter((music) => music.publishedAt < Date.now())
   .map(convertAsWikimediaTableRow)
-  .join("")}|}
-
-=== 영문 버전 전용 악곡 ===
-<templatestyles src="프로세카 악곡 목록/styles.css" />
-{| class="prsk-music-table sortable"
-!제목
-!원제
-!영문 제목
-!분류
-!오리지널
-!작사
-!작곡
-!편곡
-!MV
-!2DMV 일러스트
-!게임 외 MV
-!추가일
-${musicsEn
-  .filter((music) => !ids.includes(music.id))
-  .filter((music) => music.publishedAt < Date.now())
-  .map(convertAsWikimediaTableRow)
-  .join("")}|}</onlyinclude>
+  .join("")}|}${optionalEnglishOnlyMusics(ids)}</onlyinclude>
 `
 );

@@ -2514,21 +2514,4 @@
 |
 |
 |2022년 5월 13일 추가
-|}
-
-=== 영문 버전 전용 악곡 ===
-<templatestyles src="프로세카 악곡 목록/styles.css" />
-{| class="prsk-music-table sortable"
-!제목
-!원제
-!영문 제목
-!분류
-!오리지널
-!작사
-!작곡
-!편곡
-!MV
-!2DMV 일러스트
-!게임 외 MV
-!추가일
 |}</onlyinclude>
