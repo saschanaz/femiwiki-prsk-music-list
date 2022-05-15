@@ -568,7 +568,6 @@
   },
   "アイディスマイル": {
     "titleKo": "아이디스마일",
-    "titleEn": "IDSMILE",
     "announcement": "https://twitter.com/pj_sekai/status/1384134595549941764",
     "mv3d": "https://youtu.be/QdYji4SVH3A",
     "mvExternal": {
@@ -602,7 +601,6 @@
   },
   "シネマ": {
     "titleKo": "시네마",
-    "titleEn": "Cinema",
     "announcement": "https://twitter.com/pj_sekai/status/1391017885493981186",
     "mv2d": {
       "url": "https://youtu.be/8m1cUgLepmY",
@@ -1092,5 +1090,35 @@
   },
   "千年の独奏歌": {
     "titleKo": "천년의 독주가"
+  },
+  "ダーリンダンス": {
+    "titleKo": "달링 댄스"
+  },
+  "オーダーメイド": {
+    "titleKo": "오더메이드"
+  },
+  "アイデンティティ": {
+    "titleKo": "아이덴티티"
+  },
+  "青色絵具": {
+    "titleKo": "푸른 물감"
+  },
+  "コスモスパイス": {
+    "titleKo": "코스모스파이스"
+  },
+  "徳川カップヌードル禁止令": {
+    "titleKo": "도쿠가와 컵누들 금지령"
+  },
+  "サラマンダー": {
+    "titleKo": "샐러맨더"
+  },
+  "イフ": {
+    "titleKo": "이프"
+  },
+  "ブラック★ロックシューター": {
+    "titleKo": "블랙★록 슈터"
+  },
+  "妄想感傷代償連盟": {
+    "titleKo": "망상감상대상연맹"
   }
 }
