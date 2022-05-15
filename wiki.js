@@ -6,8 +6,7 @@ async function getConfig() {
       .default;
   } catch {
     return {
-      lgname: Deno.env.get("MW_LGNAME"),
-      lgpassword: Deno.env.get("MW_LGPASSWORD"),
+      access_token: Deno.env.get("MW_ACCESSTOKEN"),
     };
   }
 }
@@ -18,29 +17,35 @@ const GACHAS_PAGE_ID = 61516; // 틀:프로세카 가챠 일람
 // const PAGE_ID = 60430; // 사용자:사샤나즈/연습장
 
 const config = await getConfig();
-const client = new WikiActionClient("https://femiwiki.com/w/api.php");
-await client.login("사샤나즈", config.lgname, config.lgpassword);
+const client = new WikiActionClient(
+  "https://femiwiki.com/rest.php/",
+  config.access_token
+);
 
-await client.edit({
-  pageid: MUSICS_PAGE_ID,
-  text: await Deno.readTextFile(
-    new URL("./output/musics.wikitext", import.meta.url)
-  ),
-  bot: true,
-});
+await client.request("GET", "v1/page/페미위키")
 
-await client.edit({
-  pageid: EVENTS_PAGE_ID,
-  text: await Deno.readTextFile(
-    new URL("./output/events.wikitext", import.meta.url)
-  ),
-  bot: true,
-});
+// await client.csrf();
 
-await client.edit({
-  pageid: GACHAS_PAGE_ID,
-  text: await Deno.readTextFile(
-    new URL("./output/gachas.wikitext", import.meta.url)
-  ),
-  bot: true,
-});
+// await client.edit({
+//   pageid: MUSICS_PAGE_ID,
+//   text: await Deno.readTextFile(
+//     new URL("./output/musics.wikitext", import.meta.url)
+//   ),
+//   bot: true,
+// });
+
+// await client.edit({
+//   pageid: EVENTS_PAGE_ID,
+//   text: await Deno.readTextFile(
+//     new URL("./output/events.wikitext", import.meta.url)
+//   ),
+//   bot: true,
+// });
+
+// await client.edit({
+//   pageid: GACHAS_PAGE_ID,
+//   text: await Deno.readTextFile(
+//     new URL("./output/gachas.wikitext", import.meta.url)
+//   ),
+//   bot: true,
+// });
