@@ -3,6 +3,7 @@
     "musics": "deno run --allow-read --allow-write generators/musics.js",
     "events": "deno run --allow-read --allow-write generators/events.js",
     "bonds": "deno run --allow-read --allow-write generators/bonds.js",
+    "gachas": "deno run --allow-read --allow-write generators/gachas.js",
     "wiki": "deno run --allow-read --allow-net wiki.js"
   },
   "compilerOptions": {
