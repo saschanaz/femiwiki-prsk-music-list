@@ -1,4 +1,5 @@
 import events from "../sekai-master-db-diff/events.json" assert { type: "json" };
+import eventsKr from "../sekai-master-db-kr-diff/events.json" assert { type: "json" };
 import eventStoryUnits from "../sekai-master-db-diff/eventStoryUnits.json" assert { type: "json" };
 import eventTranslation from "../manual/events-translation.json" assert { type: "json" };
 
@@ -8,17 +9,24 @@ import {
   tryMatchingKoreanConvention,
 } from "../lib/utilities.js";
 
-/** @param {string} title */
-function translateTitleOrAsIs(title) {
-  const replaced = tryMatchingKoreanConvention(title);
+/** @param {typeof events[number]} event */
+function translateTitleOrAsIs(event) {
+  const mapped = eventsKr.find((en) => en.id === event.id);
+  const manual = eventTranslation[event.name];
+  if (mapped && mapped.startAt < new Date().valueOf()) {
+    if (manual) {
+      console.warn(`titleKo is ignored for "${event.name}"`);
+    }
+    return mapped.name;
+  }
+  const replaced = tryMatchingKoreanConvention(event.name);
   if (replaced) {
     return replaced;
   }
-  const translated = eventTranslation[title];
-  if (!translated) {
-    console.warn(`No translation for event "${title}"`);
+  if (!manual) {
+    console.warn(`No translation for event "${event.name}"`);
   }
-  return translated || title;
+  return manual || event.name;
 }
 
 /**
@@ -58,7 +66,7 @@ function eventToWikitext(event) {
 
   return (
     `|-\n` +
-    `|${translateTitleOrAsIs(event.name)}\n` +
+    `|${translateTitleOrAsIs(event)}\n` +
     `|lang=ja|${event.name}\n` +
     `|${started ? key.map(mapUnitName).join("") : ""}\n` +
     `|${started ? sub.map(mapUnitName).join("") : ""}\n` +

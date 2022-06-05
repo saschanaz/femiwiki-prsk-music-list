@@ -4,3 +4,6 @@
 [submodule "sekai-master-db-en-diff"]
 	path = sekai-master-db-en-diff
 	url = https://github.com/Sekai-World/sekai-master-db-en-diff.git
+[submodule "sekai-master-db-kr-diff"]
+	path = sekai-master-db-kr-diff
+	url = https://github.com/Sekai-World/sekai-master-db-kr-diff.git
