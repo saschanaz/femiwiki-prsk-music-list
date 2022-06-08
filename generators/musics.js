@@ -150,7 +150,7 @@ function optionalEnglishOnlyMusics(jaIds) {
 !2DMV 일러스트
 !게임 외 MV
 !추가일
-${globalOnlyMusics}|}`;
+${globalOnlyMusics.map(convertAsWikimediaTableRow).join("")}|}`;
 }
 
 musics.sort(sorter);

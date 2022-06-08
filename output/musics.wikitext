@@ -2609,4 +2609,17 @@
 !2DMV 일러스트
 !게임 외 MV
 !추가일
-[object Object]|}</onlyinclude>
+|-
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Goodbye|Goodbye]]
+|lang=ja style="visibility:hidden"|Goodbye
+| style="visibility:hidden"|Goodbye
+|
+|
+|Circus-P
+|Circus-P
+|Circus-P
+|원곡MV
+|
+|
+|2022년 6월 8일 추가
+|}</onlyinclude>
