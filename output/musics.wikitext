@@ -2709,6 +2709,19 @@
 |
 |
 |2022년 7월 11일 추가
+|-
+|data-kakioroshi|街
+|lang=ja|街
+||
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
+|✔️
+|jon-YAKITORY
+|jon-YAKITORY
+|jon-YAKITORY
+|3DMV
+|
+|
+|2022년 7월 19일 추가
 |}
 
 === 영문 버전 전용 악곡 ===
