@@ -193,9 +193,9 @@
 ||Doctor=Funk Beat
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |
-|nyanyannya
-|nyanyannya
-|
+|nyanyannya（大天才P）
+|nyanyannya（大天才P）
+|nyanyannya（大天才P）
 |2DMV
 |
 |
@@ -1184,7 +1184,7 @@
 |emon(Tes.)
 |emon(Tes.)
 |emon(Tes.)
-|원곡MV
+|원곡MV 2DMV
 |
 |
 |[https://twitter.com/pj_sekai/status/1381488998904864770 2021년 4월 12일 추가]
@@ -2735,6 +2735,19 @@
 |
 |
 |2022년 7월 21일 추가
+|-
+||フロイライン＝ビブリォチカ
+|lang=ja|フロイライン＝ビブリォチカ
+||
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
+|
+|nyanyannya（大天才P）
+|nyanyannya（大天才P）
+|nyanyannya（大天才P）
+|
+|
+|
+|2022년 7월 30일 추가
 |}
 
 === 영문 버전 전용 악곡 ===
