@@ -108,6 +108,14 @@ const CHARACTERS = {
   },
 };
 
+const VSINGERS = {
+  레오니: ["하츠네 미쿠", "메구리네 루카"],
+  모모점: ["하츠네 미쿠", "카가미네 린"],
+  비비배스: ["하츠네 미쿠", "카가미네 렌", "MEIKO"],
+  원더쇼: ["하츠네 미쿠", "KAITO"],
+  니고: ["하츠네 미쿠"],
+};
+
 /**
  * @param {string} hangul
  */
@@ -133,7 +141,9 @@ function translateDescription(text, character1, character2) {
 
   const match = text.match(/\S+と\S+のキズナランクを([0-9]+)まで上げよう。/);
   const and = hasTrailingConsonant(character1) ? "과" : "와";
-  return `${linkToDocument(character1)}${and} ${linkToDocument(character2)}의 인연 랭크를 ${match[1]}까지 올리자.`;
+  return `${linkToDocument(character1)}${and} ${linkToDocument(
+    character2
+  )}의 인연 랭크를 ${match[1]}까지 올리자.`;
 }
 
 const dataRows = bondsHonerWords.map((word) => {
@@ -151,7 +161,12 @@ const dataRows = bondsHonerWords.map((word) => {
 function rowToWikitext(row) {
   const unit1 = CHARACTERS[row.character1].unit;
   const unit2 = CHARACTERS[row.character2].unit;
-  const prefix = unit2 === "VOCALOID" && unit1 !== "VOCALOID" ? unit1 : "";
+  const prefix =
+    unit2 === "VOCALOID" &&
+    unit1 !== "VOCALOID" &&
+    VSINGERS[unit1].includes(row.character2)
+      ? unit1
+      : "";
   return (
     `|-\n` +
     `|[[파일:${CHARACTERS[row.character1].thumbnail}|50px]]\n` +
