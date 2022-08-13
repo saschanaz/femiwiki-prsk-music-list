@@ -664,12 +664,10 @@
   },
   "トラフィック・ジャム": {
     "titleKo": "트래픽 잼",
-    "titleEn": "Traffic Jam",
     "announcement": "https://twitter.com/pj_sekai/status/1410117727377772545"
   },
   "フロムトーキョー": {
     "titleKo": "프롬 도쿄",
-    "titleEn": "From Tokyo",
     "announcement": "https://twitter.com/pj_sekai/status/1412761181954007042",
     "mv3d": "https://youtu.be/ydf6PIlMuyE",
     "mvExternal": {
@@ -708,7 +706,6 @@
   },
   "ビターチョコデコレーション": {
     "titleKo": "비터 초코 데코레이션",
-    "titleEn": "Bitter Choco Decoration",
     "announcement": "https://twitter.com/pj_sekai/status/1420264708133642242",
     "mv3d": "https://youtu.be/vnTW9sS-9P4"
   },
@@ -743,7 +740,6 @@
   },
   "チルドレンレコード": {
     "titleKo": "칠드런 레코드",
-    "titleEn": "Children Record",
     "announcement": "https://twitter.com/pj_sekai/status/1429688575629561858",
     "mv3d": "https://youtu.be/jzecTyD0ljs"
   },
@@ -1135,5 +1131,44 @@
   },
   "阿吽のビーツ": {
     "titleKo": "아훔의 비츠"
+  },
+  "バグ": {
+    "titleKo": "버그"
+  },
+  "グッバイ宣言": {
+    "titleKo": "굿바이 선언"
+  },
+  "ヴァンパイア": {
+    "titleKo": "뱀파이어"
+  },
+  "未完成讃歌": {
+    "titleKo": "미완성찬가"
+  },
+  "星空のメロディー": {
+    "titleKo": "별하늘의 멜로디"
+  },
+  "脳漿炸裂ガール": {
+    "titleKo": "뇌장작렬 걸"
+  },
+  "ぼくらの16bit戦争": {
+    "titleKo": "우리들의 16bit 전쟁"
+  },
+  "メリュー": {
+    "titleKo": "메류"
+  },
+  "エイリアンエイリアン": {
+    "titleKo": "에일리언 에일리언"
+  },
+  "街": {
+    "titleKo": "거리"
+  },
+  "てらてら": {
+    "titleKo": "테라테라"
+  },
+  "フロイライン＝ビブリォチカ": {
+    "titleKo": "프로일라인=비브리오치카"
+  },
+  "踊れオーケストラ": {
+    "titleKo": "춤춰라 오케스트라"
   }
 }
