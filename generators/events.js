@@ -59,6 +59,11 @@ function computeRelatedUnits(units) {
 }
 
 /** @param {typeof events[number]} event */
+function isEventAnnounced(event) {
+  return Date.now() + 60 * 60 * 24 > event.startAt;
+}
+
+/** @param {typeof events[number]} event */
 function eventToWikitext(event) {
   const units = eventStoryUnits.filter((e) => e.eventStoryId === event.id);
   const { key, sub } = computeRelatedUnits(units);
@@ -91,6 +96,6 @@ await Deno.writeTextFile(
 !서브 출연
 !시작일
 !종료일
-${events.map(eventToWikitext).join("")}|}</onlyinclude>
+${events.filter(isEventAnnounced).map(eventToWikitext).join("")}|}</onlyinclude>
 `
 );
