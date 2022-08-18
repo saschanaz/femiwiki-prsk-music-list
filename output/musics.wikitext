@@ -188,8 +188,8 @@
 |
 |[https://twitter.com/pj_sekai/status/1186968196626014208 2019년 10월 23일 (사전공개)]
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/닥터=펑크비트|닥터=펑크비트]]
-|lang=ja|ドクター=ファンクビート
+||ドクター＝ファンクビート
+|lang=ja|ドクター＝ファンクビート
 ||Doctor=Funk Beat
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |
@@ -199,7 +199,7 @@
 |2DMV
 |
 |
-|[https://twitter.com/pj_sekai/status/1236982237159022595 2020년 3월 9일 (사전공개)]
+|2019년 6월 10일 추가
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/프래질|프래질]]
 |lang=ja|フラジール
@@ -984,7 +984,7 @@
 |data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/RAD DOGS|RAD DOGS]]
 |lang=ja style="visibility:hidden"|RAD DOGS
 | style="visibility:hidden"|RAD DOGS
-|[[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
+|[[파일:비배스로고.png|24x24픽셀|alt=비비배스]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |✔️
 |q*Left
 |하치오지P
@@ -1587,7 +1587,7 @@
 |Neru
 |Neru
 |
-|[https://youtu.be/kIvTE89Yj2A 3DMV]
+|[https://youtu.be/kIvTE89Yj2A 3DMV] 2DMV
 |
 |
 |[https://twitter.com/pj_sekai/status/1444181545565052934 2021년 10월 2일 추가]
@@ -2761,6 +2761,32 @@
 |
 |
 |2022년 8월 8일 추가
+|-
+|data-kakioroshi|パラソルサイダー
+|lang=ja|パラソルサイダー
+||
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:모모점로고.png|24x24픽셀|alt=모모점]]
+|✔️
+|ナナホシ管弦楽団
+|岩見 陸
+|ナナホシ管弦楽団
+|2DMV
+|
+|
+|2022년 8월 10일 추가
+|-
+||ロストエンファウンド
+|lang=ja|ロストエンファウンド
+||
+|[[파일:레오니로고.png|24x24픽셀|alt=레오니]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
+|
+|sasakure.UK
+|sasakure.UK
+|有形ランペイジ
+|3DMV
+|
+|
+|2022년 8월 15일 추가
 |}
 
 === 영문 버전 전용 악곡 ===
