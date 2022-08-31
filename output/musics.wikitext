@@ -235,7 +235,7 @@
 |Junky
 |Junky
 |
-|[https://youtu.be/gPimbh-jxCo 3DMV]
+|[https://youtu.be/gPimbh-jxCo 3DMV] 2DMV
 |
 |
 |[https://twitter.com/pj_sekai/status/1186968196626014208 2019년 10월 23일 (사전공개)]
@@ -1977,7 +1977,7 @@
 |미키토P
 |미키토P
 |
-|[https://youtu.be/NpOR2QwvjPk 3DMV]
+|[https://youtu.be/NpOR2QwvjPk 3DMV] 2DMV
 |
 |
 |[https://twitter.com/pj_sekai/status/1477203392812691460 2022년 1월 2일 추가]
@@ -2479,7 +2479,7 @@
 |data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/이프|이프]]
 |lang=ja|イフ
 ||
-|[[파일:모모점로고.png|24x24픽셀|alt=모모점]]
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:모모점로고.png|24x24픽셀|alt=모모점]]
 |✔️
 |유리이・카논
 |유리이・카논
