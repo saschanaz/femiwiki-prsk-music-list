@@ -4,6 +4,7 @@
     "events": "deno run --allow-read --allow-write generators/events.js",
     "bonds": "deno run --allow-read --allow-write generators/bonds.js",
     "gachas": "deno run --allow-read --allow-write generators/gachas.js",
+    "build": "deno task musics && deno task events && deno task bonds && deno task gachas",
     "wiki": "deno run --allow-read --allow-net wiki.js"
   },
   "compilerOptions": {

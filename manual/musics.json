@@ -78,8 +78,8 @@
     "releaseDateOverride": "2019년 10월 23일 (사전공개)",
     "mv3d": "https://youtu.be/mjbDHb4B5NY"
   },
-  "ドクター=ファンクビート": {
-    "titleKo": "닥터=펑크비트",
+  "ドクター＝ファンクビート": {
+    "titleKo": "닥터＝펑크비트",
     "announcement": "https://twitter.com/pj_sekai/status/1236982237159022595",
     "releaseDateOverride": "2020년 3월 9일 (사전공개)"
   },
@@ -753,7 +753,6 @@
   },
   "流星のパルス": {
     "titleKo": "유성의 펄스",
-    "titleEn": "Pulse of The Meteor",
     "announcement": "https://twitter.com/pj_sekai/status/1436209626438012957",
     "mv2d": {
       "url": "https://youtu.be/hZgbqUQI64E",
@@ -767,12 +766,10 @@
   },
   "カトラリー": {
     "titleKo": "커틀러리",
-    "titleEn": "Cutlery",
     "announcement": "https://twitter.com/pj_sekai/status/1440197473725603843"
   },
   "再生": {
     "titleKo": "재생",
-    "titleEn": "Reborn",
     "announcement": "https://twitter.com/pj_sekai/status/1443201940301570056",
     "mv3d": "https://youtu.be/LLoHF639Jes",
     "mvExternal": {
@@ -1170,5 +1167,20 @@
   },
   "踊れオーケストラ": {
     "titleKo": "춤춰라 오케스트라"
+  },
+  "パラソルサイダー": {
+    "titleKo": "파라솔 사이다"
+  },
+  "ロストエンファウンド": {
+    "titleKo": "로스트 앤 파운드"
+  },
+  "それでもいいんだよ": {
+    "titleKo": "그래도 괜찮아"
+  },
+  "君の夜をくれ": {
+    "titleKo": "너의 밤을 줘"
+  },
+  "フューチャー・イヴ": {
+    "titleKo": "퓨처 이브"
   }
 }
