@@ -3021,6 +3021,19 @@
 |
 |
 |2022년 10월 9일 추가
+|-
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/DAYBREAK FRONTLINE|DAYBREAK FRONTLINE]]
+|lang=ja style="visibility:hidden"|DAYBREAK FRONTLINE
+| style="visibility:hidden"|DAYBREAK FRONTLINE
+|[[파일:비배스로고.png|24x24픽셀|alt=비비배스]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
+|
+|Orangestar
+|Orangestar
+|
+|3DMV
+|
+|
+|2022년 10월 10일 추가
 |}
 
 === 영문 버전 전용 악곡 ===
