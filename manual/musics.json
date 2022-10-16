@@ -779,7 +779,6 @@
   },
   "群青讃歌": {
     "titleKo": "군청찬가",
-    "titleEn": "Gunjo Sanka",
     "announcement": "https://twitter.com/pj_sekai/status/1443234679524495361",
     "mv3d": "https://youtu.be/xs4RPTt4J0M",
     "mvExternal": {
@@ -798,7 +797,6 @@
   },
   "マシンガンポエムドール": {
     "titleKo": "머신건 포엠 돌",
-    "titleEn": "Machine Gun Poem Doll",
     "mvExternal": {
       "type": "보컬로이드",
       "url": "https://youtu.be/UgZFpO_Y6qo"
@@ -807,7 +805,6 @@
   },
   "ベノム": {
     "titleKo": "베놈",
-    "titleEn": "Venom",
     "announcement": "https://twitter.com/pj_sekai/status/1444908105985257474"
   },
   "拝啓ドッペルゲンガー": {
@@ -816,12 +813,10 @@
   },
   "テレキャスタービーボーイ": {
     "titleKo": "텔레캐스터 비보이",
-    "titleEn": "Telecaster B-Boy",
     "announcement": "https://twitter.com/pj_sekai/status/1445632027538063366"
   },
   "トキヲ・ファンカ": {
     "titleKo": "토키오 펀카",
-    "titleEn": "TOKIO FUNKA",
     "announcement": "https://twitter.com/pj_sekai/status/1445993621052821504"
   },
   "悪魔の踊り方": {
@@ -860,12 +855,10 @@
   },
   "しっくおぶはうす！": {
     "titleKo": "식 오브 하우스!",
-    "titleEn": "Sick of House!",
     "announcement": "https://twitter.com/pj_sekai/status/1451429645975310342"
   },
   "ショウタイム・ルーラー": {
     "titleKo": "쇼타임 룰러",
-    "titleEn": "Showtime Ruler",
     "announcement": "https://twitter.com/pj_sekai/status/1454073998946365450",
     "mv3d": "https://youtu.be/bKKxLK_1ae8",
     "mvExternal": {
@@ -878,7 +871,6 @@
   },
   "ロウワー": {
     "titleKo": "로워",
-    "titleEn": "Lower",
     "announcement": "https://twitter.com/pj_sekai/status/1454691421919735811",
     "mv2d": {
       "url": "https://youtu.be/16M9oC-a5bY",
@@ -1182,5 +1174,38 @@
   },
   "フューチャー・イヴ": {
     "titleKo": "퓨처 이브"
+  },
+  "ジェヘナ": {
+    "titleKo": "제헤나"
+  },
+  "虚ろを扇ぐ": {
+    "titleKo": "허공을 부치다"
+  },
+  "天ノ弱": {
+    "titleKo": "천성의 약함"
+  },
+  "アンハッピーリフレイン": {
+    "titleKo": "언해피 리프레인"
+  },
+  "フォニイ": {
+    "titleKo": "포니"
+  },
+  "ダブルラリアット": {
+    "titleKo": "더블 래리엇"
+  },
+  "インビジブル": {
+    "titleKo": "인비지블"
+  },
+  "エゴロック": {
+    "titleKo": "에고 록"
+  },
+  "トリノコシティ": {
+    "titleKo": "토리노코 시티"
+  },
+  "こちら、幸福安心委員会です。": {
+    "titleKo": "저희는 행복안심위원회입니다."
+  },
+  "ÅMARA(大未来電脳)": {
+    "titleKo": "ÅMARA(대미래전뇌)"
   }
 }
