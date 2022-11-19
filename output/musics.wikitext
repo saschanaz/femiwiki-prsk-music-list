@@ -3138,6 +3138,19 @@
 |
 |
 |2022년 11월 14일 추가
+|-
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/the WALL|the WALL]]
+|lang=ja style="visibility:hidden"|the WALL
+| style="visibility:hidden"|the WALL
+|[[파일:레오니로고.png|24x24픽셀|alt=레오니]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
+|✔️
+|buzzG
+|buzzG
+|buzzG
+|3DMV
+|
+|
+|2022년 11월 18일 추가
 |}
 
 === 영문 버전 전용 악곡 ===
