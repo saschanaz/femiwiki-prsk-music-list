@@ -3190,6 +3190,19 @@
 |
 |
 |2022년 11월 25일 추가
+|-
+|data-kakioroshi|フレー
+|lang=ja|フレー
+||
+|[[파일:레오니로고.png|24x24픽셀|alt=레오니]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
+|✔️
+|HoneyWorks
+|HoneyWorks
+|HoneyWorks
+|2DMV
+|
+|
+|2022년 11월 26일 추가
 |}
 
 === 영문 버전 전용 악곡 ===
