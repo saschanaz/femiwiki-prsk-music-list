@@ -1665,7 +1665,7 @@
 |키타니 타츠야
 |키타니 타츠야
 |
-|[https://youtu.be/lu0AF-JByA8 3DMV]
+|[https://youtu.be/lu0AF-JByA8 3DMV] 2DMV
 |
 |
 |[https://twitter.com/pj_sekai/status/1446355759973888002 2021년 10월 8일 추가]
@@ -3216,6 +3216,19 @@
 |
 |
 |2022년 11월 28일 추가
+|-
+|data-kakioroshi|フロート・プランナー
+|lang=ja|フロート・プランナー
+||
+|[[파일:모모점로고.png|24x24픽셀|alt=모모점]]
+|✔️
+|Heavenz
+|Heavenz
+|Heavenz
+|2DMV
+|
+|
+|2022년 11월 30일 추가
 |}
 
 === 영문 버전 전용 악곡 ===
