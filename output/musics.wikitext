@@ -1600,7 +1600,7 @@
 |cosMo@폭주P
 |cosMo@폭주P
 |cosMo@폭주P
-|
+|2DMV
 |
 |[https://youtu.be/UgZFpO_Y6qo 보컬로이드 버전]
 |[https://twitter.com/pj_sekai/status/1444544427452604418 2021년 10월 3일 추가]
@@ -3043,7 +3043,7 @@
 |sasakure.UK
 |sasakure.UK
 |sasakure.UK
-|
+|2DMV
 |
 |
 |2022년 10월 11일 추가
@@ -3480,19 +3480,6 @@
 !2DMV 일러스트
 !게임 외 MV
 !추가일
-|-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Goodbye|Goodbye]]
-|lang=ja style="visibility:hidden"|Goodbye
-| style="visibility:hidden"|Goodbye
-|
-|
-|Circus-P
-|Circus-P
-|Circus-P
-|원곡MV
-|
-|
-|2022년 6월 8일 추가
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Copycat|Copycat]]
 |lang=ja style="visibility:hidden"|Copycat
