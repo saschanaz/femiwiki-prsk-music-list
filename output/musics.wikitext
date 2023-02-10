@@ -2484,7 +2484,7 @@
 |유리이・카논
 |유리이・카논
 |츠쿠요미
-|3DMV
+|3DMV 2DMV
 |
 |
 |2022년 5월 8일 추가
@@ -3515,6 +3515,19 @@
 |
 |
 |2023년 2월 7일 추가
+|-
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Copycat|Copycat]]
+|lang=ja style="visibility:hidden"|Copycat
+| style="visibility:hidden"|Copycat
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
+|
+|CircusP
+|CircusP
+|CircusP
+|원곡MV
+|
+|
+|2023년 2월 10일 추가
 |}
 
 === 영문 버전 전용 악곡 ===
@@ -3532,19 +3545,6 @@
 !2DMV 일러스트
 !게임 외 MV
 !추가일
-|-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Copycat|Copycat]]
-|lang=ja style="visibility:hidden"|Copycat
-| style="visibility:hidden"|Copycat
-|
-|
-|Circus-P
-|Circus-P
-|Circus-P
-|원곡MV
-|
-|
-|2022년 6월 18일 추가
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Highlight|Highlight]]
 |lang=ja style="visibility:hidden"|Highlight
