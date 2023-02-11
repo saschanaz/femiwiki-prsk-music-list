@@ -1,0 +1,10 @@
+{
+  "version": "2",
+  "remote": {
+    "https://deno.land/x/another_cookiejar@v4.0.2/cookie.ts": "6f0fbc16db31f64bc3a371b1fa25002dc35ec5aec834454ebe64b3e7ea243ea9",
+    "https://deno.land/x/another_cookiejar@v4.0.2/cookie_jar.ts": "284044216e8a17df7aa875e86f6a880917e9b91cad1e2f96cfb22bf132cc72c3",
+    "https://deno.land/x/another_cookiejar@v4.0.2/fetch_wrapper.ts": "8c704a3818af63fcb7c50118082e7349c1ea6aef852762a19635cc7b658256ae",
+    "https://deno.land/x/another_cookiejar@v4.0.2/header_utils.ts": "232066fc9fa7a0e2cb93570425b00d6594addb6cb57f077349ac19704f237d1e",
+    "https://deno.land/x/another_cookiejar@v4.0.2/mod.ts": "eff949014965771f2cd447fe78625a1ad28b59333afa40640f02c0922534d89a"
+  }
+}
