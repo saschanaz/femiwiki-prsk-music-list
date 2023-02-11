@@ -37,8 +37,8 @@
 ||NEXT NEST
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|사츠키 가 텐코모리
-|사츠키 가 텐코모리
+|Satsuki ga Tenkomori
+|Satsuki ga Tenkomori
 |
 |
 |
@@ -193,9 +193,9 @@
 ||Doctor=Funk Beat
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |
-|nyanyannya(대천재P)
-|nyanyannya(대천재P)
-|nyanyannya(대천재P)
+|nyanyannya
+|nyanyannya
+|
 |2DMV
 |
 |
@@ -219,9 +219,9 @@
 ||BURIKI NO DANCE
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
 |
-|히나타 전공
-|히나타 전공
-|히나타 전공
+|HINATADENKOU
+|HINATADENKOU
+|HINATADENKOU
 |[https://youtu.be/msnpPsYN2oM 3DMV]
 |
 |
@@ -245,9 +245,9 @@
 ||Your Adventure Log Has Vanished!
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
 |
-|지저스
-|지저스
-|원더풀☆오퍼튜니티!
+|Jizasu-P
+|Jizasu-P
+|WONDERFUL★OPPORTUNITY!
 |원곡MV 2DMV
 |
 |
@@ -258,9 +258,9 @@
 ||Charles
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:니고로고.png|24x24픽셀|alt=니고]]
 |
-|벌룬
-|벌룬
-|벌룬
+|balloon
+|balloon
+|balloon
 |[https://youtu.be/diTjDNKgjLE 3DMV]
 |
 |
@@ -271,8 +271,8 @@
 ||Hello/How Are You?
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:니고로고.png|24x24픽셀|alt=니고]]
 |
-|나노우
-|나노우
+|Nanou
+|Nanou
 |
 |
 |
@@ -284,8 +284,8 @@
 ||Jishoumushoku
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:니고로고.png|24x24픽셀|alt=니고]]
 |
-|사사노멀리
-|사사노멀리
+|사사노마리
+|사사노마리
 |
 |[https://youtu.be/LEEyYKrEvvk 3DMV] [https://youtu.be/n7ZmBBf5-7g 2DMV(스오우)]
 |스오우
@@ -363,7 +363,7 @@
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |✔️
 |DECO*27
-|호리에 쇼타(kemu)
+|Shota Horie(kemu)
 |Rockwell
 |[https://youtu.be/jxP2_vihhpM 3DMV]
 |
@@ -401,9 +401,9 @@
 ||Near
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:모모점로고.png|24x24픽셀|alt=모모점]]
 |
-|나츠시로 타카아키
-|나츠시로 타카아키
-|와타나베 타쿠야
+|Natsushiro Takaaki
+|Natsushiro Takaaki
+|Watanabe Takuya
 |[https://youtu.be/mzZOoZqDly4 3DMV]
 |
 |
@@ -429,7 +429,7 @@
 |
 |Neru
 |Neru
-|
+|Neru
 |원곡MV
 |
 |
@@ -622,9 +622,9 @@
 | style="visibility:hidden"|Leia - Remind
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|유요윳페
-|유요윳페
-|유요윳페
+|Yuyoyuppe
+|Yuyoyuppe
+|Yuyoyuppe
 |
 |
 |
@@ -700,9 +700,9 @@
 ||MORE! JUMP! MORE!
 |[[파일:모모점로고.png|24x24픽셀|alt=모모점]]
 |✔️
-|나유탄 성인
-|나유탄 성인
-|나유탄 성인
+|NayutalieN
+|NayutalieN
+|NayutalieN
 |[https://youtu.be/SKbutknpQ_I 2DMV(BUZZ)]
 |BUZZ
 |
@@ -895,9 +895,9 @@
 ||Chururira Chururira Daddadda!
 |[[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
 |
-|와다 타테아키(쿠라게P)
-|와다 타테아키(쿠라게P)
-|와다 타테아키(쿠라게P)
+|와다 타케아키(쿠라게P)
+|와다 타케아키(쿠라게P)
+|와다 타케아키(쿠라게P)
 |[https://youtu.be/QOU2jkl30Vs 3DMV] 2DMV
 |
 |
@@ -908,9 +908,9 @@
 ||Bless Your Breath
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|와다 타테아키
-|와다 타테아키
-|와다 타테아키
+|와다 타케아키
+|와다 타케아키
+|와다 타케아키
 |원곡MV
 |
 |
@@ -960,9 +960,9 @@
 ||Hibikase
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|레오루
-|기가
-|기가
+|Reol
+|Giga
+|Giga
 |원곡MV
 |
 |
@@ -1025,9 +1025,9 @@
 | style="visibility:hidden"|drop pop candy
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |
-|레오루
-|기가
-|기가
+|Reol
+|Giga
+|Giga
 |[https://youtu.be/KxNII3csgw4 3DMV]
 |
 |
@@ -1038,11 +1038,11 @@
 ||Positive☆Dance Time
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
 |
-|키노시타
-|키노시타
-|키노시타
-|[https://youtu.be/BdTf_uKTqos 2DMV(키노시타)]
-|키노시타
+|kinoshita
+|kinoshita
+|kinoshita
+|[https://youtu.be/BdTf_uKTqos 2DMV(kinoshita)]
+|kinoshita
 |
 |[https://twitter.com/pj_sekai/status/1362644038659104768 2021년 2월 19일 추가]
 |-
@@ -1077,9 +1077,9 @@
 ||once upon a dream
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
 |✔️
-|YASUHIRO(야스히로)
-|YASUHIRO(야스히로)
-|YASUHIRO(야스히로)
+|YASUHIRO
+|YASUHIRO
+|YASUHIRO
 |[https://youtu.be/1RoDmN9n8xE 2DMV(무라카미 유이치)]
 |무라카미 유이치
 |[https://youtu.be/S84mvlha5Fc 보컬로이드 버전]
@@ -1090,9 +1090,9 @@
 ||Bocca della Verità
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:니고로고.png|24x24픽셀|alt=니고]]
 |
-|히이라기 키라이
-|히이라기 키라이
-|히이라기 키라이
+|Hiiragi Kirai
+|Hiiragi Kirai
+|Hiiragi Kirai
 |[https://youtu.be/ZjNUJUgyoOw 2DMV(ORIHARA)]
 |ORIHARA
 |
@@ -1116,9 +1116,9 @@
 ||Ifuudoudou
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |
-|우메토라
-|우메토라
-|우메토라
+|UMETORA
+|UMETORA
+|UMETORA
 |[https://youtu.be/KvnS-TCq05Y 3DMV] 2DMV
 |
 |
@@ -1129,8 +1129,8 @@
 | style="visibility:hidden"|from Y to Y
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:레오니로고.png|24x24픽셀|alt=레오니]]
 |
-|지미섬P
-|지미섬P
+|ジミーサムP
+|ジミーサムP
 |
 |
 |
@@ -1324,9 +1324,9 @@
 ||The Bubble Future
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|카가(네기샤워P)
-|카가(네기샤워P)
-|카가(네기샤워P)
+|가가(네기샤워P)
+|가가(네기샤워P)
+|가가(네기샤워P)
 |
 |
 |
@@ -1339,7 +1339,7 @@
 |✔️
 |sasakure.UK
 |sasakure.UK
-|sasakure.UK(Key 이시다 유우키(유우케이 램피지))
+|sasakure.UK(Key 키시다 유우키(유형 램페이지))
 |[https://youtu.be/vI5xihka9hw 3DMV]
 |
 |[https://youtu.be/dBQg24mx45Y 보컬로이드 버전]
@@ -1350,9 +1350,9 @@
 ||Kanadetomosusora
 |[[파일:니고로고.png|24x24픽셀|alt=니고]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |✔️
-|Sasanomaly
-|Sasanomaly
-|Sasanomaly
+|사사노마리
+|사사노마리
+|사사노마리
 |[https://youtu.be/GTlQhMRHXIg 2DMV(Rella)]
 |Rella
 |
@@ -1376,9 +1376,9 @@
 ||From Tokyo
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:레오니로고.png|24x24픽셀|alt=레오니]]
 |✔️
-|나츠시로 타카아키
-|나츠시로 타카아키・와타나베 타쿠야
-|와타나베 타쿠야
+|Natsushiro Takaaki
+|Natsushiro Takaaki・Watanabe Takuya
+|Watanabe Takuya
 |[https://youtu.be/ydf6PIlMuyE 3DMV]
 |
 |[https://youtu.be/mMiLWxuffdQ 보컬로이드 버전]
@@ -1441,9 +1441,9 @@
 ||Soudatta!!
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|타케노코 소년
-|타케노코 소년
-|타케노코 소년
+|죽순소년
+|죽순소년
+|죽순소년
 |
 |
 |
@@ -1480,9 +1480,9 @@
 | style="visibility:hidden"|Glory Steady Go!
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
 |✔️
-|키노시타
-|키노시타
-|키노시타
+|kinoshita
+|kinoshita
+|kinoshita
 |[https://youtu.be/JoM4JGqQyCU 2DMV(우자키 우소)]
 |우자키 우소
 |[https://youtu.be/Y-QhzXC9NbI 보컬로이드 버전]
@@ -1532,9 +1532,9 @@
 ||Cutlery
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:니고로고.png|24x24픽셀|alt=니고]]
 |
-|유기산
-|유기산
-|유기산
+|Ukisan
+|Ukisan
+|Ukisan
 |원곡MV
 |
 |
@@ -1545,9 +1545,9 @@
 ||Reborn
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:니고로고.png|24x24픽셀|alt=니고]]
 |✔️
-|Picon
-|Picon
-|Picon
+|피콘
+|피콘
+|피콘
 |[https://youtu.be/LLoHF639Jes 3DMV]
 |
 |[https://youtu.be/purlnb5K_jM 보컬로이드 버전]
@@ -1610,9 +1610,9 @@
 ||Venom
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:니고로고.png|24x24픽셀|alt=니고]]
 |
-|카이리키베어
-|카이리키베어
-|
+|Kairiki bear
+|Kairiki bear
+|Kairiki bear
 |
 |
 |
@@ -1675,9 +1675,9 @@
 ||I want to be your heart
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|유리이・카논
-|유리이・카논
-|유리이・카논
+|유리이 카논
+|유리이 카논
+|유리이 카논
 |원곡MV
 |
 |
@@ -1701,9 +1701,9 @@
 ||Butterfly on Your Right Shoulder
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|미즈노 유라
-|노리피
-|노리피
+|Yura Mizuno
+|noripy
+|noripy
 |
 |
 |
@@ -1714,8 +1714,8 @@
 | style="visibility:hidden"|ray
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:레오니로고.png|24x24픽셀|alt=레오니]]
 |
-|후지와라 모토오
-|후지와라 모토오
+|藤原基央
+|藤原基央
 |
 |[https://youtu.be/S-okMR4YUlo 3DMV] [https://youtu.be/YkP0JMByjRM 2DMV(사키노지.)]
 |사키노지.
@@ -1727,8 +1727,8 @@
 | style="visibility:hidden"|Hello,world!
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:레오니로고.png|24x24픽셀|alt=레오니]]
 |
-|후지와라 모토오
-|후지와라 모토오
+|藤原基央
+|藤原基央
 |
 |[https://youtu.be/B1nUc7LfZYA 2DMV(LAM)]
 |LAM
@@ -1753,9 +1753,9 @@
 ||Showtime Ruler
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
 |✔️
-|카라스야사보오
-|카라스야사보오
-|카라스야사보오
+|Karasuya Sabou
+|Karasuya Sabou
+|Karasuya Sabou
 |[https://youtu.be/bKKxLK_1ae8 3DMV]
 |
 |[https://youtu.be/uDBVetc5JKo 보컬로이드 버전]
@@ -1857,9 +1857,9 @@
 ||The Daughter of Evil
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|mothy
-|mothy
-|mothy
+|mothy_악의P
+|mothy_악의P
+|mothy_악의P
 |
 |
 |
@@ -1870,9 +1870,9 @@
 ||The Servant of Evil
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|mothy
-|mothy
-|mothy
+|mothy_악의P
+|mothy_악의P
+|mothy_악의P
 |
 |
 |
@@ -1922,9 +1922,9 @@
 ||Mirai
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |✔️
-|유기산
-|유기산
-|유기산
+|uki3
+|uki3
+|uki3
 |[https://youtu.be/7ub8n1J8ruY 3DMV] [https://youtu.be/X_u5UtcgrKw 2DMV(BUZZ)]
 |BUZZ
 |[https://nico.ms/sm39790647 보컬로이드 버전]
@@ -1937,7 +1937,7 @@
 |
 |DECO*27
 |DECO*27
-|Naoki Itai(MUSIC FOR MUSIC)
+|나오키 이타이
 |
 |
 |
@@ -1948,9 +1948,9 @@
 ||villain
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:니고로고.png|24x24픽셀|alt=니고]]
 |
-|테니오하
-|테니오하
-|테니오하
+|teniwoha
+|teniwoha
+|teniwoha
 |[https://youtu.be/gQD4GfgIqZA 3DMV]
 |
 |
@@ -1962,8 +1962,8 @@
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
 |orange
-|Dios/시그널P
-|Dios/시그널P
+|Dios/signalP
+|Dios/signalP
 |
 |
 |
@@ -2039,9 +2039,9 @@
 ||Theme of Niccori Survey Team
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
 |✔️
-|지저스
-|지저스
-|원더풀☆오퍼튜니티!
+|Jizasu-P
+|Jizasu-P
+|WONDERFUL★OPPORTUNITY!
 |[https://youtu.be/v7SYWS2jarw 3DMV]
 |
 |[https://youtu.be/C_Fc1x_aeFQ 보컬로이드 버전]
@@ -2065,9 +2065,9 @@
 ||Heartbeat #0822
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:레오니로고.png|24x24픽셀|alt=레오니]]
 |
-|나비P
-|나비P
-|나비P
+|쵸쵸P
+|쵸쵸P
+|쵸쵸P
 |2DMV
 |
 |
@@ -2104,9 +2104,9 @@
 ||Colorful Marine Snow
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|카를로스 하카마다(사이제P)
-|카를로스 하카마다(사이제P)
-|카를로스 하카마다(사이제P)
+|Carlos Hakamada Saize P
+|Carlos Hakamada Saize P
+|Carlos Hakamada Saize P
 |원곡MV
 |
 |
@@ -2117,9 +2117,9 @@
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:니고로고.png|24x24픽셀|alt=니고]]
 |
-|키쿠오
-|키쿠오
-|키쿠오
+|Kikuo
+|Kikuo
+|Kikuo
 |3DMV
 |
 |
@@ -2171,7 +2171,7 @@
 |
 |Eve
 |Eve
-|Numa
+|Eve
 |원곡MV 2DMV
 |
 |
@@ -2247,9 +2247,9 @@
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |
-|벌룬
-|벌룬
-|벌룬
+|balloon
+|balloon
+|balloon
 |
 |
 |
@@ -2260,9 +2260,9 @@
 ||
 |[[파일:니고로고.png|24x24픽셀|alt=니고]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |✔️
-|벌룬
-|벌룬
-|벌룬
+|balloon
+|balloon
+|balloon
 |3DMV
 |
 |
@@ -2353,7 +2353,7 @@
 |✔️
 |마라시
 |마라시, 호리에 쇼타(kemu)
-|호리에 쇼타(kemu)
+|Shota Horie(kemu)
 |2DMV
 |
 |
@@ -2390,8 +2390,8 @@
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:모모점로고.png|24x24픽셀|alt=모모점]]
 |
-|카이리키베어
-|카이리키베어
+|Kairiki bear
+|Kairiki bear
 |
 |
 |
@@ -2481,8 +2481,8 @@
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:모모점로고.png|24x24픽셀|alt=모모점]]
 |✔️
-|유리이・카논
-|유리이・카논
+|유리이 카논
+|유리이 카논
 |츠쿠요미
 |3DMV 2DMV
 |
@@ -2520,9 +2520,9 @@
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
 |
-|지저스
-|지저스
-|원더풀☆오퍼튜니티!
+|Jizasu-P
+|Jizasu-P
+|WONDERFUL★OPPORTUNITY!
 |
 |
 |
@@ -2598,8 +2598,8 @@
 ||
 |[[파일:니고로고.png|24x24픽셀|alt=니고]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |✔️
-|카이리키베어
-|카이리키베어
+|Kairiki bear
+|Kairiki bear
 |
 |2DMV
 |
@@ -2702,9 +2702,9 @@
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
 |
-|나유탄 성인
-|나유탄 성인
-|나유탄 성인
+|NayutalieN
+|NayutalieN
+|NayutalieN
 |
 |
 |
@@ -2728,9 +2728,9 @@
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:레오니로고.png|24x24픽셀|alt=레오니]]
 |✔️
-|와다 타테아키
-|와다 타테아키
-|와다 타테아키
+|와다 타케아키
+|와다 타케아키
+|와다 타케아키
 |2DMV
 |
 |
@@ -2741,9 +2741,9 @@
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|nyanyannya(대천재P)
-|nyanyannya(대천재P)
-|nyanyannya(대천재P)
+|-
+|-
+|-
 |
 |
 |
@@ -2754,9 +2754,9 @@
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
 |
-|YASUHIRO(야스히로)
-|YASUHIRO(야스히로)
-|YASUHIRO(야스히로)
+|YASUHIRO
+|YASUHIRO
+|YASUHIRO
 |
 |
 |
@@ -2845,9 +2845,9 @@
 | style="visibility:hidden"|Voices
 |[[파일:레오니로고.png|24x24픽셀|alt=레오니]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |✔️
-|유요윳페
-|유요윳페
-|유요윳페
+|Yuyoyuppe
+|Yuyoyuppe
+|Yuyoyuppe
 |3DMV
 |
 |
@@ -2871,9 +2871,9 @@
 | style="visibility:hidden"|Calc.
 |[[파일:레오니로고.png|24x24픽셀|alt=레오니]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|지미섬P
-|지미섬P
-|지미섬P
+|ジミーサムP
+|ジミーサムP
+|ジミーサムP
 |
 |
 |
@@ -3131,9 +3131,9 @@
 ||
 |[[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|히이라기 키라이
-|히이라기 키라이
-|히이라기 키라이
+|Hiiragi Kirai
+|Hiiragi Kirai
+|Hiiragi Kirai
 |3DMV
 |
 |
@@ -3326,9 +3326,9 @@
 ||
 |[[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
 |
-|사츠키 가 텐코모리
-|사츠키 가 텐코모리
-|사츠키 가 텐코모리
+|Satsuki ga Tenkomori
+|Satsuki ga Tenkomori
+|Satsuki ga Tenkomori
 |
 |
 |
