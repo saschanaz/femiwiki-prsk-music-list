@@ -1,7 +1,10 @@
 import musics from "../sekai-master-db-diff/musics.json" assert { type: "json" };
 import musicsEn from "../sekai-master-db-en-diff/musics.json" assert { type: "json" };
 import manualMetadata from "../manual/musics.json" assert { type: "json" };
-import { translateArtistOrAsIs, getWikiableMusicData } from "../lib/musics.js";
+import {
+  transliterateArtistOrAsIs,
+  getWikiableMusicData,
+} from "../lib/musics.js";
 
 import { KOR_DATE_FORMAT, mapUnitName } from "../lib/utilities.js";
 
@@ -23,11 +26,13 @@ function stringifyCategories(item) {
           return "원곡MV";
         case "mv_2d": {
           const { url, illust } = manualMetadata[item.title]?.mv2d || {};
-          const translated = illust ? `(${translateArtistOrAsIs(illust)})` : "";
+          const transliterated = illust
+            ? `(${transliterateArtistOrAsIs(illust)})`
+            : "";
           if (url) {
-            return `[${url} 2DMV${translated}]`;
+            return `[${url} 2DMV${transliterated}]`;
           }
-          return `2DMV${translated}`;
+          return `2DMV${transliterated}`;
         }
         case "mv": {
           const mv3d = manualMetadata[item.title]?.mv3d;
@@ -115,7 +120,7 @@ function convertAsWikimediaTableRow(item) {
     `|${wikiable.composer}\n` + // 작곡
     `|${wikiable.arranger}\n` + // 편곡
     `|${stringifyCategories(item)}\n` +
-    `|${translateArtistOrAsIs(
+    `|${transliterateArtistOrAsIs(
       manualMetadata[item.title]?.mv2d?.illust || ""
     )}\n` + // 일러스트
     `|${linkYouTube(manualMetadata[item.title]?.mvExternal)}\n` + // 게임 외 버전
