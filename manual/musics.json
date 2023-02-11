@@ -5,17 +5,14 @@
     "mv3d": "https://youtu.be/UUaVUWCPv_Y"
   },
   "ネクストネスト": {
-    "titleKo": "넥스트 네스트",
     "announcement": "https://twitter.com/pj_sekai/status/1245290941012836360",
     "releaseDateOverride": "2020년 4월 1일 (사전공개)"
   },
   "メルト": {
-    "titleKo": "멜트",
     "announcement": "https://twitter.com/pj_sekai/status/1285901004819456000",
     "releaseDateOverride": "2020년 6월 22일 (사전공개)"
   },
   "初音ミクの消失": {
-    "titleKo": "하츠네 미쿠의 소실",
     "announcement": "https://twitter.com/pj_sekai/status/1274900221021917185",
     "releaseDateOverride": "2020년 6월 22일 (사전공개)"
   },
@@ -28,19 +25,16 @@
     "releaseDateOverride": "2020년 6월 13일 (사전공개)"
   },
   "ロキ": {
-    "titleKo": "로키",
     "announcement": "https://twitter.com/pj_sekai/status/1186968196626014208",
     "releaseDateOverride": "2019년 10월 23일 (사전공개)",
     "mv3d": "https://youtu.be/PD8PHqWuSUI"
   },
   "テオ": {
-    "titleKo": "테오",
     "announcement": "https://twitter.com/pj_sekai/status/1240205105200164865",
     "releaseDateOverride": "2020년 3월 18일 (사전공개)",
     "mv3d": "https://youtu.be/RCULeLioEnc"
   },
   "ヒバナ -Reloaded-": {
-    "titleKo": "불꽃 -Reloaded-",
     "announcement": "https://twitter.com/pj_sekai/status/1247829575612035074",
     "releaseDateOverride": "2020년 4월 8일 (사전공개)",
     "mv2d": {
@@ -49,7 +43,6 @@
     }
   },
   "ハッピーシンセサイザ": {
-    "titleKo": "해피 신시사이저",
     "announcement": "https://twitter.com/pj_sekai/status/1236982237159022595",
     "releaseDateOverride": "2020년 3월 9일 (사전공개)",
     "mv2d": {
@@ -67,24 +60,20 @@
     }
   },
   "ツギハギスタッカート": {
-    "titleKo": "누덕누덕 스타카토",
     "announcement": "https://twitter.com/pj_sekai/status/1242753762155876353",
     "releaseDateOverride": "2020년 3월 25일 (사전공개)",
     "mv3d": "https://youtu.be/6iwD9hM9ND4"
   },
   "劣等上等": {
-    "titleKo": "열등상등",
     "announcement": "https://twitter.com/pj_sekai/status/1186968196626014208",
     "releaseDateOverride": "2019년 10월 23일 (사전공개)",
     "mv3d": "https://youtu.be/mjbDHb4B5NY"
   },
   "ドクター＝ファンクビート": {
-    "titleKo": "닥터＝펑크비트",
     "announcement": "https://twitter.com/pj_sekai/status/1236982237159022595",
     "releaseDateOverride": "2020년 3월 9일 (사전공개)"
   },
   "フラジール": {
-    "titleKo": "프래질",
     "announcement": "https://twitter.com/pj_sekai/status/1276116804973150209",
     "releaseDateOverride": "2020년 6월 25일 (사전공개)",
     "mv2d": {
@@ -94,35 +83,29 @@
     "mv3d": "https://youtu.be/WDWgBLrw-Jg"
   },
   "ブリキノダンス": {
-    "titleKo": "양철의 댄스",
     "announcement": "https://twitter.com/pj_sekai/status/1272725763146407938",
     "releaseDateOverride": "2020년 6월 16일 (사전공개)",
     "mv3d": "https://youtu.be/msnpPsYN2oM"
   },
   "スイートマジック": {
-    "titleKo": "스위트 매직",
     "announcement": "https://twitter.com/pj_sekai/status/1186968196626014208",
     "releaseDateOverride": "2019년 10월 23일 (사전공개)",
     "mv3d": "https://youtu.be/gPimbh-jxCo"
   },
   "ぼうけんのしょがきえました！": {
-    "titleKo": "모험의 서가 사라졌습니다!",
     "announcement": "https://twitter.com/pj_sekai/status/1285900755635859456",
     "releaseDateOverride": "2020년 6월 22일 (사전공개)"
   },
   "シャルル": {
-    "titleKo": "샤를",
     "announcement": "https://twitter.com/pj_sekai/status/1285900393776427012",
     "releaseDateOverride": "2020년 6월 22일 (사전공개)",
     "mv3d": "https://youtu.be/diTjDNKgjLE"
   },
   "ハロ／ハワユ": {
-    "titleKo": "헬로/하와유",
     "announcement": "https://twitter.com/pj_sekai/status/1250363365026758656",
     "releaseDateOverride": "2020년 4월 15일 (사전공개)"
   },
   "自傷無色": {
-    "titleKo": "자상무색",
     "announcement": "https://twitter.com/pj_sekai/status/1236982237159022595",
     "releaseDateOverride": "2020년 3월 9일 (사전공개)",
     "mv2d": {
@@ -142,7 +125,6 @@
     }
   },
   "アイドル新鋭隊": {
-    "titleKo": "아이돌신예대",
     "announcement": "https://twitter.com/pj_sekai/status/1303619491499094016",
     "releaseDateOverride": "2020년 9월 9일 (리허설)",
     "mv3d": "https://youtu.be/3yQWZcYXcgg",
@@ -161,7 +143,6 @@
     }
   },
   "セカイはまだ始まってすらいない": {
-    "titleKo": "세계는 아직 시작조차 하지 않았어",
     "announcement": "https://twitter.com/pj_sekai/status/1251089432574169088",
     "releaseDateOverride": "2020년 4월 17일 (사전공개)",
     "mv3d": "https://youtu.be/cFExVIRuGso",
@@ -171,7 +152,6 @@
     }
   },
   "悔やむと書いてミライ": {
-    "titleKo": "후회한다 쓰고 미래",
     "announcement": "https://twitter.com/pj_sekai/status/1252893774419652609",
     "releaseDateOverride": "2020년 4월 22일 (사전공개)",
     "mv3d": "https://youtu.be/an_gDTrVdHo",
@@ -181,23 +161,19 @@
     }
   },
   "セカイ": {
-    "titleKo": "세카이",
     "announcement": "https://twitter.com/pj_sekai/status/1289141373589839872",
     "releaseDateOverride": "2020년 7월 31일 (사전공개)",
     "mv3d": "https://youtu.be/jxP2_vihhpM"
   },
   "ワーワーワールド": {
-    "titleKo": "워-워-월드",
     "announcement": "https://twitter.com/pj_sekai/status/1290951301698707456",
     "releaseDateOverride": "2020년 8월 5일 (사전공개)",
     "mv3d": "https://youtu.be/GJbEn1srk3Y"
   },
   "アスノヨゾラ哨戒班": {
-    "titleKo": "내일의 밤하늘 초계반",
     "announcement": "https://twitter.com/pj_sekai/status/1311550437581938693"
   },
   "ニア": {
-    "titleKo": "니어",
     "announcement": "https://twitter.com/pj_sekai/status/1311911158970896385",
     "mv3d": "https://youtu.be/mzZOoZqDly4"
   },
@@ -210,11 +186,9 @@
     }
   },
   "脱法ロック": {
-    "titleKo": "탈법 록",
     "announcement": "https://twitter.com/pj_sekai/status/1312634519774654464"
   },
   "命に嫌われている": {
-    "titleKo": "생명에게 미움받고 있어",
     "announcement": "https://twitter.com/pj_sekai/status/1312997418368081921",
     "mv2d": {
       "url": "https://youtu.be/F7iqxHOth58",
@@ -223,11 +197,9 @@
     }
   },
   "ワールドイズマイン": {
-    "titleKo": "월드 이즈 마인",
     "announcement": "https://twitter.com/pj_sekai/status/1313361249279700993"
   },
   "ダンスロボットダンス": {
-    "titleKo": "댄스 로봇 댄스",
     "announcement": "https://twitter.com/pj_sekai/status/1313721985961082882",
     "mv3d": "https://youtu.be/rLt45Ylw5Ks"
   },
@@ -235,14 +207,12 @@
     "announcement": "https://twitter.com/pj_sekai/status/1314084951550128128"
   },
   "夜咄ディセイブ": {
-    "titleKo": "야화 디세이브",
     "announcement": "https://twitter.com/pj_sekai/status/1314448842645880832"
   },
   "Gimme×Gimme": {
     "announcement": "https://twitter.com/pj_sekai/status/1314809311080529920"
   },
   "ビバハピ": {
-    "titleKo": "비바 해피",
     "announcement": "https://twitter.com/pj_sekai/status/1315171303549140992",
     "mv2d": {
       "url": "https://youtu.be/zAkqd6iw-lo",
@@ -251,11 +221,9 @@
     }
   },
   "ジャンキーナイトタウンオーケストラ": {
-    "titleKo": "정키 나이트 타운 오케스트라",
     "announcement": "https://twitter.com/pj_sekai/status/1315534279405756416"
   },
   "ミラクルペイント": {
-    "titleKo": "미라클 페인트",
     "announcement": "https://twitter.com/pj_sekai/status/1315896894132944896",
     "mv2d": {
       "url": "https://youtu.be/kU4Rth300FM",
@@ -267,7 +235,6 @@
     "announcement": "https://twitter.com/pj_sekai/status/1316258678614319105"
   },
   "携帯恋話": {
-    "titleKo": "휴대연화",
     "announcement": "https://twitter.com/pj_sekai/status/1316621387545501698",
     "mv2d": {
       "url": "https://youtu.be/kNLyqES4fC8",
@@ -280,15 +247,12 @@
     }
   },
   "39みゅーじっく！": {
-    "titleKo": "39뮤직!",
     "announcement": "https://twitter.com/pj_sekai/status/1316983511446933505"
   },
   "青く駆けろ！": {
-    "titleKo": "푸르게 달려라!",
     "announcement": "https://twitter.com/pj_sekai/status/1317345518050177024"
   },
   "ステラ": {
-    "titleKo": "스텔라",
     "announcement": "https://twitter.com/pj_sekai/status/1317815863987240962",
     "mv3d": "https://youtu.be/oo2s6w-l1jQ",
     "mvExternal": {
@@ -300,7 +264,6 @@
     "announcement": "https://twitter.com/pj_sekai/status/1318071669299109888"
   },
   "ジャックポットサッドガール": {
-    "titleKo": "잭팟 새드 걸",
     "announcement": "https://twitter.com/pj_sekai/status/1318433933600595969",
     "mv2d": {
       "url": "https://youtu.be/J9kD9rYR088",
@@ -313,16 +276,13 @@
     }
   },
   "メルティランドナイトメア": {
-    "titleKo": "멜티 랜드 나이트메어",
     "announcement": "https://twitter.com/pj_sekai/status/1320245172874039298",
     "mv3d": "https://youtu.be/ZKbnmy82DZE"
   },
   "乙女解剖": {
-    "titleKo": "소녀해부",
     "announcement": "https://twitter.com/pj_sekai/status/1322781758509645825"
   },
   "potatoになっていく": {
-    "titleKo": "potato가 되어가",
     "announcement": "https://twitter.com/pj_sekai/status/1325062968090849284",
     "mv3d": "https://youtu.be/h_h1uJcLsAE",
     "mvExternal": {
@@ -331,11 +291,9 @@
     }
   },
   "ローリンガール": {
-    "titleKo": "롤링 걸",
     "announcement": "https://twitter.com/pj_sekai/status/1327492435715375106"
   },
   "モア！ジャンプ！モア！": {
-    "titleKo": "모어! 점프! 모어!",
     "announcement": "https://twitter.com/pj_sekai/status/1329306995367690249",
     "mv2d": {
       "url": "https://youtu.be/SKbutknpQ_I",
@@ -344,19 +302,15 @@
     }
   },
   "裏表ラバーズ": {
-    "titleKo": "겉과 속의 러버즈",
     "announcement": "https://twitter.com/pj_sekai/status/1330029702002696195"
   },
   "アンノウン・マザーグース": {
-    "titleKo": "언노운 마더구스",
     "announcement": "https://twitter.com/pj_sekai/status/1330753942288883712"
   },
   "愛されなくても君がいる": {
-    "titleKo": "사랑받지 않아도 네가 있어",
     "announcement": "https://twitter.com/pj_sekai/status/1333297267344777216"
   },
   "ウミユリ海底譚": {
-    "titleKo": "갯나리 해저담",
     "announcement": "https://twitter.com/pj_sekai/status/1333653315620519938",
     "mv3d": "https://youtu.be/7y8ufRaaZC4"
   },
@@ -369,12 +323,10 @@
     }
   },
   "独りんぼエンヴィー": {
-    "titleKo": "혼자 놀기 엔비",
     "announcement": "https://twitter.com/pj_sekai/status/1338364369793503233",
     "mv3d": "https://youtu.be/luujC_Y4Wsw"
   },
   "ニジイロストーリーズ": {
-    "titleKo": "무지개색 스토리즈",
     "announcement": "https://twitter.com/pj_sekai/status/1340541015371915264",
     "mv2d": {
       "url": "https://youtu.be/EIUO-fPrkSo",
@@ -387,19 +339,15 @@
     }
   },
   "ODDS＆ENDS": {
-    "titleKo": "ODDS&ENDS",
     "announcement": "https://twitter.com/pj_sekai/status/1341988244087398402"
   },
   "ドラマツルギー": {
-    "titleKo": "드라마투르기",
     "announcement": "https://twitter.com/pj_sekai/status/1343437491223707653"
   },
   "グリーンライツ・セレナーデ": {
-    "titleKo": "그린라이츠 세레나데",
     "announcement": "https://twitter.com/pj_sekai/status/1343799842477240320"
   },
   "恋愛裁判": {
-    "titleKo": "연애재판",
     "announcement": "https://twitter.com/pj_sekai/status/1344162616667561984",
     "mv2d": {
       "url": "https://youtu.be/mqrp4SfMJwk",
@@ -407,7 +355,6 @@
     }
   },
   "＊ハロー、プラネット。": {
-    "titleKo": "*헬로, 플래닛.",
     "announcement": "https://twitter.com/pj_sekai/status/1344526859451527169"
   },
   "千本桜": {
@@ -423,20 +370,16 @@
     }
   },
   "チュルリラ・チュルリラ・ダッダッダ！": {
-    "titleKo": "츄루리라 츄루리라 닷닷다!",
     "announcement": "https://twitter.com/pj_sekai/status/1345612126707015681",
     "mv3d": "https://youtu.be/QOU2jkl30Vs"
   },
   "ブレス・ユア・ブレス": {
-    "titleKo": "블레스 유어 브레스",
     "announcement": "https://twitter.com/pj_sekai/status/1345974908732329984"
   },
   "とても痛い痛がりたい": {
-    "titleKo": "너무 아파 아프고 싶어",
     "announcement": "https://twitter.com/pj_sekai/status/1346336551739932673"
   },
   "霽れを待つ": {
-    "titleKo": "날이 개길 기다려",
     "announcement": "https://twitter.com/pj_sekai/status/1348150344803524612",
     "mv2d": {
       "url": "https://youtu.be/70ZLvDTonqI",
@@ -449,11 +392,9 @@
     }
   },
   "ワールズエンド・ダンスホール": {
-    "titleKo": "월즈 엔드 댄스홀",
     "announcement": "https://twitter.com/pj_sekai/status/1349599073150533634"
   },
   "ヒビカセ": {
-    "titleKo": "히비카세(울려퍼져라)",
     "announcement": "https://twitter.com/pj_sekai/status/1351047656710221825"
   },
   "Color of Drops": {
@@ -474,11 +415,9 @@
     }
   },
   "ミルククラウン・オン・ソーネチカ": {
-    "titleKo": "밀크크라운 온 소네치카",
     "announcement": "https://twitter.com/pj_sekai/status/1357934000510095362"
   },
   "タイムマシン": {
-    "titleKo": "타임머신",
     "announcement": "https://twitter.com/pj_sekai/status/1359382755977568256",
     "mv2d": {
       "url": "https://youtu.be/s1yW2jPJiVE",
@@ -492,7 +431,6 @@
     "mv3d": "https://youtu.be/KxNII3csgw4"
   },
   "ポジティブ☆ダンスタイム": {
-    "titleKo": "포지티브☆댄스타임",
     "announcement": "https://twitter.com/pj_sekai/status/1362644038659104768",
     "mv2d": {
       "url": "https://youtu.be/BdTf_uKTqos",
@@ -503,7 +441,6 @@
     "announcement": "https://twitter.com/pj_sekai/status/1363731413036503042"
   },
   "限りなく灰色へ": {
-    "titleKo": "끝없이 잿빛으로",
     "announcement": "https://twitter.com/pj_sekai/status/1365289725448179713",
     "mv3d": "https://youtu.be/qtJ6U4c0_fQ",
     "mvExternal": {
@@ -512,7 +449,6 @@
     }
   },
   "ワンスアポンアドリーム": {
-    "titleKo": "원스 어폰 어 드림",
     "announcement": "https://twitter.com/pj_sekai/status/1365906661789982721",
     "mv2d": {
       "url": "https://youtu.be/1RoDmN9n8xE",
@@ -525,7 +461,6 @@
     }
   },
   "ボッカデラベリタ": {
-    "titleKo": "보카델라베리타",
     "announcement": "https://twitter.com/pj_sekai/status/1368080761136373761",
     "mv2d": {
       "url": "https://youtu.be/ZjNUJUgyoOw",
@@ -533,11 +468,9 @@
     }
   },
   "みくみくにしてあげる♪【してやんよ】": {
-    "titleKo": "미쿠미쿠하게 해줄게♪ (해줄거야)",
     "announcement": "https://twitter.com/pj_sekai/status/1369168150315507713"
   },
   "威風堂々": {
-    "titleKo": "위풍당당",
     "announcement": "https://twitter.com/pj_sekai/status/1371342236823089155",
     "mv3d": "https://youtu.be/KvnS-TCq05Y"
   },
@@ -545,11 +478,9 @@
     "announcement": "https://twitter.com/pj_sekai/status/1373879019272171524"
   },
   "初音ミクの激唱": {
-    "titleKo": "하츠네미쿠의 격창",
     "announcement": "https://twitter.com/pj_sekai/status/1376871810461921280"
   },
   "天使のクローバー": {
-    "titleKo": "천사의 클로버",
     "announcement": "https://twitter.com/pj_sekai/status/1376887469233217539",
     "mv3d": "https://youtu.be/fYhFyk41rSw",
     "mvExternal": {
@@ -558,16 +489,13 @@
     }
   },
   "お気に召すまま": {
-    "titleKo": "마음에 드시는 대로",
     "announcement": "https://twitter.com/pj_sekai/status/1378952424887525377",
     "mv3d": "https://youtu.be/M_9lPZyS-eQ"
   },
   "どりーみんチュチュ": {
-    "titleKo": "드리밍 츄츄",
     "announcement": "https://twitter.com/pj_sekai/status/1381488998904864770"
   },
   "アイディスマイル": {
-    "titleKo": "아이디스마일",
     "announcement": "https://twitter.com/pj_sekai/status/1384134595549941764",
     "mv3d": "https://youtu.be/QdYji4SVH3A",
     "mvExternal": {
@@ -576,7 +504,6 @@
     }
   },
   "「１」": {
-    "titleKo": "「1」",
     "announcement": "https://twitter.com/pj_sekai/status/1384751726742278147",
     "mv2d": {
       "url": "https://youtu.be/_GdIO1AANg4",
@@ -588,19 +515,15 @@
     }
   },
   "花を唄う": {
-    "titleKo": "꽃을 노래하다",
     "announcement": "https://twitter.com/pj_sekai/status/1387348833064030210"
   },
   "夜に駆ける": {
-    "titleKo": "밤을 달리다",
     "announcement": "https://twitter.com/pj_sekai/status/1388449199201554437"
   },
   "幽霊東京": {
-    "titleKo": "유령도쿄",
     "announcement": "https://twitter.com/pj_sekai/status/1389098445294641154"
   },
   "シネマ": {
-    "titleKo": "시네마",
     "announcement": "https://twitter.com/pj_sekai/status/1391017885493981186",
     "mv2d": {
       "url": "https://youtu.be/8m1cUgLepmY",
@@ -617,7 +540,6 @@
     "announcement": "https://twitter.com/pj_sekai/status/1394170857304428545"
   },
   "アイノマテリアル": {
-    "titleKo": "사랑의 마테리얼",
     "announcement": "https://twitter.com/pj_sekai/status/1395631273725423616",
     "mv2d": {
       "url": "https://youtu.be/miLfbcfdqus",
@@ -630,21 +552,17 @@
     }
   },
   "いかないで": {
-    "titleKo": "가지 마",
     "announcement": "https://twitter.com/pj_sekai/status/1398158881491091458",
     "mv3d": "https://youtu.be/x7_chKm37m8"
   },
   "ロミオとシンデレラ": {
-    "titleKo": "로미오와 신데렐라",
     "announcement": "https://twitter.com/pj_sekai/status/1401782424975986690",
     "mv3d": "https://youtu.be/mlTSkRO92S0"
   },
   "泡沫未来": {
-    "titleKo": "거품미래",
     "announcement": "https://twitter.com/pj_sekai/status/1404318727659655172"
   },
   "トンデモワンダーズ": {
-    "titleKo": "터무니원더즈",
     "announcement": "https://twitter.com/pj_sekai/status/1406241355366428676",
     "mv3d": "https://youtu.be/vI5xihka9hw",
     "mvExternal": {
@@ -653,7 +571,6 @@
     }
   },
   "カナデトモスソラ": {
-    "titleKo": "연주하여 밝히는 하늘",
     "announcement": "https://twitter.com/pj_sekai/status/1406856694869610496",
     "mv2d": {
       "url": "https://youtu.be/GTlQhMRHXIg",
@@ -663,11 +580,9 @@
     }
   },
   "トラフィック・ジャム": {
-    "titleKo": "트래픽 잼",
     "announcement": "https://twitter.com/pj_sekai/status/1410117727377772545"
   },
   "フロムトーキョー": {
-    "titleKo": "프롬 도쿄",
     "announcement": "https://twitter.com/pj_sekai/status/1412761181954007042",
     "mv3d": "https://youtu.be/ydf6PIlMuyE",
     "mvExternal": {
@@ -689,7 +604,6 @@
     }
   },
   "六兆年と一夜物語": {
-    "titleKo": "육조년과 하룻밤 이야기",
     "announcement": "https://twitter.com/pj_sekai/status/1414465609354551296",
     "mv2d": {
       "url": "https://youtu.be/uDgikBUvIlQ",
@@ -697,7 +611,6 @@
     }
   },
   "地球最後の告白を": {
-    "titleKo": "지구 최후의 고백을",
     "announcement": "https://twitter.com/pj_sekai/status/1417002552948781066",
     "mv2d": {
       "url": "https://youtu.be/jSwRwYVjRg8",
@@ -705,20 +618,16 @@
     }
   },
   "ビターチョコデコレーション": {
-    "titleKo": "비터 초코 데코레이션",
     "announcement": "https://twitter.com/pj_sekai/status/1420264708133642242",
     "mv3d": "https://youtu.be/vnTW9sS-9P4"
   },
   "そうだった！！": {
-    "titleKo": "그랬어!!",
     "announcement": "https://twitter.com/pj_sekai/status/1423525336382279686"
   },
   "カゲロウデイズ": {
-    "titleKo": "아지랑이 데이즈",
     "announcement": "https://twitter.com/pj_sekai/status/1426749303767195648"
   },
   "アイスドロップ": {
-    "titleKo": "아이스 드롭",
     "announcement": "https://twitter.com/pj_sekai/status/1427981917354303495",
     "mv3d": "https://youtu.be/3_HXYLEP7aU",
     "mvExternal": {
@@ -739,7 +648,6 @@
     }
   },
   "チルドレンレコード": {
-    "titleKo": "칠드런 레코드",
     "announcement": "https://twitter.com/pj_sekai/status/1429688575629561858",
     "mv3d": "https://youtu.be/jzecTyD0ljs"
   },
@@ -752,7 +660,6 @@
     }
   },
   "流星のパルス": {
-    "titleKo": "유성의 펄스",
     "announcement": "https://twitter.com/pj_sekai/status/1436209626438012957",
     "mv2d": {
       "url": "https://youtu.be/hZgbqUQI64E",
@@ -765,11 +672,9 @@
     }
   },
   "カトラリー": {
-    "titleKo": "커틀러리",
     "announcement": "https://twitter.com/pj_sekai/status/1440197473725603843"
   },
   "再生": {
-    "titleKo": "재생",
     "announcement": "https://twitter.com/pj_sekai/status/1443201940301570056",
     "mv3d": "https://youtu.be/LLoHF639Jes",
     "mvExternal": {
@@ -778,7 +683,6 @@
     }
   },
   "群青讃歌": {
-    "titleKo": "군청찬가",
     "announcement": "https://twitter.com/pj_sekai/status/1443234679524495361",
     "mv3d": "https://youtu.be/xs4RPTt4J0M",
     "mvExternal": {
@@ -787,16 +691,13 @@
     }
   },
   "炉心融解": {
-    "titleKo": "노심융해",
     "announcement": "https://twitter.com/pj_sekai/status/1443819943477202947"
   },
   "ロストワンの号哭": {
-    "titleKo": "로스트원의 호곡",
     "announcement": "https://twitter.com/pj_sekai/status/1444181545565052934",
     "mv3d": "https://youtu.be/kIvTE89Yj2A"
   },
   "マシンガンポエムドール": {
-    "titleKo": "머신건 포엠 돌",
     "mvExternal": {
       "type": "보컬로이드",
       "url": "https://youtu.be/UgZFpO_Y6qo"
@@ -804,36 +705,28 @@
     "announcement": "https://twitter.com/pj_sekai/status/1444544427452604418"
   },
   "ベノム": {
-    "titleKo": "베놈",
     "announcement": "https://twitter.com/pj_sekai/status/1444908105985257474"
   },
   "拝啓ドッペルゲンガー": {
-    "titleKo": "친애하는 도플갱어",
     "announcement": "https://twitter.com/pj_sekai/status/1445269603773386752"
   },
   "テレキャスタービーボーイ": {
-    "titleKo": "텔레캐스터 비보이",
     "announcement": "https://twitter.com/pj_sekai/status/1445632027538063366"
   },
   "トキヲ・ファンカ": {
-    "titleKo": "토키오 펀카",
     "announcement": "https://twitter.com/pj_sekai/status/1445993621052821504"
   },
   "悪魔の踊り方": {
-    "titleKo": "악마가 춤추는 법",
     "announcement": "https://twitter.com/pj_sekai/status/1446355759973888002",
     "mv3d": "https://youtu.be/lu0AF-JByA8"
   },
   "だれかの心臓になれたなら": {
-    "titleKo": "누군가의 심장이 될 수 있다면",
     "announcement": "https://twitter.com/pj_sekai/status/1446717985750609923"
   },
   "マシュマリー": {
-    "titleKo": "마슈마리",
     "announcement": "https://twitter.com/pj_sekai/status/1447080428607717376"
   },
   "右肩の蝶": {
-    "titleKo": "오른어깨의 나비",
     "announcement": "https://twitter.com/pj_sekai/status/1447444410866692096"
   },
   "ray": {
@@ -854,11 +747,9 @@
     }
   },
   "しっくおぶはうす！": {
-    "titleKo": "식 오브 하우스!",
     "announcement": "https://twitter.com/pj_sekai/status/1451429645975310342"
   },
   "ショウタイム・ルーラー": {
-    "titleKo": "쇼타임 룰러",
     "announcement": "https://twitter.com/pj_sekai/status/1454073998946365450",
     "mv3d": "https://youtu.be/bKKxLK_1ae8",
     "mvExternal": {
@@ -870,7 +761,6 @@
     "announcement": "https://twitter.com/pj_sekai/status/1454328223471341572"
   },
   "ロウワー": {
-    "titleKo": "로워",
     "announcement": "https://twitter.com/pj_sekai/status/1454691421919735811",
     "mv2d": {
       "url": "https://youtu.be/16M9oC-a5bY",
@@ -883,12 +773,9 @@
     }
   },
   "初音天地開闢神話": {
-    "titleKo": "하츠네천지개벽신화",
     "announcement": "https://twitter.com/pj_sekai/status/1456502932413706242"
   },
   "オルターエゴ": {
-    "titleKo": "얼터 에고",
-    "titleEn": "Alter ego",
     "announcement": "https://twitter.com/pj_sekai/status/1458315104244539392"
   },
   "STAGE OF SEKAI": {
@@ -900,13 +787,11 @@
     }
   },
   "からくりピエロ": {
-    "titleKo": "꼭두각시 피에로",
     "announcement": "https://twitter.com/pj_sekai/status/1465200666373427200",
     "mv3d": "https://youtu.be/R3CGPv9oeDk"
   },
   "ワールドワイドワンダー": {
     "titleKo": "월드와이드 완더",
-    "titleEn": "Worldwide Wander",
     "announcement": "https://twitter.com/pj_sekai/status/1469186806180900865",
     "mv2d": {
       "url": "https://youtu.be/aO_ZCaoojh4",
@@ -919,30 +804,22 @@
     }
   },
   "悪ノ娘": {
-    "titleKo": "악의 딸",
     "announcement": "https://twitter.com/pj_sekai/status/1470276366910509062"
   },
   "悪ノ召使": {
-    "titleKo": "악의 하인",
     "announcement": "https://twitter.com/pj_sekai/status/1470636441667776512"
   },
   "去り人達のワルツ": {
-    "titleKo": "떠나는 이들의 왈츠",
     "announcement": "https://twitter.com/pj_sekai/status/1470997989212958722"
   },
   "ラストスコア": {
     "titleKo": "라스트 스코어",
-    "titleEn": "Last Score",
     "announcement": "https://twitter.com/pj_sekai/status/1472811029365399552"
   },
   "フィクサー": {
-    "titleKo": "픽서",
-    "titleEn": "fixer",
     "announcement": "https://twitter.com/pj_sekai/status/1475709054274379777"
   },
   "ミライ": {
-    "titleKo": "미래",
-    "titleEn": "Future",
     "announcement": "https://twitter.com/pj_sekai/status/1476178014174326785",
     "mv2d": {
       "url": "https://youtu.be/X_u5UtcgrKw",
@@ -960,34 +837,23 @@
     "mv3d": "https://youtu.be/51Y8UZr_Xf0"
   },
   "ゴーストルール": {
-    "titleKo": "고스트 룰",
-    "titleEn": "Ghost Rule",
     "announcement": "https://twitter.com/pj_sekai/status/1476434829873152001"
   },
   "ヴィラン": {
-    "titleKo": "빌런",
-    "titleEn": "Villain",
     "announcement": "https://twitter.com/pj_sekai/status/1476801832450408449",
     "mv3d": "https://youtu.be/gQD4GfgIqZA"
   },
   "サンドリヨン 10th Anniversary": {
-    "titleKo": "상드리용 10th Anniversary",
-    "titleEn": "Cendrillon 10th Anniversary",
     "announcement": "https://twitter.com/pj_sekai/status/1477157641394794498"
   },
   "少女レイ": {
-    "titleKo": "소녀 레이",
-    "titleEn": "Ghost Girl",
     "announcement": "https://twitter.com/pj_sekai/status/1477203392812691460",
     "mv3d": "https://youtu.be/NpOR2QwvjPk"
   },
   "ガランド": {
-    "titleKo": "깡통",
-    "titleEn": "Airhead",
     "announcement": "https://twitter.com/pj_sekai/status/1477882419277664256"
   },
   "エンドマークに希望と涙を添えて": {
-    "titleKo": "엔드 마크에 희망과 눈물을 담아서",
     "announcement": "https://twitter.com/pj_sekai/status/1479694355363414016"
   },
   "the EmpErroR": {
@@ -1011,31 +877,24 @@
     "mv2d": "https://youtu.be/M_ijFuoASt0"
   },
   "心拍数♯0822": {
-    "titleKo": "심박수♯0822",
     "announcement": "https://twitter.com/pj_sekai/status/1485493876496678915"
   },
   "うっせぇわ": {
-    "titleKo": "웃세와(시끄러워)",
     "announcement": "https://twitter.com/pj_sekai/status/1488030766067896324"
   },
   "踊": {
-    "titleKo": "춤",
     "announcement": "https://twitter.com/pj_sekai/status/1489480333196406787"
   },
   "君色マリンスノウ": {
-    "titleKo": "너의 색깔 마린 스노우",
     "announcement": "https://twitter.com/pj_sekai/status/1489841466780307459"
   },
   "愛して愛して愛して": {
-    "titleKo": "사랑해줘 사랑해줘 사랑해줘",
     "announcement": "https://twitter.com/pj_sekai/status/1490567185835589632"
   },
   "ジウダス": {
-    "titleKo": "주다스",
     "announcement": "https://twitter.com/pj_sekai/status/1495640814328094725"
   },
   "ナンセンス文学": {
-    "titleKo": "넌센스 문학",
     "announcement": "https://twitter.com/pj_sekai/status/1496727975945175042"
   },
   "心予報": {
@@ -1050,7 +909,6 @@
     "titleKo": "메타모리본"
   },
   "いーあるふぁんくらぶ": {
-    "titleKo": "이얼 팬클럽"
   },
   "雨とペトラ": {
     "titleKo": "비와 페트라"
