@@ -8,6 +8,8 @@ import {
 
 import { KOR_DATE_FORMAT, mapUnitName } from "../lib/utilities.js";
 
+import chalk from "npm:chalk";
+
 function sorter(a, b) {
   const byPublishedAt = a.publishedAt - b.publishedAt;
   if (byPublishedAt !== 0) {
@@ -29,9 +31,13 @@ function stringifyCategories(item) {
           const transliterated = illust
             ? `(${transliterateArtistOrAsIs(illust)})`
             : "";
+          if (!transliterated) {
+            console.warn(chalk.gray(`No 2DMV artist for ${item.title}`));
+          }
           if (url) {
             return `[${url} 2DMV${transliterated}]`;
           }
+          console.warn(chalk.gray(`No 2DMV URL for ${item.title}`));
           return `2DMV${transliterated}`;
         }
         case "mv": {
@@ -39,6 +45,7 @@ function stringifyCategories(item) {
           if (mv3d) {
             return `[${mv3d} 3DMV]`;
           }
+          console.warn(chalk.gray(`No 3DMV URL for ${item.title}`));
           return "3DMV";
         }
       }

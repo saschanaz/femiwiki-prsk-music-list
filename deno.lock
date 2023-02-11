@@ -6,5 +6,16 @@
     "https://deno.land/x/another_cookiejar@v4.0.2/fetch_wrapper.ts": "8c704a3818af63fcb7c50118082e7349c1ea6aef852762a19635cc7b658256ae",
     "https://deno.land/x/another_cookiejar@v4.0.2/header_utils.ts": "232066fc9fa7a0e2cb93570425b00d6594addb6cb57f077349ac19704f237d1e",
     "https://deno.land/x/another_cookiejar@v4.0.2/mod.ts": "eff949014965771f2cd447fe78625a1ad28b59333afa40640f02c0922534d89a"
+  },
+  "npm": {
+    "specifiers": {
+      "chalk": "chalk@5.2.0"
+    },
+    "packages": {
+      "chalk@5.2.0": {
+        "integrity": "sha512-ree3Gqw/nazQAPuJJEy+avdl7QfZMcUvmHIKgEZkGL+xOBzRvup5Hxo6LHuMceSxOabuJLJm5Yp/92R9eMmMvA==",
+        "dependencies": {}
+      }
+    }
   }
 }

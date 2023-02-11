@@ -1,6 +1,6 @@
 {
   "tasks": {
-    "musics": "deno run --allow-read --allow-write generators/musics.js",
+    "musics": "deno run --allow-read --allow-write --allow-env --allow-sys generators/musics.js",
     "events": "deno run --allow-read --allow-write generators/events.js",
     "bonds": "deno run --allow-read --allow-write generators/bonds.js",
     "gachas": "deno run --allow-read --allow-write generators/gachas.js",
