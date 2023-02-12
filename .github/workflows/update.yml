@@ -29,8 +29,10 @@ jobs:
           git pull --rebase origin main
       - name: Rewrite wikitext
         run: |
-          deno run --allow-write --allow-read generators/musics.js
-          deno run --allow-write --allow-read generators/events.js
+          deno task bonds
+          deno task events
+          deno task gachas
+          deno task musics
       - id: git-diff
         name: Check diff on output/
         run: git diff --quiet HEAD output
