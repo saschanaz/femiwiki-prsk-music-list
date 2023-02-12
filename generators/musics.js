@@ -10,6 +10,11 @@ import { KOR_DATE_FORMAT, mapUnitName } from "../lib/utilities.js";
 
 import chalk from "npm:chalk";
 
+/**
+ * @param {import("../lib/types.d.ts").Music} a
+ * @param {import("../lib/types.d.ts").Music} b
+ * @returns
+ */
 function sorter(a, b) {
   const byPublishedAt = a.publishedAt - b.publishedAt;
   if (byPublishedAt !== 0) {
@@ -18,6 +23,10 @@ function sorter(a, b) {
   return a.seq - b.seq;
 }
 
+/**
+ * @param {import("../lib/types.d.ts").Music} item
+ * @returns
+ */
 function stringifyCategories(item) {
   return item.categories
     .map((category) => {
@@ -54,10 +63,19 @@ function stringifyCategories(item) {
     .join(" ");
 }
 
+/**
+ * @param {string} title
+ */
 function linkToMusicPage(title) {
+  // https://en.wikipedia.org/wiki/Wikipedia:Naming_conventions_(technical_restrictions)#Clashes_with_wiki_markup/HTML_syntax
+  title = title.replaceAll("[", "【").replaceAll("]", "】");
   return `[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/${title}|${title}]]`;
 }
 
+/**
+ * @param {string} translated
+ * @param {string} original
+ */
 function maybeLinkToTranslatedTitle(translated, original) {
   if (translated) {
     return linkToMusicPage(translated);
@@ -87,6 +105,9 @@ function formatReleaseDate(item) {
   return formatted;
 }
 
+/**
+ * @param {string[]} tags
+ */
 function getMusicTag(tags) {
   return tags
     .filter((tag) => !["all", "other"].includes(tag))
@@ -106,6 +127,10 @@ function dataKakiroshi(isKakioroshi) {
   return isKakioroshi ? "data-kakioroshi" : "";
 }
 
+/**
+ * @param {import("../lib/types.d.ts").Music} item
+ * @returns
+ */
 function convertAsWikimediaTableRow(item) {
   const wikiable = getWikiableMusicData(item);
   const titleMatchesEnglishConvention = item.title === wikiable.titleEn;
