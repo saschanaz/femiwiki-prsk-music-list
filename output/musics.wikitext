@@ -1129,8 +1129,8 @@
 | style="visibility:hidden"|from Y to Y
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:레오니로고.png|24x24픽셀|alt=레오니]]
 |
-|ジミーサムP
-|ジミーサムP
+|지미섬P
+|지미섬P
 |
 |
 |
@@ -1818,9 +1818,9 @@
 | style="visibility:hidden"|STAGE OF SEKAI
 |[[파일:레오니로고.png|24x24픽셀|alt=레오니]]
 |✔️
-|하리하라 츠바사(하리P)
-|하리하라 츠바사(하리P)
-|타나하시 EDDY 테루아키
+|Harihara Tsubasa (Harry P)
+|Harihara Tsubasa (Harry P)
+|Tanahashi EDDY Teruaki
 |[https://youtu.be/BNdJWYHa_xg 3DMV] 2DMV
 |
 |[https://youtu.be/YVD1RLI7klc 보컬로이드 버전]
@@ -1839,7 +1839,7 @@
 |
 |[https://twitter.com/pj_sekai/status/1465200666373427200 2021년 11월 29일 추가]
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/월드와이드 완더|월드와이드 완더]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/월드와이드 원더|월드와이드 원더]]
 |lang=ja|ワールドワイドワンダー
 ||Worldwide Wander
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:모모점로고.png|24x24픽셀|alt=모모점]]
@@ -1896,9 +1896,9 @@
 ||Last Score
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|세키코미고항
-|세키코미고항
-|세키코미고항
+|세키코미고한
+|세키코미고한
+|세키코미고한
 |
 |
 |
@@ -2034,7 +2034,7 @@
 |
 |[https://twitter.com/pj_sekai/status/1480419132009074688 2022년 1월 10일 추가]
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/방긋^^탐색대의 테마|방긋^^탐색대의 테마]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/빙그레^^조사대의 테마|빙그레^^조사대의 테마]]
 |lang=ja|にっこり^^調査隊のテーマ
 ||Theme of Niccori Survey Team
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
@@ -2047,7 +2047,7 @@
 |[https://youtu.be/C_Fc1x_aeFQ 보컬로이드 버전]
 |[https://twitter.com/pj_sekai/status/1483789300340645890 2022년 1월 19일 추가]
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/토리코로주|토리코로주]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/트리콜로주|트리콜로주]]
 |lang=ja|トリコロージュ
 ||Tricologe
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:니고로고.png|24x24픽셀|alt=니고]]
@@ -2177,7 +2177,7 @@
 |
 |[https://twitter.com/pj_sekai/status/1496727975945175042 2022년 2월 24일 추가]
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/마음 예보|마음 예보]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Heart Forecast|Heart Forecast]]
 |lang=ja|心予報
 ||Heart Forecast
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:모모점로고.png|24x24픽셀|alt=모모점]]
@@ -2190,7 +2190,7 @@
 |
 |[https://twitter.com/pj_sekai/status/1498584396685004801 2022년 3월 2일 추가]
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/우리들 아직 언더그라운드|우리들 아직 언더그라운드]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/We're Still Underground|We're Still Underground]]
 |lang=ja|僕らまだアンダーグラウンド
 ||We're Still Underground
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:레오니로고.png|24x24픽셀|alt=레오니]]
@@ -2242,7 +2242,7 @@
 |
 |2022년 3월 14일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/비와 페트라|비와 페트라]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Rain and Petra|Rain and Petra]]
 |lang=ja|雨とペトラ
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
@@ -2871,9 +2871,9 @@
 | style="visibility:hidden"|Calc.
 |[[파일:레오니로고.png|24x24픽셀|alt=레오니]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|ジミーサムP
-|ジミーサムP
-|ジミーサムP
+|지미섬P
+|지미섬P
+|지미섬P
 |
 |
 |
@@ -3079,9 +3079,9 @@
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:니고로고.png|24x24픽셀|alt=니고]]
 |
-|하리하라 츠바사(하리P)
-|하리하라 츠바사(하리P)
-|타나하시 EDDY 테루아키
+|Harihara Tsubasa (Harry P)
+|Harihara Tsubasa (Harry P)
+|Tanahashi EDDY Teruaki
 |
 |
 |
@@ -3606,6 +3606,19 @@
 |
 |
 |2023년 2월 20일 추가
+|-
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Where shall we go?|Where shall we go?]]
+|lang=ja style="visibility:hidden"|Where shall we go?
+| style="visibility:hidden"|Where shall we go?
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
+|
+|めろくる
+|めろくる
+|めろくる
+|
+|
+|
+|2023년 2월 24일 추가
 |}
 
 === 영문 버전 전용 악곡 ===
