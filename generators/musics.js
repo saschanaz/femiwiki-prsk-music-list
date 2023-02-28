@@ -50,7 +50,9 @@ function stringifyCategories(item) {
             return `[${url} 2DMV]${stringified}`;
           }
           // (null means no public URL exists)
-          if (url === undefined) {
+          if (url === null) {
+            console.warn(chalk.gray(`Skipped 2DMV URL for ${item.title}`));
+          } else {
             console.warn(chalk.gray(`No 2DMV URL for ${item.title}`));
           }
           return `2DMV${stringified}`;
