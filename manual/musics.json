@@ -71,7 +71,12 @@
   },
   "ドクター＝ファンクビート": {
     "announcement": "https://twitter.com/pj_sekai/status/1236982237159022595",
-    "releaseDateOverride": "2020년 3월 9일 (사전공개)"
+    "releaseDateOverride": "2020년 3월 9일 (사전공개)",
+    "mv2d": {
+      "url": "https://youtu.be/t1XM0ECUqTE",
+      "illust": "宇佐崎しろ",
+      "movie": "イクミ"
+    }
   },
   "フラジール": {
     "announcement": "https://twitter.com/pj_sekai/status/1276116804973150209",
