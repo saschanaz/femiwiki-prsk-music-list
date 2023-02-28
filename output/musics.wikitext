@@ -157,7 +157,7 @@
 |yuukiss
 |yuukiss
 |
-|2DMV(anko)
+|2DMV(anko, omu)
 |anko
 |
 |[https://twitter.com/pj_sekai/status/1277799402652852224 2020년 6월 30일 (사전공개)]
@@ -287,7 +287,7 @@
 |사사노마리
 |사사노마리
 |
-|[https://youtu.be/LEEyYKrEvvk 3DMV] [https://youtu.be/n7ZmBBf5-7g 2DMV(스오우)]
+|[https://youtu.be/LEEyYKrEvvk 3DMV] [https://youtu.be/n7ZmBBf5-7g 2DMV(스오우, omu)]
 |스오우
 |
 |[https://twitter.com/pj_sekai/status/1236982237159022595 2020년 3월 9일 (사전공개)]
@@ -417,7 +417,7 @@
 |Dixie Flatline
 |Dixie Flatline
 |
-|[https://youtu.be/esaV1kjzg_Q 2DMV(Rella)]
+|[https://youtu.be/esaV1kjzg_Q 2DMV(Rella, omu)]
 |Rella
 |
 |[https://twitter.com/pj_sekai/status/1312273069457596417 2020년 10월 3일 추가]
@@ -443,7 +443,7 @@
 |칸자키 이오리
 |칸자키 이오리
 |칸자키 이오리
-|[https://youtu.be/F7iqxHOth58 2DMV(산무YYB)]
+|[https://youtu.be/F7iqxHOth58 2DMV(산무YYB, omu)]
 |산무YYB
 |
 |[https://twitter.com/pj_sekai/status/1312997418368081921 2020년 10월 5일 추가]
@@ -521,7 +521,7 @@
 |Mitchie M
 |Mitchie M
 |Mitchie M
-|[https://youtu.be/zAkqd6iw-lo 2DMV(apapico)]
+|[https://youtu.be/zAkqd6iw-lo 2DMV(apapico, omu)]
 |apapico
 |
 |[https://twitter.com/pj_sekai/status/1315171303549140992 2020년 10월 11일 추가]
@@ -547,7 +547,7 @@
 |OSTER project
 |OSTER project
 |OSTER project
-|원곡MV [https://youtu.be/kU4Rth300FM 2DMV(BUZZ)]
+|원곡MV [https://youtu.be/kU4Rth300FM 2DMV(BUZZ, omu)]
 |BUZZ
 |
 |[https://twitter.com/pj_sekai/status/1315896894132944896 2020년 10월 13일 추가]
@@ -573,7 +573,7 @@
 |마후마후
 |마후마후
 |마후마후
-|[https://youtu.be/kNLyqES4fC8 2DMV(모리쿠라 엔)]
+|[https://youtu.be/kNLyqES4fC8 2DMV(모리쿠라 엔, omu)]
 |모리쿠라 엔
 |[https://nico.ms/sm36903498 셀프 커버 버전]
 |[https://twitter.com/pj_sekai/status/1316621387545501698 2020년 10월 15일 추가]
@@ -638,7 +638,7 @@
 |syudou
 |syudou
 |syudou
-|원곡MV [https://youtu.be/J9kD9rYR088 2DMV(루즈키)]
+|원곡MV [https://youtu.be/J9kD9rYR088 2DMV(루즈키, Lye)]
 |루즈키
 |[https://youtu.be/B2llCEKbxwA 보컬로이드 버전]
 |[https://twitter.com/pj_sekai/status/1318433933600595969 2020년 10월 20일 추가]
@@ -703,7 +703,7 @@
 |NayutalieN
 |NayutalieN
 |NayutalieN
-|[https://youtu.be/SKbutknpQ_I 2DMV(BUZZ)]
+|[https://youtu.be/SKbutknpQ_I 2DMV(BUZZ, omu)]
 |BUZZ
 |
 |[https://twitter.com/pj_sekai/status/1329306995367690249 2020년 11월 19일 추가]
@@ -794,7 +794,7 @@
 |OSTER project
 |OSTER project
 |OSTER project
-|[https://youtu.be/EIUO-fPrkSo 2DMV(타마)]
+|[https://youtu.be/EIUO-fPrkSo 2DMV(타마, omu)]
 |타마
 |[https://youtu.be/WztzykQSkgM 보컬로이드 버전]
 |[https://twitter.com/pj_sekai/status/1340541015371915264 2020년 12월 20일 추가]
@@ -885,7 +885,7 @@
 |Crusher P
 |Crusher P
 |
-|[https://youtu.be/4z9Mg8sbFeU 2DMV(시키미)]
+|[https://youtu.be/4z9Mg8sbFeU 2DMV(시키미, omu)]
 |시키미
 |
 |[https://twitter.com/pj_sekai/status/1345249458552934400 2021년 1월 2일 추가]
@@ -937,7 +937,7 @@
 |Orangestar
 |Orangestar
 |Orangestar
-|[https://youtu.be/70ZLvDTonqI 2DMV(아메무라)]
+|[https://youtu.be/70ZLvDTonqI 2DMV(아메무라, omu)]
 |아메무라
 |[https://youtu.be/wvlUWjqGQSA 보컬로이드 버전]
 |[https://twitter.com/pj_sekai/status/1348150344803524612 2021년 1월 10일 추가]
@@ -989,7 +989,7 @@
 |q*Left
 |하치오지P
 |하치오지P
-|[https://youtu.be/ZMbWDpC1N7s 2DMV(Rella)]
+|[https://youtu.be/ZMbWDpC1N7s 2DMV(Rella, omu)]
 |Rella
 |
 |[https://twitter.com/pj_sekai/status/1355760937903419394 2021년 1월 31일 추가]
@@ -1015,7 +1015,7 @@
 |164
 |40mP
 |1640mP
-|[https://youtu.be/NHR3b9v_S0I 3DMV] [https://youtu.be/s1yW2jPJiVE 2DMV(타마)]
+|[https://youtu.be/NHR3b9v_S0I 3DMV] [https://youtu.be/s1yW2jPJiVE 2DMV(타마, 미즈키)]
 |타마
 |
 |[https://twitter.com/pj_sekai/status/1359382755977568256 2021년 2월 10일 추가]
@@ -1080,7 +1080,7 @@
 |YASUHIRO
 |YASUHIRO
 |YASUHIRO
-|[https://youtu.be/1RoDmN9n8xE 2DMV(무라카미 유이치)]
+|[https://youtu.be/1RoDmN9n8xE 2DMV(무라카미 유이치, omu)]
 |무라카미 유이치
 |[https://youtu.be/S84mvlha5Fc 보컬로이드 버전]
 |[https://twitter.com/pj_sekai/status/1365906661789982721 2021년 2월 28일 추가]
@@ -1262,7 +1262,7 @@
 |Ayase
 |Ayase
 |Ayase
-|[https://youtu.be/mfYruS61p48 3DMV] [https://youtu.be/8m1cUgLepmY 2DMV(시즈)]
+|[https://youtu.be/mfYruS61p48 3DMV] [https://youtu.be/8m1cUgLepmY 2DMV(시즈, 미즈키)]
 |시즈
 |[https://youtu.be/EEbWRjavSVw 보컬로이드 버전]
 |[https://twitter.com/pj_sekai/status/1391017885493981186 2021년 5월 8일 추가]
@@ -1288,7 +1288,7 @@
 |Junky
 |Junky
 |Junky
-|[https://youtu.be/miLfbcfdqus 2DMV(ajimita)]
+|[https://youtu.be/miLfbcfdqus 2DMV(ajimita, omu)]
 |ajimita
 |[https://youtu.be/YsVmtXmpGEI 보컬로이드 버전]
 |[https://twitter.com/pj_sekai/status/1395631273725423616 2021년 5월 21일 추가]
@@ -1353,7 +1353,7 @@
 |사사노마리
 |사사노마리
 |사사노마리
-|[https://youtu.be/GTlQhMRHXIg 2DMV(Rella)]
+|[https://youtu.be/GTlQhMRHXIg 2DMV(Rella, omu)]
 |Rella
 |
 |[https://twitter.com/pj_sekai/status/1406856694869610496 2021년 6월 21일 추가]
@@ -1392,7 +1392,7 @@
 |폴리스 피카딜리
 |폴리스 피카딜리
 |폴리스 피카딜리
-|[https://youtu.be/DaWbq6KeJq4 2DMV(오구치)]
+|[https://youtu.be/DaWbq6KeJq4 2DMV(오구치, omu)]
 |오구치
 |[https://youtu.be/Rcc_BreWEMI 보컬로이드 버전]
 |[https://twitter.com/pj_sekai/status/1413406491600584704 2021년 7월 9일 추가]
@@ -1483,7 +1483,7 @@
 |kinoshita
 |kinoshita
 |kinoshita
-|[https://youtu.be/JoM4JGqQyCU 2DMV(우자키 우소)]
+|[https://youtu.be/JoM4JGqQyCU 2DMV(우자키 우소, 노라이누)]
 |우자키 우소
 |[https://youtu.be/Y-QhzXC9NbI 보컬로이드 버전]
 |[https://twitter.com/pj_sekai/status/1428599739755368456 2021년 8월 20일 추가]
@@ -1509,7 +1509,7 @@
 |이토 켄토
 |이토 켄토
 |OSTER project
-|[https://youtu.be/fzRWpcvPJYo 2DMV(카모가와)]
+|[https://youtu.be/fzRWpcvPJYo 2DMV(카모가와, 이쿠미)]
 |카모가와
 |
 |[https://twitter.com/pj_sekai/status/1432947581034766338 2021년 9월 1일 추가]
@@ -1522,7 +1522,7 @@
 |*Luna
 |*Luna
 |*Luna
-|[https://youtu.be/hZgbqUQI64E 2DMV(토미오카 지로)]
+|[https://youtu.be/hZgbqUQI64E 2DMV(토미오카 지로, omu)]
 |토미오카 지로
 |[https://youtu.be/8Zds1FvEtKw 보컬로이드 버전]
 |[https://twitter.com/pj_sekai/status/1436209626438012957 2021년 9월 10일 추가]
@@ -1717,7 +1717,7 @@
 |藤原基央
 |藤原基央
 |
-|[https://youtu.be/S-okMR4YUlo 3DMV] [https://youtu.be/YkP0JMByjRM 2DMV(사키노지.)]
+|[https://youtu.be/S-okMR4YUlo 3DMV] [https://youtu.be/YkP0JMByjRM 2DMV(사키노지., 이쿠미)]
 |사키노지.
 |
 |[https://twitter.com/pj_sekai/status/1447805282373890051 2021년 10월 12일 추가]
@@ -1730,7 +1730,7 @@
 |藤原基央
 |藤原基央
 |
-|[https://youtu.be/B1nUc7LfZYA 2DMV(LAM)]
+|[https://youtu.be/B1nUc7LfZYA 2DMV(LAM, omu)]
 |LAM
 |
 |[https://twitter.com/pj_sekai/status/1448167715122802688 2021년 10월 13일 추가]
@@ -1782,7 +1782,7 @@
 |누유리
 |누유리
 |누유리
-|[https://youtu.be/16M9oC-a5bY 2DMV(헤치마)]
+|[https://youtu.be/16M9oC-a5bY 2DMV(헤치마, omu)]
 |헤치마
 |[https://youtu.be/3sEptl-psU0 보컬로이드 버전]
 |[https://twitter.com/pj_sekai/status/1454691421919735811 2021년 10월 31일 추가]
@@ -1847,7 +1847,7 @@
 |TOKOTOKO
 |TOKOTOKO
 |TOKOTOKO
-|[https://youtu.be/aO_ZCaoojh4 2DMV(Rella)]
+|[https://youtu.be/aO_ZCaoojh4 2DMV(Rella, omu)]
 |Rella
 |[https://youtu.be/6NdOqVypgCM 보컬로이드 버전]
 |[https://twitter.com/pj_sekai/status/1469186806180900865 2021년 12월 10일 추가]
@@ -1925,7 +1925,7 @@
 |uki3
 |uki3
 |uki3
-|[https://youtu.be/7ub8n1J8ruY 3DMV] [https://youtu.be/X_u5UtcgrKw 2DMV(BUZZ)]
+|[https://youtu.be/7ub8n1J8ruY 3DMV] [https://youtu.be/X_u5UtcgrKw 2DMV(BUZZ, omu)]
 |BUZZ
 |[https://nico.ms/sm39790647 보컬로이드 버전]
 |[https://twitter.com/pj_sekai/status/1476178014174326785 2021년 12월 29일 추가]
@@ -3199,7 +3199,7 @@
 |HoneyWorks
 |HoneyWorks
 |HoneyWorks
-|[https://youtu.be/jfO8TPREjco 2DMV(토미오카 지로)]
+|[https://youtu.be/jfO8TPREjco 2DMV(토미오카 지로, omu)]
 |토미오카 지로
 |
 |2022년 11월 26일 추가

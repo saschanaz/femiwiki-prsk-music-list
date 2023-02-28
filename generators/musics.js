@@ -36,18 +36,23 @@ function stringifyCategories(item) {
         case "original":
           return "원곡MV";
         case "mv_2d": {
-          const { url, illust } = manualMetadata[item.title]?.mv2d || {};
-          const transliterated = illust
-            ? `(${transliterateArtistOrAsIs(illust)})`
-            : "";
-          if (!transliterated) {
-            console.warn(chalk.gray(`No 2DMV artist for ${item.title}`));
+          const { url, illust, movie } = manualMetadata[item.title]?.mv2d || {};
+          const artists = [];
+          if (illust) {
+            artists.push(transliterateArtistOrAsIs(illust));
           }
+          if (movie) {
+            artists.push(transliterateArtistOrAsIs(movie));
+          }
+          if (!artists.length) {
+            console.warn(chalk.gray(`No 2DMV artists for ${item.title}`));
+          }
+          const stringified = artists.length ? `(${artists.join(", ")})` : "";
           if (url) {
-            return `[${url} 2DMV${transliterated}]`;
+            return `[${url} 2DMV${stringified}]`;
           }
           console.warn(chalk.gray(`No 2DMV URL for ${item.title}`));
-          return `2DMV${transliterated}`;
+          return `2DMV${stringified}`;
         }
         case "mv": {
           const mv3d = manualMetadata[item.title]?.mv3d;
