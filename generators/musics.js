@@ -49,7 +49,10 @@ function stringifyCategories(item) {
           if (url) {
             return `[${url} 2DMV]${stringified}`;
           }
-          console.warn(chalk.gray(`No 2DMV URL for ${item.title}`));
+          // (null means no public URL exists)
+          if (url === undefined) {
+            console.warn(chalk.gray(`No 2DMV URL for ${item.title}`));
+          }
           return `2DMV${stringified}`;
         }
         case "mv": {
