@@ -37,6 +37,11 @@ jobs:
         name: Check diff on output/
         run: git diff --quiet HEAD output
         continue-on-error: true
+      - name: Submit wikitext
+        if: ${{ steps.git-diff.outcome == 'failure' }}
+        env:
+          MW_ACCESS_TOKEN: ${{ secrets.MW_ACCESS_TOKEN }}
+        run: deno run --allow-read --allow-net --allow-env wiki.js
       - name: Commit files
         if: ${{ steps.git-diff.outcome == 'failure' }}
         run: |
@@ -45,8 +50,3 @@ jobs:
           git add -A
           git diff-index --quiet HEAD || git commit -m "Update smdd"
           git push
-      - name: Submit wikitext
-        if: ${{ steps.git-diff.outcome == 'failure' }}
-        env:
-          MW_ACCESS_TOKEN: ${{ secrets.MW_ACCESS_TOKEN }}
-        run: deno run --allow-read --allow-net --allow-env wiki.js
