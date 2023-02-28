@@ -1,14 +1,12 @@
 import musics from "../sekai-master-db-diff/musics.json" assert { type: "json" };
 import musicsEn from "../sekai-master-db-en-diff/musics.json" assert { type: "json" };
 import manualMetadata from "../manual/musics.json" assert { type: "json" };
-import {
-  transliterateArtistOrAsIs,
-  getWikiableMusicData,
-} from "../lib/musics.js";
+import { getWikiableMusicData } from "../lib/musics.js";
 
 import { KOR_DATE_FORMAT, mapUnitName } from "../lib/utilities.js";
 
 import chalk from "npm:chalk";
+import { wikifyArtist } from "../lib/artists.js";
 
 /**
  * @param {import("../lib/types.d.ts").Music} a
@@ -39,17 +37,17 @@ function stringifyCategories(item) {
           const { url, illust, movie } = manualMetadata[item.title]?.mv2d || {};
           const artists = [];
           if (illust) {
-            artists.push(transliterateArtistOrAsIs(illust));
+            artists.push(wikifyArtist(illust));
           }
           if (movie) {
-            artists.push(transliterateArtistOrAsIs(movie));
+            artists.push(wikifyArtist(movie));
           }
           if (!artists.length) {
             console.warn(chalk.gray(`No 2DMV artists for ${item.title}`));
           }
           const stringified = artists.length ? `(${artists.join(", ")})` : "";
           if (url) {
-            return `[${url} 2DMV${stringified}]`;
+            return `[${url} 2DMV]${stringified}`;
           }
           console.warn(chalk.gray(`No 2DMV URL for ${item.title}`));
           return `2DMV${stringified}`;
@@ -157,7 +155,7 @@ function convertAsWikimediaTableRow(item) {
     `|${wikiable.composer}\n` + // 작곡
     `|${wikiable.arranger}\n` + // 편곡
     `|${stringifyCategories(item)}\n` +
-    `|${transliterateArtistOrAsIs(
+    `|${wikifyArtist(
       manualMetadata[item.title]?.mv2d?.illust || ""
     )}\n` + // 일러스트
     `|${linkYouTube(manualMetadata[item.title]?.mvExternal)}\n` + // 게임 외 버전
