@@ -8,7 +8,7 @@ async function getConfig() {
       .default;
   } catch {
     return {
-      access_token: Deno.env.get("MW_ACCESS_TOKEN"),
+      access_token: Deno.env.get("FEMIWIKI_ACCESS_TOKEN"),
     };
   }
 }
