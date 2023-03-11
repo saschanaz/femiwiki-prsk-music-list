@@ -1639,7 +1639,7 @@
 |스리이
 |스리이
 |스리이
-|원곡MV
+|원곡MV 2DMV
 |
 |
 |[https://twitter.com/pj_sekai/status/1445632027538063366 2021년 10월 6일 추가]
@@ -2120,7 +2120,7 @@
 |Kikuo
 |Kikuo
 |Kikuo
-|3DMV
+|3DMV 2DMV
 |
 |
 |[https://twitter.com/pj_sekai/status/1490567185835589632 2022년 2월 7일 추가]
@@ -3697,6 +3697,32 @@
 |
 |
 |2023년 3월 7일 추가
+|-
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/39|39]]
+|lang=ja style="visibility:hidden"|39
+| style="visibility:hidden"|39
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
+|
+|DECO*27
+|sasakure.UK
+|sasakure.UK＆DECO*27
+|원곡MV
+|
+|
+|2023년 3월 9일 추가
+|-
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Mr. Showtime|Mr. Showtime]]
+|lang=ja style="visibility:hidden"|Mr. Showtime
+| style="visibility:hidden"|Mr. Showtime
+|[[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
+|✔️
+|히토시즈쿠×야마△
+|히토시즈쿠×야마△
+|히토시즈쿠×야마△
+|2DMV
+|
+|
+|2023년 3월 11일 추가
 |}
 
 === 영문 버전 전용 악곡 ===
@@ -3714,19 +3740,6 @@
 !2DMV 일러스트
 !게임 외 MV
 !추가일
-|-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Highlight|Highlight]]
-|lang=ja style="visibility:hidden"|Highlight
-| style="visibility:hidden"|Highlight
-|
-|
-|KIRA
-|KIRA
-|KIRA
-|원곡MV
-|
-|
-|2022년 9월 1일 추가
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Music Like Magic!|Music Like Magic!]]
 |lang=ja style="visibility:hidden"|Music Like Magic!
