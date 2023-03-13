@@ -4,12 +4,23 @@ import { WikiActionClient } from "./lib/wikiapi.js";
 import { getWikiableMusicData } from "./lib/musics.js";
 
 async function getConfig() {
-  return (await import("./config.json", { assert: { type: "json" } })).default;
+  try {
+    return (await import("./config.json", { assert: { type: "json" } }))
+      .default;
+  } catch {
+    return {
+      access_token: Deno.env.get("FEMIWIKI_ACCESS_TOKEN"),
+    };
+  }
 }
 
 const config = await getConfig();
-const client = new WikiActionClient("https://femiwiki.com/w/api.php");
-await client.login("사샤나즈", config.lgname, config.lgpassword);
+const client = new WikiActionClient(
+  "https://femiwiki.com/w/api.php",
+  config.access_token
+);
+
+await client.getCsrf();
 
 // const result = await client.request("wbgetentities", {
 //   ids: "Q145",
@@ -190,17 +201,18 @@ function createWikibaseData(music) {
       createWikibaseTimeProperty("P20", new Date(music.publishedAt)),
     ],
 
-    ...(wikiable.titleKo
-      ? {
-          sitelinks: {
-            femiwiki: {
-              site: "femiwiki",
-              title: `프로젝트 세카이 컬러풀 스테이지! feat. 하츠네 미쿠/악곡/${wikiable.titleKo}`,
-              badges: [],
-            },
-          },
-        }
-      : {}),
+    // XXX: causes wikibase-api-no-external-page error 🤔
+    // ...(wikiable.titleKo
+    //   ? {
+    //       sitelinks: {
+    //         femiwiki: {
+    //           site: "femiwiki",
+    //           title: `프로젝트 세카이 컬러풀 스테이지! feat. 하츠네 미쿠/악곡/${wikiable.titleKo}`,
+    //           badges: [],
+    //         },
+    //       },
+    //     }
+    //   : {}),
 
     labels: {
       ja: {
@@ -231,7 +243,7 @@ for (const music of musics) {
   if (music.id !== 116) {
     continue; // for now
   }
-  const result = await client.request("wbeditentity", {
+  const result = await client.requestAction("wbeditentity", {
     id: "Q145",
     // new: "item",
     data: JSON.stringify(createWikibaseData(music)),
@@ -239,6 +251,7 @@ for (const music of musics) {
   });
   console.log(JSON.stringify(result, null, 2));
 }
+
 // const result = musics
 //   .map(createWikibaseData)
 //   .map((d) => JSON.stringify(d, null, 2))
