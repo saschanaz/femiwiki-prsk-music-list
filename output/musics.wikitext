@@ -1834,7 +1834,7 @@
 |40mP
 |40mP
 |40mP
-|[https://youtu.be/R3CGPv9oeDk 3DMV]
+|[https://youtu.be/R3CGPv9oeDk 3DMV] 2DMV
 |
 |
 |[https://twitter.com/pj_sekai/status/1465200666373427200 2021년 11월 29일 추가]
@@ -2268,53 +2268,53 @@
 |
 |2022년 3월 28일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/마트료시카|마트료시카]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/MATORYOSHKA|MATORYOSHKA]]
 |lang=ja|マトリョシカ
 ||MATORYOSHKA
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|하치
-|하치
-|하치
+|HACHI
+|HACHI
+|HACHI
 |원곡MV
 |
 |
 |2022년 3월 30일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/도넛 홀|도넛 홀]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/DONUT HOLE|DONUT HOLE]]
 |lang=ja|ドーナツホール
 ||DONUT HOLE
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|하치
-|하치
-|하치
+|HACHI
+|HACHI
+|HACHI
 |원곡MV
 |
 |
 |2022년 3월 31일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/모래의 행성|모래의 행성]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Suna No Wakusei|Suna No Wakusei]]
 |lang=ja|砂の惑星
 ||DUNE
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|하치
-|하치
-|하치
+|HACHI
+|HACHI
+|HACHI
 |원곡MV
 |
 |
 |2022년 4월 1일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/루카루카★나이트 피버|루카루카★나이트 피버]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Luka Luka★Night Fever|Luka Luka★Night Fever]]
 |lang=ja|ルカルカ★ナイトフィーバー
 ||Luka Luka★Night Fever
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|SAM(samfree)
-|SAM(samfree)
-|SAM(samfree)
+|SAM（samfree）
+|SAM（samfree）
+|SAM（samfree）
 |
 |
 |
@@ -2333,7 +2333,7 @@
 |
 |2022년 4월 3일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/천년의 독주가|천년의 독주가]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Thousand Year Solo |Thousand Year Solo ]]
 |lang=ja|千年の独奏歌
 ||Thousand Year Solo
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
@@ -2541,14 +2541,14 @@
 |
 |2022년 5월 20일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/나팔꽃 질 적에|나팔꽃 질 적에]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/나팔꽃 질 무렵에|나팔꽃 질 무렵에]]
 |lang=ja|アサガオの散る頃に
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:레오니로고.png|24x24픽셀|alt=레오니]]
 |
-|푸스(from츠유)
-|푸스(from츠유)
-|푸스(from츠유)
+|푸스(from 츠유)
+|푸스(from 츠유)
+|푸스(from 츠유)
 |원곡MV
 |
 |
@@ -2614,7 +2614,7 @@
 |Chinozo
 |Chinozo
 |Chinozo
-|
+|2DMV
 |
 |
 |2022년 6월 13일 추가
@@ -3066,9 +3066,9 @@
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
 |✔️
-|푸스(from츠유)
-|푸스(from츠유)
-|푸스(from츠유)
+|푸스(from 츠유)
+|푸스(from 츠유)
+|푸스(from 츠유)
 |2DMV
 |
 |
@@ -3521,9 +3521,9 @@
 | style="visibility:hidden"|Copycat
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|CircusP
-|CircusP
-|CircusP
+|Circus-P
+|Circus-P
+|Circus-P
 |원곡MV
 |
 |
@@ -3788,6 +3788,19 @@
 |
 |
 |2023년 3월 28일 추가
+|-
+||トラッシュ・アンド・トラッシュ！
+|lang=ja|トラッシュ・アンド・トラッシュ！
+||
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
+|
+|와다 타케아키(쿠라게P)
+|와다 타케아키(쿠라게P)
+|와다 타케아키(쿠라게P)
+|원곡MV
+|
+|
+|2023년 3월 30일 추가
 |}
 
 === 영문 버전 전용 악곡 ===
@@ -3805,19 +3818,6 @@
 !2DMV 일러스트
 !게임 외 MV
 !추가일
-|-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Music Like Magic!|Music Like Magic!]]
-|lang=ja style="visibility:hidden"|Music Like Magic!
-| style="visibility:hidden"|Music Like Magic!
-|
-|
-|OSTER project
-|OSTER project
-|OSTER project
-|원곡MV
-|
-|
-|2022년 12월 19일 추가
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Sharing The World|Sharing The World]]
 |lang=ja style="visibility:hidden"|Sharing The World
