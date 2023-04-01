@@ -3814,6 +3814,32 @@
 |
 |
 |2023년 3월 31일 추가
+|-
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Be The MUSIC!|Be The MUSIC!]]
+|lang=ja style="visibility:hidden"|Be The MUSIC!
+| style="visibility:hidden"|Be The MUSIC!
+|
+|✔️
+|[https://www.nicovideo.jp/user/52186396/mylist/56280325 kinoshita]
+|[https://www.nicovideo.jp/user/52186396/mylist/56280325 kinoshita]
+|[https://www.nicovideo.jp/user/52186396/mylist/56280325 kinoshita]
+|
+|
+|
+|2023년 4월 1일 추가
+|-
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/METEOR|METEOR]]
+|lang=ja style="visibility:hidden"|METEOR
+| style="visibility:hidden"|METEOR
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
+|
+|DIVELA
+|DIVELA
+|DIVELA
+|
+|
+|
+|2023년 4월 1일 추가
 |}
 
 === 영문 버전 전용 악곡 ===
