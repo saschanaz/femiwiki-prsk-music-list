@@ -3030,7 +3030,7 @@
 |Orangestar
 |Orangestar
 |
-|3DMV
+|3DMV 2DMV
 |
 |
 |2022년 10월 10일 추가
@@ -3905,6 +3905,19 @@
 |
 |
 |2023년 4월 10일 추가
+|-
+|data-kakioroshi|相生
+|lang=ja|相生
+||
+|[[파일:레오니로고.png|24x24픽셀|alt=레오니]]
+|✔️
+|やいり
+|やいり
+|やいり
+|2DMV
+|
+|
+|2023년 4월 11일 추가
 |}
 
 === 영문 버전 전용 악곡 ===
@@ -3935,6 +3948,19 @@
 |
 |
 |2023년 2월 13일 추가
+|-
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Decade|Decade]]
+|lang=ja style="visibility:hidden"|Decade
+| style="visibility:hidden"|Decade
+|
+|
+|Dixie Flatline
+|Dixie Flatline
+|Dixie Flatline
+|
+|
+|
+|2023년 4월 11일 추가
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Blue Star|Blue Star]]
 |lang=ja style="visibility:hidden"|Blue Star
