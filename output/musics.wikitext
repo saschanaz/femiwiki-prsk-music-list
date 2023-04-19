@@ -2216,7 +2216,7 @@
 |
 |[https://twitter.com/ColorfulStageEN/status/1474500170973085698 2022년 3월 9일 추가]
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/메타모리본|메타모리본]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Metamo Re:born|Metamo Re:born]]
 |lang=ja|メタモリボン
 ||Metamo Re:born
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:모모점로고.png|24x24픽셀|alt=모모점]]
@@ -2255,7 +2255,7 @@
 |
 |2022년 3월 22일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/노마드|노마드]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Nomad|Nomad]]
 |lang=ja|ノマド
 ||Nomad
 |[[파일:니고로고.png|24x24픽셀|alt=니고]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
@@ -2351,9 +2351,9 @@
 | style="visibility:hidden"|88☆彡
 |[[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |✔️
-|마라시
-|마라시, 호리에 쇼타(kemu)
-|Shota Horie(kemu)
+|marasy
+|marasy、shota horie(kemu)
+|shota horie(kemu)
 |2DMV
 |
 |
@@ -2398,20 +2398,20 @@
 |
 |2022년 4월 25일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/오더메이드|오더메이드]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/オーダーメイド|オーダーメイド]]
 |lang=ja|オーダーメイド
 ||Made to Order
 |[[파일:레오니로고.png|24x24픽셀|alt=레오니]]
 |✔️
-|카사무라 토타(LIVE LAB.)
-|카사무라 토타(LIVE LAB.)
-|무라타 유이치(LIVE LAB.)
+|傘村トータ（LIVE LAB.）
+|傘村トータ（LIVE LAB.）
+|村田祐一（LIVE LAB.）
 |3DMV
 |
 |
 |2022년 4월 28일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/아이덴티티|아이덴티티]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Identity|Identity]]
 |lang=ja|アイデンティティ
 ||Identity
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
@@ -2424,33 +2424,33 @@
 |
 |2022년 5월 1일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/푸른 물감|푸른 물감]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/blue paint|blue paint]]
 |lang=ja|青色絵具
 ||blue paint
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|쿠지라
-|쿠지라
-|쿠지라
+|Whale Don't Sleep
+|Whale Don't Sleep
+|Whale Don't Sleep
 |2DMV
 |
 |
 |2022년 5월 2일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/코스모스파이스|코스모스파이스]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Cosmospice|Cosmospice]]
 |lang=ja|コスモスパイス
 ||Cosmospice
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|피노키오피
-|피노키오피
-|피노키오피
+|PinocchioP
+|PinocchioP
+|PinocchioP
 |2DMV
 |
 |
 |2022년 5월 3일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/도쿠가와 컵누들 금지령|도쿠가와 컵누들 금지령]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Tokugawa Cupnoodle Prohibition|Tokugawa Cupnoodle Prohibition]]
 |lang=ja|徳川カップヌードル禁止令
 ||Tokugawa Cupnoodle Prohibition
 |
@@ -2463,7 +2463,7 @@
 |
 |2022년 5월 4일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/샐러맨더|샐러맨더]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Salamander|Salamander]]
 |lang=ja|サラマンダー
 ||Salamander
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
@@ -2489,7 +2489,7 @@
 |
 |2022년 5월 8일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/블랙★록 슈터|블랙★록 슈터]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Black★Rock Shooter|Black★Rock Shooter]]
 |lang=ja|ブラック★ロックシューター
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
@@ -2580,14 +2580,14 @@
 |
 |2022년 5월 31일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/아훔의 비츠|아훔의 비츠]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Aun no Beats|Aun no Beats]]
 |lang=ja|阿吽のビーツ
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |
-|하뉴 마이고
-|하뉴 마이고
-|하뉴 마이고
+|Maigo Hanyuu
+|Maigo Hanyuu
+|Maigo Hanyuu
 |원곡MV
 |
 |
@@ -2619,7 +2619,7 @@
 |
 |2022년 6월 13일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/뱀파이어|뱀파이어]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/The Vampire|The Vampire]]
 |lang=ja|ヴァンパイア
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:모모점로고.png|24x24픽셀|alt=모모점]]
@@ -2632,7 +2632,7 @@
 |
 |2022년 6월 20일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/미완성찬가|미완성찬가]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/미완성 찬가|미완성 찬가]]
 |lang=ja|未完成讃歌
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
@@ -2658,14 +2658,14 @@
 |
 |2022년 6월 28일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/뇌장작렬 걸|뇌장작렬 걸]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Brain Fluid Explosion Girl|Brain Fluid Explosion Girl]]
 |lang=ja|脳漿炸裂ガール
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|레루리리
-|레루리리
-|레루리리
+|rerulili
+|rerulili
+|rerulili
 |원곡MV
 |
 |
@@ -2905,7 +2905,7 @@
 |
 |2022년 9월 30일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/천성의 약함|천성의 약함]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Amanojaku|Amanojaku]]
 |lang=ja|天ノ弱
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:레오니로고.png|24x24픽셀|alt=레오니]]
@@ -2918,7 +2918,7 @@
 |
 |2022년 10월 1일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/언해피 리프레인|언해피 리프레인]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Unhappy Refrain|Unhappy Refrain]]
 |lang=ja|アンハッピーリフレイン
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
@@ -2931,20 +2931,20 @@
 |
 |2022년 10월 2일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/포니|포니]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/phony|phony]]
 |lang=ja|フォニイ
 ||
 |[[파일:니고로고.png|24x24픽셀|alt=니고]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|츠키미
-|츠키미
-|츠키미
+|Tsumiki
+|Tsumiki
+|Tsumiki
 |
 |
 |
 |2022년 10월 3일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/더블 래리엇|더블 래리엇]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/더블 래리어트|더블 래리어트]]
 |lang=ja|ダブルラリアット
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
@@ -2957,7 +2957,7 @@
 |
 |2022년 10월 4일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/인비지블|인비지블]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Invisible|Invisible]]
 |lang=ja|インビジブル
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
@@ -2970,14 +2970,14 @@
 |
 |2022년 10월 5일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/에고 록|에고 록]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Ego rock|Ego rock]]
 |lang=ja|エゴロック
 ||
 |[[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|스리이
-|스리이
-|스리이
+|Three
+|Three
+|Three
 |3DMV
 |
 |
@@ -2988,15 +2988,15 @@
 | style="visibility:hidden"|Bad ∞ End ∞ Night
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|히토시즈쿠×야마△
-|히토시즈쿠×야마△
+|Hitoshizuku×Yama△
+|Hitoshizuku×Yama△
 |
 |원곡MV
 |
 |
 |2022년 10월 7일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/토리노코 시티|토리노코 시티]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Torinokocity|Torinokocity]]
 |lang=ja|トリノコシティ
 ||
 |[[파일:모모점로고.png|24x24픽셀|alt=모모점]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
@@ -3009,14 +3009,14 @@
 |
 |2022년 10월 8일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/저희는 행복안심위원회입니다.|저희는 행복안심위원회입니다.]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/This is the Happiness and Peace of Mind Committee|This is the Happiness and Peace of Mind Committee]]
 |lang=ja|こちら、幸福安心委員会です。
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|토리이히츠지
-|우타타P
-|우타타P
+|Tory Hitsuji
+|UtataP
+|UtataP
 |
 |
 |
@@ -3035,7 +3035,7 @@
 |
 |2022년 10월 10일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/ÅMARA(대미래전뇌)|ÅMARA(대미래전뇌)]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/ÅMARA(The Great Intelligence)|ÅMARA(The Great Intelligence)]]
 |lang=ja|ÅMARA(大未来電脳)
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
@@ -3157,8 +3157,8 @@
 ||
 |[[파일:니고로고.png|24x24픽셀|alt=니고]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |✔️
-|레루리리
-|레루리리
+|rerulili
+|rerulili
 |tepe
 |2DMV
 |
@@ -3191,7 +3191,7 @@
 |
 |2022년 11월 25일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/후레이|후레이]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Frey|Frey]]
 |lang=ja|フレー
 ||
 |[[파일:레오니로고.png|24x24픽셀|alt=레오니]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
@@ -3235,9 +3235,9 @@
 ||
 |[[파일:니고로고.png|24x24픽셀|alt=니고]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|피노키오피
-|피노키오피
-|피노키오피
+|PinocchioP
+|PinocchioP
+|PinocchioP
 |3DMV
 |
 |
@@ -3300,9 +3300,9 @@
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|피노키오피
-|피노키오피
-|피노키오피
+|PinocchioP
+|PinocchioP
+|PinocchioP
 |
 |
 |
@@ -3482,8 +3482,8 @@
 | style="visibility:hidden"|SnowMix♪
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|마라시
-|마라시
+|marasy
+|marasy
 |KOUICHI
 |원곡MV
 |
@@ -3716,9 +3716,9 @@
 | style="visibility:hidden"|Mr. Showtime
 |[[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
 |✔️
-|히토시즈쿠×야마△
-|히토시즈쿠×야마△
-|히토시즈쿠×야마△
+|Hitoshizuku×Yama△
+|Hitoshizuku×Yama△
+|Hitoshizuku×Yama△
 |2DMV
 |
 |
@@ -3807,9 +3807,9 @@
 | style="visibility:hidden"|Vampire's ∞ pathoS
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|히토시즈쿠×야마△
-|히토시즈쿠×야마△
-|히토시즈쿠×야마△
+|Hitoshizuku×Yama△
+|Hitoshizuku×Yama△
+|Hitoshizuku×Yama△
 |원곡MV
 |
 |
