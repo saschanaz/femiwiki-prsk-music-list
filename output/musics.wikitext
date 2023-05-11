@@ -4079,19 +4079,6 @@
 !게임 외 MV
 !추가일
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Sharing The World|Sharing The World]]
-|lang=ja style="visibility:hidden"|Sharing The World
-| style="visibility:hidden"|Sharing The World
-|
-|
-|BIGHEAD
-|BIGHEAD
-|Kei Suzuki/BIGHEAD
-|
-|
-|
-|2023년 2월 13일 추가
-|-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Decade|Decade]]
 |lang=ja style="visibility:hidden"|Decade
 | style="visibility:hidden"|Decade
