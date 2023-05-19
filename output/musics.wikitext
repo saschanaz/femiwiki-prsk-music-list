@@ -781,7 +781,7 @@
 |koyori
 |koyori
 |koyori
-|[https://youtu.be/luujC_Y4Wsw 3DMV]
+|[https://youtu.be/luujC_Y4Wsw 3DMV] 2DMV
 |
 |
 |[https://twitter.com/pj_sekai/status/1338364369793503233 2020년 12월 14일 추가]
@@ -4087,6 +4087,19 @@
 |
 |
 |2023년 5월 15일 추가
+|-
+||シャンティ
+|lang=ja|シャンティ
+||
+|[[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
+|
+|wotaku
+|wotaku
+|
+|원곡MV
+|
+|
+|2023년 5월 19일 추가
 |}
 
 === 영문 버전 전용 악곡 ===
@@ -4117,17 +4130,4 @@
 |
 |
 |2023년 4월 11일 추가
-|-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Blue Star|Blue Star]]
-|lang=ja style="visibility:hidden"|Blue Star
-| style="visibility:hidden"|Blue Star
-|
-|
-|Hachioji P
-|Hachioji P
-|Hachioji P
-|원곡MV
-|
-|
-|2023년 3월 10일 추가
 |}</onlyinclude>
