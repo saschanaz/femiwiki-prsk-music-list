@@ -1691,7 +1691,7 @@
 |MIMI
 |MIMI
 |MIMI
-|
+|2DMV
 |
 |
 |[https://twitter.com/pj_sekai/status/1447080428607717376 2021년 10월 10일 추가]
@@ -2595,7 +2595,7 @@
 |-
 |data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/버그|버그]]
 |lang=ja|バグ
-||
+||bug
 |[[파일:니고로고.png|24x24픽셀|alt=니고]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |✔️
 |Kairiki bear
@@ -2608,7 +2608,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/굿바이 선언|굿바이 선언]]
 |lang=ja|グッバイ宣言
-||
+||Goodbye Declaration
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
 |
 |Chinozo
@@ -2621,7 +2621,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/The Vampire|The Vampire]]
 |lang=ja|ヴァンパイア
-||
+||The Vampire
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:모모점로고.png|24x24픽셀|alt=모모점]]
 |
 |DECO*27
@@ -2660,7 +2660,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Brain Fluid Explosion Girl|Brain Fluid Explosion Girl]]
 |lang=ja|脳漿炸裂ガール
-||
+||Brain Fluid Explosion Girl
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
 |rerulili
@@ -2673,7 +2673,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/우리들의 16bit 전쟁|우리들의 16bit 전쟁]]
 |lang=ja|ぼくらの16bit戦争
-||
+||Our 16bit Wars
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
 |sasakure.UK
@@ -2686,7 +2686,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/메류|메류]]
 |lang=ja|メリュー
-||
+||Meru
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:니고로고.png|24x24픽셀|alt=니고]]
 |
 |n-buna
