@@ -2398,14 +2398,14 @@
 |
 |2022년 4월 25일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/オーダーメイド|オーダーメイド]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Made to Order|Made to Order]]
 |lang=ja|オーダーメイド
 ||Made to Order
 |[[파일:레오니로고.png|24x24픽셀|alt=레오니]]
 |✔️
-|傘村トータ（LIVE LAB.）
-|傘村トータ（LIVE LAB.）
-|村田祐一（LIVE LAB.）
+|Tota Kasamura (LIVE LAB.)
+|Tota Kasamura (LIVE LAB.)
+|Yuichi Murata (LIVE LAB.)
 |3DMV
 |
 |
@@ -2476,14 +2476,14 @@
 |
 |2022년 5월 5일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/이프|이프]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/IF|IF]]
 |lang=ja|イフ
 ||IF
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:모모점로고.png|24x24픽셀|alt=모모점]]
 |✔️
-|유리이 카논
-|유리이 카논
-|츠쿠요미
+|Yurry Canon
+|Yurry Canon
+|Tsukuyomi
 |3DMV 2DMV
 |
 |
@@ -2528,14 +2528,14 @@
 |
 |2022년 5월 16일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/월광|월광]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Moonlight|Moonlight]]
 |lang=ja|月光
 ||Moonlight
 |[[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |✔️
-|키타니 타츠야 / 하루마키고항
-|키타니 타츠야 / 하루마키고항
-|키타니 타츠야 / 하루마키고항
+|Tatsuya Kitani / Harumaki Gohan
+|Tatsuya Kitani / Harumaki Gohan
+|Tatsuya Kitani / Harumaki Gohan
 |2DMV
 |
 |
@@ -2593,7 +2593,7 @@
 |
 |2022년 6월 6일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/버그|버그]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/bug|bug]]
 |lang=ja|バグ
 ||bug
 |[[파일:니고로고.png|24x24픽셀|alt=니고]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
@@ -2645,14 +2645,14 @@
 |
 |2022년 6월 24일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/별하늘의 멜로디|별하늘의 멜로디]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Starry sky melody|Starry sky melody]]
 |lang=ja|星空のメロディー
 ||Starry sky melody
 |[[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
 |✔️
-|폴리포
-|폴리포
-|폴리포
+|PolyphonicBranch
+|PolyphonicBranch
+|PolyphonicBranch
 |3DMV
 |
 |
@@ -2671,20 +2671,20 @@
 |
 |2022년 6월 30일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/우리들의 16bit 전쟁|우리들의 16bit 전쟁]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Our 16bit Wars|Our 16bit Wars]]
 |lang=ja|ぼくらの16bit戦争
 ||Our 16bit Wars
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
 |sasakure.UK
 |sasakure.UK
-|sasakure.UK(Gt 사사키 히데히사 Ba 니카모토 료스케(유우케이 램피지))
+|sasakure.UK (Gt Hidehisa Sasaki Ba Ryosuke Nikamoto (UKRampage))
 |원곡MV
 |
 |
 |2022년 7월 1일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/메류|메류]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Meru|Meru]]
 |lang=ja|メリュー
 ||Meru
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:니고로고.png|24x24픽셀|alt=니고]]
@@ -2697,7 +2697,7 @@
 |
 |2022년 7월 4일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/에일리언 에일리언|에일리언 에일리언]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Alien Alien|Alien Alien]]
 |lang=ja|エイリアンエイリアン
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
@@ -2710,7 +2710,7 @@
 |
 |2022년 7월 11일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/거리|거리]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/City|City]]
 |lang=ja|街
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
@@ -2723,33 +2723,33 @@
 |
 |2022년 7월 19일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/테라테라|테라테라]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/SHOW OFF|SHOW OFF]]
 |lang=ja|てらてら
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:레오니로고.png|24x24픽셀|alt=레오니]]
 |✔️
-|와다 타케아키
-|와다 타케아키
-|와다 타케아키
+|WADATAKEAKI
+|WADATAKEAKI
+|WADATAKEAKI
 |2DMV
 |
 |
 |2022년 7월 21일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/프로일라인=비브리오치카|프로일라인=비브리오치카]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Fräulein=библиотека|Fräulein=библиотека]]
 |lang=ja|フロイライン＝ビブリォチカ
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|nyanyannya
-|nyanyannya
-|nyanyannya
+|nyanyannya（DAITENSAI P)
+|nyanyannya（DAITENSAI P)
+|nyanyannya（DAITENSAI P)
 |
 |
 |
 |2022년 7월 30일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/춤춰라 오케스트라|춤춰라 오케스트라]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Dance orchestra|Dance orchestra]]
 |lang=ja|踊れオーケストラ
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
@@ -2775,14 +2775,14 @@
 |
 |2022년 8월 10일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/로스트 앤 파운드|로스트 앤 파운드]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Lost and Found|Lost and Found]]
 |lang=ja|ロストエンファウンド
 ||
 |[[파일:레오니로고.png|24x24픽셀|alt=레오니]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
 |sasakure.UK
 |sasakure.UK
-|유우케이 램피지
+|UKRampage
 |3DMV
 |
 |
@@ -2834,7 +2834,7 @@
 |
 |sasakure.UK
 |sasakure.UK
-|유우케이 램피지
+|UKRampage
 |원곡MV
 |
 |
