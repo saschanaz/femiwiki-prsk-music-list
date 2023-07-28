@@ -2099,14 +2099,14 @@
 |
 |[https://twitter.com/pj_sekai/status/1489480333196406787 2022년 2월 4일 추가]
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Colorful Marine Snow|Colorful Marine Snow]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/너의 색깔 마린 스노우|너의 색깔 마린 스노우]]
 |lang=ja|君色マリンスノウ
 ||Colorful Marine Snow
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|Carlos Hakamada Saize P
-|Carlos Hakamada Saize P
-|Carlos Hakamada Saize P
+|카를로스 하카마다(사이제P)
+|카를로스 하카마다(사이제P)
+|카를로스 하카마다(사이제P)
 |원곡MV
 |
 |
@@ -2216,12 +2216,12 @@
 |
 |[https://twitter.com/ColorfulStageEN/status/1474500170973085698 2022년 3월 9일 추가]
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Metamo Re:born|Metamo Re:born]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/메타모 리본|메타모 리본]]
 |lang=ja|メタモリボン
 ||Metamo Re:born
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:모모점로고.png|24x24픽셀|alt=모모점]]
 |✔️
-|emon(Tes.)・Tudiken
+|Tudiken
 |emon(Tes.)
 |emon(Tes.)
 |2DMV
@@ -2333,7 +2333,7 @@
 |
 |2022년 4월 3일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Thousand Year Solo |Thousand Year Solo ]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/천년의 독주가|천년의 독주가]]
 |lang=ja|千年の独奏歌
 ||Thousand Year Solo
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
@@ -2593,7 +2593,7 @@
 |
 |2022년 6월 6일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/bug|bug]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/버그|버그]]
 |lang=ja|バグ
 ||bug
 |[[파일:니고로고.png|24x24픽셀|alt=니고]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
@@ -2619,7 +2619,7 @@
 |
 |2022년 6월 13일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/The Vampire|The Vampire]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/뱀파이어|뱀파이어]]
 |lang=ja|ヴァンパイア
 ||The Vampire
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:모모점로고.png|24x24픽셀|alt=모모점]]
@@ -2645,14 +2645,14 @@
 |
 |2022년 6월 24일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Starry sky melody|Starry sky melody]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/별하늘의멜로디|별하늘의멜로디]]
 |lang=ja|星空のメロディー
 ||Starry sky melody
 |[[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
 |✔️
-|PolyphonicBranch
-|PolyphonicBranch
-|PolyphonicBranch
+|폴리포
+|폴리포
+|폴리포
 |3DMV
 |
 |
@@ -2671,14 +2671,14 @@
 |
 |2022년 6월 30일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Our 16bit Wars|Our 16bit Wars]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/우리들의 16bit 전쟁|우리들의 16bit 전쟁]]
 |lang=ja|ぼくらの16bit戦争
 ||Our 16bit Wars
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
 |sasakure.UK
 |sasakure.UK
-|sasakure.UK (Gt Hidehisa Sasaki Ba Ryosuke Nikamoto (UKRampage))
+|sasakure.UK(Gt 사사키 히데히사, Ba 니카모토 료스케(유형 램페이지))
 |원곡MV
 |
 |
@@ -2710,7 +2710,7 @@
 |
 |2022년 7월 11일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/City|City]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/거리|거리]]
 |lang=ja|街
 ||City
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
@@ -2723,33 +2723,33 @@
 |
 |2022년 7월 19일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/SHOW OFF|SHOW OFF]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/번질번질|번질번질]]
 |lang=ja|てらてら
 ||SHOW OFF
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:레오니로고.png|24x24픽셀|alt=레오니]]
 |✔️
-|WADATAKEAKI
-|WADATAKEAKI
-|WADATAKEAKI
+|와다 타케아키
+|와다 타케아키
+|와다 타케아키
 |2DMV
 |
 |
 |2022년 7월 21일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Fräulein=библиотека|Fräulein=библиотека]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/프로일라인=비블리오테카|프로일라인=비블리오테카]]
 |lang=ja|フロイライン＝ビブリォチカ
 ||Fräulein=библиотека
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|nyanyannya（DAITENSAI P)
-|nyanyannya（DAITENSAI P)
-|nyanyannya（DAITENSAI P)
+|nyanyannya(대천재P)
+|nyanyannya(대천재P)
+|nyanyannya(대천재P)
 |
 |
 |
 |2022년 7월 30일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Dance orchestra|Dance orchestra]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/춤춰라 오케스트라|춤춰라 오케스트라]]
 |lang=ja|踊れオーケストラ
 ||Dance orchestra
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
@@ -2775,14 +2775,14 @@
 |
 |2022년 8월 10일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Lost and Found|Lost and Found]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/로스트 앤 파운드|로스트 앤 파운드]]
 |lang=ja|ロストエンファウンド
 ||
 |[[파일:레오니로고.png|24x24픽셀|alt=레오니]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
 |sasakure.UK
 |sasakure.UK
-|UKRampage
+|유형 램페이지
 |3DMV
 |
 |
@@ -2834,7 +2834,7 @@
 |
 |sasakure.UK
 |sasakure.UK
-|UKRampage
+|유형 램페이지
 |원곡MV
 |
 |
@@ -2931,14 +2931,14 @@
 |
 |2022년 10월 2일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/phony|phony]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/포니|포니]]
 |lang=ja|フォニイ
 ||
 |[[파일:니고로고.png|24x24픽셀|alt=니고]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|Tsumiki
-|Tsumiki
-|Tsumiki
+|츠미키
+|츠미키
+|츠미키
 |2DMV
 |
 |
@@ -2970,14 +2970,14 @@
 |
 |2022년 10월 5일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Ego rock|Ego rock]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/에고 록|에고 록]]
 |lang=ja|エゴロック
 ||
 |[[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|Three
-|Three
-|Three
+|스리이
+|스리이
+|스리이
 |3DMV
 |
 |
@@ -3989,9 +3989,9 @@
 ||
 |[[파일:니고로고.png|24x24픽셀|alt=니고]]
 |✔️
-|Tsumiki
-|Tsumiki
-|Tsumiki
+|츠미키
+|츠미키
+|츠미키
 |2DMV
 |
 |
@@ -4347,4 +4347,47 @@
 |
 |
 |2023년 7월 24일 추가
+|-
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Decade|Decade]]
+|lang=ja style="visibility:hidden"|Decade
+| style="visibility:hidden"|Decade
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
+|
+|Dixie Flatline
+|Dixie Flatline
+|Dixie Flatline
+|
+|
+|
+|2023년 7월 28일 추가
+|}
+
+=== 영문 버전 전용 악곡 ===
+<templatestyles src="프로세카 악곡 목록/styles.css" />
+{| class="prsk-music-table sortable"
+!제목
+!원제
+!영문 제목
+!분류
+!오리지널
+!작사
+!작곡
+!편곡
+!MV
+!2DMV 일러스트
+!게임 외 MV
+!추가일
+|-
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/sweety glitch|sweety glitch]]
+|lang=ja style="visibility:hidden"|sweety glitch
+| style="visibility:hidden"|sweety glitch
+|
+|
+|nyankobrq
+|gaburyu & nyankobrq
+|gaburyu & nyankobrq
+|원곡MV
+|
+|
+|2023년 7월 26일 추가
 |}</onlyinclude>
