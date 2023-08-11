@@ -2757,7 +2757,7 @@
 |YASUHIRO
 |YASUHIRO
 |YASUHIRO
-|
+|2DMV
 |
 |
 |2022년 8월 8일 추가
@@ -4399,6 +4399,19 @@
 |
 |
 |2023년 8월 4일 추가
+|-
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Disco No.39|Disco No.39]]
+|lang=ja style="visibility:hidden"|Disco No.39
+| style="visibility:hidden"|Disco No.39
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
+|
+|Rulmry.
+|Rulmry.
+|Rulmry.
+|
+|
+|
+|2023년 8월 10일 추가
 |}
 
 === 영문 버전 전용 악곡 ===
