@@ -2390,8 +2390,8 @@
 ||DarlingDance
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:모모점로고.png|24x24픽셀|alt=모모점]]
 |
-|Kairiki bear
-|Kairiki bear
+|카이리키 베어
+|카이리키 베어
 |
 |
 |
@@ -2645,7 +2645,7 @@
 |
 |2022년 6월 24일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/별하늘의멜로디|별하늘의멜로디]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/밤하늘의 멜로디|밤하늘의 멜로디]]
 |lang=ja|星空のメロディー
 ||Starry sky melody
 |[[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
@@ -2819,9 +2819,9 @@
 ||Kimi no Yoru Wo Kure
 |[[파일:니고로고.png|24x24픽셀|alt=니고]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |✔️
-|후루카와 혼포
-|후루카와 혼포
-|후루카와 혼포・카즈네 마사토
+|후루카와 본점
+|후루카와 본점
+|후루카와 본점, 카즈네 마사토
 |3DMV
 |
 |
@@ -2840,20 +2840,20 @@
 |
 |2022년 9월 2일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Voices|Voices]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/236|236]]
 |lang=ja style="visibility:hidden"|Voices
 | style="visibility:hidden"|Voices
 |[[파일:레오니로고.png|24x24픽셀|alt=레오니]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |✔️
-|Yuyoyuppe
-|Yuyoyuppe
-|Yuyoyuppe
+|編曲者1
+|編曲者1
+|編曲者1
 |3DMV
 |
 |
 |2022년 9월 7일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/제헤나|제헤나]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/ジェヘナ|ジェヘナ]]
 |lang=ja|ジェヘナ
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:니고로고.png|24x24픽셀|alt=니고]]
@@ -2871,35 +2871,35 @@
 | style="visibility:hidden"|Calc.
 |[[파일:레오니로고.png|24x24픽셀|alt=레오니]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|지미섬P
-|지미섬P
-|지미섬P
+|Jimmythumb P
+|Jimmythumb P
+|Jimmythumb P
 |
 |
 |
 |2022년 9월 16일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/허공을 부치다|허공을 부치다]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/虚ろを扇ぐ|虚ろを扇ぐ]]
 |lang=ja|虚ろを扇ぐ
 ||
 |[[파일:비배스로고.png|24x24픽셀|alt=비비배스]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |✔️
-|시시시시
-|시시시시
-|시시시시
+|獅子志司
+|獅子志司
+|獅子志司
 |2DMV
 |
 |
 |2022년 9월 20일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Journey|Journey]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/235|235]]
 |lang=ja style="visibility:hidden"|Journey
 | style="visibility:hidden"|Journey
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:레오니로고.png|24x24픽셀|alt=레오니]][[파일:모모점로고.png|24x24픽셀|alt=모모점]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]][[파일:니고로고.png|24x24픽셀|alt=니고]]
 |✔️
-|DECO*27
-|DECO*27
-|Rockwell
+|作曲者1
+|作曲者1
+|編曲者1
 |3DMV 2DMV
 |
 |
@@ -3061,7 +3061,7 @@
 |
 |2022년 10월 19일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/어떤 결말이면 좋겠니?|어떤 결말이면 좋겠니?]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/어떤 결말을 원하니?|어떤 결말을 원하니?]]
 |lang=ja|どんな結末がお望みだい？
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
@@ -3074,14 +3074,14 @@
 |
 |2022년 10월 21일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/진흙 속에 피다|진흙 속에 피다]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/진흙 속에 피다」|진흙 속에 피다」]]
 |lang=ja|泥中に咲く
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:니고로고.png|24x24픽셀|alt=니고]]
 |
-|Harihara Tsubasa (Harry P)
-|Harihara Tsubasa (Harry P)
-|Tanahashi EDDY Teruaki
+|하리하라 츠바사(하리P)
+|하리하라 츠바사(하리P)
+|타나하시 EDDY 테루아키
 |
 |
 |
@@ -3703,7 +3703,7 @@
 | style="visibility:hidden"|39
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|DECO*27
+|作曲者1
 |sasakure.UK
 |sasakure.UK＆DECO*27
 |원곡MV
@@ -3950,9 +3950,9 @@
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |
-|시시시시
-|시시시시
-|시시시시
+|獅子志司
+|獅子志司
+|獅子志司
 |원곡MV
 |
 |
@@ -4275,8 +4275,8 @@
 | style="visibility:hidden"|Afterglow
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|지미섬P
-|지미섬P
+|Jimmythumb P
+|Jimmythumb P
 |
 |3DMV
 |
