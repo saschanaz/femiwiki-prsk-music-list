@@ -1814,4 +1814,24 @@
 |lang=ja|[復刻]CYBER SNIPERガチャ
 |2023년 8월 12일
 |2023년 8월 22일
+|-
+|
+|lang=ja|Never Ending Showtimeガチャ
+|2023년 8월 21일
+|2023년 8월 31일
+|-
+|
+|lang=ja|セレクトリストガチャ
+|2023년 8월 25일
+|2023년 9월 5일
+|-
+|
+|lang=ja|[暁山瑞希]HAPPY BIRTHDAY2023ガチャ
+|2023년 8월 27일
+|2023년 9월 2일
+|-
+|
+|lang=ja|[復刻][暁山瑞希]HAPPY BIRTHDAYガチャ
+|2023년 8월 27일
+|2023년 9월 2일
 |}</onlyinclude>

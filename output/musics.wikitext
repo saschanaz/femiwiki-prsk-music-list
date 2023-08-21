@@ -3316,7 +3316,7 @@
 |TOKOTOKO
 |TOKOTOKO
 |TOKOTOKO
-|
+|2DMV
 |
 |
 |2022년 12월 29일 추가
@@ -4438,6 +4438,19 @@
 |
 |
 |2023년 8월 19일 추가
+|-
+|data-kakioroshi|キラピピ★キラピカ
+|lang=ja|キラピピ★キラピカ
+||
+|[[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
+|✔️
+|nyanyannya(대천재P)
+|nyanyannya(대천재P)
+|nyanyannya(대천재P)
+|2DMV
+|
+|
+|2023년 8월 21일 추가
 |}
 
 === 영문 버전 전용 악곡 ===
