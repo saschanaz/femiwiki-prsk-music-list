@@ -1714,8 +1714,8 @@
 | style="visibility:hidden"|ray
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:레오니로고.png|24x24픽셀|alt=레오니]]
 |
-|藤原基央
-|藤原基央
+|MOTOO FUJIWARA
+|MOTOO FUJIWARA
 |
 |[https://youtu.be/S-okMR4YUlo 3DMV] [https://youtu.be/YkP0JMByjRM 2DMV](사키노지., 이쿠미)
 |사키노지.
@@ -1727,8 +1727,8 @@
 | style="visibility:hidden"|Hello,world!
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:레오니로고.png|24x24픽셀|alt=레오니]]
 |
-|藤原基央
-|藤原基央
+|MOTOO FUJIWARA
+|MOTOO FUJIWARA
 |
 |[https://youtu.be/B1nUc7LfZYA 2DMV](LAM, omu)
 |LAM
@@ -2840,14 +2840,14 @@
 |
 |2022년 9월 2일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/236|236]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Voices|Voices]]
 |lang=ja style="visibility:hidden"|Voices
 | style="visibility:hidden"|Voices
 |[[파일:레오니로고.png|24x24픽셀|alt=레오니]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |✔️
-|編曲者1
-|編曲者1
-|編曲者1
+|Yuyoyuppe
+|Yuyoyuppe
+|Yuyoyuppe
 |3DMV
 |
 |
@@ -2879,27 +2879,27 @@
 |
 |2022년 9월 16일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/虚ろを扇ぐ|虚ろを扇ぐ]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Hollow|Hollow]]
 |lang=ja|虚ろを扇ぐ
 ||Hollow
 |[[파일:비배스로고.png|24x24픽셀|alt=비비배스]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |✔️
-|獅子志司
-|獅子志司
-|獅子志司
+|Shishishishi
+|Shishishishi
+|Shishishishi
 |2DMV
 |
 |
 |2022년 9월 20일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/235|235]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Journey|Journey]]
 |lang=ja style="visibility:hidden"|Journey
 | style="visibility:hidden"|Journey
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:레오니로고.png|24x24픽셀|alt=레오니]][[파일:모모점로고.png|24x24픽셀|alt=모모점]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]][[파일:니고로고.png|24x24픽셀|alt=니고]]
 |✔️
-|作曲者1
-|作曲者1
-|編曲者1
+|DECO*27
+|DECO*27
+|DECO*27
 |3DMV 2DMV
 |
 |
@@ -3087,7 +3087,7 @@
 |
 |2022년 10월 28일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/하나 둘 셋에|하나 둘 셋에]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/いちにのさんで|いちにのさんで]]
 |lang=ja|いちにのさんで
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
@@ -3100,7 +3100,7 @@
 |
 |2022년 10월 31일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/제국소녀|제국소녀]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Imperial Girl|Imperial Girl]]
 |lang=ja|帝国少女
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
@@ -3542,14 +3542,14 @@
 |
 |2023년 2월 11일 추가
 |-
-||アイロニ
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/293|293]]
 |lang=ja|アイロニ
 ||
 |[[파일:니고로고.png|24x24픽셀|alt=니고]]
 |
-|すこっぷ
-|すこっぷ
-|すこっぷ
+|編曲者1
+|編曲者1
+|編曲者1
 |원곡MV
 |
 |
@@ -3703,7 +3703,7 @@
 | style="visibility:hidden"|39
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|作曲者1
+|DECO*27
 |sasakure.UK
 |sasakure.UK＆DECO*27
 |원곡MV
@@ -3763,7 +3763,7 @@
 |
 |2023년 3월 20일 추가
 |-
-||アトラクトライト
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/アトラクトライト|アトラクトライト]]
 |lang=ja|アトラクトライト
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:레오니로고.png|24x24픽셀|alt=레오니]]
@@ -3880,14 +3880,14 @@
 |
 |2023년 4월 4일 추가
 |-
-||深海少女
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Shinkai Shoujo|Shinkai Shoujo]]
 |lang=ja|深海少女
 ||
 |[[파일:모모점로고.png|24x24픽셀|alt=모모점]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|ゆうゆ
-|ゆうゆ
-|ゆうゆ
+|Yuuyu
+|Yuuyu
+|Yuuyu
 |원곡MV
 |
 |
@@ -3950,9 +3950,9 @@
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |
-|獅子志司
-|獅子志司
-|獅子志司
+|Shishishishi
+|Shishishishi
+|Shishishishi
 |원곡MV
 |
 |
@@ -4542,6 +4542,19 @@
 |
 |
 |2023년 9월 19일 추가
+|-
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Lucky☆Orb|Lucky☆Orb]]
+|lang=ja|ラッキー☆オーブ
+||
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
+|
+|emon(Tes.)
+|emon(Tes.)
+|emon(Tes.)
+|원곡MV
+|
+|
+|2023년 9월 25일 추가
 |}
 
 === 영문 버전 전용 악곡 ===
@@ -4572,4 +4585,17 @@
 |
 |
 |2023년 7월 26일 추가
+|-
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Hello Builder|Hello Builder]]
+|lang=ja style="visibility:hidden"|Hello Builder
+| style="visibility:hidden"|Hello Builder
+|
+|
+|Utsu-P
+|Utsu-P
+|Utsu-P
+|원곡MV
+|
+|
+|2023년 9월 26일 추가
 |}</onlyinclude>
