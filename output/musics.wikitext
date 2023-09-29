@@ -2907,7 +2907,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Amanojaku|Amanojaku]]
 |lang=ja|天ノ弱
-||
+||Amanojaku
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:레오니로고.png|24x24픽셀|alt=레오니]]
 |
 |164
@@ -2920,7 +2920,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Unhappy Refrain|Unhappy Refrain]]
 |lang=ja|アンハッピーリフレイン
-||
+||Unhappy Refrain
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
 |wowaka
@@ -2933,7 +2933,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/포니|포니]]
 |lang=ja|フォニイ
-||
+||phony
 |[[파일:니고로고.png|24x24픽셀|alt=니고]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
 |츠미키
@@ -2946,7 +2946,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Double Lariat|Double Lariat]]
 |lang=ja|ダブルラリアット
-||
+||Double Lariat
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
 |Agoaniki
@@ -2959,7 +2959,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Invisible|Invisible]]
 |lang=ja|インビジブル
-||
+||Invisible
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
 |kemu
@@ -2972,7 +2972,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/에고 록|에고 록]]
 |lang=ja|エゴロック
-||
+||Ego rock
 |[[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
 |스리이
@@ -2998,7 +2998,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Torinokocity|Torinokocity]]
 |lang=ja|トリノコシティ
-||
+||Torinokocity
 |[[파일:모모점로고.png|24x24픽셀|alt=모모점]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
 |40mP
@@ -3011,7 +3011,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/This is the Happiness and Peace of Mind Committee|This is the Happiness and Peace of Mind Committee]]
 |lang=ja|こちら、幸福安心委員会です。
-||
+||This is the Happiness and Peace of Mind Committee
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
 |Tory Hitsuji
@@ -3037,7 +3037,7 @@
 |-
 |data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/ÅMARA(The Great Intelligence)|ÅMARA(The Great Intelligence)]]
 |lang=ja|ÅMARA(大未来電脳)
-||
+||ÅMARA(The Great Intelligence)
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |✔️
 |sasakure.UK
@@ -3087,7 +3087,7 @@
 |
 |2022년 10월 28일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/いちにのさんで|いちにのさんで]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Ichi Ni no San de|Ichi Ni no San de]]
 |lang=ja|いちにのさんで
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
@@ -3542,14 +3542,14 @@
 |
 |2023년 2월 11일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/293|293]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Irony|Irony]]
 |lang=ja|アイロニ
 ||
 |[[파일:니고로고.png|24x24픽셀|alt=니고]]
 |
-|編曲者1
-|編曲者1
-|編曲者1
+|scop
+|scop
+|scop
 |원곡MV
 |
 |
@@ -3763,7 +3763,7 @@
 |
 |2023년 3월 20일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/アトラクトライト|アトラクトライト]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Attract Light|Attract Light]]
 |lang=ja|アトラクトライト
 ||
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:레오니로고.png|24x24픽셀|alt=레오니]]
