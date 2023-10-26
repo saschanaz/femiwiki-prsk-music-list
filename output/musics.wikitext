@@ -4819,4 +4819,17 @@
 |
 |
 |2023년 9월 26일 추가
+|-
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Unsung Melodies|Unsung Melodies]]
+|lang=ja style="visibility:hidden"|Unsung Melodies
+| style="visibility:hidden"|Unsung Melodies
+|
+|
+|monaca:factory
+|monaca:factory
+|monaca:factory
+|원곡MV
+|
+|
+|2023년 10월 26일 추가
 |}</onlyinclude>
