@@ -4776,6 +4776,19 @@
 |
 |
 |2023년 10월 25일 추가
+|-
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/purpose|purpose]]
+|lang=ja style="visibility:hidden"|purpose
+| style="visibility:hidden"|purpose
+|[[파일:레오니로고.png|24x24픽셀|alt=레오니]]
+|✔️
+|doriko
+|doriko
+|doriko
+|3DMV
+|
+|
+|2023년 10월 29일 추가
 |}
 
 === 영문 버전 전용 악곡 ===
