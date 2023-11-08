@@ -3108,7 +3108,7 @@
 |R Sound Design
 |R Sound Design
 |R Sound Design
-|
+|2DMV
 |
 |
 |2022년 11월 1일 추가
@@ -3154,7 +3154,7 @@
 |-
 |data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/I랍니다|I랍니다]]
 |lang=ja|Iなんです
-||
+||I am you
 |[[파일:니고로고.png|24x24픽셀|alt=니고]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |✔️
 |레루리리
@@ -3180,7 +3180,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/별무리 유토피아|별무리 유토피아]]
 |lang=ja|星屑ユートピア
-||
+||Stardust Utopia
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
 |otetsu
@@ -3206,7 +3206,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/AttaKAITO|AttaKAITO]]
 |lang=ja|あったかいと
-||
+||AttaKAITO
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
 |halyosy
@@ -3219,7 +3219,7 @@
 |-
 |data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/플로트 플래너|플로트 플래너]]
 |lang=ja|フロート・プランナー
-||
+||Float Planner
 |[[파일:모모점로고.png|24x24픽셀|alt=모모점]]
 |✔️
 |Heavenz
@@ -3232,7 +3232,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Non-breath oblige|Non-breath oblige]]
 |lang=ja|ノンブレス・オブリージュ
-||
+||Non-breath oblige
 |[[파일:니고로고.png|24x24픽셀|alt=니고]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
 |PinocchioP
@@ -3245,7 +3245,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/론리 유니버스|론리 유니버스]]
 |lang=ja|ロンリーユニバース
-||
+||Lonely Universe
 |[[파일:모모점로고.png|24x24픽셀|alt=모모점]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
 |aqu3ra
