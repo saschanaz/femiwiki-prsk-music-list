@@ -4841,6 +4841,19 @@
 |
 |
 |2023년 11월 10일 추가
+|-
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/On&On|On&On]]
+|lang=ja style="visibility:hidden"|On&On
+| style="visibility:hidden"|On&On
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
+|
+|めろくる
+|めろくる
+|めろくる
+|
+|
+|
+|2023년 11월 13일 추가
 |}
 
 === 영문 버전 전용 악곡 ===
@@ -4897,4 +4910,17 @@
 |
 |
 |2023년 10월 26일 추가
+|-
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/imaginary love story|imaginary love story]]
+|lang=ja style="visibility:hidden"|imaginary love story
+| style="visibility:hidden"|imaginary love story
+|
+|
+|Synthion
+|Synthion
+|Synthion
+|원곡MV
+|
+|
+|2023년 11월 13일 추가
 |}</onlyinclude>
