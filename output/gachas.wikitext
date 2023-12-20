@@ -2134,4 +2134,39 @@
 |lang=ja|[復刻]ロマンティックブライドガチャ
 |2023년 12월 17일
 |2023년 12월 26일
+|-
+|
+|lang=ja|Memory of Melodyガチャ
+|2023년 12월 20일
+|2023년 12월 31일
+|-
+|
+|lang=ja|[鏡音リン]HAPPY ANNIVERSARY2023ガチャ
+|2023년 12월 27일
+|2024년 1월 2일
+|-
+|
+|lang=ja|[復刻][鏡音リン]HAPPY ANNIVERSARY2022ガチャ
+|2023년 12월 27일
+|2024년 1월 2일
+|-
+|
+|lang=ja|[復刻][鏡音リン]HAPPY ANNIVERSARYガチャ
+|2023년 12월 27일
+|2024년 1월 2일
+|-
+|
+|lang=ja|[鏡音レン]HAPPY ANNIVERSARY2023ガチャ
+|2023년 12월 27일
+|2024년 1월 2일
+|-
+|
+|lang=ja|[復刻][鏡音レン]HAPPY ANNIVERSARY2022ガチャ
+|2023년 12월 27일
+|2024년 1월 2일
+|-
+|
+|lang=ja|[復刻][鏡音レン]HAPPY ANNIVERSARYガチャ
+|2023년 12월 27일
+|2024년 1월 2일
 |}</onlyinclude>
