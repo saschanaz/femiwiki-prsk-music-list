@@ -5040,4 +5040,17 @@
 |
 |
 |2023년 12월 8일 추가
+|-
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Ten Thousand Stars|Ten Thousand Stars]]
+|lang=ja style="visibility:hidden"|Ten Thousand Stars
+| style="visibility:hidden"|Ten Thousand Stars
+|
+|
+|Circus-P
+|Circus-P
+|Circus-P
+|
+|
+|
+|2023년 12월 26일 추가
 |}</onlyinclude>
