@@ -768,7 +768,7 @@
 |R Sound Design
 |R Sound Design
 |R Sound Design
-|[https://youtu.be/t7hnsVAsWCo 3DMV]
+|[https://youtu.be/t7hnsVAsWCo 3DMV] 2DMV
 |
 |[https://youtu.be/crCS77wqxTI 보컬로이드 버전]
 |[https://twitter.com/pj_sekai/status/1336296722062983168 2020년 12월 8일 추가]
@@ -4958,6 +4958,19 @@
 |
 |
 |2023년 12월 25일 추가
+|-
+||初めての恋が終わる時
+|lang=ja|初めての恋が終わる時
+||
+|[[파일:레오니로고.png|24x24픽셀|alt=레오니]]
+|
+|ryo
+|ryo
+|ryo
+|
+|
+|
+|2023년 12월 28일 추가
 |}
 
 === 영문 버전 전용 악곡 ===
