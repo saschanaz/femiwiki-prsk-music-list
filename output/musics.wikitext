@@ -2861,7 +2861,7 @@
 |wotaku
 |wotaku
 |wotaku
-|원곡MV
+|원곡MV 2DMV
 |
 |
 |2022년 9월 12일 추가
@@ -5309,6 +5309,19 @@
 |
 |
 |2024년 2월 27일 추가
+|-
+||ラグトレイン
+|lang=ja|ラグトレイン
+||
+|[[파일:니고로고.png|24x24픽셀|alt=니고]]
+|
+|稲葉曇
+|稲葉曇
+|稲葉曇
+|원곡MV
+|
+|
+|2024년 2월 29일 추가
 |}
 
 === 영문 버전 전용 악곡 ===
@@ -5404,6 +5417,19 @@
 |
 |
 |2023년 12월 26일 추가
+|-
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Can't Make A Song!!|Can't Make A Song!!]]
+|lang=ja style="visibility:hidden"|Can't Make A Song!!
+| style="visibility:hidden"|Can't Make A Song!!
+|
+|
+|beat_shobon
+|beat_shobon
+|beat_shobon
+|
+|
+|
+|2024년 2월 29일 추가
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Intergalactic Bound|Intergalactic Bound]]
 |lang=ja style="visibility:hidden"|Intergalactic Bound
