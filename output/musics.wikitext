@@ -3791,7 +3791,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/트래시 앤드 트래시!|트래시 앤드 트래시!]]
 |lang=ja|トラッシュ・アンド・トラッシュ！
-||
+||TRASH and TRASH!
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
 |와다 타케아키(쿠라게P)
@@ -3843,7 +3843,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/인터뷰어|인터뷰어]]
 |lang=ja|インタビュア
-||
+||Interviewer
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
 |쿠와가타P
@@ -3856,7 +3856,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/My love is Hellfire|My love is Hellfire]]
 |lang=ja|私の恋はヘルファイア
-||
+||My love is Hellfire
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
 |SLAVE.V-V-R
@@ -3869,7 +3869,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Snowman|Snowman]]
 |lang=ja|スノーマン
-||
+||Snowman
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
 |halyosy
@@ -3882,7 +3882,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Shinkai Shoujo|Shinkai Shoujo]]
 |lang=ja|深海少女
-||
+||Shinkai Shoujo
 |[[파일:모모점로고.png|24x24픽셀|alt=모모점]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
 |Yuuyu
@@ -3908,7 +3908,7 @@
 |-
 |data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/상생|상생]]
 |lang=ja|相生
-||
+||Aioi
 |[[파일:레오니로고.png|24x24픽셀|alt=레오니]]
 |✔️
 |야이리
@@ -5452,6 +5452,19 @@
 |
 |
 |2024년 3월 27일 추가
+|-
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/blender|blender]]
+|lang=ja style="visibility:hidden"|blender
+| style="visibility:hidden"|blender
+|[[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
+|✔️
+|こめだわら×R Sound Design
+|こめだわら×R Sound Design
+|こめだわら×R Sound Design
+|3DMV
+|
+|
+|2024년 3월 28일 추가
 |}
 
 === 영문 버전 전용 악곡 ===
