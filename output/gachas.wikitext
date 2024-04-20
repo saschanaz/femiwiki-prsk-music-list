@@ -2489,4 +2489,29 @@
 |lang=ja|[復刻]みんなでEnjoy Summer！ガチャ
 |2024년 4월 18일
 |2024년 4월 27일
+|-
+|
+|lang=ja|Not Overlap Soundsガチャ
+|2024년 4월 20일
+|2024년 4월 30일
+|-
+|
+|lang=ja|3900'sプレミアムプレゼントガチャ GLOBAL EDITION
+|2024년 4월 22일
+|2024년 4월 30일
+|-
+|
+|lang=ja|[東雲絵名]HAPPY BIRTHDAY2024ガチャ
+|2024년 4월 30일
+|2024년 5월 6일
+|-
+|
+|lang=ja|[復刻][東雲絵名]HAPPY BIRTHDAY2023ガチャ
+|2024년 4월 30일
+|2024년 5월 6일
+|-
+|
+|lang=ja|[復刻][東雲絵名]HAPPY BIRTHDAYガチャ
+|2024년 4월 30일
+|2024년 5월 6일
 |}</onlyinclude>
