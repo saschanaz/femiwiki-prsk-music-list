@@ -656,7 +656,7 @@
 |
 |[https://twitter.com/pj_sekai/status/1320245172874039298 2020년 10월 25일 추가]
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Otome Dissection|Otome Dissection]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/소녀 해부|소녀 해부]]
 |lang=ja|乙女解剖
 ||Otome Dissection
 |[[파일:니고로고.png|24x24픽셀|alt=니고]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
@@ -1072,7 +1072,7 @@
 |[https://youtu.be/cwLlHFMlBNQ 보컬로이드 버전]
 |[https://twitter.com/pj_sekai/status/1365289725448179713 2021년 2월 26일 추가]
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/once upon a dream|once upon a dream]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/원스 어폰 어 드림|원스 어폰 어 드림]]
 |lang=ja|ワンスアポンアドリーム
 ||once upon a dream
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
@@ -1085,7 +1085,7 @@
 |[https://youtu.be/S84mvlha5Fc 보컬로이드 버전]
 |[https://twitter.com/pj_sekai/status/1365906661789982721 2021년 2월 28일 추가]
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Bocca della Verità|Bocca della Verità]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/보카 델라 베리타|보카 델라 베리타]]
 |lang=ja|ボッカデラベリタ
 ||Bocca della Verità
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:니고로고.png|24x24픽셀|alt=니고]]
@@ -1228,7 +1228,7 @@
 |
 |[https://twitter.com/pj_sekai/status/1387348833064030210 2021년 4월 26일 추가]
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Into The Night|Into The Night]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/밤을 달리다|밤을 달리다]]
 |lang=ja|夜に駆ける
 ||Into The Night
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:레오니로고.png|24x24픽셀|alt=레오니]][[파일:모모점로고.png|24x24픽셀|alt=모모점]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]][[파일:니고로고.png|24x24픽셀|alt=니고]]
@@ -1241,7 +1241,7 @@
 |
 |[https://twitter.com/pj_sekai/status/1388449199201554437 2021년 5월 1일 추가]
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Ghost City Tokyo|Ghost City Tokyo]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/유령 도쿄|유령 도쿄]]
 |lang=ja|幽霊東京
 ||Ghost City Tokyo
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
@@ -1553,7 +1553,7 @@
 |[https://youtu.be/purlnb5K_jM 보컬로이드 버전]
 |[https://twitter.com/pj_sekai/status/1443201940301570056 2021년 9월 29일 추가]
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Gunjo Sanka|Gunjo Sanka]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/군청찬가|군청찬가]]
 |lang=ja|群青讃歌
 ||Gunjo Sanka
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:레오니로고.png|24x24픽셀|alt=레오니]][[파일:모모점로고.png|24x24픽셀|alt=모모점]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]][[파일:니고로고.png|24x24픽셀|alt=니고]]
@@ -1600,12 +1600,12 @@
 |cosMo@폭주P
 |cosMo@폭주P
 |cosMo@폭주P
-|2DMV
+|원곡MV
 |
 |[https://youtu.be/UgZFpO_Y6qo 보컬로이드 버전]
 |[https://twitter.com/pj_sekai/status/1444544427452604418 2021년 10월 3일 추가]
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Venom|Venom]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/베놈|베놈]]
 |lang=ja|ベノム
 ||Venom
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:니고로고.png|24x24픽셀|alt=니고]]
@@ -1696,7 +1696,7 @@
 |
 |[https://twitter.com/pj_sekai/status/1447080428607717376 2021년 10월 10일 추가]
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Butterfly on your Right Shoulder|Butterfly on your Right Shoulder]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/오른 어깨의 나비|오른 어깨의 나비]]
 |lang=ja|右肩の蝶
 ||Butterfly on Your Right Shoulder
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
@@ -1748,7 +1748,7 @@
 |
 |[https://twitter.com/pj_sekai/status/1451429645975310342 2021년 10월 22일 추가]
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Showtime Ruler|Showtime Ruler]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/쇼타임 룰러|쇼타임 룰러]]
 |lang=ja|ショウタイム・ルーラー
 ||Showtime Ruler
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
@@ -1878,14 +1878,14 @@
 |
 |[https://twitter.com/pj_sekai/status/1470636441667776512 2021년 12월 14일 추가]
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Waltz of the Deceased|Waltz of the Deceased]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/떠나는 사람들의 왈츠|떠나는 사람들의 왈츠]]
 |lang=ja|去り人達のワルツ
 ||Waltz of the Deceased
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |✔️
-|mothy
-|mothy
-|mothy
+|mothy_악의P
+|mothy_악의P
+|mothy_악의P
 |
 |
 |
@@ -1917,7 +1917,7 @@
 |
 |[https://twitter.com/pj_sekai/status/1475709054274379777 2021년 12월 28일 추가]
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Mirai|Mirai]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/미래|미래]]
 |lang=ja|ミライ
 ||Mirai
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
@@ -2164,7 +2164,7 @@
 |
 |[https://twitter.com/pj_sekai/status/1495640814328094725 2022년 2월 21일 추가]
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Literary nonsense|Literary nonsense]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/난센스 문학|난센스 문학]]
 |lang=ja|ナンセンス文学
 ||Literary nonsense
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
@@ -2242,7 +2242,7 @@
 |
 |2022년 3월 14일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Rain and Petra|Rain and Petra]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/비와 페트라|비와 페트라]]
 |lang=ja|雨とペトラ
 ||Rain and Petra
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
@@ -2255,7 +2255,7 @@
 |
 |2022년 3월 22일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Nomad|Nomad]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/노매드|노매드]]
 |lang=ja|ノマド
 ||Nomad
 |[[파일:니고로고.png|24x24픽셀|alt=니고]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
@@ -2411,7 +2411,7 @@
 |
 |2022년 4월 28일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Identity|Identity]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/아이덴티티|아이덴티티]]
 |lang=ja|アイデンティティ
 ||Identity
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
@@ -2450,7 +2450,7 @@
 |
 |2022년 5월 3일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Tokugawa Cupnoodle Prohibition|Tokugawa Cupnoodle Prohibition]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/도쿠가와 컵누들 금지령|도쿠가와 컵누들 금지령]]
 |lang=ja|徳川カップヌードル禁止令
 ||Tokugawa Cupnoodle Prohibition
 |
@@ -2463,7 +2463,7 @@
 |
 |2022년 5월 4일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Salamander|Salamander]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/샐러맨더|샐러맨더]]
 |lang=ja|サラマンダー
 ||Salamander
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
@@ -2528,7 +2528,7 @@
 |
 |2022년 5월 16일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Moonlight|Moonlight]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/월광|월광]]
 |lang=ja|月光
 ||Moonlight
 |[[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
@@ -2658,14 +2658,14 @@
 |
 |2022년 6월 28일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Brain Fluid Explosion Girl|Brain Fluid Explosion Girl]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/뇌장작렬 걸|뇌장작렬 걸]]
 |lang=ja|脳漿炸裂ガール
 ||Brain Fluid Explosion Girl
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|rerulili
-|rerulili
-|rerulili
+|레루리리
+|레루리리
+|레루리리
 |원곡MV
 |
 |
@@ -2853,7 +2853,7 @@
 |
 |2022년 9월 7일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Gehenna|Gehenna]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/게헨나|게헨나]]
 |lang=ja|ジェヘナ
 ||Gehenna
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:니고로고.png|24x24픽셀|alt=니고]]
@@ -2944,7 +2944,7 @@
 |
 |2022년 10월 3일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Double Lariat|Double Lariat]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/더블 레리어트|더블 레리어트]]
 |lang=ja|ダブルラリアット
 ||Double Lariat
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
@@ -3043,7 +3043,7 @@
 |sasakure.UK
 |sasakure.UK
 |sasakure.UK
-|2DMV
+|원곡MV
 |
 |
 |2022년 10월 11일 추가
@@ -3087,7 +3087,7 @@
 |
 |2022년 10월 28일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Ichi Ni no San de|Ichi Ni no San de]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/하나 둘 셋|하나 둘 셋]]
 |lang=ja|いちにのさんで
 ||Ichi Ni no San de
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
@@ -3100,7 +3100,7 @@
 |
 |2022년 10월 31일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Imperial Girl|Imperial Girl]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/제국 소녀|제국 소녀]]
 |lang=ja|帝国少女
 ||Imperial Girl
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
@@ -3542,14 +3542,14 @@
 |
 |2023년 2월 11일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Irony|Irony]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/아이러니|아이러니]]
 |lang=ja|アイロニ
 ||Irony
 |[[파일:니고로고.png|24x24픽셀|alt=니고]]
 |
-|scop
-|scop
-|scop
+|스코프
+|스코프
+|스코프
 |원곡MV
 |
 |
@@ -3854,7 +3854,7 @@
 |
 |2023년 4월 2일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/My love is Hellfire|My love is Hellfire]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/나의 사랑은 헬파이어|나의 사랑은 헬파이어]]
 |lang=ja|私の恋はヘルファイア
 ||My love is Hellfire
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
@@ -3880,7 +3880,7 @@
 |
 |2023년 4월 4일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Shinkai Shoujo|Shinkai Shoujo]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/심해 소녀|심해 소녀]]
 |lang=ja|深海少女
 ||Shinkai Shoujo
 |[[파일:모모점로고.png|24x24픽셀|alt=모모점]][[파일:버싱로고.png|24x24픽셀|alt=버싱]]
@@ -4127,7 +4127,7 @@
 |
 |2023년 5월 26일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Coral|Coral]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/모형 정원의 코럴|모형 정원의 코럴]]
 |lang=ja|箱庭のコラル
 ||Coral
 |[[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
@@ -4166,7 +4166,7 @@
 |
 |2023년 6월 7일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Retainer Supplanting His Lord|Retainer Supplanting His Lord]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/하극상|하극상]]
 |lang=ja|下剋上
 ||Retainer Supplanting His Lord
 |[[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
@@ -4205,7 +4205,7 @@
 |
 |2023년 6월 16일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Teammate|Teammate]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/팀메이트|팀메이트]]
 |lang=ja|チームメイト
 ||
 |[[파일:모모점로고.png|24x24픽셀|alt=모모점]]
@@ -4413,7 +4413,7 @@
 |
 |2023년 8월 10일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Summertime Record|Summertime Record]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/서머 타임 레코드|서머 타임 레코드]]
 |lang=ja|サマータイムレコード
 ||
 |[[파일:레오니로고.png|24x24픽셀|alt=레오니]]
@@ -5110,7 +5110,7 @@
 |Junky
 |Junky
 |Junky
-|3DMV
+|3DMV 2DMV
 |
 |
 |2024년 1월 15일 추가
@@ -5588,9 +5588,9 @@
 ||
 |[[파일:레오니로고.png|24x24픽셀|alt=레오니]]
 |✔️
-|scop
-|scop
-|scop
+|스코프
+|스코프
+|스코프
 |3DMV
 |
 |
@@ -5643,7 +5643,7 @@
 |ビートまりお
 |ZUN（上海アリス幻樂団）
 |ビートまりお×まろん
-|
+|2DMV
 |
 |
 |2024년 5월 5일 추가
