@@ -4181,7 +4181,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Ah, It's a Wonderful Cat Life|Ah, It's a Wonderful Cat Life]]
 |lang=ja|嗚呼、素晴らしきニャン生
-||
+||Ah, It's a Wonderful Cat Life
 |[[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
 |
 |Nem
@@ -4194,7 +4194,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/スターダストメドレー|スターダストメドレー]]
 |lang=ja|スターダストメドレー
-||
+||Stardust Medley
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
 |きさら
@@ -4207,7 +4207,7 @@
 |-
 |data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/팀메이트|팀메이트]]
 |lang=ja|チームメイト
-||
+||Teammates
 |[[파일:모모점로고.png|24x24픽셀|alt=모모점]]
 |✔️
 |HoneyWorks
