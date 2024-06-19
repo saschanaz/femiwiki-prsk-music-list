@@ -4166,7 +4166,7 @@
 |
 |2023년 6월 7일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/하극상|하극상]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Retainer Supplanting His Lord|Retainer Supplanting His Lord]]
 |lang=ja|下剋上
 ||Retainer Supplanting His Lord
 |[[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
@@ -4231,7 +4231,7 @@
 |
 |2023년 6월 23일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/정말 멋진 6월이었습니다|정말 멋진 6월이었습니다]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/It was a very nice June|It was a very nice June]]
 |lang=ja|とても素敵な六月でした
 ||
 |[[파일:니고로고.png|24x24픽셀|alt=니고]]
@@ -5764,6 +5764,19 @@
 |
 |
 |2024년 6월 10일 추가
+|-
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Supernova|Supernova]]
+|lang=ja style="visibility:hidden"|Supernova
+| style="visibility:hidden"|Supernova
+|[[파일:모모점로고.png|24x24픽셀|alt=모모점]]
+|✔️
+|春野
+|雄之助、春野
+|雄之助、春野
+|3DMV
+|
+|
+|2024년 6월 18일 추가
 |}
 
 === 영문 버전 전용 악곡 ===
