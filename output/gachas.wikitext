@@ -1735,7 +1735,7 @@
 |2023년 6월 30일
 |2023년 7월 4일
 |-
-|
+|컬러풀 패스 뽑기
 |lang=ja|カラフルパスガチャ
 |2023년 7월 3일
 |2023년 8월 7일
@@ -1745,107 +1745,107 @@
 |2023년 7월 4일
 |2023년 7월 11일
 |-
-|
+|Where is ♡? 뽑기
 |lang=ja|Where is ♡？ガチャ
 |2023년 7월 11일
 |2023년 7월 21일
 |-
-|
+|[재등장] Sporty Girl♡ 뽑기
 |lang=ja|[復刻]Sporty Girl♡ガチャ
 |2023년 7월 13일
 |2023년 7월 23일
 |-
-|
+|[쿠사나기 네네] 2024 HAPPY BIRTHDAY 뽑기
 |lang=ja|[草薙寧々]HAPPY BIRTHDAY2023ガチャ
 |2023년 7월 20일
 |2023년 7월 26일
 |-
-|
+|[재등장] [쿠사나기 네네] HAPPY BIRTHDAY 뽑기
 |lang=ja|[復刻][草薙寧々]HAPPY BIRTHDAYガチャ
 |2023년 7월 20일
 |2023년 7월 26일
 |-
-|
+|마음을 실어, Shooting Star!! 뽑기
 |lang=ja|想いを乗せて、Shooting Star!!ガチャ
 |2023년 7월 21일
 |2023년 7월 31일
 |-
-|
+|[시라이시 안] 2024 HAPPY BIRTHDAY 뽑기
 |lang=ja|[白石杏]HAPPY BIRTHDAY2023ガチャ
 |2023년 7월 26일
 |2023년 8월 1일
 |-
-|
+|[재등장] [시라이시 안] HAPPY BIRTHDAY 뽑기
 |lang=ja|[復刻][白石杏]HAPPY BIRTHDAYガチャ
 |2023년 7월 26일
 |2023년 8월 1일
 |-
-|
+|해피니스 패키지 뽑기
 |lang=ja|ハピネスパッケージガチャ
 |2023년 7월 26일
 |2023년 8월 4일
 |-
-|
+|Welcome to diner!! 뽑기
 |lang=ja|Welcome to diner!!ガチャ
 |2023년 7월 31일
 |2023년 8월 10일
 |-
-|
+|컬러풀 패스 뽑기
 |lang=ja|カラフルパスガチャ
 |2023년 8월 7일
 |2023년 9월 4일
 |-
-|
+|Repaint My Color! 뽑기
 |lang=ja|Repaint My Color!ガチャ
 |2023년 8월 10일
 |2023년 8월 21일
 |-
-|
+|[호시노 이치카] 2024 HAPPY BIRTHDAY 뽑기
 |lang=ja|[星乃一歌]HAPPY BIRTHDAY2023ガチャ
 |2023년 8월 11일
 |2023년 8월 17일
 |-
-|
+|[재등장] [호시노 이치카] HAPPY BIRTHDAY 뽑기
 |lang=ja|[復刻][星乃一歌]HAPPY BIRTHDAYガチャ
 |2023년 8월 11일
 |2023년 8월 17일
 |-
-|
+|[재등장] CYBER SNIPER 뽑기
 |lang=ja|[復刻]CYBER SNIPERガチャ
 |2023년 8월 12일
 |2023년 8월 22일
 |-
-|
+|Never Ending Showtime 뽑기
 |lang=ja|Never Ending Showtimeガチャ
 |2023년 8월 21일
 |2023년 8월 31일
 |-
-|
+|셀렉트 리스트 뽑기
 |lang=ja|セレクトリストガチャ
 |2023년 8월 25일
 |2023년 9월 5일
 |-
-|
+|[아키야마 미즈키] 2024 HAPPY BIRTHDAY 뽑기
 |lang=ja|[暁山瑞希]HAPPY BIRTHDAY2023ガチャ
 |2023년 8월 27일
 |2023년 9월 2일
 |-
-|
+|[재등장] [아키야마 미즈키] HAPPY BIRTHDAY 뽑기
 |lang=ja|[復刻][暁山瑞希]HAPPY BIRTHDAYガチャ
 |2023년 8월 27일
 |2023년 9월 2일
 |-
-|
+|[하츠네 미쿠] 2024 HAPPY ANNIVERSARY 뽑기
 |lang=ja|[初音ミク]HAPPY ANNIVERSARY2023ガチャ
 |2023년 8월 31일
 |2023년 9월 6일
 |-
-|
+|[재등장] [하츠네 미쿠] HAPPY ANNIVERSARY 뽑기
 |lang=ja|[復刻][初音ミク]HAPPY ANNIVERSARYガチャ
 |2023년 8월 31일
 |2023년 9월 6일
 |-
-|
+|마음을 연주하는 마칭 퍼레이드 뽑기
 |lang=ja|想い奏でるマーチングパレードガチャ
 |2023년 8월 31일
 |2023년 9월 11일
@@ -1855,12 +1855,12 @@
 |2023년 9월 4일
 |2023년 10월 2일
 |-
-|
+|[오오토리 에무] 2024 HAPPY BIRTHDAY 뽑기
 |lang=ja|[鳳えむ]HAPPY BIRTHDAY2023ガチャ
 |2023년 9월 9일
 |2023년 9월 15일
 |-
-|
+|[재등장] [오오토리 에무] HAPPY BIRTHDAY 뽑기
 |lang=ja|[復刻][鳳えむ]HAPPY BIRTHDAYガチャ
 |2023년 9월 9일
 |2023년 9월 15일
@@ -2460,7 +2460,7 @@
 |2024년 4월 12일
 |2024년 4월 21일
 |-
-|3900's 프리미엄 선물 뽑기 WCS 2024 EDITION
+|3900's 프리미엄 선물 뽑기 WCS 2025 EDITION
 |lang=ja|3900'sプレミアムプレゼントガチャ WCS 2024 EDITION
 |2024년 4월 13일
 |2024년 4월 30일
