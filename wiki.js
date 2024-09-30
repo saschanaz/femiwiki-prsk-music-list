@@ -1,10 +1,10 @@
 import { KOR_DATE_FORMAT } from "./lib/utilities.js";
 import { WikiActionClient } from "./lib/wikiapi.js";
-import latest from "./latest.json" assert { type: "json" };
+import latest from "./latest.json" with { type: "json" };
 
 async function getConfig() {
   try {
-    return (await import("./config.json", { assert: { type: "json" } }))
+    return (await import("./config.json", { with: { type: "json" } }))
       .default;
   } catch {
     return {
