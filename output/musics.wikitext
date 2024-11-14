@@ -170,7 +170,7 @@
 |토아
 |토아
 |토아
-|[https://youtu.be/6iwD9hM9ND4 3DMV]
+|[https://youtu.be/6iwD9hM9ND4 3DMV] 2DMV
 |
 |
 |[https://twitter.com/pj_sekai/status/1242753762155876353 2020년 3월 25일 (사전공개)]
@@ -193,9 +193,9 @@
 ||Doctor=Funk Beat
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |
-|nyanyannya
-|nyanyannya
-|nyanyannya
+|nyanyannya（DAITENSAI P)
+|nyanyannya（DAITENSAI P)
+|nyanyannya（DAITENSAI P)
 |[https://youtu.be/t1XM0ECUqTE 2DMV]([https://twitter.com/uszksr 우사자키 시로], 이쿠미)
 |[https://twitter.com/uszksr 우사자키 시로]
 |
@@ -430,7 +430,7 @@
 |Neru
 |Neru
 |
-|원곡MV
+|원곡MV 2DMV
 |
 |
 |[https://twitter.com/pj_sekai/status/1312634519774654464 2020년 10월 4일 추가]
@@ -2042,7 +2042,7 @@
 |Jizasu-P
 |Jizasu-P
 |WONDERFUL★OPPORTUNITY!
-|[https://youtu.be/v7SYWS2jarw 3DMV]
+|[https://youtu.be/v7SYWS2jarw 3DMV] 2DMV
 |
 |[https://youtu.be/C_Fc1x_aeFQ 보컬로이드 버전]
 |[https://twitter.com/pj_sekai/status/1483789300340645890 2022년 1월 19일 추가]
@@ -2541,14 +2541,14 @@
 |
 |2022년 5월 20일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/나팔꽃 질 무렵에|나팔꽃 질 무렵에]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/나팔꽃 질 적에|나팔꽃 질 적에]]
 |lang=ja|アサガオの散る頃に
 ||When the Morning Glory Falls
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:레오니로고.png|24x24픽셀|alt=레오니]]
 |
-|푸스(from 츠유)
-|푸스(from 츠유)
-|푸스(from 츠유)
+|푸스(from츠유)
+|푸스(from츠유)
+|푸스(from츠유)
 |원곡MV
 |
 |
@@ -3061,14 +3061,14 @@
 |
 |2022년 10월 19일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/어떤 결말을 원하니?|어떤 결말을 원하니?]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/어떤 결말이면 좋겠니?|어떤 결말이면 좋겠니?]]
 |lang=ja|どんな結末がお望みだい？
 ||What Sort of Ending Are You Wishing For?
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]][[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
 |✔️
-|푸스(from 츠유)
-|푸스(from 츠유)
-|푸스(from 츠유)
+|푸스(from츠유)
+|푸스(from츠유)
+|푸스(from츠유)
 |2DMV
 |
 |
@@ -3381,7 +3381,7 @@
 |Heavenz
 |Heavenz
 |Heavenz
-|
+|2DMV
 |
 |
 |2023년 1월 3일 추가
@@ -4005,7 +4005,7 @@
 |Orangestar
 |Orangestar
 |Orangestar
-|3DMV
+|3DMV 2DMV
 |
 |
 |2023년 5월 1일 추가
@@ -4192,14 +4192,14 @@
 |
 |2023년 6월 12일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/スターダストメドレー|スターダストメドレー]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/스타더스트 메들리|스타더스트 메들리]]
 |lang=ja|スターダストメドレー
 ||Stardust Medley
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|きさら
-|きさら
-|きさら
+|키사라
+|키사라
+|키사라
 |
 |
 |
@@ -4233,7 +4233,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/It was a very nice June|It was a very nice June]]
 |lang=ja|とても素敵な六月でした
-||
+||It was a very nice June
 |[[파일:니고로고.png|24x24픽셀|alt=니고]]
 |
 |Eight
@@ -4259,13 +4259,13 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/두근어질|두근어질]]
 |lang=ja|きゅうくらりん
-||
+||Kyu-kurarin
 |[[파일:모모점로고.png|24x24픽셀|alt=모모점]]
 |
 |이요와
 |이요와
 |
-|원곡MV
+|원곡MV 2DMV
 |
 |
 |2023년 7월 3일 추가
@@ -4285,7 +4285,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/태양계 디스코|태양계 디스코]]
 |lang=ja|太陽系デスコ
-||
+||Solar System Disco
 |[[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
 |
 |나유탄 성인
@@ -4298,7 +4298,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/심박 페어링|심박 페어링]]
 |lang=ja|心拍ペアリング
-||
+||Shinpaku Pairing
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
 |유키노 이토
@@ -4311,7 +4311,7 @@
 |-
 |data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/연극|연극]]
 |lang=ja|演劇
-||
+||Engeki
 |[[파일:니고로고.png|24x24픽셀|alt=니고]]
 |✔️
 |Nanou
@@ -4324,7 +4324,7 @@
 |-
 |data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/별을 잇다|별을 잇다]]
 |lang=ja|星を繋ぐ
-||
+||Hoshi wo Tsunagu
 |[[파일:레오니로고.png|24x24픽셀|alt=레오니]]
 |✔️
 |Hifumi
@@ -4337,7 +4337,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/뇌내혁명 걸|뇌내혁명 걸]]
 |lang=ja|脳内革命ガール
-||
+||Brain Revolution Girl
 |[[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |
 |MARETU
@@ -4363,7 +4363,7 @@
 |-
 |data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/우리는 스테인 버스터즈!|우리는 스테인 버스터즈!]]
 |lang=ja|我らステインバスターズ！
-||
+||We are the Stain Busters!
 |[[파일:모모점로고.png|24x24픽셀|alt=모모점]]
 |✔️
 |마시마 유로
@@ -4376,7 +4376,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/신인류|신인류]]
 |lang=ja|新人類
-||
+||shinjinrui
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
 |마라시&진
@@ -4387,27 +4387,27 @@
 |
 |2023년 8월 3일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/379|379]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/즌다 파티 나이트|즌다 파티 나이트]]
 |lang=ja|ずんだパーリナイ
-||
+||Zunda Party Night
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|編曲者1
-|編曲者1
-|編曲者1
+|나미구루
+|나미구루
+|나미구루
 |
 |
 |
 |2023년 8월 4일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/399|399]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Disco No.39|Disco No.39]]
 |lang=ja style="visibility:hidden"|Disco No.39
 | style="visibility:hidden"|Disco No.39
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|編曲者1
-|編曲者1
-|編曲者1
+|Rulmry.
+|Rulmry.
+|Rulmry.
 |
 |
 |
@@ -4415,7 +4415,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/서머 타임 레코드|서머 타임 레코드]]
 |lang=ja|サマータイムレコード
-||
+||Summertime Record
 |[[파일:레오니로고.png|24x24픽셀|alt=레오니]]
 |
 |진
@@ -4426,40 +4426,40 @@
 |
 |2023년 8월 15일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/356|356]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/리얼라이즈|리얼라이즈]]
 |lang=ja|リアライズ
-||
+||Realize
 |[[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
 |✔️
-|作曲者1
-|作曲者1
-|編曲者1
+|Hiiragi Magnetite
+|Hiiragi Magnetite
+|Hiiragi Magnetite
 |3DMV
 |
 |
 |2023년 8월 19일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/386|386]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/키라피피★키라피카|키라피피★키라피카]]
 |lang=ja|キラピピ★キラピカ
-||
+||Kirapipi☆Kirapika
 |[[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
 |✔️
-|編曲者1
-|編曲者1
-|編曲者1
+|nyanyannya(대천재P)
+|nyanyannya(대천재P)
+|nyanyannya(대천재P)
 |2DMV
 |
 |
 |2023년 8월 21일 추가
 |-
-|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/394|394]]
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/보틀케이크|보틀케이크]]
 |lang=ja|ボトルケーキ
-||
+||Bottle Cake
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |✔️
-|編曲者1
-|編曲者1
-|編曲者1
+|라이브P
+|라이브P
+|라이브P
 |
 |
 |
@@ -4467,7 +4467,7 @@
 |-
 ||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/마음 탓|마음 탓]]
 |lang=ja|心做し
-||
+||kokoronashi
 |[[파일:니고로고.png|24x24픽셀|alt=니고]]
 |
 |쵸쵸P
@@ -4491,14 +4491,14 @@
 |
 |2023년 8월 31일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/414|414]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/HERO|HERO]]
 |lang=ja style="visibility:hidden"|HERO
 | style="visibility:hidden"|HERO
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
-|作曲者1
-|作曲者1
-|編曲者1
+|Ayase
+|Ayase
+|Ayase, Rockwell
 |원곡MV
 |
 |
@@ -4517,14 +4517,14 @@
 |
 |2023년 9월 4일 추가
 |-
-||白い雪のプリンセスは
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/하얀 눈의 프린세스는|하얀 눈의 프린세스는]]
 |lang=ja|白い雪のプリンセスは
-||
+||The Snow White Princess Is...
 |[[파일:모모점로고.png|24x24픽셀|alt=모모점]]
 |
-|のぼる↑
-|のぼる↑
-|のぼる↑
+|노보루↑
+|노보루↑
+|노보루↑
 |3DMV
 |
 |
@@ -4535,17 +4535,17 @@
 | style="visibility:hidden"|Un-Lock
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |✔️
-|無力P
-|無力P
-|無力P
+|무력P
+|무력P
+|무력P
 |
 |
 |
 |2023년 9월 19일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Lucky☆Orb|Lucky☆Orb]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/럭키☆오브|럭키☆오브]]
 |lang=ja|ラッキー☆オーブ
-||
+||Lucky☆Orb
 |[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
 |
 |emon(Tes.)
@@ -5227,7 +5227,7 @@
 |OSTER project
 |OSTER project
 |OSTER project
-|3DMV
+|3DMV 2DMV
 |
 |
 |2024년 2월 9일 추가
@@ -5279,7 +5279,7 @@
 |Yuuyu
 |Yuuyu
 |Yuuyu
-|3DMV
+|3DMV 2DMV
 |
 |
 |2024년 2월 18일 추가
@@ -5305,7 +5305,7 @@
 |r-906
 |r-906
 |r-906
-|3DMV
+|3DMV 2DMV
 |
 |
 |2024년 2월 27일 추가
@@ -5331,7 +5331,7 @@
 |*Luna
 |*Luna
 |*Luna
-|3DMV
+|3DMV 2DMV
 |
 |
 |2024년 3월 1일 추가
@@ -5461,7 +5461,7 @@
 |こめだわら×R Sound Design
 |こめだわら×R Sound Design
 |こめだわら×R Sound Design
-|3DMV
+|3DMV 2DMV
 |
 |
 |2024년 3월 28일 추가
@@ -5591,7 +5591,7 @@
 |스코프
 |스코프
 |스코프
-|3DMV
+|3DMV 2DMV
 |
 |
 |2024년 4월 28일 추가
@@ -5816,6 +5816,279 @@
 |
 |
 |2024년 6월 28일 추가
+|-
+||ポッピンキャンディ☆フィーバー！
+|lang=ja|ポッピンキャンディ☆フィーバー！
+||
+|[[파일:모모점로고.png|24x24픽셀|alt=모모점]]
+|
+|[https://www.nicovideo.jp/user/52186396/mylist/56280325 kinoshita]
+|[https://www.nicovideo.jp/user/52186396/mylist/56280325 kinoshita]
+|[https://www.nicovideo.jp/user/52186396/mylist/56280325 kinoshita]
+|원곡MV
+|
+|
+|2024년 7월 1일 추가
+|-
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/ULTRA C|ULTRA C]]
+|lang=ja style="visibility:hidden"|ULTRA C
+| style="visibility:hidden"|ULTRA C
+|[[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
+|✔️
+|Reol
+|Giga＆TeddyLoid
+|Giga＆TeddyLoid
+|3DMV
+|
+|
+|2024년 7월 7일 추가
+|-
+||ダイジョブですか？
+|lang=ja|ダイジョブですか？
+||
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
+|
+|cosMo@폭주P
+|cosMo@폭주P
+|cosMo@폭주P
+|
+|
+|
+|2024년 7월 9일 추가
+|-
+|data-kakioroshi|成敗いたAAAAAす！
+|lang=ja|成敗いたAAAAAす！
+||
+|[[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
+|✔️
+|Jizasu-P
+|Jizasu-P
+|WONDERFUL★OPPORTUNITY!
+|3DMV
+|
+|
+|2024년 7월 15일 추가
+|-
+||林檎売りの泡沫少女
+|lang=ja|林檎売りの泡沫少女
+||
+|[[파일:레오니로고.png|24x24픽셀|alt=레오니]]
+|
+|ゆっけ
+|ゆっけ
+|ゆっけ
+|원곡MV
+|
+|
+|2024년 7월 17일 추가
+|-
+||メリーゴーラウンド
+|lang=ja|メリーゴーラウンド
+||
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
+|
+|가가(네기샤워P)
+|가가(네기샤워P)
+|가가(네기샤워P)
+|
+|
+|
+|2024년 7월 22일 추가
+|-
+||マインドブランド
+|lang=ja|マインドブランド
+||
+|[[파일:니고로고.png|24x24픽셀|alt=니고]]
+|
+|MARETU
+|MARETU
+|MARETU
+|3DMV
+|
+|
+|2024년 7월 29일 추가
+|-
+||イガク
+|lang=ja|イガク
+||
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
+|
+|原口沙輔
+|原口沙輔
+|原口沙輔
+|
+|
+|
+|2024년 8월 3일 추가
+|-
+||あちこちデートさん
+|lang=ja|あちこちデートさん
+||
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
+|
+|駄菓子O型
+|駄菓子O型
+|駄菓子O型
+|
+|
+|
+|2024년 8월 4일 추가
+|-
+|data-kakioroshi|キラー
+|lang=ja|キラー
+||
+|[[파일:모모점로고.png|24x24픽셀|alt=모모점]]
+|✔️
+|Natsushiro Takaaki
+|Natsushiro Takaaki
+|Heavenz
+|3DMV
+|
+|
+|2024년 8월 7일 추가
+|-
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/WAVE|WAVE]]
+|lang=ja style="visibility:hidden"|WAVE
+| style="visibility:hidden"|WAVE
+|[[파일:비배스로고.png|24x24픽셀|alt=비비배스]]
+|
+|niki
+|niki
+|niki
+|
+|
+|
+|2024년 8월 13일 추가
+|-
+||彗星ノ銀河
+|lang=ja|彗星ノ銀河
+||
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
+|
+|マツシタレオ
+|マツシタレオ
+|マツシタレオ
+|
+|
+|
+|2024년 8월 19일 추가
+|-
+|data-kakioroshi|夏夜ノ唄
+|lang=ja|夏夜ノ唄
+||
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
+|✔️
+|平田義久
+|平田義久
+|平田義久
+|
+|
+|
+|2024년 8월 23일 추가
+|-
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/QUEEN|QUEEN]]
+|lang=ja style="visibility:hidden"|QUEEN
+| style="visibility:hidden"|QUEEN
+|[[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
+|
+|Kanaria
+|Kanaria
+|Kanaria
+|원곡MV
+|
+|
+|2024년 8월 26일 추가
+|-
+||アンテナ39
+|lang=ja|アンテナ39
+||
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
+|
+|柊マグネタイト
+|柊マグネタイト
+|柊マグネタイト
+|원곡MV
+|
+|
+|2024년 8월 30일 추가
+|-
+||ちがう!!!
+|lang=ja|ちがう!!!
+||
+|[[파일:원더쇼로고.png|24x24픽셀|alt=원더쇼]]
+|
+|카를로스 하카마다(사이제P)
+|카를로스 하카마다(사이제P)
+|카를로스 하카마다(사이제P)
+|3DMV
+|
+|
+|2024년 9월 2일 추가
+|-
+||スーパーヒーロー
+|lang=ja|スーパーヒーロー
+||
+|[[파일:모모점로고.png|24x24픽셀|alt=모모점]]
+|
+|Guiano
+|Guiano
+|Guiano
+|원곡MV
+|
+|
+|2024년 9월 9일 추가
+|-
+||カルチャ
+|lang=ja|カルチャ
+||
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
+|
+|tsumiki
+|tsumiki
+|tsumiki
+|원곡MV
+|
+|
+|2024년 9월 13일 추가
+|-
+||レイヤーノート
+|lang=ja|レイヤーノート
+||
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
+|
+|吉田ヨシユキ
+|吉田ヨシユキ
+|吉田ヨシユキ
+|
+|
+|
+|2024년 9월 17일 추가
+|-
+|data-kakioroshi|それでも僕らは歌うことをやめない
+|lang=ja|それでも僕らは歌うことをやめない
+||
+|[[파일:레오니로고.png|24x24픽셀|alt=레오니]]
+|✔️
+|葵木ゴウ
+|葵木ゴウ
+|葵木ゴウ
+|2DMV
+|
+|
+|2024년 9월 20일 추가
+|-
+|data-kakioroshi|[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Unpoison|Unpoison]]
+|lang=ja style="visibility:hidden"|Unpoison
+| style="visibility:hidden"|Unpoison
+|[[파일:버싱로고.png|24x24픽셀|alt=버싱]]
+|✔️
+|袖野あらわ
+|袖野あらわ
+|袖野あらわ
+|
+|
+|
+|2024년 9월 24일 추가
 |}
 
 === 영문 버전 전용 악곡 ===
@@ -5899,7 +6172,7 @@
 |
 |2023년 12월 8일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/tenthousandstars|tenthousandstars]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Ten Thousand Stars|Ten Thousand Stars]]
 |lang=ja style="visibility:hidden"|Ten Thousand Stars
 | style="visibility:hidden"|Ten Thousand Stars
 |
@@ -5925,7 +6198,7 @@
 |
 |2024년 2월 29일 추가
 |-
-||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/intergalacticbound|intergalacticbound]]
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Intergalactic Bound|Intergalactic Bound]]
 |lang=ja style="visibility:hidden"|Intergalactic Bound
 | style="visibility:hidden"|Intergalactic Bound
 |
@@ -5950,4 +6223,30 @@
 |
 |
 |2024년 3월 28일 추가
+|-
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Thousand Little Voices|Thousand Little Voices]]
+|lang=ja style="visibility:hidden"|Thousand Little Voices
+| style="visibility:hidden"|Thousand Little Voices
+|
+|
+|Vault Kid & Flanger Moose
+|Vault Kid & Flanger Moose
+|Vault Kid & Flanger Moose
+|
+|
+|
+|2024년 8월 1일 추가
+|-
+||[[프로젝트_세카이_컬러풀_스테이지!_feat._하츠네_미쿠/악곡/Plaything|Plaything]]
+|lang=ja style="visibility:hidden"|Plaything
+| style="visibility:hidden"|Plaything
+|
+|
+|Mizu
+|Mizu
+|Mizu
+|
+|
+|
+|2024년 9월 1일 추가
 |}</onlyinclude>
