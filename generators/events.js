@@ -1,7 +1,7 @@
-import events from "../sekai-master-db-diff/events.json" assert { type: "json" };
-import eventsKr from "../sekai-master-db-kr-diff/events.json" assert { type: "json" };
-import eventStoryUnits from "../sekai-master-db-diff/eventStoryUnits.json" assert { type: "json" };
-import eventTranslation from "../manual/events-translation.json" assert { type: "json" };
+import events from "../sekai-master-db-diff/events.json" with { type: "json" };
+import eventsKr from "../sekai-master-db-kr-diff/events.json" with { type: "json" };
+import eventStoryUnits from "../sekai-master-db-diff/eventStoryUnits.json" with { type: "json" };
+import eventTranslation from "../manual/events-translation.json" with { type: "json" };
 
 import {
   KOR_DATE_FORMAT,

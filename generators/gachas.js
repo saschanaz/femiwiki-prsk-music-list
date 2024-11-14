@@ -1,6 +1,6 @@
 import { KOR_DATE_FORMAT } from "../lib/utilities.js";
-import gachas from "../sekai-master-db-diff/gachas.json" assert { type: "json" };
-import gachasKo from "../sekai-master-db-kr-diff/gachas.json" assert { type: "json" };
+import gachas from "../sekai-master-db-diff/gachas.json" with { type: "json" };
+import gachasKo from "../sekai-master-db-kr-diff/gachas.json" with { type: "json" };
 
 /**
  * @param {gachas[number]} gacha

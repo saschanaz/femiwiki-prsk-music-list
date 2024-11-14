@@ -1,6 +1,6 @@
-import musics from "../sekai-master-db-diff/musics.json" assert { type: "json" };
-import musicDifficulties from "../sekai-master-db-diff/musicDifficulties.json" assert { type: "json" };
-import eventStoryUnits from "../sekai-master-db-diff/eventStoryUnits.json" assert { type: "json" };
+import musics from "../sekai-master-db-diff/musics.json" with { type: "json" };
+import musicDifficulties from "../sekai-master-db-diff/musicDifficulties.json" with { type: "json" };
+import eventStoryUnits from "../sekai-master-db-diff/eventStoryUnits.json" with { type: "json" };
 
 type ArrayInnerType<X> = X extends Array<infer I> ? I : never;
 

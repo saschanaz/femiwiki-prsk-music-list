@@ -1,5 +1,5 @@
-import bonds from "../sekai-master-db-diff/bonds.json" assert { type: "json" };
-import bondsHonerWords from "../sekai-master-db-diff/bondsHonorWords.json" assert { type: "json" };
+import bonds from "../sekai-master-db-diff/bonds.json" with { type: "json" };
+import bondsHonerWords from "../sekai-master-db-diff/bondsHonorWords.json" with { type: "json" };
 
 const CHARACTERS = {
   "호시노 이치카": {

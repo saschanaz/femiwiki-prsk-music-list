@@ -1,6 +1,6 @@
-import musics from "../sekai-master-db-diff/musics.json" assert { type: "json" };
-import musicsEn from "../sekai-master-db-en-diff/musics.json" assert { type: "json" };
-import manualMetadata from "../manual/musics.json" assert { type: "json" };
+import musics from "../sekai-master-db-diff/musics.json" with { type: "json" };
+import musicsEn from "../sekai-master-db-en-diff/musics.json" with { type: "json" };
+import manualMetadata from "../manual/musics.json" with { type: "json" };
 import { getWikiableMusicData } from "../lib/musics.js";
 
 import { KOR_DATE_FORMAT, mapUnitName } from "../lib/utilities.js";

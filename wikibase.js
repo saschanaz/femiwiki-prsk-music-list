@@ -1,4 +1,4 @@
-import musics from "./sekai-master-db-diff/musics.json" assert { type: "json" };
+import musics from "./sekai-master-db-diff/musics.json" with { type: "json" };
 
 import { WikiActionClient } from "./lib/wikiapi.js";
 import { getWikiableMusicData } from "./lib/musics.js";
